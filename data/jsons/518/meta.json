@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kashnitsky/mlcourse",
+        "https://www.kaggle.com/datasets/elemento/earthquakes-timeseries-analysis-nsfe-part-2",
+        "https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020",
+        "https://www.kaggle.com/datasets/hugomathien/soccer",
+        "https://www.kaggle.com/datasets/mhassansaboor/toyota-motors-stock-data-2980-2024",
+        "https://www.kaggle.com/datasets/jpmiller/police-violence-racial-equity",
+        "https://www.kaggle.com/datasets/mhassansaboor/intel-stock-data-1980-2024",
+        "https://www.kaggle.com/datasets/claytonmiller/buildingdatagenomeproject2",
+        "https://www.kaggle.com/datasets/ponybiam/onboard-api-intro",
+        "https://www.kaggle.com/datasets/mhassansaboor/honda-motors-stocks-data-1980-2024",
+        "https://www.kaggle.com/datasets/START-UMD/gtd",
+        "https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data",
+        "https://www.kaggle.com/datasets/protobioengineering/mit-bih-arrhythmia-database-modern-2023",
+        "https://www.kaggle.com/datasets/canaria/5-gamers",
+        "https://www.kaggle.com/datasets/oracledevrel/formulaaihackathon2022",
+        "https://www.kaggle.com/datasets/markcrowley/ece657aw20asg4coronavirus",
+        "https://www.kaggle.com/datasets/johnsmith44/dogecoin-price-data-elon-musks-tweets-2021",
+        "https://www.kaggle.com/datasets/marshal02/covid19-cases-in-india",
+        "https://www.kaggle.com/datasets/rupakroy/sonarcsv",
+        "https://www.kaggle.com/datasets/ishajangir/crime-data"
+    ],
+    "dataset_description": "Retail dataset of a global superstore for 4 years. Perform EDA and Predict the sales of the next 7 days from the last date of the Training dataset!",
+    "notebook_url": "https://www.kaggle.com/code/samruddhim/part-2-time-series-analysis",
+    "domain": "Education",
+    "help_data_file_names": []
+}

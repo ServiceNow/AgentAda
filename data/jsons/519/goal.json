@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze time series data to uncover patterns, trends, and frequency components over a decade.",
+    "persona": "A data scientist with expertise in time series analysis, possessing a strong background in statistical methods and wavelet-based techniques. Passionate about uncovering underlying trends and patterns in complex datasets, particularly interested in how different frequency components contribute to data variance. Aims to use insights for identifying potential external influences and forecasting future behaviors."
+}

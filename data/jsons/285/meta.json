@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/yasirtariq/tradenetwork",
+        "https://www.kaggle.com/datasets/manoelribeiro/hateful-users-on-twitter",
+        "https://www.kaggle.com/datasets/gabrielmanfredi/football-players-ratings"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/slyveinweeb/betweenness-centrality",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

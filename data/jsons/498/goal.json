@@ -1,0 +1,4 @@
+{
+    "goal": "Identify patterns, anomalies, and clusters in log data to enhance system monitoring and security strategies.",
+    "persona": "A senior data analyst specializing in IT operations with 7 years of experience, proficient in utilizing machine learning techniques like DBSCAN and Word2Vec for log analysis, focused on enhancing system performance, security incident detection, and operational efficiency for enterprise-level cloud services."
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many unique stocks are present in the dataset?",
+        "answer": "The dataset contains 112 unique stocks.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [10, 12],
+        "question": "What are the key interactive visualizations used in the time-series analysis?",
+        "answer": "Key interactive visualizations include stock price trends, moving averages, and zoomable time-series plots.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [14],
+        "question": "Which stock has the highest average target value in the dataset?",
+        "answer": "Stock ID 103 has the highest average target value in the dataset.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [17, 19],
+        "question": "What is the average target value across all stocks?",
+        "answer": "The average target value across all stocks is 0.0035.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [22, 25],
+        "question": "How does the moving average smooth stock price fluctuations?",
+        "answer": "The moving average smooths stock price fluctuations by reducing noise and highlighting long-term trends.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [28, 31, 34],
+        "question": "What is the correlation between stock target values and volume traded?",
+        "answer": "There is a moderate positive correlation between stock target values and volume traded, suggesting that higher trading volume is associated with higher target values.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [37],
+        "question": "Which factor has the highest influence on stock price fluctuations?",
+        "answer": "Market volatility and external macroeconomic events have the highest influence on stock price fluctuations.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [40, 42, 45],
+        "question": "What is the impact of extreme market events on stock price trends?",
+        "answer": "Extreme market events lead to sharp spikes or drops in stock prices, often deviating significantly from the moving average.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [48, 51, 54, 57],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "Stock prices exhibit seasonal trends, trading volume impacts price movements, and moving averages provide better signals for long-term price analysis.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

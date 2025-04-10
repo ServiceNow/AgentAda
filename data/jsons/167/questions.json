@@ -1,0 +1,94 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "How many movies are in the Netflix dataset?",
+        "answer": "The dataset contains over 17,000 movies.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            1
+        ],
+       "question": "How many customers are in the Netflix dataset?",
+        "answer": "The dataset contains over 500,000 customers.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+       "cell_ids": [
+           6,7
+        ],
+        "question": "What are the columns in each of the combined data files?",
+         "answer": "Each combined data file contains 'Cust_Id', 'Rating'. A 'Movie_Id' is added later, during data cleaning.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           8
+        ],
+        "question": "What is the general trend of ratings given by users?",
+        "answer": "Ratings tend to be relatively positive (>3).",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+         "cell_ids": [
+            10,
+            11,
+             12
+        ],
+         "question": "How are Movie IDs assigned in the combined dataset?",
+         "answer": "Movie IDs are extracted from the rows where rating values are null, and then assigned to the rows in the data.",
+         "task": "Data Imputation",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            13,14
+        ],
+        "question": "Why are movies with too few reviews removed from the dataset?",
+        "answer": "Movies with too few reviews are removed because they are considered relatively unpopular, improving the efficiency and significance of the recommendation system.",
+         "task": "Data Imputation",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+           13,14
+        ],
+        "question": "Why are customers who give too few reviews removed from the dataset?",
+         "answer": "Customers who give too few reviews are removed because they are considered less active, improving the efficiency and significance of the recommendation system.",
+        "task": "Data Imputation",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            16
+        ],
+       "question": "What is the shape of the pivoted user-item matrix?",
+       "answer": "The shape of the pivoted user-item matrix is printed to console after the pivot table is created.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            17
+        ],
+        "question": "What are the columns in the movie title mapping file?",
+        "answer": "The movie title mapping file contains 'Movie_Id', 'Year', and 'Name'.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           19
+        ],
+        "question": "What is the RMSE and MAE of the Collaborative Filtering model using SVD?",
+        "answer": "The RMSE and MAE values are outputted by the evaluate function after splitting the data into training and testing.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    }
+]

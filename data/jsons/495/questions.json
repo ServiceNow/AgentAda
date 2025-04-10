@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "How many log entries are present in the dataset?",
+        "answer": "The dataset contains 956,372 log entries.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [22, 35],
+        "question": "What is the proportion of failed requests in the dataset?",
+        "answer": "Failed requests account for 4.8% of the total log entries.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    },
+    {
+        "cell_ids": [48, 57, 66],
+        "question": "What is the most frequent HTTP method used in the log entries?",
+        "answer": "The most frequently used HTTP method is GET, appearing in 85% of the log entries.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [73, 89, 101, 112],
+        "question": "How many distinct log clusters were identified using LogCluster?",
+        "answer": "LogCluster identified 12 distinct log clusters, with the largest cluster containing 43% of all log entries.",
+        "task": "Logs Clustering",
+        "skill": "LogCluster"
+    },
+    {
+        "cell_ids": [118, 127],
+        "question": "What percentage of log entries were flagged as anomalies using DBSCAN?",
+        "answer": "DBSCAN flagged 3.5% of the log entries as anomalies.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    },
+    {
+        "cell_ids": [133, 148, 157, 171],
+        "question": "What are the top three log message patterns discovered using Word2Vec with K-means?",
+        "answer": "The top three log message patterns are: (1) Unusual API call sequences, (2) Repeated authentication failures, and (3) Large file download attempts.",
+        "task": "Logs Clustering",
+        "skill": "Word2Vec with K-means"
+    },
+    {
+        "cell_ids": [179, 188, 195],
+        "question": "What is the distribution of request sizes among different log clusters?",
+        "answer": "Clusters 1, 2, and 3 have average request sizes of 2.1KB, 4.5KB, and 6.2KB, respectively.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    },
+    {
+        "cell_ids": [136, 153, 166],
+        "question": "How do log clusters differ in terms of peak request times?",
+        "answer": "Clusters 1 and 2 peak during business hours, while Cluster 3 peaks late at night, indicating potential bot activity.",
+        "task": "Logs Clustering",
+        "skill": "LogCluster"
+    },
+    {
+        "cell_ids": [176, 191],
+        "question": "What key insights were gained from clustering web server logs?",
+        "answer": "Clustering revealed traffic spikes, unusual user patterns, and frequent error-prone request sequences, aiding in system diagnostics.",
+        "task": "Logs Clustering",
+        "skill": "Word2Vec with K-means"
+    },
+    {
+        "cell_ids": [183, 198],
+        "question": "Which user agents are most commonly found in different log clusters?",
+        "answer": "The most common user agents include Chrome (Cluster 1), Firefox (Cluster 2), and automated bots (Cluster 3).",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            2
+        ],
+        "question": "What are the two main types of collaborative filtering?",
+        "answer": "User-based and Item-based",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            4
+        ],
+        "question": "What are the column names in the ratings dataset used in the notebook?",
+        "answer": "userId, movieId, rating, timestamp",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5
+        ],
+         "question": "What are the column names in the ratings dataset after removing timestamp column?",
+        "answer": "userId, movieId, rating",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            4
+        ],
+       "question": "What is the mean movie rating in the dataset?",
+       "answer": "3.543608",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            5
+        ],
+        "question": "What are the data types of the columns after removing timestamp column?",
+       "answer": "float64(1), int64(2)",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+      {
+        "cell_ids": [
+            6
+        ],
+        "question": "Are there any missing values in the ratings dataset?",
+        "answer": "All columns have 0 missing values",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+   {
+        "cell_ids": [
+           10
+        ],
+        "question": "What is the RMSE and MAE obtained by the SVD algorithm?",
+         "answer": "RMSE: 0.8920 MAE:  0.6885",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+   },
+    {
+        "cell_ids": [
+            10
+        ],
+        "question": "What is the RMSE and MAE obtained by the KNNBasic algorithm?",
+        "answer": "RMSE: 0.9634 MAE:  0.7429",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+     {
+        "cell_ids": [
+            10
+        ],
+         "question": "What is the RMSE and MAE obtained by the NMF algorithm?",
+          "answer": "RMSE: 0.9397 MAE:  0.7248",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+      {
+        "cell_ids": [
+            13
+        ],
+         "question": "Which algorithm performed the best based on the combined score?",
+        "answer": "Best Algorithm: BaselineOnly",
+          "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    }
+]

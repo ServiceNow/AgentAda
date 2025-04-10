@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rtatman/lego-database"
+    ],
+    "dataset_description": "LEGO is a popular brand of toy building bricks. They are often sold in sets with in order to build a specific object. Each set contains a number of parts in different shapes, sizes and colors. This database contains information on which parts are included in different LEGO sets. It was originally compiled to help people who owned some LEGO sets already figure out what other sets they could build with the pieces they had.",
+    "notebook_url": "https://www.kaggle.com/code/joatom/a-handful-of-bricks-from-sql-to-pandas",
+    "domain": "Entertainment",
+    "help_data_file_names": [
+        "colors.csv",
+        "inventories.csv",
+        "inventory_parts.csv",
+        "inventory_sets.csv",
+        "part_categories.csv",
+        "parts.csv",
+        "themes.csv"
+    ]
+}

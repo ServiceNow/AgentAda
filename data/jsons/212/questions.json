@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            2
+        ],
+        "question": "How many features are in the original dataset?",
+        "answer": "226",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3
+        ],
+        "question": "How many rows are in the original dataset?",
+        "answer": "99999",
+         "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            8
+        ],
+        "question": "How many columns have more than 70% missing values?",
+       "answer": "There are 40 features having more than 70% missing value",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+     {
+      "cell_ids": [
+         12
+        ],
+        "question": "How many rows were dropped based on having tenure equals to zero",
+         "answer": "7745",
+        "task": "Data Imputation",
+         "skill": "MICE"
+    },
+    {
+        "cell_ids": [
+            15
+        ],
+        "question": "After dropping columns having more than 70% missing values, how many columns remain in the dataset?",
+        "answer": "187",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+  {
+    "cell_ids": [
+      19
+    ],
+    "question": "How many rows were there in total having missing values for the variables?",
+    "answer": "There are 381 rows in total having missing values for these variables.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+  },
+  {
+        "cell_ids": [
+            22
+        ],
+        "question": "After removing rows with all missing values in 89 features what is the shape of the dataframe?",
+          "answer": "(99618, 187)",
+          "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+    },
+  {
+    "cell_ids": [
+      34
+    ],
+    "question": "What are the names of the new features created using average recharge amount?",
+      "answer": "['avg_rech_amt_6', 'avg_rech_amt_7', 'avg_rech_amt_8', 'avg_rech_amt_9']",
+      "task": "Feature Importance Ranking",
+      "skill": "Random Forest Importance"
+  },
+    {
+        "cell_ids": [
+            40
+        ],
+        "question": "How many high-value customers are present in the dataset?",
+        "answer": "29937",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+  {
+    "cell_ids": [
+      42
+    ],
+    "question": "What is the churn rate for high-value customers after tagging churners?",
+    "answer": "8.09%",
+     "task": "Churn Analysis",
+     "skill": "Random Forest"
+  }
+]

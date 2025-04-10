@@ -1,0 +1,4 @@
+{
+    "goal": "Determine feature importance and its impact on model performance using a random forest model.",
+    "persona": "A data scientist specializing in machine learning with 7 years of experience, focusing on optimizing predictive models through feature engineering and selection, particularly skilled in using random forest algorithms to enhance model accuracy and efficiency."
+}

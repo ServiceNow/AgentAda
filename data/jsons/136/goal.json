@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and analyze fraudulent transactions within the dataset.",
+    "persona": "A data scientist specialized in fraud detection with expertise in anomaly detection models and techniques. They have a strong background in data preprocessing and advanced statistical methods, focusing on innovative solutions for identifying suspicious patterns in financial transactions. They are deeply interested in improving fraud detection accuracy and reducing false positives through machine learning and data-driven insights."
+}

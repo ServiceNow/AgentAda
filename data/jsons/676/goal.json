@@ -1,0 +1,4 @@
+{
+    "goal": "Explore and address missing values in a multi-dimensional dataset using advanced imputation techniques.",
+    "persona": "A data scientist with 7 years of experience in data preprocessing and statistical analysis, particularly focused on handling missing data issues. Enthusiastic about implementing complex imputation methods such as MICE to preserve data integrity and enhance downstream data analysis and modeling tasks. Committed to teaching best practices in data imputation through workshops and knowledge sharing within interdisciplinary teams."
+}

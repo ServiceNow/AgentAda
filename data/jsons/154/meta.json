@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews",
+        "https://www.kaggle.com/datasets/rogate16/amazon-reviews-2018-full-dataset"
+    ],
+    "dataset_description": "Online E-commerce websites like Amazon, Filpkart uses different recommendation models to provide different suggestions to different users. Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real time. This type of filtering matches each of the user's purchased and rated items to similar items, then combines those similar items into a recommendation list for the user. In this project we are going to build recommendation model for the electronics products of Amazon",
+    "notebook_url": "https://www.kaggle.com/code/saurav9786/recommender-system-using-amazon-reviews",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

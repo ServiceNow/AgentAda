@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/imbalanced-data-practice",
+        "https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data",
+        "https://www.kaggle.com/datasets/pritisahoo/medical-fraud-detection-data"
+    ],
+    "dataset_description": "Provider Fraud is one of the biggest problems facing Medicare. According to the government, the total Medicare spending increased exponentially due to frauds in Medicare claims. Healthcare fraud is an organized crime which involves peers of providers, physicians, beneficiaries acting together to make fraud claims.",
+    "notebook_url": "https://www.kaggle.com/code/rohitrox/medical-provider-fraud-detection",
+    "domain": "Insurance",
+    "help_data_file_names": ["train.csv"]
+}

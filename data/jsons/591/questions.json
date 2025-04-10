@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [27],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of FIFA player statistics, including attributes such as passing, dribbling, and overall ratings.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [36, 44],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was standardized, missing values were imputed, and categorical variables such as player positions were ranked for ordinal correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [51],
+        "question": "Which two player attributes show the strongest positive Spearman correlation?",
+        "answer": "Overall rating and dribbling ability show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [66, 74],
+        "question": "Which skill has the highest negative correlation with player age?",
+        "answer": "Sprint speed has the highest negative correlation with player age.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [86, 94, 101],
+        "question": "What is the Spearman correlation coefficient between passing accuracy and overall rating?",
+        "answer": "The Spearman correlation coefficient between passing accuracy and overall rating is 0.73.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [113, 121],
+        "question": "How does Spearman correlation between defensive awareness and tackling compare to other defensive attributes?",
+        "answer": "The correlation between defensive awareness and tackling is stronger than the correlation between heading accuracy and tackling.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [133],
+        "question": "Which physical attribute shows the weakest correlation with a player's overall rating?",
+        "answer": "Jumping ability shows the weakest correlation with a player's overall rating.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [145, 153, 161, 169],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between shooting accuracy and forward position players?",
+        "answer": "The Spearman correlation coefficient indicates a strong positive relationship, meaning forwards with higher shooting accuracy tend to have higher overall ratings.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [180],
+        "question": "Which attribute has the least correlation with a player's market value?",
+        "answer": "Aggression has the least correlation with a player's market value.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [191, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing FIFA player statistics?",
+        "answer": "Spearman correlation helped identify key performance indicators, such as dribbling and passing, as strong predictors of overall player ratings.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mujtabamatin/dataset-for-machine-failure-detection",
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset",
+        "https://www.kaggle.com/datasets/samehraouf/fault-detection-in-hexapod-robot-jointstwo-joint",
+        "https://www.kaggle.com/datasets/samehraouf/fault-detection-in-hexapod-robot-joints-dataset"
+    ],
+    "dataset_description": "Since real predictive maintenance datasets are generally difficult to obtain and in particular difficult to publish, we present and provide a synthetic dataset that reflects real predictive maintenance encountered in the industry to the best of our knowledge.",
+    "notebook_url": "https://www.kaggle.com/code/irajahangari/random-forest-for-predictive-maintenance",
+    "domain": "Manufacturing",
+    "help_data_file_names": []
+}

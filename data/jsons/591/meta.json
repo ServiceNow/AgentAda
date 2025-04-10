@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset",
+        "https://www.kaggle.com/datasets/mdkabinhasan/trending-fifa-players-dataset",
+        "https://www.kaggle.com/datasets/sagunsh/fifa-20-complete-player-dataset",
+        "https://www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-award-winner-1930-2022",
+        "https://www.kaggle.com/datasets/sanjeetsinghnaik/fifa-23-players-dataset",
+        "https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022",
+        "https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database",
+        "https://www.kaggle.com/datasets/mahmoudshogaa/fifa-data",
+        "https://www.kaggle.com/datasets/mohaiminul101/world-cup",
+        "https://www.kaggle.com/datasets/mukeshmanral/fifa-data-for-eda-and-stats",
+        "https://www.kaggle.com/datasets/devansodariya/football-fifa-2019-dataset",
+        "https://www.kaggle.com/datasets/aklimarimi/fifa-world-cup-stadium-audience",
+        "https://www.kaggle.com/datasets/pabitrakumarsahoo/world-cup",
+        "https://www.kaggle.com/datasets/sohommajumder21/fifa-2018-world-cup-players",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/world-championschip-cup-fifa",
+        "https://www.kaggle.com/datasets/rehandl23/fifa-24-player-stats-dataset",
+        "https://www.kaggle.com/datasets/shilongzhuang/soccer-world-cup-challenge",
+        "https://www.kaggle.com/datasets/sonialikhan/international-football-results-from-1872-to-2024",
+        "https://www.kaggle.com/datasets/akshatsharma0610/fifa-dataset-of-last-10-seasons-1986-2022",
+        "https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league"
+    ],
+    "dataset_description": "Dataset for people who love data science and have grown up playing FIFA.",
+    "notebook_url": "https://www.kaggle.com/code/ekrembayar/fifa-data-analysis-visualization",
+    "domain": "Sports",
+    "help_data_file_names": []
+}

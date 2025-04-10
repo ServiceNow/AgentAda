@@ -1,0 +1,4 @@
+{
+    "goal": "Detect anomalies in the dataset to identify potential fraudulent transactions.",
+    "persona": "A data scientist with 7 years of experience specializing in financial fraud detection. They have a strong background in machine learning and statistical analysis, focusing on developing and optimizing anomaly detection models like One-Class SVM and Isolation Forest. They are passionate about improving transaction security and minimizing fraudulent activities through data-driven insights."
+}

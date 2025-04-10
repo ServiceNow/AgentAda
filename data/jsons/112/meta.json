@@ -1,0 +1,18 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/giobbu/belgium-obu",
+        "https://www.kaggle.com/datasets/henriupton/electricity-dayahead-prices-entsoe",
+        "https://www.kaggle.com/datasets/boyangs444/process-data-for-predictive-maintenance",
+        "https://www.kaggle.com/datasets/azharsaleem/advanced-saudi-arabian-aramco-stocks-dataset",
+        "https://www.kaggle.com/datasets/bulentsiyah/for-simple-exercises-time-series-forecasting",
+        "https://www.kaggle.com/datasets/shellshock1911/us-commercial-aviation-industry-metrics",
+        "https://www.kaggle.com/datasets/emirhanai/epxusd-binance-historical-data-for-ann",
+        "https://www.kaggle.com/datasets/ahmetzamanis/energy-consumption-and-pricing-trkiye-2018-2023",
+        "https://www.kaggle.com/datasets/electricalengineers/mrf-tyre-dataset-for-5-years"
+    ],
+    "dataset_description": "In this competition, you will predict sales for the thousands of product families sold at Favorita stores located in Ecuador. The training data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models.",
+    "notebook_url": "https://www.kaggle.com/code/shiromeow/time-series-forecasting-with-deep-learning-lstm",
+    "domain": "Finance",
+    "help_data_file_names": ["train.csv"]
+}

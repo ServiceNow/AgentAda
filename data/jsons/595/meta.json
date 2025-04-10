@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020"
+    ],
+    "dataset_description": "This dataset as a part of the paper published in the 2020 IEEE International Conference on Big Data under the 6th Special Session on Intelligent Data Mining track, is created to determine possible speculators and influencers in a stock market. Although we used both tweet data and companies' market data in our project, we thought that it is a better choice to split our datasets into two parts while sharing in Kaggle. This dataset is helpful for those interested in tweets that are written about Amazon, Apple, Google, Microsoft, and Tesla by using their appropriate share tickers.",
+    "notebook_url": "https://www.kaggle.com/code/darrenljw/how-does-twitter-affect-the-stock-market",
+    "domain": "Social Media",
+    "help_data_file_names": []
+}

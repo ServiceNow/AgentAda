@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mittalvasu95/the-bread-basket"
+    ],
+    "dataset_description": "The dataset belongs to \"The Bread Basket\" a bakery located in Edinburgh. The dataset has 20507 entries, over 9000 transactions, and 4 columns.",
+    "notebook_url": "https://www.kaggle.com/code/datascin/bakery-data-analysis-using-apriori-algorithm",
+    "domain": "",
+    "help_data_file_names": []
+}

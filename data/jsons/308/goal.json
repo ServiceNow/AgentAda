@@ -1,0 +1,4 @@
+{
+    "goal": "Identify frequent itemsets and association rules from transactional data.",
+    "persona": "A data analyst specializing in market basket analysis with a focus on understanding purchasing behaviors to optimize product placement and bundling strategies. They have 3 years of experience using advanced data mining techniques such as the FP-Growth algorithm to uncover insights from retail datasets and have a keen interest in enhancing customer shopping experience through data-driven decisions."
+}

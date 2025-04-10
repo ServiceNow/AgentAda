@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and select the most informative features using Eigenvalue Decomposition.",
+    "persona": "A data scientist specializing in healthcare data analysis with a strong proficiency in dimensionality reduction techniques, particularly interested in optimizing computational efficiency by identifying key features that retain significant variance from large datasets."
+}

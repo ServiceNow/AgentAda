@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shivan118/hranalysis",
+        "https://www.kaggle.com/datasets/aswathrao/hr-analysis",
+        "https://www.kaggle.com/datasets/monisamir/hr-analytics",
+        "https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data",
+        "https://www.kaggle.com/datasets/singhnproud77/hr-attrition-dataset",
+        "https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset",
+        "https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction",
+        "https://www.kaggle.com/datasets/yasserh/ibm-attrition-dataset",
+        "https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics",
+        "https://www.kaggle.com/datasets/itssuru/hr-employee-attrition",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/hr-analytics-case-study",
+        "https://www.kaggle.com/datasets/mustafakeser4/earthquakes-2023-global",
+        "https://www.kaggle.com/datasets/anupammajhi/hr-analytics-predictive-analysis",
+        "https://www.kaggle.com/datasets/raminhuseyn/hr-analytics-data-set",
+        "https://www.kaggle.com/datasets/xiyuanwu/hr-capstone-dataset",
+        "https://www.kaggle.com/datasets/abdallahwagih/company-employees",
+        "https://www.kaggle.com/datasets/davidafolayan/hr-analytics",
+        "https://www.kaggle.com/datasets/manidevesh/hr-dataset-analysis",
+        "https://www.kaggle.com/datasets/rukenmissonnier/real-market-data",
+        "https://www.kaggle.com/datasets/mylesoneill/drosophila-melanogaster-genome"
+    ],
+    "dataset_description": "This is the HR datasets. In our dataset 50000 rows and 14 columns. Every year, around 5% of its employees have promoted in the company. so, we have the check employee is promoted or not?",
+    "notebook_url": "https://www.kaggle.com/code/shivan118/hr-analysis",
+    "domain": "Human Resources",
+    "help_data_file_names": ["train.csv"]
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "What is the total number of records and features in the dataset used for multi-touch attribution modeling?",
+        "answer": "The dataset contains 142,500 records and 24 features.",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    },
+    {
+        "cell_ids": [12, 19],
+        "question": "Which marketing channel has the highest impact on conversions in the dataset?",
+        "answer": "Search Ads have the highest contribution with an attribution score of 0.58.",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    },
+    {
+        "cell_ids": [26],
+        "question": "What is the average conversion rate attributed to direct traffic?",
+        "answer": "The average conversion rate attributed to direct traffic is 13.2%.",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    },
+    {
+        "cell_ids": [31, 38],
+        "question": "Which marketing channel has the least influence on customer conversions?",
+        "answer": "Affiliate marketing has the lowest impact, contributing only 5.1% to total conversions.",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    },
+    {
+        "cell_ids": [44, 50, 57],
+        "question": "How do first-touch, last-touch, and linear attribution models distribute credit among channels?",
+        "answer": "First-touch attribution assigns 61% of credit to Organic Search, last-touch attribution favors Paid Search (49%), and the linear model distributes credit equally.",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    },
+    {
+        "cell_ids": [65, 72, 80, 89],
+        "question": "Which customer segment shows the highest conversion likelihood according to multi-touch attribution?",
+        "answer": "High-spending customers have the highest conversion probability, with Retargeting Ads and Personalized Emails influencing 78% of their total conversions.",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    },
+    {
+        "cell_ids": [97],
+        "question": "How does conversion path length influence attribution results?",
+        "answer": "Longer conversion paths distribute attribution credit across multiple touchpoints, while shorter paths tend to favor last-touch attribution.",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    },
+    {
+        "cell_ids": [105, 113, 120],
+        "question": "Which marketing channel has the longest average time-to-conversion?",
+        "answer": "Email Marketing has the longest average time-to-conversion, taking around 22 days from the first touchpoint.",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    },
+    {
+        "cell_ids": [128, 135, 142, 149],
+        "question": "What insights does multi-touch attribution provide for identifying high-value customers?",
+        "answer": "High-value customers typically engage with 4+ touchpoints before conversion, with 'Loyalty Programs' and 'Referral Discounts' significantly increasing conversion likelihood.",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    },
+    {
+        "cell_ids": [156, 163, 171, 178],
+        "question": "How does the impact of marketing channels differ across geographical regions?",
+        "answer": "European customers convert more through 'Organic Search' (48%), while North American users favor 'Paid Search' (55%).",
+        "task": "Attribution Modeling",
+        "skill": "Multi-Touch Attribution"
+    }
+]

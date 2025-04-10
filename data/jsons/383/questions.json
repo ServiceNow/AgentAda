@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "How many records and features are included in the customer segmentation dataset?",
+        "answer": "The dataset contains 190,000 records and 22 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [10, 15],
+        "question": "What is the overall customer retention rate over a 12-month period?",
+        "answer": "The overall customer retention rate over 12 months is 48%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [19],
+        "question": "Which month shows the highest customer retention rate in the dataset?",
+        "answer": "Month 1 has the highest retention rate at 80%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [24, 28],
+        "question": "How does customer retention vary across different purchasing behaviors?",
+        "answer": "Customers who make a purchase within the first 30 days retain at 60%, while those who delay purchases retain at 35%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [33, 38, 42],
+        "question": "What is the retention rate for customers classified as 'high-value' versus 'low-value'?",
+        "answer": "High-value customers retain at 65%, whereas low-value customers retain at 28%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [46, 51, 55, 60],
+        "question": "What is the effect of email marketing campaigns on cohort retention?",
+        "answer": "Customers receiving personalized emails have a 15% higher retention rate compared to those who do not.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [64],
+        "question": "Which customer segment has the highest long-term retention?",
+        "answer": "Subscription-based customers maintain the highest retention rate, with 72% retention after six months.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [69, 73, 78],
+        "question": "How does discount-based purchasing affect customer retention?",
+        "answer": "Customers who rely on discounts retain at 30%, whereas full-price buyers retain at 50%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [83, 88, 93, 98],
+        "question": "What insights can be derived from the cohort retention analysis?",
+        "answer": "Retention rates drop significantly after month 2, with a 26% decline between months 2 and 3, suggesting the importance of early engagement.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [104, 109, 114, 120],
+        "question": "How does the customer retention rate compare year over year?",
+        "answer": "The retention rate improved by 9% in the last year due to enhanced loyalty programs and better user engagement strategies.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze and predict trends and relationships in meteorological and pollution data over time.",
+    "persona": "A data scientist with expertise in environmental and time series data analysis, focusing on understanding the interactions between meteorological conditions and pollution levels to inform weather predictions and environmental policy decisions. Interested in leveraging machine learning models like LSTM for forecasting and improving data completeness through advanced imputation techniques."
+}

@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rupakroy/lstm-datasets-multivariate-univariate",
+        "https://www.kaggle.com/datasets/htagholdings/property-sales",
+        "https://www.kaggle.com/datasets/chayanonc/multiple-stock-prices-by-industry-updated-daily",
+        "https://www.kaggle.com/datasets/akemail/blue-bike-boston-ma-bike-sharing-dataset"
+    ],
+    "dataset_description": "The story behind the dataset is how to apply LSTM architecture to understand and apply multiple variables together to contribute more accuracy towards forecasting.",
+    "notebook_url": "https://www.kaggle.com/code/anitarostami/lstm-multivariate-forecasting",
+    "domain": "Environment",
+    "help_data_file_names": ["LSTM-Multivariate_pollution.csv"]
+}

@@ -1,0 +1,99 @@
+[
+    {
+        "cell_ids": [
+            3,
+            6
+        ],
+        "question": "How many books are in the dataset?",
+        "answer": "There are 271,360 books in the dataset as shown by `print(books.shape)`.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+           6
+        ],
+        "question": "How many users are in the dataset?",
+        "answer": "There are 278,858 users in the dataset as shown by `print(users.shape)`.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+             6
+        ],
+        "question": "How many ratings are in the dataset?",
+        "answer": "There are 1,149,780 ratings in the dataset as shown by `print(ratings.shape)`.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            7,
+            8,
+             9
+        ],
+        "question": "Which column in the books dataframe has the most missing values?",
+        "answer": "The Image-URL-L column in the books dataframe has the most missing values (3), as shown by `books.isnull().sum()`.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+       "cell_ids": [
+         7,
+         8,
+          9
+        ],
+       "question": "Which column in the users dataframe has the most missing values?",
+        "answer": "The Age column in the users dataframe has the most missing values (110762), as shown by `users.isnull().sum()`.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+             10
+        ],
+        "question": "Are there any duplicate books, users or ratings entries?",
+        "answer": "There are no duplicate entries in the books, users or ratings dataframes as shown by `print(books.duplicated().sum())`, `print(users.duplicated().sum())` and `print(ratings.duplicated().sum())` which all returns 0.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+         "cell_ids": [
+            16,17,18,19,20
+        ],
+        "question": "What is the minimum number of ratings a user must have to be included in the collaborative filtering model?",
+         "answer": "Users with more than 200 ratings are considered as the knowledgeable user ids.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+           18,19,20
+        ],
+       "question": "What is the minimum number of ratings a book must have to be considered a popular book in collaborative filtering model?",
+       "answer": "Books with more than 50 ratings are considered as popular books.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+     {
+        "cell_ids": [
+            23, 24, 25, 26, 27, 28
+        ],
+       "question": "How many books are recommended by collaborative filtering for a particular book input?",
+        "answer": "The `recommend` function returns the top 5 similar books for each given book.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            29,30, 31, 32
+        ],
+        "question": "What is the Root Mean Squared Error (RMSE) of the collaborative filtering model using SVD after train test split?",
+        "answer": "The RMSE of the SVD model is approximately 3.5198.",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    }
+]

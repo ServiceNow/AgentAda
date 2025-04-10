@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rukenmissonnier/real-market-data",
+        "https://www.kaggle.com/datasets/sujithmandala/grocery-store-transaction-data",
+        "https://www.kaggle.com/datasets/newshuntkannada/dataset-for-apriori-and-fp-growth-algorithm",
+        "https://www.kaggle.com/datasets/ginikachiomenukor/market-basket-dataset"
+    ],
+    "dataset_description": "A real online retail transaction data set of two years.",
+    "notebook_url": "https://www.kaggle.com/code/dinirimameev/fp-growth-association-rules",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

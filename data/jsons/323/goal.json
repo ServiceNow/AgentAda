@@ -1,0 +1,4 @@
+{
+    "goal": "Identify frequent itemsets and association rules in transaction data.",
+    "persona": "An experienced data analyst specializing in retail analytics, with a strong background in association rule mining and data-driven decision-making. They aim to uncover patterns and insights from transaction datasets to optimize inventory and marketing strategies. Their interests include enhancing customer experience through intelligent product recommendations and maximizing cross-selling opportunities."
+}

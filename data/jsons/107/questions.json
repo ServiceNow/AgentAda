@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the observed trend in the multivariate time series dataset over the recorded period?",
+        "answer": "The dataset shows an increasing trend in the primary variable, influenced by other correlated variables.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 5],
+        "question": "What is the average monthly value of the primary variable in the dataset?",
+        "answer": "The average monthly value of the primary variable is approximately 1,500 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 7],
+        "question": "What correlations exist between the primary variable and the secondary variables?",
+        "answer": "There is a strong positive correlation between the primary variable and the first secondary variable during peak months.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8],
+        "question": "What is the highest recorded value of the primary variable, and when did it occur?",
+        "answer": "The highest recorded value is 3,000 units, observed in June 2022.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "What are the forecasted values for the primary variable over the next quarter using the LSTM model?",
+        "answer": "The forecasted values for the primary variable range from 1,700 to 2,200 units, reflecting seasonal trends.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [11],
+        "question": "What does the dataset indicate about the variability of the primary variable across seasons?",
+        "answer": "The primary variable shows higher variability during the summer months and more stability during winter.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How does the LSTM model's forecast compare to historical patterns in the dataset?",
+        "answer": "The LSTM model's forecast aligns closely with historical patterns, capturing seasonal peaks and dips accurately.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [14],
+        "question": "Were there any missing values in the dataset, and how were they addressed?",
+        "answer": "The dataset contained missing values for one month, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [15, 16],
+        "question": "What insights can be derived about the interactions between variables in the dataset?",
+        "answer": "The secondary variables strongly influence the primary variable, particularly during seasonal peaks.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17],
+        "question": "What external factors might impact the forecasted trends in the primary variable?",
+        "answer": "External factors such as economic conditions, environmental changes, and policy shifts could influence the forecast.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    }
+]

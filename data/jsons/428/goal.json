@@ -1,0 +1,4 @@
+{
+    "goal": "Identify anomalies in the dataset to distinguish between normal and fraudulent transactions.",
+    "persona": "A data analyst specializing in fraud detection within the financial services industry. With over 7 years of experience, they possess a deep understanding of anomaly detection techniques, particularly leveraging tools like Isolation Forests to uncover fraudulent patterns. Their interest lies in enhancing transaction security and reducing fraudulent activities across industry sectors by analyzing large-scale datasets."
+}

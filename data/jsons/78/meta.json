@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/somyaagarwal69/gold-forecasting"],
+    "dataset_description": "This model will help us in knowing that how Crude oil price, interest rate (repo rate), Indian currency price in dollars, Sensex (BSE), Inflation rate and US Dollar index will follow a relationship with the gold price directly or indirectly. ",
+    "notebook_url": "https://www.kaggle.com/code/somyaagarwal69/gold-forecasting-with-regression-arima/notebook",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

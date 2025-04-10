@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "How many respondents participated in the Kaggle 2020 survey?",
+        "answer": "The dataset contains responses from 20,036 participants.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [13, 16],
+        "question": "What are the key interactive visualizations used in the survey analysis?",
+        "answer": "Key interactive visualizations include bar charts for age distribution, gender-based comparative plots, and heatmaps for correlation analysis.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which age group had the highest representation in the Kaggle 2020 survey?",
+        "answer": "The age group 22-24 had the highest representation among respondents.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [21, 24],
+        "question": "What is the percentage of female respondents in the dataset?",
+        "answer": "The percentage of female respondents in the dataset is 16.9%.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [27, 30],
+        "question": "How does the distribution of Kaggle users vary by country?",
+        "answer": "The United States had the highest number of participants, followed by India and Brazil.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [33, 36, 38],
+        "question": "What are the most commonly used programming languages among Kaggle users?",
+        "answer": "Python is the most commonly used language, followed by SQL and R.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [41],
+        "question": "Which factor had the highest correlation with job satisfaction?",
+        "answer": "Salary level and years of experience had the highest correlation with job satisfaction.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [44, 47, 50],
+        "question": "What is the impact of formal education on annual salary?",
+        "answer": "Respondents with a PhD have the highest average annual salary, while those with no formal education have the lowest.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [53, 56, 59, 62],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "Age distribution shows a young user base, Python dominates as the most popular language, and salary disparities exist based on education and experience.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

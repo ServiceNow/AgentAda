@@ -1,0 +1,51 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "What dataset is analyzed in this notebook?",
+        "answer": "The dataset contains information on customer transactions, including product categories, purchase amounts, and transaction dates.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [23, 36],
+        "question": "How many missing values are present in the dataset?",
+        "answer": "The dataset contains approximately 500 missing values across different columns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [42, 57, 69],
+        "question": "What is the most frequently purchased product category?",
+        "answer": "The 'Grocery' category is the most frequently purchased product category.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [81, 95, 108],
+        "question": "What is the average purchase amount per transaction?",
+        "answer": "The average purchase amount per transaction is approximately $38.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [122, 137, 149],
+        "question": "Which month had the highest total sales in the dataset?",
+        "answer": "December had the highest total sales, followed by November.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [162, 178, 191],
+        "question": "How is the distribution of purchases across different price ranges?",
+        "answer": "Most purchases fall within the $10 to $50 price range, with fewer transactions exceeding $100.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [197, 200],
+        "question": "Which customer ID has the highest total spending?",
+        "answer": "Customer ID 10578 has the highest total spending in the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

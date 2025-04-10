@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/d4v1d3/cord-19-lda-topic-modeling-reccomendation-system",
+    "domain": "Health",
+    "help_data_file_names": []
+}

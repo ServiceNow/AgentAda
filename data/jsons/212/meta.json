@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/skylord/telecom-case-study",
+        "https://www.kaggle.com/datasets/erak1006/telecom-churn-case-study-aditya",
+        "https://www.kaggle.com/datasets/venkatasubramanian/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/suraj520/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/hritikesinghrawat/telecom-churn-data",
+        "https://www.kaggle.com/datasets/siddharthaborgohain/telecom-churn-case-study-using-ml",
+        "https://www.kaggle.com/datasets/riddhitokdar/telecomchurncasestudy",
+        "https://www.kaggle.com/datasets/hobi98/telecom-case-study-dataset",
+        "https://www.kaggle.com/datasets/shuklavaibhav1994/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/sourabhpattanshetty/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/akhigangwar/test-dataset-telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/pratikbinani/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/dev1313/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/rajeshsomu/telecom-churn-case-study-hackathon-c56",
+        "https://www.kaggle.com/datasets/bhagvanverma/telecom-churn-case-study-bhagvan28-c46",
+        "https://www.kaggle.com/datasets/sadasivuninikhita/telecom-churn-case-study-hackathon-c-67",
+        "https://www.kaggle.com/datasets/pavan157/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/bhagvanverma/telecom-churn-case-study-bhagvan-c46",
+        "https://www.kaggle.com/datasets/bhargavasrivathsang/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/komalmahawar/telecom-churn-case-study"
+    ],
+    "dataset_description": "The Orange Telecom's Churn Dataset, which consists of cleaned customer activity data (features), along with a churn label specifying whether a customer canceled the subscription, will be used to develop predictive models. Two datasets are made available here: The churn-80 and churn-20 datasets can be downloaded. ",
+    "notebook_url": "https://www.kaggle.com/code/lakshmig/telecom-case-study",
+    "domain": "Telecommunication",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "What dataset was used for the stock market time series analysis?",
+        "answer": "The dataset consists of historical stock prices from the S&P 500 index.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [23, 30],
+        "question": "What is the time range of the stock data used in this analysis?",
+        "answer": "The stock data spans from January 2015 to December 2022.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [41],
+        "question": "Which stock demonstrated the highest volatility in the dataset?",
+        "answer": "Tesla (TSLA) showed the highest volatility with frequent large fluctuations.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [50, 59],
+        "question": "What seasonal trends were observed in the stock market data?",
+        "answer": "The stock market exhibited an increase in returns during Q4 and higher volatility in Q1.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [71, 79, 88],
+        "question": "What was the average daily return for the selected stocks?",
+        "answer": "The average daily return for the selected stocks was 0.35%.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [100, 109],
+        "question": "How did external factors influence the stock market trends?",
+        "answer": "Interest rate hikes and inflation reports significantly impacted market trends, causing sudden price shifts.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [121, 129, 137],
+        "question": "What major market event had the strongest impact on stock prices?",
+        "answer": "The COVID-19 crash in March 2020 caused a sharp decline, followed by a rapid recovery.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [146, 155],
+        "question": "What method was used to forecast future stock prices?",
+        "answer": "The LSTM model was applied to predict future stock prices with a rolling time window.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [165, 173, 181],
+        "question": "What were the key takeaways from the stock market time series analysis?",
+        "answer": "The analysis highlighted long-term upward trends, periodic corrections, and external economic influences on stock movements.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [190, 198],
+        "question": "How accurate was the time series forecast for stock price prediction?",
+        "answer": "The LSTM model achieved an RMSE of 2.1%, indicating a relatively high prediction accuracy.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

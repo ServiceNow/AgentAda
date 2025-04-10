@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 25,000 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 15],
+        "question": "What is the mean value of the first feature in the dataset?",
+        "answer": "The mean value of the first feature is 5.78.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28],
+        "question": "What preprocessing steps were applied before performing Eigenvalue Decomposition?",
+        "answer": "The dataset was standardized, missing values were imputed, and categorical variables were one-hot encoded.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [36, 39],
+        "question": "How many eigenvalues were retained for dimensionality reduction?",
+        "answer": "The first 10 eigenvalues were retained for dimensionality reduction.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [50, 54, 57],
+        "question": "What percentage of variance is explained by the first three principal components?",
+        "answer": "The first three principal components explain 72% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [69, 73],
+        "question": "How does feature scaling impact the results of Eigenvalue Decomposition?",
+        "answer": "Feature scaling ensures that all variables contribute equally to the decomposition, preventing dominance by large-valued features.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [81],
+        "question": "What dataset was used to perform Eigenvalue Decomposition in this analysis?",
+        "answer": "The dataset used was a collection of financial market indicators.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [97, 101, 104, 109],
+        "question": "What method was used to determine the optimal number of principal components?",
+        "answer": "The scree plot and cumulative explained variance analysis were used to select the optimal number of components.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [118],
+        "question": "How does Eigenvalue Decomposition help in reducing data dimensionality?",
+        "answer": "It transforms the dataset into a set of uncorrelated principal components, capturing the most significant variance while discarding redundant information.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [132, 136, 141, 145],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition for feature extraction?",
+        "answer": "Eigenvalue Decomposition effectively reduced dimensionality while preserving key patterns, making it useful for feature extraction and noise reduction.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

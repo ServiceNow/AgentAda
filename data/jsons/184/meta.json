@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/hyeonwooan/imdb-data-preprocessed-using-ml20m"
+    ],
+    "dataset_description": "This dataset (ml-latest-small) describes 5-star rating and free-text tagging activity from MovieLens, a movie recommendation service. It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.",
+    "notebook_url": "https://www.kaggle.com/code/sunilgautam/matrix-factorization-for-movie-recommendation",
+    "domain": "Entertainment",
+    "help_data_file_names": ["ratings.csv"]
+}

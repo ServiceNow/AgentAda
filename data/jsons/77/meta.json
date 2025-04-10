@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/podsyp/time-series-starter-dataset"],
+    "dataset_description": "A problem when getting started in time series forecasting with machine learning is finding good quality standard datasets on which to practice.",
+    "notebook_url": "https://www.kaggle.com/code/marianadeem755/time-series-forecasting-with-arima-prophet/notebook",
+    "domain": "Science",
+    "help_data_file_names": []
+}

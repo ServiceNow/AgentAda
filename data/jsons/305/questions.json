@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3, 4],
+        "question": "How many transactions are present in the dataset, and how many unique items are there?",
+        "answer": "The dataset contains 9835 transactions and 169 unique items.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "What is the average number of items purchased per transaction?",
+        "answer": "The average number of items per transaction is approximately 4.4.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "Which items are most frequently purchased together?",
+        "answer": "The most frequently purchased itemsets include 'whole milk' with 'other vegetables' and 'rolls/buns' with 'yogurt'.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [8, 9],
+        "question": "Which item has the highest support in the dataset?",
+        "answer": "'Whole milk' has the highest support value of 0.2555, meaning it appears in 25.55% of transactions.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "What are the top three association rules found in the dataset?",
+        "answer": "1. 'other vegetables' → 'whole milk' (support: 0.073, confidence: 0.29, lift: 1.56)\n2. 'rolls/buns' → 'whole milk' (support: 0.056, confidence: 0.22, lift: 1.19)\n3. 'yogurt' → 'whole milk' (support: 0.056, confidence: 0.40, lift: 2.07)",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [8, 9],
+        "question": "Which item has the highest confidence value when associated with another item?",
+        "answer": "'Butter' → 'whole milk' has the highest confidence value of 0.52, meaning when butter is purchased, whole milk is bought 52% of the time.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [10],
+        "question": "Which item pair has the strongest lift value?",
+        "answer": "'Butter' and 'whole milk' have the strongest lift value of 3.03, indicating a strong association between the two items.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [6, 7],
+        "question": "What is the total number of unique itemsets found in the dataset after applying the Apriori algorithm?",
+        "answer": "The Apriori algorithm found 119 itemsets that met the minimum support threshold.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "What are the top three items most frequently purchased in transactions?",
+        "answer": "The top three most frequently purchased items are:\n1. Whole milk (25.55%)\n2. Other vegetables (19.78%)\n3. Rolls/buns (17.19%)",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 9, 10],
+        "question": "Which item is commonly purchased with yogurt?",
+        "answer": "Rolls/buns and whole milk are the most frequently purchased items alongside yogurt.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    }
+]

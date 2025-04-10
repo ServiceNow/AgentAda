@@ -1,0 +1,7 @@
+{
+    "dataset_urls": [],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/eliasdabbas/webserver-log-file-analysis",
+    "domain": "Web sever logs contain information on any event that was registered/logged. This contains a lot of insights on website visitors, behavior, crawlers accessing the site, business insights, security issues, and more. ",
+    "help_data_file_names": ["access.log"]
+}

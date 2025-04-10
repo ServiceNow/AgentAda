@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/archittyagi108/real-indian-users-on-github"
+    ],
+    "dataset_description": "The \"Indian Cities Distance Dataset\" is a comprehensive collection of distance data between major cities in India, designed to facilitate pathfinding and optimization tasks. ",
+    "notebook_url": "https://www.kaggle.com/code/sasakitetsuya/indian-cities-network-analysis",
+    "domain": "Technology",
+    "help_data_file_names": []
+}

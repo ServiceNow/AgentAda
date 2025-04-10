@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/spypsc07/amazon-products",
+        "https://www.kaggle.com/datasets/kanchana1990/amazon-kitchen-best-sellers-dataset-2024"
+    ],
+    "dataset_description": "When I give a class, I always try to use real-world data from my other jobs (censured, of course), to make my students see how the tools of the class are used out the classroom. We all have been in the Statistics class where we must count our ages, weights, or size, but: how many times the teacher gave us a real-world example? What if we change the game with real information? Tell your students that they can make the menu for their restaurants, prepare their speech to an audience or choose the launch day of their product with the same tool. As a form of gratitude and retribution to all my teachers and mentors, that gave me everything and more that I need to grow, I left here these datasets.",
+    "notebook_url": "https://www.kaggle.com/code/georgeggcoco/amazon-best-sellers-exploratory-data-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

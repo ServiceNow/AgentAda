@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [56],
+        "question": "What dataset was used for MapReduce-based table analysis?",
+        "answer": "The dataset consists of retail transaction records, where rows represent sales events and columns include item numbers, store locations, and unit sales.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [65, 73],
+        "question": "What preprocessing steps were performed before applying MapReduce?",
+        "answer": "The dataset was preprocessed by filtering relevant sales records, normalizing numeric values, and structuring data into batched processing units.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [80],
+        "question": "Which product category shows the highest total sales based on MapReduce analysis?",
+        "answer": "The 'Grocery' category has the highest total sales in the dataset.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [95, 103],
+        "question": "Which store location had the lowest sales volume in the dataset?",
+        "answer": "Store ID 45 had the lowest sales volume across all recorded transactions.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [115, 123, 130],
+        "question": "What is the average batch processing time using MapReduce?",
+        "answer": "The average batch processing time using MapReduce is approximately 22.5 minutes per 10 million records.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [142, 150],
+        "question": "How does MapReduce improve the efficiency of analyzing retail transactions compared to single-machine processing?",
+        "answer": "MapReduce distributes processing across multiple nodes, reducing computation time by 40% compared to traditional single-machine processing.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [162],
+        "question": "Which sales feature has the weakest impact on overall revenue generation?",
+        "answer": "The presence of promotional discounts has the weakest impact on total revenue generation.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [174, 182, 190, 198],
+        "question": "What does the MapReduce analysis indicate about sales trends across different store locations?",
+        "answer": "The analysis reveals that urban store locations contribute to 70% of overall sales, with peak transactions occurring during weekends.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [209],
+        "question": "Which attribute has the least influence on a store’s sales performance?",
+        "answer": "The number of employees per store has the least influence on overall sales performance.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [206, 207, 208],
+        "question": "What conclusions were drawn about the effectiveness of MapReduce for large-scale sales data analysis?",
+        "answer": "MapReduce effectively scales sales data processing, enhances real-time reporting, and optimizes performance for high-volume transaction datasets.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    }
+]

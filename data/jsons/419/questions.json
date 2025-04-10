@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "How many records and features are included in the dataset used for Shapley value attribution?",
+        "answer": "The dataset contains 98,500 records and 17 features.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [16, 24],
+        "question": "Which feature has the highest contribution to the model's prediction based on Shapley values?",
+        "answer": "The feature 'Customer Satisfaction Score' has the highest contribution with a mean absolute Shapley value of 0.55.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [29],
+        "question": "What is the average Shapley value for the feature 'Advertising Spend'?",
+        "answer": "The average Shapley value for 'Advertising Spend' is 0.37.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [35, 42],
+        "question": "Which feature has the highest negative impact on model predictions?",
+        "answer": "The feature 'Subscription Cancellation Rate' has the most negative influence with an average Shapley value of -0.45.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [48, 55, 63],
+        "question": "How do Shapley values vary across different customer acquisition strategies?",
+        "answer": "Paid Search campaigns contribute the most with an average Shapley value of 0.50, whereas Email Marketing has a lower impact at 0.32.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [70, 78, 86, 93],
+        "question": "Which customer segment benefits the most from targeted discounts based on Shapley values?",
+        "answer": "Price-sensitive customers benefit the most from targeted discounts, with an average Shapley value increase of 0.44.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [101],
+        "question": "How does feature importance differ when comparing different machine learning models?",
+        "answer": "In a Decision Tree model, 'Browsing Time' has the highest Shapley impact, whereas in an XGBoost model, 'Loyalty Program Participation' is the dominant feature.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [108, 116, 124],
+        "question": "Which feature exhibits the most fluctuation in Shapley values across different customer demographics?",
+        "answer": "'Referral Usage' shows the highest variability in its Shapley values, ranging from -0.20 to 0.57.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [131, 138, 145, 152],
+        "question": "What insights can be derived from Shapley value analysis in terms of customer loyalty?",
+        "answer": "Loyalty program members are strongly influenced by 'Exclusive Offers' and 'Reward Points Accumulation,' while customers with high churn risk show negative impact from 'Long Shipping Times.'",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [159, 167, 174, 181],
+        "question": "How do Shapley values differ for predicting customer purchase behavior across product categories?",
+        "answer": "Customers purchasing electronics are more influenced by 'Online Reviews' (+0.40), whereas those buying groceries are impacted by 'Discount Coupons' (+0.48).",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Identify distinct customer segments based on spending behavior and demographic traits.",
+    "persona": "A retail data analyst with 3 years of experience in customer segmentation, focused on leveraging RFM (Recency, Frequency, Monetary) metrics to optimize marketing strategies and enhance customer engagement. They are interested in applying clustering techniques like K-means to identify actionable insights from customer data."
+}

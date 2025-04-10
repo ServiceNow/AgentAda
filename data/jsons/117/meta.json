@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/htagholdings/property-sales",
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/giobbu/belgium-obu",
+        "https://www.kaggle.com/datasets/henriupton/electricity-dayahead-prices-entsoe",
+        "https://www.kaggle.com/datasets/chayanonc/multiple-stock-prices-by-industry-updated-daily",
+        "https://www.kaggle.com/datasets/ashfakyeafi/air-passenger-data-for-time-series-analysis",
+        "https://www.kaggle.com/datasets/azharsaleem/advanced-saudi-arabian-aramco-stocks-dataset",
+        "https://www.kaggle.com/datasets/boyangs444/process-data-for-predictive-maintenance",
+        "https://www.kaggle.com/datasets/bulentsiyah/for-simple-exercises-time-series-forecasting",
+        "https://www.kaggle.com/datasets/shellshock1911/us-commercial-aviation-industry-metrics",
+        "https://www.kaggle.com/datasets/glebkirichenko/price-ethereum",
+        "https://www.kaggle.com/datasets/emirhanai/epxusd-binance-historical-data-for-ann",
+        "https://www.kaggle.com/datasets/pateljay731/panama-electricity-load-forecasting",
+        "https://www.kaggle.com/datasets/ahmetzamanis/energy-consumption-and-pricing-trkiye-2018-2023",
+        "https://www.kaggle.com/datasets/anseldsouza/water-pump-rul-predictive-maintenance",
+        "https://www.kaggle.com/datasets/talhabu/global-refugee-trends-and-displacement-statistics",
+        "https://www.kaggle.com/datasets/thomaswrightanderson/river-aire-discharge-time-series",
+        "https://www.kaggle.com/datasets/electricalengineers/mrf-tyre-dataset-for-5-years",
+        "https://www.kaggle.com/datasets/anseldsouza/water-pump-sensor-data",
+        "https://www.kaggle.com/datasets/dhruvil633/intraday-trading-information-for-ibm-stock"
+    ],
+    "dataset_description": "PJM Interconnection LLC (PJM) is a regional transmission organization (RTO) in the United States. It is part of the Eastern Interconnection grid operating an electric transmission system serving all or parts of Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia, and the District of Columbia.",
+    "notebook_url": "https://www.kaggle.com/code/zhangxiangan/time-series-forecasting-with-lstm",
+    "domain": "Real Estate",
+    "help_data_file_names": []
+}

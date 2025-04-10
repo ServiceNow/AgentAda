@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/godofoutcasts/cyclistic-bike-share-2023",
+        "https://www.kaggle.com/datasets/sayantanbagchi/divvytripdata",
+        "https://www.kaggle.com/datasets/lijiangzju/divvytripdata",
+        "https://www.kaggle.com/datasets/darkraspberry/capstone-bikeshare-google-data-analyst",
+        "https://www.kaggle.com/datasets/ritahnthenya/cyclistictripdataaug2021aug2022",
+        "https://www.kaggle.com/datasets/devtaadhikari/cyclistic-bike-trip-data",
+        "https://www.kaggle.com/datasets/mregoyau/google-case-study-1",
+        "https://www.kaggle.com/datasets/jennyai/share-bikes",
+        "https://www.kaggle.com/datasets/liweidai/case-study-of-google-data-analysts-certificate",
+        "https://www.kaggle.com/datasets/jacksonbecker13/nov23-oct24-divvy-tripdata",
+        "https://www.kaggle.com/datasets/malkreide/bikeshare-capstone-project",
+        "https://www.kaggle.com/datasets/benfranklin/marketing-program-to-bike-share-company",
+        "https://www.kaggle.com/datasets/dsnerd00/cyclistic-dataset",
+        "https://www.kaggle.com/datasets/shahmirzubair/cyclistic-case-study",
+        "https://www.kaggle.com/datasets/marikakuprava/cyclistic-bikeshare-datasets-1120-1021",
+        "https://www.kaggle.com/datasets/frederiktanno/google-capstone-project-cylcistic-rides",
+        "https://www.kaggle.com/datasets/andrewjheid/data-analytics-capstone-project",
+        "https://www.kaggle.com/datasets/nikhilkale005/cyclistic-case-study",
+        "https://www.kaggle.com/datasets/ponomarlili/google-data-analytics-capstone-project",
+        "https://www.kaggle.com/datasets/timothykierstein/cyclistic-case-study1"
+    ],
+    "dataset_description": "This dataset is for those who is studying the course of Google Data Analysts.",
+    "notebook_url": "https://www.kaggle.com/code/liweidai/google-data-analysts-case-study-cyclistic-bike",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

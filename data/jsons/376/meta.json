@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vamshikreddy/pm-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/arezamoosavi/nasa-predictive-maintenance-notebook",
+    "domain": "Management",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

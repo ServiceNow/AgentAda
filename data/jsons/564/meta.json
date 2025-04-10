@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/uciml/iris"
+    ],
+    "dataset_description": "The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.",
+    "notebook_url": "https://www.kaggle.com/code/ziadwael/pca-eigen-decomposition-from-scratch",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

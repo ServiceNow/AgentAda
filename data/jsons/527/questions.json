@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What is the total number of time points recorded in the dataset?",
+        "answer": "The dataset contains 10,000 recorded time points.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28, 42],
+        "question": "What are the minimum and maximum values observed in the time series?",
+        "answer": "The time series ranges from -2.5 to 3.8 across all recorded points.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [51, 67, 73],
+        "question": "How does wavelet decomposition help in identifying noise within the EEG signal?",
+        "answer": "Wavelet decomposition isolates high-frequency components that primarily contain noise, allowing for targeted denoising.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [86, 98, 105, 119],
+        "question": "What insights can be gained from analyzing the approximation coefficients of wavelet decomposition?",
+        "answer": "Approximation coefficients capture long-term trends in the EEG signal, highlighting potential baseline shifts and trends.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [132, 148, 157],
+        "question": "How do different wavelet levels contribute to distinguishing transient and stationary components in the signal?",
+        "answer": "Higher-level decompositions extract stable components, while lower levels retain rapid fluctuations and transient changes.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [47, 62, 79, 93],
+        "question": "How does wavelet-based denoising improve the clarity of the EEG signal?",
+        "answer": "Denoising removes high-frequency noise while preserving key signal features, improving interpretability for medical analysis.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [117, 128, 143],
+        "question": "How does the selection of wavelet function impact the decomposition results in EEG analysis?",
+        "answer": "Shorter wavelets retain more detail, while longer wavelets provide smoother approximations, affecting feature extraction.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [152, 167, 176, 191],
+        "question": "How does thresholding influence the wavelet decomposition of EEG signals?",
+        "answer": "Thresholding reduces insignificant coefficients, preserving essential patterns while eliminating background noise.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [182, 199],
+        "question": "How does reconstructing an EEG signal from select wavelet coefficients impact signal clarity?",
+        "answer": "Reconstruction from low-frequency components preserves dominant trends, while adding high-frequency coefficients restores details.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [44, 61, 75],
+        "question": "How do wavelet-based features enhance classification of EEG signals?",
+        "answer": "Wavelet coefficients serve as effective features for distinguishing different brain activity states in classification models.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

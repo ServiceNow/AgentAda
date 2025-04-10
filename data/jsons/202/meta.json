@@ -1,0 +1,37 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce",
+        "https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist",
+        "https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database",
+        "https://www.kaggle.com/datasets/erak1006/brazilian-e-commerce-company-olist",
+        "https://www.kaggle.com/datasets/gustavofelici/oliststar-boosting-customer-satisfaction",
+        "https://www.kaggle.com/datasets/npscul/olist-datasets",
+        "https://www.kaggle.com/datasets/datota/brazil-ecommerce-cleaned",
+        "https://www.kaggle.com/datasets/fredericods/ptbr-sentiment-analysis-datasets",
+        "https://www.kaggle.com/datasets/burayamail/brazilian-ecommerce-analyses-v2",
+        "https://www.kaggle.com/datasets/davidspencer/persuade-rubric-holistic-essay-scoring",
+        "https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsdescriptors-json",
+        "https://www.kaggle.com/datasets/bhanuprasadchouki/olist-cleaned-files",
+        "https://www.kaggle.com/datasets/burayamail/brazilian-e-commerce",
+        "https://www.kaggle.com/datasets/mickaelnarboni/olist-clients-segmentation",
+        "https://www.kaggle.com/datasets/mpwolke/cusersmarildownloads0000-parquet",
+        "https://www.kaggle.com/datasets/jayeshsalunke101/brazilian-ecommerce-public-dataset",
+        "https://www.kaggle.com/datasets/luiscfrancisco/olist-age",
+        "https://www.kaggle.com/datasets/htrap94/adnuolist-analysis",
+        "https://www.kaggle.com/datasets/marianakralco/imagens",
+        "https://www.kaggle.com/datasets/enzoschitini/brazilian-e-commerce-public-dataset-by-olist"
+    ],
+    "dataset_description": "Welcome! This is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. We also released a geolocation dataset that relates Brazilian zip codes to lat/lng coordinates. ",
+    "notebook_url": "https://www.kaggle.com/code/kdnitish1517/olist",
+    "domain": "Business",
+    "help_data_file_names": [
+        "olist_geolocation_dataset.csv",
+        "olist_order_items_dataset.csv",
+        "olist_order_payments_dataset.csv",
+        "olist_order_reviews_dataset.csv",
+        "olist_orders_dataset.csv",
+        "olist_products_dataset.csv",
+        "olist_sellers_dataset.csv",
+        "product_category_name_translation.csv"
+    ]
+}

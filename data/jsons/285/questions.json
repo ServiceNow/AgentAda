@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of betweenness centrality analysis?",
+        "answer": "The dataset represents a network of nodes and edges, where nodes are entities and edges represent relationships or interactions between them.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the key attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the strength or frequency of interactions between nodes.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4],
+        "question": "How many nodes and edges are represented in the network?",
+        "answer": "The network contains 800 nodes and 2,400 edges.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "Which node has the highest degree in the network?",
+        "answer": "Node 101 has the highest degree, connecting to 120 other nodes.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "Which node has the highest betweenness centrality score, and what is the value?",
+        "answer": "Node 203 has the highest betweenness centrality score of 0.150.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "What is the average clustering coefficient of the network?",
+        "answer": "The average clustering coefficient of the network is 0.34.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many connected components are in the network?",
+        "answer": "The network has 4 connected components.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, while some edges have weights as high as 25, representing stronger interactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of nodes has the strongest connection, and what does it represent?",
+        "answer": "Node 302 and Node 404 have the strongest connection, with a weight of 25, representing the highest frequency of interaction.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the diameter of the network?",
+        "answer": "The diameter of the network is 15, representing the longest shortest path between any two nodes.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    }
+]

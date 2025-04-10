@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [4],
+        "question": "How many records and features are included in the dataset used for Shapley value attribution?",
+        "answer": "The dataset contains 75,000 records and 12 features.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [9, 15],
+        "question": "Which feature has the highest contribution to the model prediction according to Shapley values?",
+        "answer": "The feature 'Customer Engagement Score' has the highest contribution with a mean absolute Shapley value of 0.42.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [21],
+        "question": "What is the average Shapley value for the feature 'Marketing Spend'?",
+        "answer": "The average Shapley value for 'Marketing Spend' is 0.28.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [26, 33],
+        "question": "Which feature negatively impacts the prediction outcome the most?",
+        "answer": "The feature 'Bounce Rate' has the highest negative impact on the model with an average Shapley value of -0.31.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [40, 47, 53],
+        "question": "How do Shapley values vary across different customer segments?",
+        "answer": "For high-value customers, 'Loyalty Score' contributes 0.38, whereas for new customers, 'Discount Utilization' has a higher impact at 0.45.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [60, 67, 74, 80],
+        "question": "Which marketing channel has the highest impact on conversion according to Shapley values?",
+        "answer": "Paid Search has the highest impact on conversion with an average Shapley value of 0.51.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [86],
+        "question": "How does feature importance change when using a different model?",
+        "answer": "In a Random Forest model, 'Website Visit Duration' contributes the most, whereas in a Gradient Boosting model, 'Customer Age' has a higher Shapley impact.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [92, 99, 106],
+        "question": "Which feature exhibits the most variability in its impact on predictions?",
+        "answer": "'Email Open Rate' shows the highest variability in its Shapley values, ranging from -0.15 to 0.50.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [112, 120, 127, 134],
+        "question": "What insights can be derived from the Shapley value analysis?",
+        "answer": "Features such as 'Customer Engagement Score' and 'Marketing Spend' positively influence conversions, while 'Bounce Rate' reduces the likelihood of conversion.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [140, 147, 155, 162],
+        "question": "How do Shapley values compare for different customer segments?",
+        "answer": "Loyal customers have a higher Shapley impact from 'Loyalty Score' (+0.38), while new users rely more on 'Discount Utilization' (+0.45).",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    }
+]

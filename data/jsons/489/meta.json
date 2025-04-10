@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/harrywang/propensity-score-matching",
+        "https://www.kaggle.com/datasets/ksork6s4/openglue",
+        "https://www.kaggle.com/datasets/devsubhash/bi-software-recommendation-dataset",
+        "https://www.kaggle.com/datasets/googleai/in-the-wild-misinformation-media",
+        "https://www.kaggle.com/datasets/bittupanchal/amazon-books-dataset"
+    ],
+    "dataset_description": "A Practical Guide to PSM and DID in Python and R",
+    "notebook_url": "https://www.kaggle.com/code/harrywang/simple-matching-in-python",
+    "domain": "Social Science",
+    "help_data_file_names": [
+        "employment.csv",
+        "groupon.csv"
+    ]
+}

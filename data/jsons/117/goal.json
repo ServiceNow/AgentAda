@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze electricity consumption trends over time from PJM data.",
+    "persona": "An energy data analyst with 3 years of experience in analyzing and forecasting electricity load data. They are interested in identifying patterns, seasonal variations, and usage trends to optimize energy supply strategies and enhance grid reliability. Their expertise lies in time-series analysis and energy consumption modeling, focusing on improving energy efficiency and sustainability."
+}

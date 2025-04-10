@@ -1,0 +1,102 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What is the size of the dataset used for sentiment analysis, and how are the sentiment classes distributed?",
+        "answer": "The dataset contains 50,000 entries, equally split between positive and negative sentiments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            4,
+            5
+        ],
+        "question": "What preprocessing steps are performed on the text data before feeding it into the BERT model?",
+        "answer": "Preprocessing includes tokenization using the BERT tokenizer, removing special characters, and padding sequences to a fixed length.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            7,
+            8
+        ],
+        "question": "What is the maximum sequence length used during tokenization, and why was it chosen?",
+        "answer": "The maximum sequence length is set to 128 to balance computational efficiency and retaining meaningful context.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            10,
+            11
+        ],
+        "question": "What accuracy does the fine-tuned BERT model achieve on the validation dataset?",
+        "answer": "The fine-tuned BERT model achieves an accuracy of 88% on the validation dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            12,
+            13
+        ],
+        "question": "What evaluation metrics are used to assess the BERT model's performance?",
+        "answer": "Metrics include accuracy, precision, recall, and F1-score.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "What are the most common words in positive sentiment reviews?",
+        "answer": "Words like 'excellent', 'amazing', and 'love' are most common in positive reviews.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            18,
+            19
+        ],
+        "question": "What types of reviews are most frequently misclassified by the model?",
+        "answer": "Reviews with mixed sentiments or ambiguous tones are most frequently misclassified.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            21,
+            22
+        ],
+        "question": "How does the model's performance vary with the length of the reviews?",
+        "answer": "The model performs better on reviews with lengths between 50 to 100 words, with accuracy dropping for shorter or longer reviews.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            24,
+            25
+        ],
+        "question": "What is the impact of increasing the number of training epochs on the BERT model's performance?",
+        "answer": "The model achieves optimal performance after 3 epochs, with overfitting observed beyond that point.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            27,
+            28
+        ],
+        "question": "What preprocessing step had the most significant impact on the model's accuracy?",
+        "answer": "Removing stopwords significantly improved the model's accuracy, particularly for shorter reviews.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    }
+]

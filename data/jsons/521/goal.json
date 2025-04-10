@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze sound labels to determine patterns and anomalies through wavelet decomposition.",
+    "persona": "A data scientist specializing in audio signal processing with 7 years of experience. They focus on detecting anomalies in sound datasets using advanced time series decomposition techniques. Interested in leveraging wavelet decomposition to improve pattern recognition in audio signals and enhance the accuracy of anomaly detection."
+}

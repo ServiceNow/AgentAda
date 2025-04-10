@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset",
+        "https://www.kaggle.com/datasets/earthian/grocery-dataset"
+    ],
+    "dataset_description": "• The Online Retail II data set, which includes the sales data of the UK-based online sales store, was used. • Sales data between 01/12/2009 - 09/12/2011 are included in the data set. • The product catalog of this company includes souvenirs. • There is also information that most of its customers are wholesalers.",
+    "notebook_url": "https://www.kaggle.com/code/ozlemilgun/market-basket-analysis-with-apriori-algorithm",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

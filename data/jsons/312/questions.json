@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [4, 5],
+        "question": "How many transactions and items are present in the dataset?",
+        "answer": "The dataset contains multiple transactions grouped under 'tid' with associated item names under 'namabarang'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the structure of the transaction data after conversion?",
+        "answer": "Each transaction consists of items grouped under a unique transaction ID, formatted as a 'transactions' object.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8],
+        "question": "What is the minimum support threshold used for frequent itemset generation using FP-Growth?",
+        "answer": "The minimum support threshold used for generating frequent itemsets is 0.03.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [7],
+        "question": "Which item appears most frequently in transactions?",
+        "answer": "The most frequently purchased items are shown in the item frequency plot, with the top N items appearing most often.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8],
+        "question": "How many frequent itemsets were generated using FP-Growth?",
+        "answer": "The FP-Growth algorithm generated multiple frequent itemsets based on the 0.03 support threshold.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [8],
+        "question": "Which itemsets are most frequently purchased together?",
+        "answer": "The most frequent itemsets include items frequently appearing in transactions together, extracted from the FP-Growth results.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [8],
+        "question": "What is the highest confidence value found in the association rules?",
+        "answer": "The highest confidence value found in the generated association rules is 0.03.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [8],
+        "question": "Which association rule has the highest lift value?",
+        "answer": "The association rule with the highest lift value is extracted from the FP-Growth output, ranking item associations based on their strength.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [8],
+        "question": "Which item is most commonly associated with another item in the dataset?",
+        "answer": "The most commonly associated item pairs are identified from the frequent itemsets generated.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [8],
+        "question": "What insights can be derived from the discovered association rules?",
+        "answer": "The association rules suggest strong co-purchasing patterns, helping in product recommendations based on frequently bought item pairs.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    }
+]

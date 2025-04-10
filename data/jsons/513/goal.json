@@ -1,0 +1,4 @@
+{
+    "goal": "Identify trends, seasonality, and anomalies in the sensor data over time.",
+    "persona": "An environmental data analyst with 7 years of experience in time series analysis and anomaly detection, focused on understanding environmental sensor data patterns for climate research. They have a strong interest in identifying underlying trends and unusual patterns in temperature and humidity data to support long-term environmental monitoring and policy-making."
+}

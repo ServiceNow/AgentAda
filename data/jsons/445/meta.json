@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/thedevastator/alpaca-instructions-word-level-classification",
+        "https://www.kaggle.com/datasets/thedevastator/lambada-word-prediction-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/psychoactive-compound-descriptors",
+        "https://www.kaggle.com/datasets/venkateswarlukuruva/indian-startup-funding-2023"
+    ],
+    "dataset_description": "Although this dataset was originally contributed to the UCI Machine Learning repository nearly 30 years ago, mushroom hunting (otherwise known as \"shrooming\") is enjoying new peaks in popularity. Learn which features spell certain death and which are most palatable in this dataset of mushroom characteristics. And how certain can your model be?",
+    "notebook_url": "https://www.kaggle.com/code/prashant111/comprehensive-guide-on-feature-selection",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

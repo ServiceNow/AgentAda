@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vcolliym/pydml"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/lambdaofgod/kernel-pca-examples",
+    "domain": "Analytics",
+    "help_data_file_names": []
+}

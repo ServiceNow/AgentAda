@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets"],
+    "dataset_description": "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.",
+    "notebook_url": "https://www.kaggle.com/code/waqasakhan/churn-prediction-f1score-93/notebook",
+    "domain": "Telecommunications",
+    "help_data_file_names": ["train.csv"]
+}

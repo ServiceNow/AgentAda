@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset",
+        "https://www.kaggle.com/datasets/ayushimishra2809/movielens-dataset",
+        "https://www.kaggle.com/datasets/muqarrishzaib/tmdb-10000-movies-dataset",
+        "https://www.kaggle.com/datasets/yakshshah/blog-recommendation-data",
+        "https://www.kaggle.com/datasets/dnyaneshyeole/10000-most-popular-english-movies-2023",
+        "https://www.kaggle.com/datasets/dnyaneshyeole/most-popular-indian-movies-2023",
+        "https://www.kaggle.com/datasets/khushboon/movielens-case-study",
+        "https://www.kaggle.com/datasets/ranitsarkar01/movies-recommender-system-dataset",
+        "https://www.kaggle.com/datasets/meastanmay/imdb-dataset",
+        "https://www.kaggle.com/datasets/codernob/bangla-movie-userrating-dataset",
+        "https://www.kaggle.com/datasets/trishna8/movielens-100k-dataset",
+        "https://www.kaggle.com/datasets/tohid2974/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/bajajganesh/movielensml-latest27m",
+        "https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/hamza12378/movie-recommender",
+        "https://www.kaggle.com/datasets/ratnesh7739/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/snehaanbhawal/anime-list-for-recommendation-system-june-2021",
+        "https://www.kaggle.com/datasets/hernan4444/animeplanet-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/sudekaya/hybrid-recommender-system"
+    ],
+    "dataset_description": "These files contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. The dataset consists of movies released on or before July 2017. Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages.",
+    "notebook_url": "https://www.kaggle.com/code/mostafahabibi1994/movie-recommender-system-collaborative-filtering",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

@@ -1,0 +1,92 @@
+[
+    {
+      "cell_ids": [
+        0
+      ],
+      "question": "What are the three parts of the recommendation system designed in this notebook?",
+          "answer": "1. Product popularity based system targetted at new customers, 2. Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who bought similar items, 3. System used when a business is setting up its e-commerce website for the first time without any product rating",
+          "task":"Recommendation Systems",
+           "skill":"Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        5
+      ],
+       "question": "What is the approach used to provide product recommendations in part III when there is no purchase history?",
+       "answer": "A search engine based recommendation system based on textual clustering analysis given in product description.",
+       "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+    },
+   {
+     "cell_ids": [
+        10
+      ],
+      "question": "What are some of the text preprocessing techniques applied to reviews_list data?",
+        "answer": "Lower casing, Removal of punctuations, Removal of Stopwords, Removal of URLs",
+           "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+    },
+   {
+          "cell_ids": [
+              23
+          ],
+          "question": "What is the purpose of the `TfidfVectorizer` in this notebook?",
+           "answer": "It is used to convert text data in product descriptions into numerical data for analysis.",
+          "task": "Topic Modeling",
+           "skill": "Latent Dirichlet Allocation"
+      },
+      {
+        "cell_ids": [
+              25
+          ],
+           "question": "According to the output of the notebook, how is the data split into training and testing sets for model 2 and model 3",
+           "answer": "The notebook uses the k-fold cross validation to split data and find RMSE values.",
+            "task": "A/B Testing",
+          "skill": "Student's T-Test"
+      },
+     {
+          "cell_ids": [
+             26
+          ],
+           "question": "What is the Matrix factorization approach and what it tries to achieve?",
+          "answer":"Matrix factorization is a way to generate latent features when multiplying two different kinds of entities. Collaborative filtering is the application of matrix factorization to identify the relationship between items’ and users’ entities. With the input of users’ ratings on the shop items, we would like to predict how the users would rate the items so the users can get the recommendation based on the prediction.",
+           "task": "Recommendation Systems",
+           "skill": "Matrix Factorization"
+      },
+    {
+         "cell_ids":[
+          27
+         ],
+           "question":"In this notebook how does the system generate recommendations based on text input ?",
+           "answer":"The user gives a text query and then system will use the keywords to predict clusters based on tfidf analysis.",
+           "task": "Recommendation Systems",
+           "skill": "Collaborative Filtering"
+        },
+        {
+            "cell_ids":[
+            27
+           ],
+            "question": "Which model is used to get the text based recommendations for a new business?",
+             "answer":"KMeans clustering with TfidfVectorizer",
+          "task":"Recommendation Systems",
+           "skill":"K-means Clustering"
+        },
+        {
+          "cell_ids": [
+              30
+          ],
+         "question": "What is the main purpose of the `recommend_by_calories` function?",
+          "answer":"The main purpose is to give recommendations based on the user input of max calories and other nutrient values.",
+          "task":"Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      },
+     {
+           "cell_ids": [
+              43
+          ],
+        "question": "What is the purpose of calculating the cosine similarity on the pivoted matrix?",
+         "answer":"To recommend related product based on, Frequently bought together by checking the cosine similarity of each book.",
+           "task": "Recommendation Systems",
+          "skill":"Collaborative Filtering"
+      }
+  ]

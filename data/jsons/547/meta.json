@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/titanic"
+    ],
+    "dataset_description": "Predict survival on the Titanic and get familiar with ML basics",
+    "notebook_url": "https://www.kaggle.com/code/faressayah/support-vector-machine-pca-tutorial-for-beginner",
+    "domain": "Disaster",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

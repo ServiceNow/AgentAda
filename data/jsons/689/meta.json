@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kashnitsky/mlcourse",
+        "https://www.kaggle.com/datasets/parulpandey/emotion-dataset",
+        "https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection",
+        "https://www.kaggle.com/datasets/sahirmaharajj/retail-sales-analysis",
+        "https://www.kaggle.com/datasets/syahrulhamdani/indonesias-trending-youtube-video-statistics",
+        "https://www.kaggle.com/datasets/jeremylarcher/canadian-house-prices-for-top-cities",
+        "https://www.kaggle.com/datasets/edgarhuichen/nba-players-career-game-log",
+        "https://www.kaggle.com/datasets/prasertk/netflix-subscription-price-in-different-countries",
+        "https://www.kaggle.com/datasets/tommasoramella/italy-house-prices",
+        "https://www.kaggle.com/datasets/krantiswalke/bankfullcsv",
+        "https://www.kaggle.com/datasets/swatikhedekar/eda-on-zomato-dataset",
+        "https://www.kaggle.com/datasets/jalota/books-dataset",
+        "https://www.kaggle.com/datasets/prokshitha/home-value-insights",
+        "https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset",
+        "https://www.kaggle.com/datasets/kanchana1990/trending-baby-and-kids-items-on-etsy",
+        "https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter",
+        "https://www.kaggle.com/datasets/kanchana1990/nuclear-share-of-electricity-generation",
+        "https://www.kaggle.com/datasets/rajeshrampure/black-friday-sale",
+        "https://www.kaggle.com/datasets/nicklauskim/nba-per-game-stats-201920",
+        "https://www.kaggle.com/datasets/kanchana1990/amazon-kitchen-best-sellers-dataset-2024"
+    ],
+    "dataset_description": "Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence. With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.",
+    "notebook_url": "https://www.kaggle.com/code/jhony1/basic-exploratory-data-analysis",
+    "domain": "Housing",
+    "help_data_file_names": ["train.csv"]
+}

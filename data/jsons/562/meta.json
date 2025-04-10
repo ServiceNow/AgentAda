@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mohansacharya/graduate-admissions"
+    ],
+    "dataset_description": "This dataset is created for prediction of Graduate Admissions from an Indian perspective. ",
+    "notebook_url": "https://www.kaggle.com/code/vinayjaju/pca-using-graduate-admissions-dataset",
+    "domain": "Education",
+    "help_data_file_names": []
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Identify patterns in biological features to differentiate iris species.",
+    "persona": "A data scientist with 3 years of experience in biological data analysis, specializing in dimensionality reduction techniques like PCA to uncover patterns in datasets. They are proficient in data preprocessing and visualization, aiming to improve feature selection and data interpretation in biological research."
+}

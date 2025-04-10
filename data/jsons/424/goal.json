@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and understand anomalies in financial transaction data.",
+    "persona": "A data scientist specializing in fraud detection and anomaly detection, with extensive experience in using machine learning models to identify patterns in transaction data. They are particularly interested in improving detection accuracy and reducing false positives through advanced analytical techniques. They have a strong background in financial data analysis and are driven to protect financial institutions from fraudulent activities by refining and optimizing detection models."
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/graceegbe12/advanced-customer-churn-prediction"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/bryanb/xgboost-explainability-with-shap",
+    "domain": "Business",
+    "help_data_file_names": []
+}

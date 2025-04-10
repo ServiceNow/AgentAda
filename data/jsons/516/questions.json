@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [17],
+        "question": "How many unique time periods are present in the dataset?",
+        "answer": "The dataset contains 3,650 unique time periods.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [32, 48],
+        "question": "What is the granularity of the time series data?",
+        "answer": "The time series data is recorded on a daily basis.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [53, 67, 82],
+        "question": "What general trend is observed in the time series data over the recorded period?",
+        "answer": "The data shows a steady upward trend over time with some seasonal fluctuations.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [95, 111, 127, 139],
+        "question": "What seasonal patterns can be identified in the time series data?",
+        "answer": "The data exhibits a strong annual seasonality with peaks occurring around mid-year and dips towards the end of the year.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [152, 164, 179],
+        "question": "What proportion of the overall variation in the dataset is attributed to seasonality?",
+        "answer": "Seasonality accounts for roughly 40% of the total variance in the dataset.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [183, 192, 200],
+        "question": "Are there any unexpected changes or disruptions in the time series data?",
+        "answer": "Yes, there is a noticeable dip in early 2020, potentially due to external economic or environmental factors.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [21, 36, 51],
+        "question": "What is the mean value of the recorded time series data?",
+        "answer": "The mean recorded value in the dataset is approximately 75.3 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [74, 88, 103, 117],
+        "question": "Does the dataset show any cyclic patterns beyond seasonality?",
+        "answer": "Yes, there appear to be multi-year cycles that may be influenced by economic or climatic factors.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [132, 145, 160],
+        "question": "How does the trend component differ before and after 2010?",
+        "answer": "The trend component indicates a more rapid increase in values after 2010 compared to the previous decade.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [173, 187, 195],
+        "question": "Are there any anomalies where values deviate from the expected seasonal pattern?",
+        "answer": "Yes, significant deviations from the expected seasonal pattern were observed in 2015 and 2019, possibly due to external shocks.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

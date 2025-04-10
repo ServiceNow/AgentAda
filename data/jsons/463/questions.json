@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [4],
+        "question": "How many geographical data points are included in the dataset?",
+        "answer": "The dataset contains 120,000 geographical data points.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 19],
+        "question": "What is the range of latitude and longitude values in the dataset?",
+        "answer": "The latitude values range from 35.22 to 48.85, and the longitude values range from -119.76 to -73.99.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [26, 34, 42],
+        "question": "What are the key clusters identified in the dataset using DBSCAN?",
+        "answer": "Key clusters were identified in high-density urban areas such as San Francisco, New York, and Chicago.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [51, 59, 67, 75],
+        "question": "What does the distribution of clusters indicate about urban and rural areas?",
+        "answer": "Urban areas exhibit high-density clusters, while rural regions show sparse, dispersed points.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [83, 92, 101, 110],
+        "question": "How does DBSCAN handle noise points in the dataset?",
+        "answer": "DBSCAN labels noise points as outliers, which helps filter non-significant data from the clustering process.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [119, 128, 137, 146],
+        "question": "What is the estimated percentage of data points classified as noise?",
+        "answer": "Approximately 15% of the dataset was classified as noise due to sparse spatial distribution.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [155, 164, 173, 182],
+        "question": "What impact does changing the minimum points parameter have on DBSCAN clustering results?",
+        "answer": "A higher minimum points value results in fewer clusters, while a lower value allows for more granular clustering.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [191, 200, 209, 218],
+        "question": "How can DBSCAN be utilized in urban planning applications?",
+        "answer": "DBSCAN can identify high-density regions for optimizing public transportation and infrastructure planning.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [227, 236, 245, 254],
+        "question": "What spatial patterns were revealed by the clustering analysis?",
+        "answer": "The analysis indicated that commercial zones have the highest cluster densities, while suburban areas show moderate clustering.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [263, 272, 281, 290],
+        "question": "How does DBSCAN help in identifying abnormal activity in spatial datasets?",
+        "answer": "DBSCAN helps detect unusual spatial patterns by isolating noise points that deviate from dense cluster regions.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    }
+]

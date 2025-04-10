@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What is the time range covered by the dataset?",
+        "answer": "The dataset covers a time range from January 2010 to December 2020.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29, 45],
+        "question": "What is the mean value of the time series data?",
+        "answer": "The mean value of the dataset is approximately 52.4 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [58, 71, 87],
+        "question": "Does the dataset exhibit multi-scale trends across different time frequencies?",
+        "answer": "Yes, the dataset shows different trend behaviors at varying frequency scales, indicating the presence of long-term and short-term patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [102, 118, 130, 147],
+        "question": "What are the dominant frequency components identified in the wavelet decomposition?",
+        "answer": "The dominant frequencies correspond to annual and quarterly cycles, with notable peaks around 12 months and 3 months.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [161, 175, 189],
+        "question": "What portion of the variance is explained by the highest frequency components?",
+        "answer": "The highest frequency components contribute approximately 25% of the total variance in the dataset.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [22, 39, 52],
+        "question": "Does the dataset contain any missing values?",
+        "answer": "No, there are no missing values in the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [67, 81, 95, 109],
+        "question": "What is the magnitude of fluctuations observed in the high-frequency wavelet components?",
+        "answer": "The high-frequency components exhibit fluctuations with an amplitude ranging from ±5 to ±15 units.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [125, 138, 154],
+        "question": "Is there a significant difference in wavelet components before and after 2015?",
+        "answer": "Yes, after 2015, the high-frequency components show increased volatility, indicating potential external disturbances.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [178, 193, 200],
+        "question": "How does the wavelet decomposition residual component behave over time?",
+        "answer": "The residual component shows a mostly random behavior with occasional spikes, suggesting short-term anomalies.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [33, 50, 66],
+        "question": "What is the interquartile range (IQR) of the time series dataset?",
+        "answer": "The interquartile range (IQR) of the dataset is approximately 17.6 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

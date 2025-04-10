@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many records and features are present in the dataset?",
+        "answer": "The dataset contains 284,807 records and 30 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 18],
+        "question": "What percentage of missing values exist in the dataset?",
+        "answer": "The dataset contains 0% missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [24],
+        "question": "What is the class distribution of fraudulent vs. non-fraudulent transactions?",
+        "answer": "The dataset contains 492 fraudulent transactions (0.172%) and 284,315 non-fraudulent transactions (99.828%).",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [32, 39],
+        "question": "What percentage of data points were classified as anomalies using the Local Outlier Factor model?",
+        "answer": "Approximately 3.9% of data points were classified as anomalies.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [47, 55, 62],
+        "question": "Which feature contributed the most to anomaly detection?",
+        "answer": "'V14' had the highest anomaly contribution score of 0.85.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [71, 79, 88, 95],
+        "question": "How do anomaly scores compare between fraudulent and non-fraudulent transactions?",
+        "answer": "Fraudulent transactions had an average anomaly score of -2.78, while non-fraudulent transactions had an average anomaly score of -0.32.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [103],
+        "question": "What precision and recall were achieved by the Local Outlier Factor model?",
+        "answer": "The model achieved a precision of 91.3% and a recall of 94.5%.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [112, 121, 129],
+        "question": "How did adjusting the contamination parameter affect anomaly detection results?",
+        "answer": "Increasing the contamination parameter from 0.01 to 0.05 resulted in a 57% increase in detected anomalies but also increased false positives.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [138, 146, 154, 162],
+        "question": "What insights were revealed when visualizing anomalies using t-SNE?",
+        "answer": "The t-SNE visualization showed that fraudulent transactions formed a distinct cluster, indicating strong separability.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [170, 178, 186, 194],
+        "question": "Which types of transactions exhibited the highest anomaly detection rates?",
+        "answer": "High-value transactions and those made in quick succession had the highest anomaly detection rates at 48.2% and 37.6%, respectively.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    }
+]

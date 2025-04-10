@@ -1,0 +1,92 @@
+[
+    {
+      "cell_ids": [
+        3
+      ],
+      "question": "How many rows are in the original dataset?",
+      "answer": "7043",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+          3
+      ],
+      "question": "How many columns are in the original dataset?",
+        "answer": "21",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+          4
+        ],
+        "question": "What are the data types of the columns in the dataset?",
+          "answer": "customerID        object\ngender            object\nSeniorCitizen      int64\nPartner            object\nDependents         object\ntenure             int64\nPhoneService       object\nMultipleLines      object\nInternetService    object\nOnlineSecurity     object\nOnlineBackup       object\nDeviceProtection   object\nTechSupport        object\nStreamingTV        object\nStreamingMovies    object\nContract           object\nPaperlessBilling   object\nPaymentMethod      object\nMonthlyCharges    float64\nTotalCharges       object\nChurn              object\ndtype: object",
+          "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        6
+      ],
+      "question": "What is the percentage of missing values in each column, sorted in descending order?",
+      "answer": "customerID        0.0\ngender            0.0\nSeniorCitizen     0.0\nPartner           0.0\nDependents        0.0\ntenure            0.0\nPhoneService      0.0\nMultipleLines     0.0\nInternetService   0.0\nOnlineSecurity    0.0\nOnlineBackup      0.0\nDeviceProtection  0.0\nTechSupport       0.0\nStreamingTV       0.0\nStreamingMovies   0.0\nContract            0.0\nPaperlessBilling  0.0\nPaymentMethod     0.0\nMonthlyCharges    0.0\nTotalCharges      0.0\nChurn             0.0\ndtype: float64",
+       "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+          "cell_ids": [
+              7
+          ],
+          "question": "What are the unique values for each column, sorted by count of the values?",
+          "answer": "customerID          7043\ngender                 2\nSeniorCitizen          2\nPartner                2\nDependents             2\ntenure                73\nPhoneService           2\nMultipleLines          3\nInternetService        3\nOnlineSecurity         3\nOnlineBackup           3\nDeviceProtection       3\nTechSupport            3\nStreamingTV            3\nStreamingMovies        3\nContract               3\nPaperlessBilling       2\nPaymentMethod          4\nMonthlyCharges      1585\nTotalCharges        6531\nChurn                  2\ndtype: int64",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+      },
+    {
+      "cell_ids": [
+        8
+      ],
+      "question": "How many columns have missing values after converting TotalCharges to numeric?",
+      "answer": "gender               0\nSeniorCitizen        0\nPartner              0\nDependents           0\ntenure               0\nPhoneService         0\nMultipleLines        0\nInternetService      0\nOnlineSecurity       0\nOnlineBackup         0\nDeviceProtection     0\nTechSupport          0\nStreamingTV          0\nStreamingMovies      0\nContract             0\nPaperlessBilling     0\nPaymentMethod        0\nMonthlyCharges       0\nTotalCharges        11\nChurn                0\ndtype: int64",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+      {
+          "cell_ids": [
+              12
+          ],
+          "question": "After dropping customerID, how many columns remain in the dataframe?",
+          "answer": "21",
+          "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+      },
+    {
+      "cell_ids": [
+        16
+      ],
+      "question": "What are the indices where the tenure is equal to zero?",
+      "answer": "[488, 753, 936, 1082, 1340, 3331, 3826, 4380, 5218, 6670, 6754]",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            17
+        ],
+        "question": "What are the totalCharges for the rows where tenure is zero?",
+        "answer": "488     52.55\n753     20.25\n936     80.85\n1082    25.75\n1340    56.05\n3331    19.85\n3826    25.35\n4380    20.00\n5218    19.70\n6670    73.35\n6754    61.90\nName: TotalCharges, dtype: float64",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            19
+        ],
+        "question": "What are the unique values in `SeniorCitizen` column after converting its type to object?",
+        "answer": "[0, 1]",
+        "task": "Basic Data Analysis",
+        "skill":"Basic Data Analysis"
+    }
+  ]

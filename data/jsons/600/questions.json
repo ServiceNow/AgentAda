@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [36],
+        "question": "What dataset was used for Kendall's Tau correlation analysis?",
+        "answer": "The dataset consists of website performance metrics, including page load time, bounce rate, and user engagement levels.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [45, 53],
+        "question": "What preprocessing steps were performed before computing Kendall's Tau correlation?",
+        "answer": "The dataset was preprocessed by handling missing values, ranking categorical attributes such as website category, and normalizing numerical features.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [60],
+        "question": "Which two website performance factors show the strongest positive Kendall's Tau correlation?",
+        "answer": "User engagement duration and number of pages visited show the strongest positive Kendall's Tau correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [75, 83],
+        "question": "Which website attribute has the highest negative correlation with bounce rate?",
+        "answer": "Page load speed has the highest negative correlation with bounce rate.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [95, 103, 110],
+        "question": "What is the Kendall's Tau correlation coefficient between page load time and conversion rate?",
+        "answer": "The Kendall's Tau correlation coefficient between page load time and conversion rate is -0.57.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [122, 130],
+        "question": "How does Kendall's Tau correlation between website ranking and user engagement compare to other performance indicators?",
+        "answer": "The correlation between website ranking and user engagement is stronger than the correlation between website ranking and page load speed.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [142],
+        "question": "Which website usability metric shows the weakest correlation with session duration?",
+        "answer": "Font size variation shows the weakest correlation with session duration.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [154, 162, 170, 178],
+        "question": "What does the Kendall's Tau correlation coefficient indicate about the relationship between ad density and user retention?",
+        "answer": "The Kendall's Tau correlation coefficient indicates a strong negative relationship, meaning websites with higher ad density tend to have lower user retention.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [189],
+        "question": "Which page feature has the least correlation with bounce rate?",
+        "answer": "The presence of interactive elements has the least correlation with bounce rate.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [197, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Kendall's Tau correlation for analyzing website performance?",
+        "answer": "Kendall's Tau correlation helped identify key relationships between load speed, user engagement, and bounce rates, highlighting important factors for website optimization.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    }
+]

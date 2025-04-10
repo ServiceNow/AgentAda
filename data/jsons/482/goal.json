@@ -1,0 +1,9 @@
+{
+    "goal": "Analyze the weight distribution and identify causality relationships within the dataset.",
+    "persona": {
+        "profession": "Financial Analyst",
+        "expertise_level": "Intermediate",
+        "goals": "To identify key factors influencing asset weights within investment portfolios and understand interdependencies using statistical causality methods.",
+        "interests": "Cryptocurrency market dynamics and portfolio management strategies."
+    }
+}

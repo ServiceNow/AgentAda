@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze log data to identify patterns, anomalies, and trends.",
+    "persona": "A senior data analyst with expertise in log analysis and anomaly detection, specializing in using clustering algorithms like DBSCAN and LogCluster to derive insights from large-scale system logs. The analyst aims to improve system reliability and security by understanding log patterns, identifying potential issues, and providing actionable insights into log event behaviors and user interactions."
+}

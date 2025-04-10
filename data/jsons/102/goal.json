@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze Tesla's stock price trends and forecast future prices.",
+    "persona": "A financial data analyst with expertise in stock market trends, possessing 7 years of experience in predictive modeling and financial forecasting, particularly interested in the automotive industry and its market impacts. The analyst focuses on deriving actionable insights for investment strategies by examining historical stock data, assessing volatility, and utilizing advanced forecasting techniques like LSTM to inform stakeholders about potential future stock performance."
+}

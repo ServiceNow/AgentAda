@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many unique timestamps are available in the dataset?",
+        "answer": "The dataset contains 5,280 unique timestamps.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [24, 37],
+        "question": "What is the frequency of the recorded CO2 emissions data?",
+        "answer": "The CO2 emissions data is recorded on a monthly basis.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [46, 59, 73],
+        "question": "What long-term trend is observed in CO2 emissions over time?",
+        "answer": "CO2 emissions exhibit a gradual upward trend with periodic seasonal fluctuations.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [85, 98, 113, 129],
+        "question": "What seasonal pattern is observed in the CO2 emissions data?",
+        "answer": "CO2 emissions tend to peak in winter and decrease during summer months, suggesting an annual seasonal pattern.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [142, 156, 167],
+        "question": "What proportion of the total variation in CO2 emissions is attributed to seasonality?",
+        "answer": "Seasonality accounts for approximately 35% of the total variance in CO2 emissions.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [178, 191, 203],
+        "question": "Are there any observable sudden changes or disruptions in the time series data?",
+        "answer": "Yes, there is a noticeable drop in CO2 emissions in early 2020, likely due to reduced industrial activity during the COVID-19 pandemic.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [15, 29, 42],
+        "question": "What is the average CO2 emission recorded in the dataset?",
+        "answer": "The average recorded CO2 emission is approximately 410 parts per million (ppm).",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [66, 79, 94, 108],
+        "question": "Does the dataset exhibit any periodic cycles beyond annual seasonality?",
+        "answer": "Yes, there is evidence of multi-year cycles in CO2 emissions, potentially related to economic and environmental policies.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [123, 137, 151],
+        "question": "How does the trend component compare before and after 2000?",
+        "answer": "The trend component shows an accelerated increase in CO2 emissions after 2000 compared to previous decades.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [174, 188, 199],
+        "question": "Are there any notable deviations from the expected seasonal pattern?",
+        "answer": "Yes, CO2 emissions during 2015 and 2016 deviated significantly from the expected pattern, possibly due to major climate events or policy interventions.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

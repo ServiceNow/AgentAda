@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 1,200,000 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28, 47],
+        "question": "What is the median value of the time series data?",
+        "answer": "The median value of the dataset is approximately 0.0035.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [63, 79, 92],
+        "question": "What dominant frequency components are observed in the wavelet decomposition of the dataset?",
+        "answer": "The dominant frequencies include components corresponding to daily and weekly cycles.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [108, 125, 137, 152],
+        "question": "How does the energy distribution of wavelet coefficients vary over time?",
+        "answer": "The energy distribution varies with time, showing increased high-frequency energy during periods of seismic activity.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [166, 178, 195],
+        "question": "How much variance is captured by the first three wavelet decomposition levels?",
+        "answer": "The first three levels of decomposition capture approximately 85% of the total variance in the dataset.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [23, 41, 59, 77],
+        "question": "Are there significant outliers in the decomposed high-frequency components?",
+        "answer": "Yes, several outliers are present, mainly during high-energy periods corresponding to earthquake activity.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [91, 103, 117],
+        "question": "What is the nature of the trend component obtained from the wavelet decomposition?",
+        "answer": "The trend component shows a slow and steady increase over time, with occasional sharp shifts.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [129, 143, 157, 171],
+        "question": "How does the wavelet decomposition reveal changes in the periodicity of seismic signals?",
+        "answer": "Wavelet decomposition shows that periodicity changes dynamically, with increased periodicity during high-magnitude events.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [182, 198],
+        "question": "What is the observed effect of noise reduction using wavelet thresholding?",
+        "answer": "Wavelet thresholding effectively removes high-frequency noise while preserving key seismic signal patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [54, 69, 84],
+        "question": "How do the low-frequency components of wavelet decomposition correlate with known earthquake events?",
+        "answer": "The low-frequency components align closely with major earthquake events, indicating long-term shifts in seismic activity.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

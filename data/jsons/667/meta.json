@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation",
+        "https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/goyaladi/customer-spending-dataset",
+        "https://www.kaggle.com/datasets/manidevesh/customer-sales-data",
+        "https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering",
+        "https://www.kaggle.com/datasets/cs49adityarajsharma/credit-scoring-data",
+        "https://www.kaggle.com/datasets/elifcanli/claims-2023",
+        "https://www.kaggle.com/datasets/adityaxa/retail-rfm-analysis",
+        "https://www.kaggle.com/datasets/smmmmmmmmmmmm/customer-churn-analysis-of-kiwibank",
+        "https://www.kaggle.com/datasets/setseries/airbnb-listings-in-california",
+        "https://www.kaggle.com/datasets/ramisashararnidhi/mall-customer-csv",
+        "https://www.kaggle.com/datasets/manishguptads/retail-customer-data-for-segmentation",
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset",
+        "https://www.kaggle.com/datasets/davidfischanger/e-project",
+        "https://www.kaggle.com/datasets/samantas2020/online-retail-xlsx",
+        "https://www.kaggle.com/datasets/shartul/freecell-telecom-customer-analytics",
+        "https://www.kaggle.com/datasets/shaileshkumar591/customer-churn-larger-dataset"
+    ],
+    "dataset_description": "You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data. ",
+    "notebook_url": "https://www.kaggle.com/code/kushal1996/customer-segmentation-k-means-analysis",
+    "domain": "Business",
+    "help_data_file_names": []
+}

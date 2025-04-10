@@ -1,0 +1,92 @@
+[
+    {
+      "cell_ids": [
+        5
+      ],
+      "question": "How many ratings are included in this dataset after reading 50% of the rows?",
+      "answer": "6445351",
+       "task": "Basic Data Analysis",
+       "skill": "Basic Data Analysis"
+    },
+     {
+      "cell_ids": [
+        6
+      ],
+      "question": "What type of data is stored in the `ratings` DataFrame?",
+      "answer": "user_id, artist, track and playlist",
+      "task": "Basic Data Analysis",
+       "skill": "Basic Data Analysis"
+     },
+    {
+      "cell_ids": [
+        8
+      ],
+        "question": "What is the output of the  `create_interaction_matrix` function?",
+      "answer": "Pandas dataframe with user-item interactions ready to be fed in a recommendation algorithm",
+      "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+    },
+      {
+       "cell_ids": [
+              13
+          ],
+        "question": "What is the output of `create_user_dict` function?",
+            "answer": "Dictionary type output containing interaction_index as key and user_id as value",
+             "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+      {
+          "cell_ids": [
+              14
+          ],
+          "question": "What does `create_item_dict` function return?",
+           "answer": "A dictionary type output containing item_id as key and item_name as value.",
+           "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+    {
+     "cell_ids": [
+              16
+          ],
+           "question": "What is the use of the `LightFM` class?",
+          "answer": "It is used for building a matrix factorization based recommendation model.",
+           "task": "Recommendation Systems",
+           "skill": "Matrix Factorization"
+      },
+      {
+        "cell_ids": [
+              16
+          ],
+           "question": "What is the meaning of the `n_components` parameter?",
+            "answer": "It represents the number of embeddings you want to create to define item and user.",
+             "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+       },
+     {
+        "cell_ids": [
+              16
+          ],
+           "question": "What type of loss function does the model use by default?",
+            "answer": "warp",
+              "task": "Basic Data Analysis",
+           "skill": "Basic Data Analysis"
+        },
+       {
+          "cell_ids": [
+              16
+          ],
+          "question": "What does the `n_jobs` parameter represent in the `runMF` function?",
+          "answer": "It represents the number of cores used for execution of the model.",
+          "task":"Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+    {
+      "cell_ids": [
+              16
+          ],
+      "question": "What does the `sample_recommendation_user` function returns?",
+           "answer": "It returns a list of recommended items for a given user",
+          "task": "Recommendation Systems",
+           "skill": "Collaborative Filtering"
+      }
+  ]

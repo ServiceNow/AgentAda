@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "What dataset was used for Kernel PCA analysis?",
+        "answer": "The dataset consists of financial transactions categorized by customer spending behavior.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [14, 19],
+        "question": "What preprocessing steps were applied before performing Kernel PCA?",
+        "answer": "The dataset was standardized, missing values were handled, and categorical variables were encoded into numerical values.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [27],
+        "question": "How many principal components were retained after applying Kernel PCA?",
+        "answer": "The first 8 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [38, 42],
+        "question": "What percentage of variance is explained by the first three principal components?",
+        "answer": "The first three principal components explain 81% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [53, 57, 63],
+        "question": "Which customer demographic attribute shows the highest variance in the first principal component?",
+        "answer": "Customer income level shows the highest variance in the first principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [71, 76],
+        "question": "How do the principal components correlate with customer spending habits?",
+        "answer": "The first principal component is strongly correlated with high-frequency spending and transaction volume.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [85],
+        "question": "How does Kernel PCA impact the identification of spending patterns?",
+        "answer": "Kernel PCA enhances the separation of spending categories, making it easier to identify different customer purchasing behaviors.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [97, 102, 108, 113],
+        "question": "Which type of transaction contributes the most to the second principal component?",
+        "answer": "Luxury purchases contribute the most to the second principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [125],
+        "question": "What effect does Kernel PCA have on detecting fraudulent transactions in the dataset?",
+        "answer": "Kernel PCA helps detect fraudulent transactions by highlighting anomalies in spending behavior across principal components.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [138, 143, 148, 154],
+        "question": "What conclusions were drawn about the effectiveness of Kernel PCA for financial transaction analysis?",
+        "answer": "Kernel PCA effectively grouped customer spending patterns and identified unusual transactions, improving financial analysis.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Determine the impact of treatment on outcomes by using propensity score matching to reduce selection bias and improve covariate balance.",
+    "persona": "A data scientist with 7 years of experience in health data analytics, specializing in causal inference and statistical modeling. The analyst focuses on assessing treatment effects accurately while minimizing biases in observational studies, primarily working with healthcare organizations to inform patient care strategies."
+}

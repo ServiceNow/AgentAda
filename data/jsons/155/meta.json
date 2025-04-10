@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop",
+        "https://www.kaggle.com/datasets/disham993/9000-movies-dataset",
+        "https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/alvarob96/spanish-stocks-historical-data",
+        "https://www.kaggle.com/datasets/gspmoreira/news-portal-user-interactions-by-globocom",
+        "https://www.kaggle.com/datasets/groffo/ads16-dataset",
+        "https://www.kaggle.com/datasets/zusmani/gufhtugu-publications-dataset-challenge",
+        "https://www.kaggle.com/datasets/deewakarchakraborty/zomato-restaurant-dataset",
+        "https://www.kaggle.com/datasets/bahramjannesarr/goodreads-book-datasets-10m",
+        "https://www.kaggle.com/datasets/miguelcorraljr/ted-ultimate-dataset",
+        "https://www.kaggle.com/datasets/neellad3110/shanghai-world-university-rankings-2023",
+        "https://www.kaggle.com/datasets/inigolopezrioboo/a-tripadvisor-dataset-for-nlp-tasks",
+        "https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+        "https://www.kaggle.com/datasets/hiteshsuthar101/myntra-fashion-product-dataset",
+        "https://www.kaggle.com/datasets/ambaliyagati/spotify-dataset-for-playing-around-with-sql",
+        "https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset",
+        "https://www.kaggle.com/datasets/pranithchowdary/python-150k-code",
+        "https://www.kaggle.com/datasets/viktoriiashkurenko/278k-spotify-songs",
+        "https://www.kaggle.com/datasets/travisdaws/spotify-tracks-acoustic-features",
+        "https://www.kaggle.com/datasets/devsubhash/bi-software-recommendation-dataset"
+    ],
+    "dataset_description": "GroupLens Research has collected and made available rating data sets from the MovieLens web site (http://movielens.org). The data sets were collected over various periods of time, depending on the size of the set. ",
+    "notebook_url": "https://www.kaggle.com/code/prashant111/recommender-systems-in-python",
+    "domain": "Entertainment",
+    "help_data_file_names": ["ratings.csv"]
+}

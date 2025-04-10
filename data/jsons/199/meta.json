@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset",
+        "https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset",
+        "https://www.kaggle.com/datasets/edusanketdk/electronics",
+        "https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images",
+        "https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products",
+        "https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam",
+        "https://www.kaggle.com/datasets/asaniczka/amazon-brazil-products-2023-1-3m-products",
+        "https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets",
+        "https://www.kaggle.com/datasets/venkatasubramanian/sentiment-based-product-recommendation-system",
+        "https://www.kaggle.com/datasets/gyanprakashkushwaha/mobile-recommendation-system-dataset",
+        "https://www.kaggle.com/datasets/mrmars1010/flipkart-product-datalaptops",
+        "https://www.kaggle.com/datasets/asaniczka/amazon-india-products-2023-1-5m-products",
+        "https://www.kaggle.com/datasets/arashnic/mind-news-dataset",
+        "https://www.kaggle.com/datasets/ghadahalshehrei/laptops-info",
+        "https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/fashion-products",
+        "https://www.kaggle.com/datasets/jillanisofttech/updatedtmdb-movies-dataset",
+        "https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset",
+        "https://www.kaggle.com/datasets/ahmedaliraja/customer-rating-data-by-amazon",
+        "https://www.kaggle.com/datasets/arashnic/property-data"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mmhasnat17/product-recommendation-system",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

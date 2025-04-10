@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/jonamjar/green-card-h1b-20142018",
+        "https://www.kaggle.com/datasets/gerardjconticchio/asylum-seeker-data-2000-to-2022"
+    ],
+    "dataset_description": "A permanent labor certification issued by the Department of Labor (DOL) allows an employer to hire a foreign worker to work permanently in the United States. In most instances, before the U.S. employer can submit an immigration petition to the Department of Homeland Security's U.S. Citizenship and Immigration Services (USCIS), the employer must obtain a certified labor certification application from the DOL's Employment and Training Administration (ETA). The DOL must certify to the USCIS that there are not sufficient U.S. workers able, willing, qualified and available to accept the job opportunity in the area of intended employment and that employment of the foreign worker will not adversely affect the wages and working conditions of similarly employed U.S. workers.",
+    "notebook_url": "https://www.kaggle.com/code/doorless/analysis-of-us-permanent-applications",
+    "domain": "Immigration",
+    "help_data_file_names": []
+}

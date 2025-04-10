@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/code/tsdaemon/mapreduce-for-batch-processing-of-a-big-dataset/input"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/tsdaemon/mapreduce-for-batch-processing-of-a-big-dataset",
+    "domain": "Science",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

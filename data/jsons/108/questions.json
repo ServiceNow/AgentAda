@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the general trend in the inventory levels at the retail store over the recorded period?",
+        "answer": "The dataset shows a consistent upward trend in inventory levels with seasonal fluctuations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly inventory level recorded in the dataset?",
+        "answer": "The average monthly inventory level is approximately 2,400 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "What are the seasonal patterns observed in the inventory levels?",
+        "answer": "Seasonal peaks in inventory levels are observed before major sales events such as Black Friday and Christmas.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [7],
+        "question": "What is the highest recorded inventory level in the dataset, and when did it occur?",
+        "answer": "The highest inventory level recorded is 5,000 units, observed in November 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 9],
+        "question": "What are the forecasted inventory levels for the next quarter using the LSTM model?",
+        "answer": "The forecasted inventory levels range between 2,500 and 3,200 units, reflecting seasonal adjustments.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the dataset reveal about the variability in inventory levels across different seasons?",
+        "answer": "The dataset shows higher variability in inventory levels before holiday seasons compared to off-peak periods.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How does the LSTM model's forecast align with historical inventory trends?",
+        "answer": "The LSTM model's forecast aligns closely with historical trends, capturing the pre-holiday inventory build-up accurately.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Were there any missing values in the inventory dataset, and how were they handled?",
+        "answer": "The dataset contained missing values for two weeks, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What insights can be drawn about inventory management from the dataset?",
+        "answer": "The dataset highlights the need for higher inventory levels during peak seasons and lower levels during off-peak periods.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What external factors might influence the forecasted inventory levels at the retail store?",
+        "answer": "External factors such as supply chain disruptions, economic conditions, and customer demand trends could significantly impact inventory levels.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    }
+]

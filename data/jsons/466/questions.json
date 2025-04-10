@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What is the total number of records in the dataset?",
+        "answer": "The dataset contains 85,000 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13, 18],
+        "question": "What are the maximum and minimum values for latitude and longitude in the dataset?",
+        "answer": "Latitude ranges from 24.55 to 49.38, while longitude ranges from -125.00 to -66.93.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 33, 39],
+        "question": "How many spatial clusters were identified using DBSCAN?",
+        "answer": "A total of 12 spatial clusters were identified.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [46, 55, 64, 73],
+        "question": "Which cities have the highest number of detected spatial clusters?",
+        "answer": "New York, San Francisco, and Los Angeles have the highest number of clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [82, 91, 100, 109],
+        "question": "How many data points were classified as noise by the DBSCAN algorithm?",
+        "answer": "Approximately 22% of the data points were labeled as noise due to low density.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [118, 127, 136, 145],
+        "question": "What happens when the epsilon parameter is increased?",
+        "answer": "Increasing epsilon results in fewer but larger clusters, whereas decreasing it produces more fragmented clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [154, 163, 172, 181],
+        "question": "What percentage of the dataset belongs to the largest spatial cluster?",
+        "answer": "The largest cluster contains approximately 35% of the total data points.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [190, 199, 208, 217],
+        "question": "How do the clusters compare between densely populated and less populated regions?",
+        "answer": "Clusters in densely populated regions are more compact, whereas those in less populated areas are more spread out.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [226, 235, 244, 253],
+        "question": "How does DBSCAN clustering contribute to urban planning?",
+        "answer": "DBSCAN identifies high-density zones, which helps in urban planning, transportation analysis, and infrastructure development.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [262, 271, 280, 289],
+        "question": "What key insights were gained from the DBSCAN clustering results?",
+        "answer": "The clustering results highlight urban mobility patterns, high-density areas, and potential commercial hubs.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    }
+]

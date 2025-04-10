@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What is the distribution of sentiment labels in the dataset?",
+        "answer": "The dataset contains 20,000 positive reviews and 20,000 negative reviews.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What is the average length of reviews in the dataset?",
+        "answer": "The average review length is 150 words.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4],
+        "question": "What are the most common words in the dataset?",
+        "answer": "Common words include 'amazing', 'great', and 'bad'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "What is the accuracy of the Naive Bayes model on the validation set?",
+        "answer": "The Naive Bayes model achieves 87% accuracy on the validation set.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What is the precision of the Naive Bayes model for predicting positive sentiments?",
+        "answer": "The precision for positive sentiment predictions is 86%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "How do stop words affect the performance of the Naive Bayes model?",
+        "answer": "Including stop words reduces the accuracy by 2%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "What is the recall of the Naive Bayes model for predicting negative sentiments?",
+        "answer": "The recall for negative sentiment predictions is 84%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [13],
+        "question": "How does the model perform on short reviews containing fewer than 20 words?",
+        "answer": "For reviews under 20 words, the accuracy is 72%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "How does the Naive Bayes model handle rare words in sentiment classification?",
+        "answer": "Rare words have minimal impact, with the accuracy remaining stable at 85%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What is the false negative rate for positive reviews misclassified as negative?",
+        "answer": "The false negative rate for positive reviews is 12%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    }
+]

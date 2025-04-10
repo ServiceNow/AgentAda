@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many records are in the dataset?",
+        "answer": "The dataset contains 15,632 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16, 24],
+        "question": "What are the mean and standard deviation of the key numerical variables?",
+        "answer": "The mean value is 48.3 with a standard deviation of 12.7.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [32, 40, 48],
+        "question": "What are the key latent variables identified in the structural model?",
+        "answer": "The key latent variables identified include 'Economic Growth', 'Market Demand', and 'Customer Satisfaction'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [56, 64, 72, 80],
+        "question": "Which observed variables have the strongest effect on the latent variables?",
+        "answer": "The observed variables 'GDP Growth' and 'Household Income' have the strongest effects on 'Economic Growth'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [88, 96, 104, 112],
+        "question": "What is the path coefficient between 'Customer Satisfaction' and 'Product Sales'?",
+        "answer": "The path coefficient between 'Customer Satisfaction' and 'Product Sales' is 0.67.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [120, 128, 136, 144],
+        "question": "Does the dataset suggest a direct or indirect effect of 'Marketing Spend' on 'Revenue'?",
+        "answer": "The dataset suggests an indirect effect of 'Marketing Spend' on 'Revenue' through 'Brand Awareness'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [152, 160, 168, 176],
+        "question": "How much variance in 'Customer Loyalty' is explained by the model?",
+        "answer": "The model explains 72% of the variance in 'Customer Loyalty' (R² = 0.72).",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [184, 192, 200, 208],
+        "question": "What is the significance level of the relationship between 'Advertising Spend' and 'Brand Awareness'?",
+        "answer": "The relationship is statistically significant with a p-value of 0.003.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [216, 224, 232, 240],
+        "question": "Which factor has the highest total effect on 'Customer Retention'?",
+        "answer": "'Customer Satisfaction' has the highest total effect on 'Customer Retention' with a total effect value of 0.82.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [248, 256, 264, 272],
+        "question": "What practical insights can be derived from the structural model?",
+        "answer": "The model suggests that increasing 'Customer Satisfaction' and 'Product Quality' will significantly improve 'Revenue Growth'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    }
+]

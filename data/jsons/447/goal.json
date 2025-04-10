@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the importance of various health features in predicting heart disease risk.",
+    "persona": "A data scientist specializing in healthcare analytics with expertise in machine learning model interpretation and feature importance. Their goal is to enhance model transparency and usability by identifying and prioritizing significant health indicators, using advanced tools like SHAP to ensure accurate predictions and personalized health insights."
+}

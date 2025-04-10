@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and restaurants in the Zomato dataset, and how does this define the recommendation system's scale?",
+      "answer": "The dataset contains 10,000 users and 5,000 restaurants, creating a moderately sized user-item matrix.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of the user-item matrix is filled with ratings, and how does this level of sparsity affect the recommendation process?",
+      "answer": "The matrix is 96% sparse, which poses challenges for generating accurate recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 10],
+      "question": "What is the average number of restaurants rated per user, and how does this influence personalized recommendations?",
+      "answer": "Each user rates an average of 15 restaurants, providing sufficient data to model individual preferences.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [12, 14],
+      "question": "Which restaurants are most frequently rated, and how can they be leveraged to address the cold-start problem for new users?",
+      "answer": "Popular restaurants like 'The Spice Hub' and 'Ocean View' are frequently rated and ideal for initial recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [16, 18, 21],
+      "question": "What is the distribution of restaurant ratings, and how might this bias impact the system's recommendations?",
+      "answer": "Ratings are skewed towards higher values (4 and 5 stars), which could bias recommendations towards popular restaurants.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [23, 26],
+      "question": "How does collaborative filtering utilize user similarities to predict preferences for unrated restaurants?",
+      "answer": "Collaborative filtering identifies users with similar rating behaviors and predicts preferences based on their shared interests.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [28, 30, 33],
+      "question": "What patterns in user preferences for cuisine types are observed, and how does this affect cuisine-specific recommendations?",
+      "answer": "Users consistently prefer cuisines like 'Italian' and 'Chinese', which guide personalized recommendations for similar cuisines.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [35, 37],
+      "question": "What temporal trends are observed in restaurant ratings, and how can time-based recommendations enhance the user experience?",
+      "answer": "Ratings for restaurants like 'Evening Delight' peak during weekends, suggesting the importance of time-aware recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [39, 42],
+      "question": "What strategies are employed to recommend lesser-known restaurants with limited ratings?",
+      "answer": "Collaborative filtering uses user similarities to recommend lesser-known restaurants to users with matching tastes.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [44, 47, 49],
+      "question": "What techniques are implemented to address the cold-start problem for new restaurants or users in the dataset?",
+      "answer": "The system recommends highly rated restaurants and leverages cuisine-based filters to provide initial suggestions.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    }
+  ]
+  

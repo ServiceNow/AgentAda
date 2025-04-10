@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [17],
+        "question": "What is the total number of time series records in the dataset?",
+        "answer": "The dataset contains 25,000 time series records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29, 42],
+        "question": "What is the mean value of the time series observations?",
+        "answer": "The mean value of the time series observations is approximately 0.015.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [55, 67, 81],
+        "question": "How does wavelet decomposition help in identifying sudden fluctuations in the data?",
+        "answer": "Wavelet decomposition captures abrupt changes by isolating high-frequency components, highlighting spikes and anomalies.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [94, 107, 123, 136],
+        "question": "What insights can be derived from analyzing the wavelet coefficients at different levels?",
+        "answer": "Lower-level wavelet coefficients reveal general trends, while higher-level coefficients capture short-term variations and potential anomalies.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [149, 161, 175],
+        "question": "How much of the variance in the signal is captured by the first two decomposition levels?",
+        "answer": "The first two decomposition levels account for nearly 90% of the variance in the time series data.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [28, 47, 62, 79],
+        "question": "What patterns emerge in the reconstructed signal after applying wavelet decomposition?",
+        "answer": "The reconstructed signal preserves long-term trends while removing short-term noise and irregularities.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [95, 111, 128],
+        "question": "How does the decomposition depth impact the granularity of detected variations?",
+        "answer": "Greater decomposition depth captures finer fluctuations, while lower depth provides a smoother trend representation.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [140, 152, 168, 182],
+        "question": "How does the magnitude of wavelet coefficients vary across different decomposition levels?",
+        "answer": "Wavelet coefficients exhibit higher magnitudes at lower levels, representing dominant trends, while higher levels reveal finer details.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [177, 192],
+        "question": "What effect does thresholding have on wavelet-transformed signals?",
+        "answer": "Thresholding reduces noise by filtering out low-magnitude coefficients while preserving significant structural components.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [49, 66, 83],
+        "question": "How do wavelet decomposition components correlate with external factors in the dataset?",
+        "answer": "Decomposed components show strong correlations with seasonal variations and other external influencing factors.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

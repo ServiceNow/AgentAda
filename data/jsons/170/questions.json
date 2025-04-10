@@ -1,0 +1,96 @@
+[
+    {
+      "cell_ids": [
+        3,
+        4
+      ],
+      "question": "What are the input data files for this notebook and what is their content?",
+      "answer": "The notebook uses 'RegularSeasonDetailedResults.csv' which contains details of each game and team scores.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        6,
+         7
+      ],
+      "question": "How is the target variable (match outcome) encoded?",
+      "answer": "The target variable, match outcome, is encoded as 1 for a win and 0 for a loss in the 'pred' column.",
+      "task": "Basic Data Analysis",
+       "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+         8
+      ],
+      "question": "What does the 'team1' and 'team2' represent in the data?",
+      "answer": "The team1 and team2 columns represents the teams that have played that game, with the team ids represented as integers.",
+       "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+     "cell_ids": [
+        9,
+        10
+      ],
+      "question": "How are team IDs transformed for the model?",
+      "answer": "Team IDs are transformed into numerical representations using a dictionary mapping each unique team ID to a consecutive integer, this allows to build embedding matrix on the list of integers.",
+      "task": "Data Imputation",
+     "skill": "Basic Data Analysis"
+    },
+   {
+     "cell_ids": [
+       11,12
+      ],
+      "question": "What type of layers are used for creating the collaborative filtering model using Keras?",
+       "answer": "The model uses Embedding layers for encoding the team IDs into lower dimensional space and  Dense layers for output. Merge layers are also used for calculating dot products and summing the biases.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+        "cell_ids": [
+              13,
+              14
+          ],
+          "question": "What type of optimization algorithm and loss function are used to train the collaborative filtering model?",
+          "answer": "The model uses the Adam optimizer and binary cross-entropy as the loss function.",
+           "task": "Recommendation Systems",
+          "skill": "Deep Neural Networks"
+      },
+      {
+          "cell_ids": [
+              15,16
+          ],
+          "question": "What is the purpose of training the neural network using the history data?",
+          "answer": "Training data is used to minimize loss function to learn the best parameters to predict the match outcome.",
+           "task": "Recommendation Systems",
+          "skill": "Deep Neural Networks"
+      },
+      {
+          "cell_ids": [
+              17,18
+          ],
+          "question": "How are predictions generated for the sample submission file?",
+          "answer": "The model uses the trained embeddings to predict the probability of team1 winning for the given match in the sample submission data.",
+          "task": "Recommendation Systems",
+           "skill": "Deep Neural Networks"
+      },
+     {
+          "cell_ids": [
+            17,18
+          ],
+          "question": "Does this notebook do any user based analysis?",
+          "answer": "No, this notebook does not use user-based analysis. This implementation is an item based collaborative filtering by using games as items.",
+          "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      },
+      {
+          "cell_ids": [
+              17,18
+          ],
+          "question":"Does this notebook do any item based analysis?",
+           "answer":"Yes, this notebook does item based analysis by using the team pairs in each game as items for collaborative filtering.",
+          "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      }
+  ]

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vcolliym/pydml"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/abrahamanderson/dimensionality-analysis-pca-kernel-pca-and-lda",
+    "domain": "Food",
+    "help_data_file_names": []
+}

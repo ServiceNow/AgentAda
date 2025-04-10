@@ -1,0 +1,4 @@
+{
+    "goal": "To identify and rank the significance of various features in predicting housing sales prices.",
+    "persona": "A data scientist with an expertise in real estate analytics, skilled in feature selection and model optimization. They are particularly interested in improving model efficiency and accuracy through advanced methodologies like LASSO regularization, and they aim to enhance decision-making strategies in real estate investments."
+}

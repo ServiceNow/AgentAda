@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What trend is observed in the gold price dataset over the observed period?",
+        "answer": "The dataset shows a steady upward trend with occasional sharp increases.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly gold price in the dataset?",
+        "answer": "The average monthly gold price is $1,800 per ounce.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are present in the gold price dataset?",
+        "answer": "The dataset shows seasonal peaks during the holiday months of November and December.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest gold price recorded in the dataset, and when did it occur?",
+        "answer": "The highest gold price recorded is $2,050 per ounce in August 2020.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What are the forecasted gold prices for the next 6 months using the ARIMA model?",
+        "answer": "The forecasted gold prices range between $1,850 and $1,950 per ounce.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the dataset indicate about the volatility of gold prices over the years?",
+        "answer": "Gold prices show moderate volatility, with sharp increases during economic uncertainties.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How do the forecasted prices compare to historical seasonal averages?",
+        "answer": "The forecasted prices align with seasonal averages, reflecting typical increases during the holiday months.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Are there any missing or inconsistent values in the dataset, and how were they handled?",
+        "answer": "The dataset had missing values for 3 months, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What insights can be drawn about the long-term trend of gold prices from the dataset?",
+        "answer": "Gold prices have shown a steady upward trend, influenced by inflation and economic conditions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What impact do seasonal variations have on the forecasted gold prices?",
+        "answer": "Seasonal variations are expected to cause slight increases during the year-end months, consistent with historical patterns.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

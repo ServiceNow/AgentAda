@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1, 2],
+        "question": "What is the initial distribution of sentiment scores for groups A and B in the dataset?",
+        "answer": "The dataset contains 2,000 sentiment scores for group A and 2,000 for group B.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4, 5],
+        "question": "What are the mean sentiment scores for groups A and B before applying the Multi-Armed Bandit approach?",
+        "answer": "The mean sentiment score is 0.77 for group A and 0.70 for group B.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 7],
+        "question": "Why is the Multi-Armed Bandit strategy applied in this A/B testing?",
+        "answer": "The Multi-Armed Bandit is used to dynamically allocate traffic between groups A and B to maximize overall rewards.",
+        "task": "A/B Testing",
+        "skill": "Multi-Armed Bandit"
+    },
+    {
+        "cell_ids": [8, 9, 10],
+        "question": "What is the observed reward rate for groups A and B during the testing period?",
+        "answer": "The reward rate is 0.75 for group A and 0.68 for group B.",
+        "task": "A/B Testing",
+        "skill": "Multi-Armed Bandit"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How does the Multi-Armed Bandit allocate traffic between groups A and B over time?",
+        "answer": "Group A receives 65% of the traffic, while group B receives 35%, based on reward optimization.",
+        "task": "A/B Testing",
+        "skill": "Multi-Armed Bandit"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What is the cumulative reward achieved by groups A and B during the experiment?",
+        "answer": "The cumulative reward is 1,500 for group A and 1,200 for group B.",
+        "task": "A/B Testing",
+        "skill": "Multi-Armed Bandit"
+    },
+    {
+        "cell_ids": [15, 16, 17],
+        "question": "What exploration-exploitation strategy is used in the Multi-Armed Bandit method?",
+        "answer": "An epsilon-greedy strategy with 10% exploration is used.",
+        "task": "A/B Testing",
+        "skill": "Multi-Armed Bandit"
+    },
+    {
+        "cell_ids": [18],
+        "question": "How does the sample size impact the effectiveness of the Multi-Armed Bandit strategy?",
+        "answer": "A larger sample size enhances the accuracy of reward estimation, improving decision-making.",
+        "task": "A/B Testing",
+        "skill": "Multi-Armed Bandit"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the conclusion about the optimal group based on the Multi-Armed Bandit results?",
+        "answer": "Group A is identified as the optimal group due to a higher cumulative reward.",
+        "task": "A/B Testing",
+        "skill": "Multi-Armed Bandit"
+    },
+    {
+        "cell_ids": [21, 22, 23],
+        "question": "What are the confidence intervals for the reward rates of groups A and B?",
+        "answer": "The confidence intervals are [0.73, 0.77] for group A and [0.66, 0.70] for group B.",
+        "task": "A/B Testing",
+        "skill": "Multi-Armed Bandit"
+    }
+]

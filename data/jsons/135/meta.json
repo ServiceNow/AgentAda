@@ -1,0 +1,20 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection",
+        "https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset",
+        "https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets",
+        "https://www.kaggle.com/datasets/ybifoundation/credit-card-transaction",
+        "https://www.kaggle.com/datasets/kevinragnar/credit-card-anomaly-detection",
+        "https://www.kaggle.com/datasets/cyubahirogilbert/credit-card-kaggle-anomaly-detection",
+        "https://www.kaggle.com/datasets/hamzasafwan/credit-card-fraud",
+        "https://www.kaggle.com/datasets/dileep070/anomaly-detection",
+        "https://www.kaggle.com/datasets/cgrodrigues/credit-card-transactions-synthetic-data-generation",
+        "https://www.kaggle.com/datasets/abdelazizsami/thyroid-disease",
+        "https://www.kaggle.com/datasets/orogunadebola/credit-card-transaction-dataset-fraud-detection",
+        "https://www.kaggle.com/datasets/wallacefqq/yichang-data"
+    ],
+    "dataset_description": "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.",
+    "notebook_url": "https://www.kaggle.com/code/kachalisarma20/credit-card-anomaly-detection",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/ishandutta/d2c-climate-change-hackathon"],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/ishandutta/climate-change-hackathon/notebook",
+    "domain": "Weather",
+    "help_data_file_names": ["train.csv"]
+}

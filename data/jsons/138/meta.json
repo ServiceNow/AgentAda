@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data",
+        "https://www.kaggle.com/datasets/isabbaggin/transaction-fraudulent-financial-syntheticdata",
+        "https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection",
+        "https://www.kaggle.com/datasets/devildyno/upi-payment-transactions-dataset",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/upi-payment",
+        "https://www.kaggle.com/datasets/qusaybtoush1990/transactions-data-bank-fraud-detection",
+        "https://www.kaggle.com/datasets/luisfernandolfss/bank-transactions-data-2",
+        "https://www.kaggle.com/datasets/orogunadebola/credit-card-transaction-dataset-fraud-detection"
+    ],
+    "dataset_description": "This dataset provides a detailed look into transactional behavior and financial activity patterns, ideal for exploring fraud detection and anomaly identification. It contains 2,512 samples of transaction data, covering various transaction attributes, customer demographics, and usage patterns. Each entry offers comprehensive insights into transaction behavior, enabling analysis for financial security and fraud detection applications.",
+    "notebook_url": "https://www.kaggle.com/code/daanishmuzaffar/bank-fraud-detection-and-transaction-analysis",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

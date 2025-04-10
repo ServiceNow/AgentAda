@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the causal relationships affecting the Consumer Confidence Index over time.",
+    "persona": "A data analyst specializing in time series analysis with a focus on consumer economic indicators, having 7 years of experience in economic data analytics. Interested in uncovering the interdependencies between different economic indicators to provide actionable insights for financial and governmental institutions. Skilled in causality testing methods such as Granger Causality to understand the underlying economic dynamics influencing consumer sentiment."
+}

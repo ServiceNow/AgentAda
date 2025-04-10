@@ -1,0 +1,25 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/innocentmfa/crm-sales-opportunities",
+        "https://www.kaggle.com/datasets/kalilurrahman/salesforce-stock-date-latest-and-updated",
+        "https://www.kaggle.com/datasets/rahuljangir78/business-intelligence-in-uk-retail-crm",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-oman",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-turkey",
+        "https://www.kaggle.com/datasets/lastman0800/social-media-for-crm",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-hungary",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-luxembourg",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-italy",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-nigeria",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-kuwait",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-morocco",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-libya",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-latvia",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-japan",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-pakistan",
+        "https://www.kaggle.com/datasets/techsalerator/b2b-technographic-data-in-united-arab-emirates"
+    ],
+    "dataset_description": "This Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.",
+    "notebook_url": "https://www.kaggle.com/code/kemalgunay/customer-relationship-management-crm-analytics",
+    "domain": "Business",
+    "help_data_file_names": []
+}

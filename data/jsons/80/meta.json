@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/calven22/usa-key-macroeconomic-indicators"],
+    "dataset_description": "Domino’s Pizza, like many other restaurant chains, is getting pinched by higher food costs. The company’s chief executive, Richard Allison, anticipates “unprecedented increases” in the company’s food costs, which could jump by 8-10%. He said that is three to four times what the pizza chain would normally expect in a year.",
+    "notebook_url": "https://www.kaggle.com/code/calven22/forecasting-inflation-with-arima-and-lstm/notebook",
+    "domain": "Economics",
+    "help_data_file_names": []
+}

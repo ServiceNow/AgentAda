@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the Iris dataset to identify patterns and relationships among different species based on their physical characteristics.",
+    "persona": "A data scientist with 3 years of experience in machine learning and data analysis, specializing in clustering and classification tasks. They are focused on understanding species differences and applying dimensionality reduction techniques to simplify complex datasets for clearer insights."
+}

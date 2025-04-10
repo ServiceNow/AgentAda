@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/borhanitrash/telco-customer-churn",
+        "https://www.kaggle.com/datasets/reyhanarighy/data-telco-customer-churn"
+    ],
+    "dataset_description": "Each row represents a customer, each column contains customer’s attributes described on the column Metadata.",
+    "notebook_url": "https://www.kaggle.com/code/tzaftzaf/telco-customer-churn-analysis-and-predictions",
+    "domain": "Telecommunications",
+    "help_data_file_names": []
+}

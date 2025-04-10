@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records and features are included in the e-commerce retention dataset?",
+        "answer": "The dataset contains 150,000 records and 18 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [11, 16],
+        "question": "What is the average customer retention rate over a 6-month period?",
+        "answer": "The average customer retention rate over six months is 42%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [20],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "The highest retention occurs in month 1, with a retention rate of 75%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [24, 29],
+        "question": "How does customer retention vary across different product categories?",
+        "answer": "Customers purchasing electronics show a 60% retention rate, while clothing buyers have a 35% retention rate.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [34, 38, 43],
+        "question": "What is the retention rate for high-value customers compared to low-value customers?",
+        "answer": "High-value customers retain at a rate of 55%, whereas low-value customers retain at 30%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [47, 52, 57, 61],
+        "question": "How do promotional campaigns impact cohort retention?",
+        "answer": "Customers acquired through promotions have a retention rate of 38%, whereas organic customers retain at 50%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [66],
+        "question": "Which customer segment has the highest long-term retention rate?",
+        "answer": "Loyal customers who made repeat purchases in the first three months have a 65% retention rate.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [71, 76, 81],
+        "question": "What effect does subscription-based purchasing have on customer retention?",
+        "answer": "Subscription-based customers show a 20% higher retention rate compared to one-time buyers.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [86, 91, 96, 101],
+        "question": "What insights can be derived from the cohort retention analysis?",
+        "answer": "Retention rates decline sharply after the first two months, with a significant drop of 30% between months 2 and 3.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [107, 113, 118, 124],
+        "question": "How does the customer retention rate compare year over year?",
+        "answer": "The retention rate improved by 8% in the last year, primarily due to targeted engagement campaigns.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    }
+]

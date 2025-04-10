@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [15],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of Amazon product sales, including customer reviews and pricing information.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [24, 30],
+        "question": "What preprocessing steps were performed before calculating Pearson correlation?",
+        "answer": "The dataset was standardized, missing values were imputed, and categorical variables such as product categories were encoded into numerical values.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [37],
+        "question": "Which two product attributes show the strongest positive correlation?",
+        "answer": "Product price and average customer rating show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [52, 59],
+        "question": "Which factor has the highest negative correlation with product return rate?",
+        "answer": "Customer review score has the highest negative correlation with product return rate.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [71, 79, 85],
+        "question": "What is the Pearson correlation coefficient between advertising spend and total sales?",
+        "answer": "The Pearson correlation coefficient between advertising spend and total sales is 0.82.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [96, 103],
+        "question": "How does Pearson correlation between product discounts and customer purchase frequency compare to other factors?",
+        "answer": "The correlation between product discounts and customer purchase frequency is higher than the correlation between product reviews and purchase frequency.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [115],
+        "question": "Which product category shows the weakest correlation between price and sales volume?",
+        "answer": "Luxury electronics show the weakest correlation between price and sales volume.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [127, 133, 141, 149],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between shipping speed and customer satisfaction?",
+        "answer": "The Pearson correlation coefficient indicates a strong positive relationship, meaning faster shipping speeds result in higher customer satisfaction.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [161],
+        "question": "Which feature has the least correlation with product ranking on Amazon?",
+        "answer": "The number of images in the product listing has the least correlation with product ranking.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [172, 180, 189, 197],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for analyzing Amazon sales data?",
+        "answer": "Pearson correlation helped identify key factors influencing sales, such as pricing strategies and customer satisfaction, improving business decision-making.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

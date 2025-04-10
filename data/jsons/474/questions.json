@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "How many molecular dynamics simulations are included in the dataset?",
+        "answer": "The dataset contains 250 molecular dynamics simulations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [32, 41],
+        "question": "What are the main properties of liquid water studied in the dataset?",
+        "answer": "The main properties studied include density fluctuations, hydrogen bond lifetime, and radial distribution functions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [57, 68, 79],
+        "question": "What latent variables are defined in the structural equation model for analyzing liquid water?",
+        "answer": "The latent variables include 'Hydrogen Bond Strength', 'Molecular Kinetics', and 'Thermodynamic Stability'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [88, 102, 119, 133],
+        "question": "Which observed factors have the strongest direct impact on 'Hydrogen Bond Strength'?",
+        "answer": "'Temperature Variations' and 'Molecular Orientation' have the strongest direct impact on 'Hydrogen Bond Strength'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [145, 157, 172, 184],
+        "question": "What is the estimated path coefficient between 'Molecular Kinetics' and 'Thermodynamic Stability'?",
+        "answer": "The estimated path coefficient between 'Molecular Kinetics' and 'Thermodynamic Stability' is 0.67.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [191, 205, 217, 229],
+        "question": "Does 'Pressure Variability' mediate the relationship between 'Hydrogen Bond Strength' and 'Structural Order'?",
+        "answer": "'Pressure Variability' fully mediates the relationship between 'Hydrogen Bond Strength' and 'Structural Order', leading to a significant indirect effect.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [238, 249, 264, 278],
+        "question": "What percentage of the variance in 'Radial Distribution Function' is explained by the model?",
+        "answer": "The model explains 82% of the variance in 'Radial Distribution Function' (R² = 0.82).",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [287, 298, 312, 325],
+        "question": "Is there a statistically significant relationship between 'Intermolecular Forces' and 'Hydrogen Bond Lifetime'?",
+        "answer": "Yes, there is a statistically significant relationship with a p-value of 0.004.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [337, 351, 366, 378],
+        "question": "Which variable has the highest direct effect on 'Structural Order'?",
+        "answer": "'Hydrogen Bond Strength' has the highest direct effect on 'Structural Order' with a path coefficient of 0.78.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [385, 397, 411, 423],
+        "question": "What are the key insights from the structural equation model applied to molecular dynamics of water?",
+        "answer": "The model suggests that 'Hydrogen Bond Strength' and 'Molecular Kinetics' are primary drivers of 'Thermodynamic Stability', which influences 'Structural Order' in liquid water.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    }
+]

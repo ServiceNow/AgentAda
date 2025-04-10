@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop",
+        "https://www.kaggle.com/datasets/aryansingh0909/nyt-articles-21m-2000-present",
+        "https://www.kaggle.com/datasets/manhdodz249/irish-times-dataset-for-topic-model",
+        "https://www.kaggle.com/datasets/hussainsheikh03/nlp-based-cyber-security-dataset",
+        "https://www.kaggle.com/datasets/sunny9999/taiwan-104-career-jd",
+        "https://www.kaggle.com/datasets/vamsipasam2k/triaged-comments-with-priority-and-labels-hierarchy"
+    ],
+    "dataset_description": "The data is in uncleaned format and is collected using Twitter API. The Tweets has been filtered to keep only the English context. It targets mental health classification of the user at Tweet-level. Also check out notebooks I have provided which demonstrates Data Cleaning and Feature Extraction Techniques on the given dataset",
+    "notebook_url": "https://www.kaggle.com/code/infamouscoder/lda-topic-modeling-features",
+    "domain": "Literature",
+    "help_data_file_names": []
+}

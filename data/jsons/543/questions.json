@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What is the total number of records in the dataset?",
+        "answer": "The dataset contains 20,000 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13, 15],
+        "question": "What are the most common words in the dataset after removing stopwords?",
+        "answer": "The most common words in the dataset are 'disaster', 'help', 'emergency', and 'fire'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29],
+        "question": "What preprocessing steps were performed on the text data before applying SVD?",
+        "answer": "Tokenization, lowercasing, stopword removal, and TF-IDF transformation were performed.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [37, 40],
+        "question": "How many principal components were selected for SVD transformation?",
+        "answer": "100 principal components were selected.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [48, 51, 55],
+        "question": "How does the variance explained change with the number of principal components in SVD?",
+        "answer": "The first 50 components explain 85% of the variance, while adding more components results in diminishing returns.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [62, 66],
+        "question": "What was the effect of using SVD on the classification performance?",
+        "answer": "SVD improved classification accuracy by reducing dimensionality and noise in the text features.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [77],
+        "question": "What dataset was used for training the SVD-based model?",
+        "answer": "The dataset used was a collection of disaster-related tweets.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [92, 96, 99, 102],
+        "question": "How was feature importance determined after applying SVD?",
+        "answer": "The most influential principal components were identified based on their explained variance contribution.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [113],
+        "question": "How does SVD help in handling sparsity in text data?",
+        "answer": "SVD captures latent semantic structures, reducing the impact of sparsity by projecting data into a dense lower-dimensional space.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [128, 132, 135, 138],
+        "question": "What conclusions were drawn from the SVD-based approach compared to other dimensionality reduction techniques?",
+        "answer": "SVD provided better interpretability and preserved variance more effectively compared to PCA and NMF.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    }
+]

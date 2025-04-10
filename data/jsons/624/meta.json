@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews"
+    ],
+    "dataset_description": "Explore Hotel aspects and Predict the rating of each review.",
+    "notebook_url": "https://www.kaggle.com/code/ptfrwrd/topic-modeling-guide-gsdm-lda-lsi",
+    "domain": "Business",
+    "help_data_file_names": []
+}

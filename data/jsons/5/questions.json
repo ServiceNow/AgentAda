@@ -1,0 +1,102 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What is the size and structure of the dataset used for sentiment analysis?",
+        "answer": "The dataset contains 40,000 entries, each with text and a sentiment label (positive or negative).",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+            4
+        ],
+        "question": "What is the distribution of sentiments in the dataset?",
+        "answer": "The dataset is balanced, with 20,000 entries for each sentiment class (positive and negative).",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+        "question": "What preprocessing steps are applied to the text data?",
+        "answer": "Text data is tokenized using a pre-trained BERT tokenizer, and sequences are padded to a fixed length.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            7,
+            8
+        ],
+        "question": "What is the maximum sequence length used during tokenization, and why?",
+        "answer": "The maximum sequence length is set to 128 to balance computational efficiency and model performance.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            9,
+            10
+        ],
+        "question": "What is the accuracy of the fine-tuned BERT model on the validation dataset?",
+        "answer": "The fine-tuned BERT model achieves 91.5% accuracy on the validation set.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            11,
+            12
+        ],
+        "question": "What metrics are used to evaluate the BERT model's performance?",
+        "answer": "Metrics include accuracy, precision, recall, and F1-score.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            13,
+            14
+        ],
+        "question": "What are the most common words associated with positive sentiment in the dataset?",
+        "answer": "Words like 'excellent', 'amazing', and 'fantastic' are common in positive sentiment texts.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "What is the impact of varying learning rates on model performance?",
+        "answer": "A learning rate of 3e-5 provides the best balance between convergence speed and accuracy.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            17,
+            18
+        ],
+        "question": "What types of errors are most common in the model's predictions?",
+        "answer": "The model struggles with sentences containing ambiguous or neutral expressions.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            19,
+            20
+        ],
+        "question": "How does the model's performance change with longer or shorter text sequences?",
+        "answer": "The model performs better on shorter sequences and exhibits reduced accuracy on longer ones due to truncation.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    }
+]

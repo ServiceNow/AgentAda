@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze historical passenger data to identify trends, seasonality, and forecast future values.",
+    "persona": "A data analyst with 3 years of experience in transportation analytics, focused on leveraging historical data to understand patterns in passenger numbers and forecast future trends. They are skilled in time series analysis and proficient with tools like Prophet for forecasting, aiming to provide actionable insights for data-driven decision making in the transportation sector."
+}

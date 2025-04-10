@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many patient records are included in the dataset?",
+        "answer": "The dataset contains 303 patient records.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [15, 18],
+        "question": "What are the key interactive visualizations used in heart disease risk analysis?",
+        "answer": "The visualizations include histograms for cholesterol levels, age distribution plots, and interactive correlation heatmaps.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [20],
+        "question": "Which age group has the highest risk of heart attacks?",
+        "answer": "Patients in the 50-60 age group exhibit the highest risk of heart attacks.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [23, 26],
+        "question": "What is the average cholesterol level among patients in the dataset?",
+        "answer": "The average cholesterol level among patients is 246 mg/dL.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [28, 31],
+        "question": "How do cholesterol levels differ between patients with and without heart disease?",
+        "answer": "Patients with heart disease have an average cholesterol level of 270 mg/dL, whereas those without heart disease average 220 mg/dL.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [34, 37, 39],
+        "question": "What is the correlation between blood pressure and heart attack occurrence?",
+        "answer": "Higher blood pressure is positively correlated with heart attack occurrence, with a correlation coefficient of 0.72.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [42],
+        "question": "Which factor has the highest influence on heart attack prediction?",
+        "answer": "Age and cholesterol levels have the highest influence on heart attack prediction.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [45, 48, 50],
+        "question": "What is the impact of smoking on heart disease risk?",
+        "answer": "Smokers in the dataset have a 40% higher risk of heart disease compared to non-smokers.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [53, 56, 59, 62],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "Age, cholesterol levels, and blood pressure are key indicators of heart attack risk, while lifestyle choices like smoking and exercise play a major role.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

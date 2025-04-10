@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "What dataset was used for the customer segmentation analysis?",
+        "answer": "The dataset consists of customer purchase behaviors, including transaction frequency and spending patterns.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [12, 19],
+        "question": "How many customer segments were identified in the analysis?",
+        "answer": "The analysis identified 4 customer segments based on spending behavior and frequency of purchases.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [25, 32, 38],
+        "question": "What characteristics define the highest-spending customer segment?",
+        "answer": "The highest-spending segment consists of customers who frequently purchase high-value items and have high transaction counts.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [45, 51, 58],
+        "question": "Which customer segment has the lowest engagement with the business?",
+        "answer": "Segment 3 consists of infrequent buyers who make small purchases and have low retention rates.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [65, 72, 79],
+        "question": "What features were used to determine customer clusters?",
+        "answer": "Key features include total spending, transaction frequency, and recency of last purchase.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [87, 93, 100],
+        "question": "How does the cluster with the highest average spending compare to the lowest-spending cluster?",
+        "answer": "The highest-spending cluster has an average spend 5 times greater than the lowest-spending cluster, with more frequent transactions.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [108, 115, 123],
+        "question": "How does customer segmentation help in targeted marketing strategies?",
+        "answer": "It helps in creating personalized promotions by targeting high-value customers with exclusive offers.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [130, 137, 145],
+        "question": "Which cluster shows the highest customer retention rate?",
+        "answer": "Cluster 2 has the highest retention rate, consisting of repeat customers with consistent purchase behavior.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [152, 160, 167],
+        "question": "How do seasonal trends impact different customer segments?",
+        "answer": "Segment 4 shows the most seasonal variation, with increased purchases during holiday periods.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [175, 182, 190],
+        "question": "What are the key insights gained from clustering customers based on their purchasing patterns?",
+        "answer": "The analysis reveals distinct groups of high-value customers, occasional buyers, and low-engagement customers, allowing for tailored marketing approaches.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    }
+]

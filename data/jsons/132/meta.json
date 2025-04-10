@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset",
+        "https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets",
+        "https://www.kaggle.com/datasets/hamzasafwan/credit-card-fraud",
+        "https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection",
+        "https://www.kaggle.com/datasets/cgrodrigues/credit-card-transactions-synthetic-data-generation",
+        "https://www.kaggle.com/datasets/orogunadebola/credit-card-transaction-dataset-fraud-detection"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/naveengowda16/anomaly-detection-credit-card-fraud-analysis",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

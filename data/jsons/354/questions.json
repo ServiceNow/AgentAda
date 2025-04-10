@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "How many players are included in the FIFA dataset?",
+        "answer": "The dataset contains 18,207 players.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [14, 18],
+        "question": "What are the key interactive visualizations used in the FIFA data analysis?",
+        "answer": "The analysis includes interactive world maps, league-based player distribution plots, and comparison charts.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [21],
+        "question": "Which league has the highest number of players in the dataset?",
+        "answer": "The English Premier League has the highest number of players in the dataset.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [24, 27],
+        "question": "What is the average overall rating of players across all leagues?",
+        "answer": "The average overall rating of players across all leagues is 68.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [30, 34],
+        "question": "How does market value distribution vary among different leagues?",
+        "answer": "Market values are highest in the English Premier League, followed by La Liga and Serie A.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [37, 41, 44],
+        "question": "What is the relationship between player age and their overall rating?",
+        "answer": "Younger players with high potential tend to have lower overall ratings, while experienced players have higher overall ratings but lower growth potential.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [47],
+        "question": "Which factor has the highest correlation with a player's market value?",
+        "answer": "Overall rating and potential have the highest correlation with a player’s market value.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [50, 53, 57],
+        "question": "How do the wages of players compare across different leagues?",
+        "answer": "Players in the Premier League receive the highest wages, followed by players in La Liga and Serie A.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [60, 63, 66, 69],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "League dominance is evident in player market values, younger players have higher potential scores, and player wages vary significantly between leagues.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

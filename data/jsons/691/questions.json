@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [13],
+        "question": "What dataset is being used for analysis in this notebook?",
+        "answer": "The dataset contains various numerical and categorical features related to customer purchases and demographics.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29, 41],
+        "question": "How many unique categories are present in the dataset?",
+        "answer": "The dataset includes 15 unique categories across different features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [56, 72, 85],
+        "question": "What is the most common value in the categorical feature 'product_type'?",
+        "answer": "The most common value in the 'product_type' column is 'Electronics'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [98, 113, 127],
+        "question": "What is the average value of the 'purchase_amount' column?",
+        "answer": "The average purchase amount in the dataset is approximately $45.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [135, 148, 161],
+        "question": "Which numerical feature has the highest variance?",
+        "answer": "The 'annual_income' feature has the highest variance in the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [173, 189, 199],
+        "question": "What is the distribution of transaction amounts in the dataset?",
+        "answer": "Most transactions range between $20 and $100, with a few exceeding $500.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

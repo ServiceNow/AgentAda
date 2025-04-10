@@ -1,0 +1,4 @@
+{
+    "goal": "Predict aircraft engine failures using sensor data for maintenance optimization.",
+    "persona": "A data scientist specializing in predictive maintenance, with 7 years of experience in analyzing sensor data from industrial machinery. This individual is focused on leveraging machine learning models, particularly Random Forest, to enhance the safety and efficiency of aircraft engines by predicting potential failures and optimizing maintenance schedules. They are passionate about applying advanced analytics to real-world engineering problems to reduce operational risks and costs."
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Optimize user allocation between groups A and B to maximize sentiment rewards.",
+    "persona": "A data scientist specialized in A/B testing and optimization strategies, with expertise in using statistical methods like Multi-Armed Bandit to enhance decision-making processes, aimed at improving user engagement metrics through data-driven insights."
+}

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset",
+        "https://www.kaggle.com/datasets/omkarborikar/top-10000-popular-movies",
+        "https://www.kaggle.com/datasets/alanvourch/tmdb-movies-daily-updates",
+        "https://www.kaggle.com/datasets/ggtejas/tmdb-imdb-merged-movies-dataset",
+        "https://www.kaggle.com/datasets/muqarrishzaib/tmdb-10000-movies-dataset",
+        "https://www.kaggle.com/datasets/nagrajdesai/latest-10000-movies-dataset-from-tmdb",
+        "https://www.kaggle.com/datasets/manashjyotiborah/top-10000-movies-hosted-on-tmdb",
+        "https://www.kaggle.com/datasets/khushipitroda/movie-genre-detection",
+        "https://www.kaggle.com/datasets/asaniczka/movie-identification-dataset-800-movies",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/apkaayush/tmdb-10000-movies-dataset",
+        "https://www.kaggle.com/datasets/hafiznouman786/2024-tmdb-latest-movie-data",
+        "https://www.kaggle.com/datasets/hassanelfattmi/which-movie-should-i-watch-today",
+        "https://www.kaggle.com/datasets/mathlasker/tmdballmovies",
+        "https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies",
+        "https://www.kaggle.com/datasets/shubhamchandra235/imdb-and-tmdb-movie-metadata-big-dataset-1m",
+        "https://www.kaggle.com/datasets/vidhikishorwaghela/bollywood-movies-dataset",
+        "https://www.kaggle.com/datasets/aayushsoni4/tmdb-6000-movie-dataset-with-ratings",
+        "https://www.kaggle.com/datasets/mdtanvirmahamudhimel/tmdb-movie-dataset-metadata-for-film-analysis",
+        "https://www.kaggle.com/datasets/ngalenal1004/tmdb-movies-dataset-2024"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/erikbruin/movie-recommendation-systems-for-tmdb",
+    "domain": "Entertainment",
+    "help_data_file_names": ["credits.csv"]
+}

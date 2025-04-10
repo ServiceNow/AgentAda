@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kashnitsky/mlcourse",
+        "https://www.kaggle.com/datasets/arnavsmayan/stock-market-dataset",
+        "https://www.kaggle.com/datasets/ankulsharma150/netflix-data-analysis",
+        "https://www.kaggle.com/datasets/lorentzyeung/all-japanese-anime-titles-in-imdb",
+        "https://www.kaggle.com/datasets/ponybiam/onboard-api-intro",
+        "https://www.kaggle.com/datasets/gkitchen/s-and-p-500-spy",
+        "https://www.kaggle.com/datasets/decide-soluciones/air-quality-madrid",
+        "https://www.kaggle.com/datasets/akouaorsot/fintech-stock-price-data",
+        "https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset",
+        "https://www.kaggle.com/datasets/kmader/circadian-rhythm-in-the-brain",
+        "https://www.kaggle.com/datasets/rabieelkharoua/split-or-stay-divorce-predictor-dataset",
+        "https://www.kaggle.com/datasets/ravi20076/optiver-memoryreduceddatasets",
+        "https://www.kaggle.com/datasets/jaganadhg/house-hold-energy-data",
+        "https://www.kaggle.com/datasets/boyangs444/process-data-for-predictive-maintenance",
+        "https://www.kaggle.com/datasets/michau96/images-from-star-wars-movies",
+        "https://www.kaggle.com/datasets/elemento/earthquakes-timeseries-analysis-nsfe-part-2",
+        "https://www.kaggle.com/datasets/elemento/earthquakes-timeseries-analysis-nefs",
+        "https://www.kaggle.com/datasets/lorentzyeung/top-240-recommended-restaurants-in-new-york-2023",
+        "https://www.kaggle.com/datasets/elemento/earthquakes-timeseries-analysis-nsfe-sac",
+        "https://www.kaggle.com/datasets/elemento/ntu-rw"
+    ],
+    "dataset_description": "Daily and updated CAC40 stocks from 2010 to 2021",
+    "notebook_url": "https://www.kaggle.com/code/bryanb/introduction-to-time-series-analysis",
+    "domain": "Education",
+    "help_data_file_names": []
+}

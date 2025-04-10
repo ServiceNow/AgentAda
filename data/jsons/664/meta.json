@@ -1,0 +1,19 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset",
+        "https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis",
+        "https://www.kaggle.com/datasets/mittalvasu95/the-bread-basket",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-records",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/boopathi09945/market-basket-analysis",
+        "https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast",
+        "https://www.kaggle.com/datasets/rosalinadas/ecommerce-data",
+        "https://www.kaggle.com/datasets/swapnilprantamistry/fake-pc-components-basket-analysis",
+        "https://www.kaggle.com/datasets/jangid6/mall-customerdata-with-nulls"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/khusheekapoor/market-basket-analysis-in-python",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

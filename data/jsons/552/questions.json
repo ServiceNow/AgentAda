@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What is the total number of images in the dataset?",
+        "answer": "The dataset contains 10,000 images.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13, 17],
+        "question": "What is the average pixel intensity value in the dataset?",
+        "answer": "The average pixel intensity value is 127.5.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28],
+        "question": "What preprocessing steps were performed before applying Eigenvalue Decomposition?",
+        "answer": "The images were converted to grayscale, normalized, and reshaped into feature vectors.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [38, 42],
+        "question": "How many principal components were retained for image reconstruction?",
+        "answer": "50 principal components were retained for image reconstruction.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [51, 55, 59],
+        "question": "What percentage of variance is retained when using the first 25 principal components?",
+        "answer": "The first 25 principal components retain 85% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [66, 71],
+        "question": "What method was used to determine the number of principal components to retain?",
+        "answer": "The scree plot and cumulative explained variance analysis were used to determine the number of principal components.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [84],
+        "question": "What dataset was used in the Eigenvalue Decomposition analysis?",
+        "answer": "The dataset consists of handwritten digit images from the MNIST dataset.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [98, 102, 107, 112],
+        "question": "How was image reconstruction quality evaluated after applying PCA?",
+        "answer": "Reconstruction quality was evaluated using Mean Squared Error (MSE) between the original and reconstructed images.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [125],
+        "question": "How does Eigenvalue Decomposition contribute to image compression?",
+        "answer": "It reduces the dimensionality of image data by identifying the most important components, preserving structure while lowering storage requirements.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [137, 142, 148, 153],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition for image compression?",
+        "answer": "Eigenvalue Decomposition effectively reduced image size while maintaining visual quality, making it a useful approach for image compression tasks.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

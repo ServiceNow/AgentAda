@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/harunshimanto/epileptic-seizure-recognition"
+    ],
+    "dataset_description": "This dataset is a pre-processed and re-structured/reshaped version of a very commonly used dataset featuring epileptic seizure detection.",
+    "notebook_url": "https://www.kaggle.com/code/abdelmalekelmoukhtar/ml-algorithms-for-epileptic-seizures",
+    "domain": "Health",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "What dataset was used to demonstrate KNN imputation for missing values?",
+        "answer": "The dataset consists of clinical records, including patient attributes such as age, blood pressure, and cholesterol levels, with missing values.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [18, 26],
+        "question": "How was the proportion of missing values determined for each feature?",
+        "answer": "The proportion of missing values was calculated by dividing the number of missing entries by the total observations for each feature.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [34, 42, 50],
+        "question": "Which features in the dataset had the highest percentage of missing values?",
+        "answer": "Key numerical attributes such as blood sugar levels and creatinine concentration had the highest percentage of missing values.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [58, 66, 74],
+        "question": "How does KNN imputation handle missing values compared to mean or median imputation?",
+        "answer": "KNN imputation estimates missing values based on the k-nearest neighbors in the feature space, preserving relationships better than mean or median imputation.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [82, 90, 98],
+        "question": "What impact did KNN imputation have on the distribution of numerical features?",
+        "answer": "KNN imputation maintained the original feature distribution more accurately compared to simple imputation techniques, reducing data distortion.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [106, 114, 122],
+        "question": "How was the optimal value of k selected for KNN imputation?",
+        "answer": "The optimal k value was determined through cross-validation by comparing RMSE values for different k values.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [130, 138, 146],
+        "question": "What challenges were encountered when applying KNN imputation to categorical features?",
+        "answer": "Challenges included defining an appropriate distance metric for categorical data and ensuring that imputed values aligned with valid categories.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [154, 162, 170],
+        "question": "How did KNN imputation compare to MICE in handling missing data?",
+        "answer": "KNN imputation was faster but less effective at capturing feature dependencies, while MICE provided more accurate imputations at a higher computational cost.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [178, 186, 194],
+        "question": "How did KNN imputation affect machine learning model performance?",
+        "answer": "Models trained on KNN-imputed data showed improved performance compared to those using mean or median imputation, due to better feature retention.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [200],
+        "question": "What best practices were recommended for using KNN imputation in real-world datasets?",
+        "answer": "Best practices included selecting an appropriate k value, handling categorical variables carefully, and validating imputed values using domain knowledge.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    }
+]

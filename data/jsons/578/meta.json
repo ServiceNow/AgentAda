@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/santander-value-prediction-challenge"
+    ],
+    "dataset_description": "You are provided with an anonymized dataset containing numeric feature variables, the numeric target column, and a string ID column.",
+    "notebook_url": "https://www.kaggle.com/code/sudalairajkumar/simple-exploration-baseline-santander-value",
+    "domain": "Business",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/tklimonova/grocery-website-data-for-ab-test"],
+    "dataset_description": "This file represents the data from a grocery store. Data can be used for the AB test analysis.",
+    "notebook_url": "https://www.kaggle.com/code/songulerdem/a-b-testing-on-grocery-website-data/notebook",
+    "domain": "Business",
+    "help_data_file_names": []
+}

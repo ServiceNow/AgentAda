@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset",
+        "https://www.kaggle.com/datasets/henriupton/electricity-dayahead-prices-entsoe",
+        "https://www.kaggle.com/datasets/sohamshee/load-forecasting-sample-data"
+    ],
+    "dataset_description": "The objective of this competition is to predict 3 months of item-level sales data at different store locations.",
+    "notebook_url": "https://www.kaggle.com/code/ashishpatel26/lstm-demand-forecasting",
+    "domain": "Retail",
+    "help_data_file_names": ["train.csv"]
+}

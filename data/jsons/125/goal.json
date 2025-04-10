@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and evaluate patterns to detect fraudulent transactions in credit card data.",
+    "persona": "A data scientist specializing in fraud detection within the financial sector, possessing advanced expertise in machine learning models, particularly Random Forests. Their primary objective is to improve transaction security by accurately identifying fraudulent activities, handling data imbalances, and optimizing model performance. They are deeply interested in developing innovative solutions to protect consumers and financial institutions from fraud."
+}

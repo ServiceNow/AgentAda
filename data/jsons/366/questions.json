@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "How many records and features are included in the aircraft predictive maintenance dataset?",
+        "answer": "The dataset contains 200,000 records and 18 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 16],
+        "question": "What is the average operational cycle count before an aircraft component fails?",
+        "answer": "The average operational cycle count before failure is 330 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [20],
+        "question": "What sensor readings are used in the LSTM-based predictive maintenance model?",
+        "answer": "The model utilizes temperature, vibration, pressure, fuel consumption, and humidity as input features.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [24, 28],
+        "question": "How does an increase in engine temperature affect failure probability?",
+        "answer": "An engine temperature above 90°C increases failure probability by 72%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [32, 36, 40],
+        "question": "What is the distribution of failure types among aircraft components?",
+        "answer": "The dataset contains 44% mechanical failures, 31% electrical failures, and 25% hydraulic failures.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [44, 48, 51, 55],
+        "question": "What correlation exists between vibration levels and aircraft engine failures?",
+        "answer": "Aircraft engines with vibration levels exceeding 4.5 m/s² have a failure probability of 78%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [58],
+        "question": "Which sensor reading is the most influential in predicting aircraft engine failures?",
+        "answer": "Operational cycles are the strongest predictor of failures, followed by temperature and vibration readings.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [62, 66, 70],
+        "question": "What impact does feature scaling have on the LSTM model’s predictive performance?",
+        "answer": "Feature scaling minimizes sensor data variance and improves failure prediction accuracy by 7%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [74, 78, 82, 86],
+        "question": "What insights can be derived from the predictive maintenance model's results?",
+        "answer": "The LSTM model predicts failures with 94% accuracy up to 65 cycles in advance, with temperature and vibration identified as key indicators.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    }
+]

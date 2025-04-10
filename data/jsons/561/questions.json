@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What is the total number of samples in the dataset?",
+        "answer": "The dataset contains 150 samples.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 18],
+        "question": "What is the mean value of the petal length feature?",
+        "answer": "The mean value of the petal length feature is 3.76 cm.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27],
+        "question": "What preprocessing steps were performed before applying Eigenvalue Decomposition?",
+        "answer": "The dataset was standardized, and all numerical features were scaled to have zero mean and unit variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [35, 42],
+        "question": "How many principal components were retained for further analysis?",
+        "answer": "The first two principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [51, 57, 63],
+        "question": "What proportion of variance is explained by the first two principal components?",
+        "answer": "The first two principal components explain 95.8% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [72, 78],
+        "question": "How does feature correlation impact the results of Eigenvalue Decomposition?",
+        "answer": "Highly correlated features contribute redundant information, which Eigenvalue Decomposition helps to eliminate, improving efficiency.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [86],
+        "question": "What dataset was used in this analysis?",
+        "answer": "The dataset consists of iris flower measurements across three species: Setosa, Versicolor, and Virginica.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [98, 103, 109, 114],
+        "question": "What visualization technique was used to analyze the principal components?",
+        "answer": "A scatter plot of the first two principal components was used to visualize the dataset in reduced dimensions.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [125],
+        "question": "How does Eigenvalue Decomposition contribute to feature selection?",
+        "answer": "It ranks features based on their explained variance, allowing selection of the most informative variables.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [137, 142, 148, 153],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition for data visualization?",
+        "answer": "Eigenvalue Decomposition effectively reduced dimensionality while preserving class separation, making visualization more interpretable.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

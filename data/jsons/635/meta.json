@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-2-text-analysis"
+    ],
+    "dataset_description": "This dataset includes 90,000 realistic, synthetically generated worker compensation insurance policies, all of which have had an accident. For each record there is demographic and worker related information, as well as a text description of the accident. ",
+    "notebook_url": "https://www.kaggle.com/code/tanguypledel/topic-modeling-lda-implementation",
+    "domain": "Insurance",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

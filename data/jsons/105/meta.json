@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/debashis74017/nifty-50-minute-data",
+        "https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets",
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/talhabu/us-regional-sales-data",
+        "https://www.kaggle.com/datasets/giobbu/belgium-obu",
+        "https://www.kaggle.com/datasets/guillemservera/grains-and-cereals-futures",
+        "https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies",
+        "https://www.kaggle.com/datasets/nikhilkohli/us-stock-market-data-60-extracted-features",
+        "https://www.kaggle.com/datasets/boyangs444/process-data-for-predictive-maintenance",
+        "https://www.kaggle.com/datasets/henriupton/electricity-dayahead-prices-entsoe",
+        "https://www.kaggle.com/datasets/azharsaleem/advanced-saudi-arabian-aramco-stocks-dataset",
+        "https://www.kaggle.com/datasets/bulentsiyah/for-simple-exercises-time-series-forecasting",
+        "https://www.kaggle.com/datasets/pearlveera/weekly-sku-level-product-sales-transactions",
+        "https://www.kaggle.com/datasets/muhammaddawood42/nvidia-stock-data",
+        "https://www.kaggle.com/datasets/shellshock1911/us-commercial-aviation-industry-metrics",
+        "https://www.kaggle.com/datasets/mianbilal12/apple-stock-market-data-19802024",
+        "https://www.kaggle.com/datasets/ivivan/real-time-water-quality-data",
+        "https://www.kaggle.com/datasets/icsdataset/hai-security-dataset",
+        "https://www.kaggle.com/datasets/sameerprogrammer/detailed-financial-data-of-4456-nse-and-bse-company",
+        "https://www.kaggle.com/datasets/dariasvasileva/hourly-weather-data-in-ireland-from-24-stations"
+    ],
+    "dataset_description": "The objective of this competition is to predict 3 months of item-level sales data at different store locations.",
+    "notebook_url": "https://www.kaggle.com/code/dimitreoliveira/deep-learning-for-time-series-forecasting",
+    "domain": "Finance",
+    "help_data_file_names": ["train.csv"]
+}

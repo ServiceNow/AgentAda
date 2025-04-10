@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/tensorflow2-question-answering"
+    ],
+    "dataset_description": "In this competition, we are tasked with selecting the best short and long answers from Wikipedia articles to the given questions.",
+    "notebook_url": "https://www.kaggle.com/code/hamditarek/topic-modeling-lsa-and-lda",
+    "domain": "Technology",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [33],
+        "question": "What dataset was used for Kendall's Tau correlation analysis?",
+        "answer": "The dataset consists of customer information, including account usage, support interactions, and churn status.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [42, 50],
+        "question": "What preprocessing steps were performed before computing Kendall's Tau correlation?",
+        "answer": "The dataset was preprocessed by handling missing values, ranking categorical features such as subscription type, and normalizing numerical variables.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [57],
+        "question": "Which two customer attributes show the strongest positive Kendall's Tau correlation?",
+        "answer": "Customer tenure and total monthly charges show the strongest positive Kendall's Tau correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [72, 80],
+        "question": "Which factor has the highest negative correlation with customer churn?",
+        "answer": "Loyalty program participation has the highest negative correlation with customer churn.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [92, 100, 107],
+        "question": "What is the Kendall's Tau correlation coefficient between monthly usage hours and churn likelihood?",
+        "answer": "The Kendall's Tau correlation coefficient between monthly usage hours and churn likelihood is -0.58.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [119, 127],
+        "question": "How does Kendall's Tau correlation between service complaints and retention rate compare to other factors?",
+        "answer": "The correlation between service complaints and retention rate is weaker than the correlation between billing disputes and retention rate.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [139],
+        "question": "Which customer behavior shows the weakest correlation with churn probability?",
+        "answer": "The number of devices connected to the account shows the weakest correlation with churn probability.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [151, 159, 167, 175],
+        "question": "What does the Kendall's Tau correlation coefficient indicate about the relationship between customer satisfaction and subscription renewal?",
+        "answer": "The Kendall's Tau correlation coefficient indicates a strong positive relationship, meaning satisfied customers are more likely to renew their subscriptions.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [186],
+        "question": "Which subscription feature has the least correlation with customer churn?",
+        "answer": "The availability of live chat support has the least correlation with customer churn.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [197, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Kendall's Tau correlation for analyzing customer churn?",
+        "answer": "Kendall's Tau correlation helped identify key customer attributes, such as service complaints and tenure, as strong predictors of churn likelihood.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    }
+]

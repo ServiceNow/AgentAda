@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many records and features are present in the NASA predictive maintenance dataset?",
+        "answer": "The dataset contains 250,000 records and 24 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 17],
+        "question": "What is the average remaining useful life (RUL) of engines in the dataset?",
+        "answer": "The average remaining useful life (RUL) before failure is 150 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [20],
+        "question": "Which sensor readings are used as input features for predictive maintenance?",
+        "answer": "Key sensor readings include temperature, pressure, vibration, fuel flow, and engine speed.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [23, 27],
+        "question": "How does an increase in vibration levels impact failure probability?",
+        "answer": "Engines with vibration levels exceeding 5.2 m/s² have an 80% higher probability of failure.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [31, 35, 38],
+        "question": "What is the distribution of failure types in the dataset?",
+        "answer": "The dataset contains 45% mechanical failures, 30% thermal failures, and 25% structural failures.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [42, 46, 50, 54],
+        "question": "What is the correlation between pressure levels and failure events?",
+        "answer": "Engines with pressure levels above 300 kPa show a failure probability of 72%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [58],
+        "question": "Which feature has the strongest correlation with engine failure?",
+        "answer": "The operational cycle count and engine temperature are the most significant predictors of failure.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [62, 66, 70],
+        "question": "What impact does feature scaling have on the LSTM model’s performance?",
+        "answer": "Feature scaling reduces sensor variance, improving the model’s predictive accuracy by 7%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [74, 78, 83, 87],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The LSTM model predicts failures with 93% accuracy up to 80 cycles in advance, with temperature and vibration levels being the most important indicators.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    }
+]

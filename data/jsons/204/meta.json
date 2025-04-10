@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn",
+        "https://www.kaggle.com/datasets/borhanitrash/telco-customer-churn",
+        "https://www.kaggle.com/datasets/contacts365/telco-churn-prediction",
+        "https://www.kaggle.com/datasets/sibelius5/telco-customer-churn",
+        "https://www.kaggle.com/datasets/mustafakeser4/bigquery-churn-dataset",
+        "https://www.kaggle.com/datasets/easonlai/sample-telco-customer-churn-dataset",
+        "https://www.kaggle.com/datasets/damlasogut/telco-churn-prediction",
+        "https://www.kaggle.com/datasets/kubilayekmekci/telco-churn-prediction-model-reports",
+        "https://www.kaggle.com/datasets/rahulrajml/telecom-churn-prediction",
+        "https://www.kaggle.com/datasets/asharma237/telecom-customer-churn",
+        "https://www.kaggle.com/datasets/michaelghaly/churnprediction",
+        "https://www.kaggle.com/datasets/syedumeerr/telco-customer-churn",
+        "https://www.kaggle.com/datasets/samsam25/customer-churn-prediction-dataset",
+        "https://www.kaggle.com/datasets/debu1dutta/wa-fn-usec-telco-customer-churn-new-ad",
+        "https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset",
+        "https://www.kaggle.com/datasets/rruchi/churn-prediction",
+        "https://www.kaggle.com/datasets/hossamfarhoud/customer-churn-prediction",
+        "https://www.kaggle.com/datasets/ayatsanhouri/churn-prediction-for-telephone-customers",
+        "https://www.kaggle.com/datasets/hossamfarhoud/customer-churn-prediction-ml",
+        "https://www.kaggle.com/datasets/naveenklakshman/churn-prediction-logistic-regression"
+    ],
+    "dataset_description": "Each row represents a customer, each column contains customer’s attributes described on the column Metadata.",
+    "notebook_url": "https://www.kaggle.com/code/kutlukatalay/telco-churn-prediction",
+    "domain": "Business",
+    "help_data_file_names": []
+}

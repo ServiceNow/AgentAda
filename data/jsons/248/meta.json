@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/adityaxa/retail-rfm-analysis",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project",
+        "https://www.kaggle.com/datasets/vikramamin/rfm-analysis-online-retail"
+    ],
+    "dataset_description": "Sample Sales Data, Order Info, Sales, Customer, Shipping, etc., Used for Segmentation, Customer Analytics, Clustering and More. Inspired for retail analytics. This was originally used for Pentaho DI Kettle, But I found the set could be useful for Sales Simulation training. ",
+    "notebook_url": "https://www.kaggle.com/code/casalicchio/customer-segmentation-based-on-rfm-scores",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

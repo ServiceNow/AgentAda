@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "How many Kaggle users participated in the survey dataset used for visualization?",
+        "answer": "The dataset contains responses from 20,036 Kaggle users.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [13, 17],
+        "question": "What are the key interactive visualizations used in the Plotly-based analysis?",
+        "answer": "The analysis includes bar charts, animated sliders, scatter plots, and interactive heatmaps.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [20],
+        "question": "Which visualization tool is most popular among Kaggle users according to the dataset?",
+        "answer": "Matplotlib is the most popular visualization tool among Kaggle users, followed by Seaborn and Plotly.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [23, 27],
+        "question": "What percentage of Kaggle users use Plotly for visualization?",
+        "answer": "Approximately 28% of Kaggle users use Plotly for visualization.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [30, 34],
+        "question": "How does the choice of visualization tool vary across different professions?",
+        "answer": "Data scientists and ML engineers prefer Matplotlib and Seaborn, while business analysts show a higher preference for Tableau and Power BI.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [37, 41, 44],
+        "question": "What is the impact of adding animation frames to bar charts in Plotly?",
+        "answer": "Adding animation frames allows users to explore changes over different categories, making comparative analysis more dynamic and engaging.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [47],
+        "question": "Which factor has the highest influence on the selection of visualization tools?",
+        "answer": "Job role and familiarity with programming languages have the highest influence on the selection of visualization tools.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [50, 53, 57],
+        "question": "What is the benefit of using sliders in interactive visualizations?",
+        "answer": "Sliders allow users to dynamically filter and compare different data points without reloading the chart.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [60, 63, 66, 69],
+        "question": "What insights can be derived from the interactive visualizations in the notebook?",
+        "answer": "The use of interactive elements enhances data exploration, making it easier to identify trends, compare data distributions, and improve engagement in presentations.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

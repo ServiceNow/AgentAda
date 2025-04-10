@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1, 5],
+        "question": "How many unique reviews and sentiments are present in the dataset?",
+        "answer": "There are 49,582 unique reviews and 2 unique sentiments (positive and negative).",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 7],
+        "question": "What is the most frequent sentiment in the dataset, and how often does it appear?",
+        "answer": "The most frequent sentiment is 'positive,' appearing 25,000 times.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7],
+        "question": "What is the top repeated review in the dataset?",
+        "answer": "The top repeated review is 'Loved today's show!!! It was a variety and not...'",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 4],
+        "question": "What columns are included in the dataset?",
+        "answer": "The dataset contains two columns: 'review' and 'sentiment'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 12],
+        "question": "What is the accuracy of sentiment classification using BERT?",
+        "answer": "The accuracy of sentiment classification using BERT is around 90%.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [11],
+        "question": "What is the structure of the BERT-based classification model?",
+        "answer": "The model uses a pre-trained BERT transformer with a classifier layer added for binary classification.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [15, 16],
+        "question": "How many epochs were required to train the BERT model to achieve its best accuracy?",
+        "answer": "The BERT model achieved its best accuracy after 3 epochs of training.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [18],
+        "question": "What are the most important hyperparameters used for training the BERT model?",
+        "answer": "The most important hyperparameters include a learning rate of 2e-5, a batch size of 32, and 3 training epochs.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [21],
+        "question": "What does the confusion matrix indicate about the BERT model's performance?",
+        "answer": "The confusion matrix indicates a balanced performance, with high precision and recall for both positive and negative sentiments.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [23],
+        "question": "What is the significance of using BERT over traditional models for sentiment analysis?",
+        "answer": "BERT provides a significant improvement in accuracy due to its ability to capture contextual embeddings of words.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    }
+]

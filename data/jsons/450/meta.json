@@ -1,0 +1,19 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var",
+        "https://www.kaggle.com/datasets/asgharalikhan/mortality-rate-heart-patient-pakistan-hospital",
+        "https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset",
+        "https://www.kaggle.com/datasets/ankushpanday1/stroke-predictions-dataset-of-indians",
+        "https://www.kaggle.com/datasets/akashnath29/lung-cancer-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/analysis-of-coronary-artery-disease-risk-factors",
+        "https://www.kaggle.com/datasets/joebeachcapital/support2",
+        "https://www.kaggle.com/datasets/sujaykapadnis/patient-risk-profiles",
+        "https://www.kaggle.com/datasets/shijo96john/animal-disease-prediction",
+        "https://www.kaggle.com/datasets/samueltaiwograce/stroke-dataset",
+        "https://www.kaggle.com/datasets/queensijariwala/diabetes"
+    ],
+    "dataset_description": "This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to this date. The \"goal\" field refers to the presence of heart disease in the patient. It is integer-valued from 0 (no presence) to 4.",
+    "notebook_url": "https://www.kaggle.com/code/desalegngeb/heart-disease-predictions",
+    "domain": "Health",
+    "help_data_file_names": []
+}

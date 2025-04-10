@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [15],
+        "question": "What is the range of values in the time series dataset?",
+        "answer": "The values in the dataset range from 20.5 to 95.3 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [32, 48],
+        "question": "What is the average value of the time series data?",
+        "answer": "The average value of the dataset is approximately 56.7 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [61, 78, 92],
+        "question": "Does the dataset exhibit a clear seasonal pattern?",
+        "answer": "Yes, the dataset shows a recurring seasonal pattern with peaks occurring every 12 months.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [107, 123, 136, 149],
+        "question": "What is the magnitude of seasonal fluctuations in the time series data?",
+        "answer": "The seasonal fluctuations have a magnitude of approximately ±10 units from the trend component.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [160, 172, 188],
+        "question": "What portion of the variance in the dataset is explained by the trend component?",
+        "answer": "The trend component explains about 60% of the total variance in the dataset.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [21, 36, 51],
+        "question": "Are there any missing values in the dataset?",
+        "answer": "No, the dataset does not contain any missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [67, 83, 98, 113],
+        "question": "How does the decomposed residual component behave over time?",
+        "answer": "The residual component appears to be randomly distributed with occasional spikes, suggesting external anomalies.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [130, 145, 158],
+        "question": "Has the overall trend shown a sudden shift at any point?",
+        "answer": "Yes, a sudden increase in trend is observed after 2018, indicating a structural change in the data.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [176, 191, 199],
+        "question": "Are there any periods where the trend and seasonality seem to diverge?",
+        "answer": "Yes, during 2015 and 2020, the seasonal pattern appears weaker while the trend component remains strong.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [27, 43, 57],
+        "question": "What is the interquartile range (IQR) of the time series data?",
+        "answer": "The interquartile range of the dataset is approximately 18.2 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

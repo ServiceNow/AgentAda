@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/muhammaddawood42/nvidia-stock-data",
+        "https://www.kaggle.com/datasets/mhassansaboor/toyota-motors-stock-data-2980-2024",
+        "https://www.kaggle.com/datasets/noeyislearning/apple-inc-historical-stock",
+        "https://www.kaggle.com/datasets/ranatalha71/stock-prices-of-mastercard-and-visa-2008-2024",
+        "https://www.kaggle.com/datasets/innocentmfa/mercedes-benz-historical-stock-dataset",
+        "https://www.kaggle.com/datasets/austro/beat-the-bookie-worldwide-football-dataset",
+        "https://www.kaggle.com/datasets/gallo33henrique/bitcoin-btc-usd-stock-dataset",
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/innocentmfa/alibaba-baba-stock-dataset",
+        "https://www.kaggle.com/datasets/sahilwagh/gold-stock-prices",
+        "https://www.kaggle.com/datasets/innocentmfa/honda-motor-stocks-prices",
+        "https://www.kaggle.com/datasets/jillanisofttech/tesla-stock-price",
+        "https://www.kaggle.com/datasets/shahidk3075/bitcoin-price-prediction-dataset",
+        "https://www.kaggle.com/datasets/mhassansaboor/honda-motors-stocks-data-1980-2024",
+        "https://www.kaggle.com/datasets/mhassansaboor/intel-stock-data-1980-2024",
+        "https://www.kaggle.com/datasets/maharshipandya/-cryptocurrency-historical-prices-dataset",
+        "https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies",
+        "https://www.kaggle.com/datasets/mianbilal12/apple-stock-market-data-19802024",
+        "https://www.kaggle.com/datasets/innocentmfa/paypal-holdings-stock-ticker",
+        "https://www.kaggle.com/datasets/simronw/tesla-stock-data-2024"
+    ],
+    "dataset_description": "Closing market rate for every crypto currency",
+    "notebook_url": "https://www.kaggle.com/code/hassanaftab/time-series-analysis-closing-market",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

@@ -1,0 +1,22 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data",
+        "https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/dev0914sharma/customer-clustering",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/manidevesh/customer-sales-data",
+        "https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering",
+        "https://www.kaggle.com/datasets/smmmmmmmmmmmm/customer-churn-analysis-of-kiwibank",
+        "https://www.kaggle.com/datasets/adityaxa/retail-rfm-analysis",
+        "https://www.kaggle.com/datasets/setseries/airbnb-listings-in-california",
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset",
+        "https://www.kaggle.com/datasets/cs49adityarajsharma/credit-scoring-data",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project",
+        "https://www.kaggle.com/datasets/omercolak0/random-forest-and-k-means-clustering"
+    ],
+    "dataset_description": "You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data. ",
+    "notebook_url": "https://www.kaggle.com/code/michalbrezk/customer-segmentation-clustering-using-k-means",
+    "domain": "Business",
+    "help_data_file_names": []
+}

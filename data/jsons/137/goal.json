@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and analyze fraudulent credit card transactions.",
+    "persona": "A data scientist with expertise in financial analytics and machine learning, focused on detecting and analyzing fraud patterns to enhance security measures and protect against unauthorized transactions. They are skilled in employing advanced anomaly detection algorithms like Isolation Forest to address class imbalances in datasets while maintaining high accuracy and precision in identifying fraudulent activities."
+}

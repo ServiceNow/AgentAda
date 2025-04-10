@@ -1,0 +1,27 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/dev0914sharma/customer-clustering",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/darrylljk/customer-segmentation-practice-using-rfm-and-k-means",
+        "https://www.kaggle.com/datasets/manidevesh/customer-sales-data",
+        "https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering",
+        "https://www.kaggle.com/datasets/elifcanli/claims-2023",
+        "https://www.kaggle.com/datasets/adityaxa/retail-rfm-analysis",
+        "https://www.kaggle.com/datasets/smmmmmmmmmmmm/customer-churn-analysis-of-kiwibank",
+        "https://www.kaggle.com/datasets/setseries/airbnb-listings-in-california",
+        "https://www.kaggle.com/datasets/davidfischanger/e-project",
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset",
+        "https://www.kaggle.com/datasets/samantas2020/online-retail-xlsx",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project",
+        "https://www.kaggle.com/datasets/cs49adityarajsharma/credit-scoring-data",
+        "https://www.kaggle.com/datasets/omercolak0/random-forest-and-k-means-clustering"
+    ],
+    "dataset_description": "Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers. ",
+    "notebook_url": "https://www.kaggle.com/code/yasirhussain1987/customer-segmentation-using-k-means",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

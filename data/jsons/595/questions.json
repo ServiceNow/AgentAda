@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [31],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of stock market prices and Twitter sentiment scores, tracking daily fluctuations and public opinion.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [40, 48],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was cleaned by handling missing values, ranking sentiment polarity scores, and normalizing stock price fluctuations.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [55],
+        "question": "Which two stock market indicators show the strongest positive Spearman correlation?",
+        "answer": "Trading volume and stock price increase show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [70, 78],
+        "question": "Which factor has the highest negative correlation with stock price movements?",
+        "answer": "High negative sentiment scores from Twitter have the highest negative correlation with stock price movements.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [90, 98, 105],
+        "question": "What is the Spearman correlation coefficient between social media sentiment and stock price changes?",
+        "answer": "The Spearman correlation coefficient between social media sentiment and stock price changes is 0.61.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [117, 125],
+        "question": "How does Spearman correlation between tweet volume and market volatility compare to other financial metrics?",
+        "answer": "The correlation between tweet volume and market volatility is stronger than the correlation between tweet volume and stock returns.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [137],
+        "question": "Which stock market factor shows the weakest correlation with Twitter engagement?",
+        "answer": "Stock dividend yield shows the weakest correlation with Twitter engagement.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [149, 157, 165, 173],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between breaking news tweets and stock price fluctuations?",
+        "answer": "The Spearman correlation coefficient indicates a strong positive relationship, meaning breaking news tweets are often associated with higher stock price volatility.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [184],
+        "question": "Which economic indicator has the least correlation with stock price trends?",
+        "answer": "Long-term interest rates have the least correlation with stock price trends.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [195, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing social media impact on the stock market?",
+        "answer": "Spearman correlation helped identify key relationships between social media sentiment, tweet volume, and stock price volatility, highlighting the role of public opinion in financial markets.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

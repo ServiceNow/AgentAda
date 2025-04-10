@@ -1,0 +1,4 @@
+{
+    "goal": "Identify fraudulent transactions within the dataset.",
+    "persona": "A data scientist specializing in fraud detection, with expertise in anomaly detection methods and machine learning. They are keen on utilizing advanced models like Isolation Forest to improve fraud detection accuracy, handling large datasets with attention to class imbalance. Their goal is to develop robust fraud detection systems to minimize financial losses for businesses."
+}

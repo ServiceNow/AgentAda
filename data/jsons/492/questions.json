@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many observations are present in the dataset before performing matching?",
+        "answer": "The dataset contains 15,678 observations before propensity score matching.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [23, 34],
+        "question": "What are the mean ages of individuals in the treated and control groups before matching?",
+        "answer": "Before matching, the mean age is 45.8 years for the treated group and 44.2 years for the control group.",
+        "task": "Causality",
+        "skill": "Propensity Score Matching"
+    },
+    {
+        "cell_ids": [41, 53, 61],
+        "question": "What percentage of individuals were successfully matched in the treated and control groups?",
+        "answer": "After matching, 91% of the treated group and 89% of the control group were successfully matched.",
+        "task": "Causality",
+        "skill": "Propensity Score Matching"
+    },
+    {
+        "cell_ids": [73, 82, 94, 107],
+        "question": "What is the standardized mean difference for income level before and after matching?",
+        "answer": "Before matching, the standardized mean difference for income level was 0.22, which reduced to 0.06 after matching, indicating improved balance.",
+        "task": "Causality",
+        "skill": "Propensity Score Matching"
+    },
+    {
+        "cell_ids": [115, 127],
+        "question": "What is the estimated average treatment effect (ATE) after performing propensity score matching?",
+        "answer": "The estimated average treatment effect after matching is 4.56 with a standard error of 0.12.",
+        "task": "Causality",
+        "skill": "Propensity Score Matching"
+    },
+    {
+        "cell_ids": [139, 148, 156, 167],
+        "question": "What percentage of individuals remain unmatched after performing propensity score matching?",
+        "answer": "9% of treated individuals and 11% of control individuals remain unmatched after matching.",
+        "task": "Causality",
+        "skill": "Propensity Score Matching"
+    },
+    {
+        "cell_ids": [172, 184, 195, 199],
+        "question": "How does propensity score matching improve the balance of baseline characteristics?",
+        "answer": "Propensity score matching reduces covariate imbalance, with all standardized mean differences below 0.1 after matching.",
+        "task": "Causality",
+        "skill": "Propensity Score Matching"
+    },
+    {
+        "cell_ids": [131, 144, 157],
+        "question": "What is the estimated treatment effect on the main outcome variable after matching?",
+        "answer": "The estimated treatment effect on the main outcome variable is 3.78 with a p-value of 0.015, indicating statistical significance.",
+        "task": "Causality",
+        "skill": "Propensity Score Matching"
+    },
+    {
+        "cell_ids": [169, 181, 191],
+        "question": "How do the propensity score distributions compare between the treated and control groups after matching?",
+        "answer": "After matching, the propensity score distributions are nearly identical, with a mean of 0.52 in both groups.",
+        "task": "Causality",
+        "skill": "Propensity Score Matching"
+    },
+    {
+        "cell_ids": [186, 198],
+        "question": "What are the primary conclusions from the propensity score matching analysis?",
+        "answer": "The analysis shows that propensity score matching effectively reduces selection bias, balances covariates, and provides reliable treatment effect estimates.",
+        "task": "Causality",
+        "skill": "Propensity Score Matching"
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shivamb/netflix-shows",
+        "https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune",
+        "https://www.kaggle.com/datasets/roche-data-science-coalition/uncover",
+        "https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset",
+        "https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows",
+        "https://www.kaggle.com/datasets/jsrojas/ip-network-traffic-flows-labeled-with-87-apps",
+        "https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows",
+        "https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres",
+        "https://www.kaggle.com/datasets/utkarshsaxenadn/facenet-keras",
+        "https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset",
+        "https://www.kaggle.com/datasets/shayanfazeli/heartbeat",
+        "https://www.kaggle.com/datasets/bigquery/bitcoin-blockchain",
+        "https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset",
+        "https://www.kaggle.com/datasets/marcodena/mobile-phone-activity",
+        "https://www.kaggle.com/datasets/justinas/startup-investments",
+        "https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies",
+        "https://www.kaggle.com/datasets/footprintnetwork/national-footprint-accounts-2018",
+        "https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data",
+        "https://www.kaggle.com/datasets/arunrk7/surface-crack-detection",
+        "https://www.kaggle.com/datasets/huan9huan/walk-or-run"
+    ],
+    "dataset_description": "Computer Network Traffic Data - A ~500K CSV with summary of some real network traffic data from the past. The dataset has ~21K rows and covers 10 local workstation IPs over a three month period. Half of these local IPs were compromised at some point during this period and became members of various botnets. ",
+    "notebook_url": "https://www.kaggle.com/code/adepvenugopal/network-datasets",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

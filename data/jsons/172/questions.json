@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            77
+        ],
+        "question": "How many columns are in the Books dataset?",
+        "answer": "8",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+      {
+        "cell_ids": [
+            78
+        ],
+        "question": "How many columns are in the Users dataset?",
+        "answer": "3",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+      {
+        "cell_ids": [
+            76
+        ],
+         "question": "How many columns are in the Ratings dataset?",
+        "answer": "3",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            73
+        ],
+        "question": "What is the first book title listed in the Books dataset?",
+        "answer": "Classical Mythology",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           74
+        ],
+        "question": "What is the location of the first user listed in the Users dataset?",
+        "answer": "nyc, new york, usa",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+             75
+         ],
+       "question": "What is the ISBN of the first rating in the Ratings dataset?",
+        "answer": "034545104X",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+   },
+   {
+        "cell_ids": [
+           79
+         ],
+        "question": "What is the shape of the Books dataframe after cleaning the publication year?",
+        "answer": "(271357, 8)",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+           81
+      ],
+      "question": "What is the mean year of publication in the Books dataset (before cleaning)?",
+      "answer": "1959.760817",
+       "task": "Basic Data Analysis",
+       "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+           84
+      ],
+       "question": "What is the 50th percentile (median) age in the Users dataset (before cleaning)?",
+       "answer": "34.751434",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            90
+        ],
+        "question": "What is the shape of the user-item matrix (pivot table) created for collaborative filtering?",
+        "answer": "(4790, 68438)",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    }
+]

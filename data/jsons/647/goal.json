@@ -1,0 +1,4 @@
+{
+    "goal": "Forecast future stock price trends using historical stock market data.",
+    "persona": "A financial data analyst with a decade of experience in stock market analysis. They are proficient in time series analysis techniques, particularly interested in understanding market trends and the influence of macroeconomic factors on stock prices. They aim to enhance predictive models using advanced statistical methods and machine learning to provide actionable investment insights and improve forecasting accuracy."
+}

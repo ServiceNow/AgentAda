@@ -1,0 +1,26 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/isaikumar/creditcardfraud",
+        "https://www.kaggle.com/datasets/soltechhub/creditcardfraud",
+        "https://www.kaggle.com/datasets/sumitchavda/creditcardfraud",
+        "https://www.kaggle.com/datasets/jeffersonvalandro/creditcardfraud",
+        "https://www.kaggle.com/datasets/stevesolano/creditcardfraud",
+        "https://www.kaggle.com/datasets/abhi221203/creditcardfraud",
+        "https://www.kaggle.com/datasets/quazisamiha/creditcardfraud",
+        "https://www.kaggle.com/datasets/nameofworld/creditcardfraud",
+        "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud",
+        "https://www.kaggle.com/datasets/ghanender/multiple-data-set",
+        "https://www.kaggle.com/datasets/joelmosiori/creditcardfraud",
+        "https://www.kaggle.com/datasets/rahulrachamalla/creditcardfraud",
+        "https://www.kaggle.com/datasets/manishkr1754/credit-card-fraud-detection-dataset",
+        "https://www.kaggle.com/datasets/jayabharathig/ads-phase3",
+        "https://www.kaggle.com/datasets/khedharishkanderi/creditcard",
+        "https://www.kaggle.com/datasets/rogeliotobar/credit-cards",
+        "https://www.kaggle.com/datasets/aaanjan/creditcardfraud",
+        "https://www.kaggle.com/datasets/johancaicedo/creditcardfraud"
+    ],
+    "dataset_description": "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.",
+    "notebook_url": "https://www.kaggle.com/code/donaldst/creditcardfraud",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

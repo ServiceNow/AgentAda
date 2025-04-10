@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/hsankesara/portland-oregon-avg-rider-monthly-data"],
+    "dataset_description": "It is a monthly count of riders for the Portland public transportation system. The website states that it is from January 1960 through June 1969",
+    "notebook_url": "https://www.kaggle.com/code/hsankesara/time-series-analysis-and-forecasting-using-arima/notebook",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/darrylljk/customer-segmentation-practice-using-rfm-and-k-means",
+        "https://www.kaggle.com/datasets/samantas2020/online-retail-xlsx",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/halimedogan/customer-segmentation-with-rfm-k-means",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

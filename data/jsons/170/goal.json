@@ -1,0 +1,4 @@
+{
+    "goal": "To predict outcomes of basketball games using historical game data.",
+    "persona": "A data scientist with expertise in sports analytics and machine learning, interested in developing predictive models using collaborative filtering and neural networks to analyze game results and predict future match outcomes."
+}

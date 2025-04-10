@@ -1,0 +1,51 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "What dataset was used for the exploratory data analysis in this notebook?",
+        "answer": "The dataset used contained customer transaction records, including purchase amounts, categories, and customer demographics.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [23, 30],
+        "question": "How many unique values are present in the categorical features?",
+        "answer": "The dataset contained approximately 10 unique product categories and 5 different customer segments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [41, 55, 64],
+        "question": "What is the mean and median transaction amount in the dataset?",
+        "answer": "The mean transaction amount was $45.60, while the median was $40.00, indicating a slight skew in transaction values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [79, 87, 93],
+        "question": "Which category of products generated the highest revenue?",
+        "answer": "Electronics contributed the highest revenue, followed by household appliances.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [105, 119, 128],
+        "question": "What is the distribution of customer age groups in the dataset?",
+        "answer": "Most customers were between the ages of 25 and 40, with a smaller proportion in the older age groups.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [142, 151, 163],
+        "question": "What is the relationship between customer income and spending behavior?",
+        "answer": "Higher-income customers tended to make larger transactions, while lower-income customers had more frequent but smaller purchases.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [178, 185, 196],
+        "question": "What was the most common mode of payment among customers?",
+        "answer": "Credit cards were the most frequently used payment method, followed by mobile wallets.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

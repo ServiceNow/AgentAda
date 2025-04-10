@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/gianinamariapetrascu/top-100-k-drama-2023"
+    ],
+    "dataset_description": "This dataset contains information on the top 100 K-Dramas of all time listed on MyDramaList (As of 19th March 2023), including their scores, genres, main cast, and other relevant data. ",
+    "notebook_url": "https://www.kaggle.com/code/kelvinfoo123/network-analysis-of-korean-drama/notebook",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

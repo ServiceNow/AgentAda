@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/evangower/cyclistic-bike-share",
+        "https://www.kaggle.com/datasets/jaeyoungkum/google-data-analytics-capstone-cyclistic-data",
+        "https://www.kaggle.com/datasets/timgid/cyclistic-dataset-google-certificate-capstone",
+        "https://www.kaggle.com/datasets/udayakumar19/google-data-analytics-case-study-cyclistic",
+        "https://www.kaggle.com/datasets/godofoutcasts/cyclistic-bike-share-2023",
+        "https://www.kaggle.com/datasets/rohitktiwari04/cyclistic-12-months-dataset",
+        "https://www.kaggle.com/datasets/koustavghosh149/cyclistic-bike-share-user-dataset-1-year",
+        "https://www.kaggle.com/datasets/diegopinedaperez/google-data-analytics-capstone-case-study-1",
+        "https://www.kaggle.com/datasets/nabajithazowary95/bikeshare-data",
+        "https://www.kaggle.com/datasets/rubyphan/bike-share",
+        "https://www.kaggle.com/datasets/je1429387/divvy-analysis-520421",
+        "https://www.kaggle.com/datasets/avanoc/divvy-may-2022-to-april-2023",
+        "https://www.kaggle.com/datasets/wijayaputra30/divvy-trip-data",
+        "https://www.kaggle.com/datasets/karlachang/bike-share-divvy-datasets-from-nov2022-to-oct-2023",
+        "https://www.kaggle.com/datasets/louisqarri/cyclistic-google-data-analytics-case-study",
+        "https://www.kaggle.com/datasets/davidareso/cyclistic-dataset-case-study-q2-2019-q1-2020",
+        "https://www.kaggle.com/datasets/antonukolga/cyclistic-bike-share-data-12-months",
+        "https://www.kaggle.com/datasets/dianapratiwi/divvy-bike-monthly-dataset-jan-dec-2021",
+        "https://www.kaggle.com/datasets/nuyangrai/google-data-analytics-case-study-1cyclistics",
+        "https://www.kaggle.com/datasets/ikemsamuel/divvy-trips-data"
+    ],
+    "dataset_description": "These datasets are used for the case study as the capstone project in Google Data Analytics course on Coursera",
+    "notebook_url": "https://www.kaggle.com/code/codyfreeman/cyclistic-google-data-analytics-case-study",
+    "domain": "Transport",
+    "help_data_file_names": []
+}

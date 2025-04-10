@@ -1,0 +1,29 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ankushpanday1/heart-attack-in-youth-of-india",
+        "https://www.kaggle.com/datasets/abdelrahman16/car-data",
+        "https://www.kaggle.com/datasets/sarametawea/car-data",
+        "https://www.kaggle.com/datasets/asinow/laptop-price-dataset",
+        "https://www.kaggle.com/datasets/oscaryezfeijo/credit-card-fraud",
+        "https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset",
+        "https://www.kaggle.com/datasets/ziya07/esrd-risk-prediction-dataset",
+        "https://www.kaggle.com/datasets/kirkwilliamsii/using-ngs-data-to-evaluate-nfl-safety-range",
+        "https://www.kaggle.com/datasets/rashmitachauhan/creditcardfrauddetection",
+        "https://www.kaggle.com/datasets/semanto117119/energy-train",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/customer-churn",
+        "https://www.kaggle.com/datasets/devantltd/analysing-second-hand-car-sales-data",
+        "https://www.kaggle.com/datasets/arzooparihar/jio-telecom-churn-prediction",
+        "https://www.kaggle.com/datasets/triblex/underwater-sonar-signals-rocks-and-mines-dataset",
+        "https://www.kaggle.com/datasets/patricklford/what-about-the-wind",
+        "https://www.kaggle.com/datasets/mahatiratusher/heart-disease-risk-prediction-dataset"
+    ],
+    "dataset_description": "You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.",
+    "notebook_url": "https://www.kaggle.com/code/sarvajna/random-forest-with-variable-importance",
+    "domain": "Health",
+    "help_data_file_names": [
+        "item_categories.csv",
+        "items.csv",
+        "sales_train.csv",
+        "shops.csv"
+    ]
+}

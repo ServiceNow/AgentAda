@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/harrywang/propensity-score-matching"
+    ],
+    "dataset_description": "A Practical Guide to PSM and DID in Python and R",
+    "notebook_url": "https://www.kaggle.com/code/gangwang0/propensity-score-matching-in-r",
+    "domain": "Research",
+    "help_data_file_names": [
+        "employment.csv",
+        "groupon.csv"
+    ]
+}

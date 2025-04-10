@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of movies and users in the dataset, and how does this affect the scalability of the recommendation system?",
+      "answer": "The dataset contains 10,000 movies and 100,000 users, providing a large matrix for collaborative filtering.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What is the average number of ratings provided per user, and how does this influence the sparsity of the dataset?",
+      "answer": "Each user provides an average of 20 ratings, contributing to a highly sparse user-item matrix.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [5, 8],
+      "question": "What is the distribution of movie ratings in the dataset, and how does this affect the recommendation quality?",
+      "answer": "Ratings are skewed towards higher values, with most movies rated 4 or 5, which can bias recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [10, 13, 15],
+      "question": "What are the most frequently rated movies, and how can this information improve recommendations for new users?",
+      "answer": "Popular movies like 'The Shawshank Redemption' and 'The Godfather' are frequently rated, making them ideal for cold-start recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [17],
+      "question": "What is the sparsity level of the user-item matrix, and how does this affect the effectiveness of collaborative filtering?",
+      "answer": "The user-item matrix is 95% sparse, requiring efficient algorithms to handle missing data effectively.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [19, 21],
+      "question": "What patterns are observed in user rating behavior, and how do these patterns influence personalized recommendations?",
+      "answer": "Users tend to rate movies in specific genres they prefer, such as 'Action' or 'Drama', influencing genre-based recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [22, 24, 27],
+      "question": "What genres are most commonly rated by users, and how can this information guide recommendations for niche genres?",
+      "answer": "Genres like 'Action' and 'Comedy' are most commonly rated, while niche genres like 'Documentary' require special handling for recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [29, 32],
+      "question": "What are the key similarities between user profiles based on their rating patterns, and how does collaborative filtering utilize these similarities?",
+      "answer": "Users with similar rating patterns for genres like 'Sci-Fi' or 'Romance' are grouped, enabling personalized recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [34, 36, 39],
+      "question": "What is the impact of high-rating users on the collaborative filtering process, and how do their preferences shape the recommendations?",
+      "answer": "High-rating users significantly influence the recommendation process by promoting movies in their preferred genres.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [41, 44, 47],
+      "question": "How does the cold-start problem manifest in this dataset, and what strategies are implemented to address it?",
+      "answer": "New users and movies lack ratings, making initial recommendations challenging. Strategies like recommending popular movies address this issue.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    }
+  ]
+  

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of market basket analysis?",
+        "answer": "The dataset represents transactions, where each transaction contains a list of items purchased together.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What is the total number of transactions and unique items in the dataset?",
+        "answer": "The dataset contains 10,000 transactions and 500 unique items.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4, 5],
+        "question": "What is the most frequently purchased item in the dataset?",
+        "answer": "Milk is the most frequently purchased item, appearing in 2,500 transactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 7],
+        "question": "What is the support value for the itemset {Milk, Bread}?",
+        "answer": "The support value for the itemset {Milk, Bread} is 0.15.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [8, 9],
+        "question": "What are the confidence and lift values for the rule {Milk} -> {Bread}?",
+        "answer": "The confidence value is 0.60 and the lift value is 1.25 for the rule {Milk} -> {Bread}.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "What is the minimum support threshold used in the Apriori algorithm for this analysis?",
+        "answer": "The minimum support threshold used is 0.05.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many frequent itemsets were generated using the Apriori algorithm?",
+        "answer": "A total of 300 frequent itemsets were generated.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "Which itemset has the highest support, and what is the value?",
+        "answer": "The itemset {Eggs, Bread} has the highest support value of 0.20.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "What is the rule with the highest lift value, and what does it represent?",
+        "answer": "The rule {Butter} -> {Jam} has the highest lift value of 3.5, indicating a strong association between Butter and Jam.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the overall time complexity of running the Apriori algorithm on this dataset?",
+        "answer": "The time complexity of running the Apriori algorithm was O(2^n), where n is the number of unique items.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    }
+]

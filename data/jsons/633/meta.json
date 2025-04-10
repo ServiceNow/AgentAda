@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/zusmani/imran-khans-speeches",
+        "https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop",
+        "https://www.kaggle.com/datasets/memocan/data-science-interview-q-and-a-treasury",
+        "https://www.kaggle.com/datasets/zusmani/shehbaz-sharifs-43-key-speeches",
+        "https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-2-text-analysis",
+        "https://www.kaggle.com/datasets/karan2002shah/topic-analysis-of-review-data",
+        "https://www.kaggle.com/datasets/aryansingh0909/nyt-articles-21m-2000-present",
+        "https://www.kaggle.com/datasets/manhdodz249/irish-times-dataset-for-topic-model",
+        "https://www.kaggle.com/datasets/keplaxo/twitter-vaccination-dataset",
+        "https://www.kaggle.com/datasets/deffro/the-climate-change-twitter-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/amod-mental-health-counseling-conversations-data",
+        "https://www.kaggle.com/datasets/jatinchawda/job-titles-and-description",
+        "https://www.kaggle.com/datasets/thedevastator/jfk-document-files-textual-analysis",
+        "https://www.kaggle.com/datasets/sunny9999/taiwan-104-career-jd",
+        "https://www.kaggle.com/datasets/hussainsheikh03/nlp-based-cyber-security-dataset",
+        "https://www.kaggle.com/datasets/patricklford/sentiment-analysis-of-a-collection-of-stories",
+        "https://www.kaggle.com/datasets/furqanrustam118/chatgpt-tweets",
+        "https://www.kaggle.com/datasets/thedevastator/this-american-life-podcast-transcript-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/us-congress-members-tweets",
+        "https://www.kaggle.com/datasets/vamsipasam2k/triaged-comments-with-priority-and-labels-hierarchy"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/keitazoumana/topic-modeling-with-lda",
+    "domain": "News",
+    "help_data_file_names": []
+}

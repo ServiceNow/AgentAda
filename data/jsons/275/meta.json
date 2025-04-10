@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/fifthtribe/how-isis-uses-twitter"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/ggospodinov/tweet-analysis2",
+    "domain": "Social Netowkrs",
+    "help_data_file_names": []
+}

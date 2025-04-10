@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/anzalitiwari/ecommerce-clothes-web-performance"
+    ],
+    "dataset_description": "I always wanted to access a data set that was related to the world’s population (Country wise). But I could not find a properly documented data set. Rather, I just created one manually.",
+    "notebook_url": "https://www.kaggle.com/code/naim99/interactive-visualization-plotly-dash",
+    "domain": "Socioeconomic",
+    "help_data_file_names": []
+}

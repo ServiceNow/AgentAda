@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this support hierarchical segmentation analysis?",
+      "answer": "The dataset contains 5,000 customers, providing a solid base for hierarchical clustering.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of recency values among customers, and how do they vary across the dataset?",
+      "answer": "Recency values range from 1 to 360 days, with lower values indicating more recent activity.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5],
+      "question": "What is the frequency distribution of customer transactions, and what insights can be drawn about their engagement levels?",
+      "answer": "Transaction frequencies range from 1 to 120, with most customers completing fewer than 15 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [6, 7],
+      "question": "What is the range of monetary values in the dataset, and what trends are observed among high-value customers?",
+      "answer": "Monetary values range from $20 to $15,000, with high-value customers showing frequent transactions and low recency.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [8, 9, 10],
+      "question": "How many clusters were identified using hierarchical clustering, and what are the defining characteristics of each cluster?",
+      "answer": "Five clusters were identified, characterized by distinct levels of recency, frequency, and monetary value.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [11, 12],
+      "question": "What are the average recency, frequency, and monetary values for each cluster, and how do they define customer behaviors?",
+      "answer": "Clusters range from low-recency high-frequency high-monetary customers to high-recency low-frequency low-monetary customers.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [13, 14, 15],
+      "question": "Which feature, such as recency, frequency, or monetary value, contributed most significantly to cluster formation?",
+      "answer": "Frequency and monetary values were the most significant contributors, while recency provided additional differentiation.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [16, 17],
+      "question": "What actionable strategies can be developed for each identified customer segment based on the hierarchical clustering results?",
+      "answer": "Strategies include loyalty rewards for high-value customers, reactivation campaigns for high-recency customers, and targeted promotions for mid-value segments.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [18, 19, 20],
+      "question": "How do the spending and engagement behaviors of high-value clusters differ from those of low-value clusters?",
+      "answer": "High-value clusters exhibit frequent and high-value purchases, while low-value clusters show infrequent and low-spending behaviors.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [21, 22, 23, 24],
+      "question": "What insights from the hierarchical clustering analysis can inform marketing and engagement strategies for the business?",
+      "answer": "Insights include offering exclusive deals to high-value customers, designing cost-saving offers for price-sensitive segments, and re-engagement efforts for dormant customers.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    }
+  ]
+  

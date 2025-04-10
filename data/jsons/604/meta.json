@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/levyedgar44/income-and-happiness-correction",
+        "https://www.kaggle.com/datasets/dhanasekarjaisankar/correlation-between-posture-personality-trait",
+        "https://www.kaggle.com/datasets/ironwolf437/laptop-price-dataset",
+        "https://www.kaggle.com/datasets/pattnaiksatyajit/event-correlation",
+        "https://www.kaggle.com/datasets/dev0914sharma/dataset",
+        "https://www.kaggle.com/datasets/erolmasimov/price-prediction-multiple-linear-regression",
+        "https://www.kaggle.com/datasets/nickbaynham/correlation",
+        "https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health",
+        "https://www.kaggle.com/datasets/athosdamiani/guess-the-correlation",
+        "https://www.kaggle.com/datasets/mruanova/piratesvsglobalwarmingcorrelationcausation",
+        "https://www.kaggle.com/datasets/jieyingwu/covid19-us-countylevel-summaries",
+        "https://www.kaggle.com/datasets/ruchi798/analyzing-screen-time",
+        "https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor",
+        "https://www.kaggle.com/datasets/ironwolf437/who-covid-19-cases-dataset",
+        "https://www.kaggle.com/datasets/zusmani/gufhtugu-publications-dataset-challenge",
+        "https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset",
+        "https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales",
+        "https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset",
+        "https://www.kaggle.com/datasets/larsen0966/student-performance-data-set",
+        "https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data"
+    ],
+    "dataset_description": "This is a Glass Identification Data Set from UCI. It contains 10 attributes including id. The response is glass type(discrete 7 values)",
+    "notebook_url": "https://www.kaggle.com/code/yakovyusipenko/correlation",
+    "domain": "Society",
+    "help_data_file_names": []
+}

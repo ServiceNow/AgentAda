@@ -1,0 +1,4 @@
+{
+    "goal": "Identify purchasing patterns and frequently bought itemsets using association rule mining.",
+    "persona": "A data analyst with 3 years of experience, specializing in market basket analysis and consumer purchasing behavior. They are skilled in association rule mining, particularly using the Apriori algorithm, aiming to uncover insights and patterns in buying behavior to enhance sales strategies for retail businesses."
+}

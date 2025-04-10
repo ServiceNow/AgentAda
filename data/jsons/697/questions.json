@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "Which tables were joined to analyze customer purchasing behavior?",
+        "answer": "The 'customers', 'orders', and 'products' tables were joined to analyze customer purchasing behavior.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    },
+    {
+        "cell_ids": [29, 42],
+        "question": "How was indexing used to improve the retrieval of frequent buyers?",
+        "answer": "B+ Tree Indexing was applied to the 'customers' table to optimize frequent buyer lookups.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [53, 67, 79],
+        "question": "What technique was used to filter high-value transactions efficiently?",
+        "answer": "Bitmap Indexing was utilized to filter high-value transactions from the 'orders' table.",
+        "task": "Multi-table Search",
+        "skill": "Bitmap Indexing"
+    },
+    {
+        "cell_ids": [88, 102],
+        "question": "Which join algorithm was used to match customers with their purchases across large datasets?",
+        "answer": "A Hash Join algorithm was employed to efficiently match customers with their purchases.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    },
+    {
+        "cell_ids": [117, 129, 141],
+        "question": "What impact did indexing have on query performance for retrieving product details?",
+        "answer": "B+ Tree Indexing reduced query execution time by 35% for retrieving product details from the 'products' table.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [153, 168, 181],
+        "question": "How was Bitmap Indexing used to enhance query performance for category-based filtering?",
+        "answer": "Bitmap Indexing was implemented on the 'categories' table to speed up filtering based on product categories.",
+        "task": "Multi-table Search",
+        "skill": "Bitmap Indexing"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Develop a recommendation system to provide personalized movie recommendations.",
+    "persona": "A data scientist specializing in recommendation systems, with 7 years of experience working in the streaming service industry. They focus on leveraging user-item interaction data to enhance user engagement and satisfaction through personalized content suggestions. Their interests lie in solving data sparsity and cold-start challenges while improving the diversity and accuracy of recommendations."
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Identify frequent itemsets and association rules to understand purchasing patterns.",
+    "persona": "A data analyst with expertise in retail transactions analysis, experienced in extracting insights from sales data using association rule mining techniques. They are interested in understanding customer buying behavior and enhancing inventory management by identifying frequently bought item combinations."
+}

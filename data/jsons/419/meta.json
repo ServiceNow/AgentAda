@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rhythmcam/show-shap-values-py-dataset",
+        "https://www.kaggle.com/datasets/nikbearbrown/the-economics-of-happiness-simple-data-20152019",
+        "https://www.kaggle.com/datasets/nikbearbrown/the-economics-of-happiness-teh",
+        "https://www.kaggle.com/datasets/claytonmiller/building-energy-benchmarking-using-cityscale-data",
+        "https://www.kaggle.com/datasets/samueltaiwograce/stroke-dataset",
+        "https://www.kaggle.com/datasets/rashmitachauhan/creditcardfrauddetection",
+        "https://www.kaggle.com/datasets/priyanshu594/homestays-data",
+        "https://www.kaggle.com/datasets/raturisa/diabetes-processed-data-from-pima-indians",
+        "https://www.kaggle.com/datasets/noussaons/shap-values-feedback-prize-100"
+    ],
+    "dataset_description": "I thought of consolidating and sharing this public data to see how the data science world uses it discover interesting patterns. The data has been collected from 2018 FIFA World Cup Russia Official App.",
+    "notebook_url": "https://www.kaggle.com/code/abosol/shap-values",
+    "domain": "Sports",
+    "help_data_file_names": []
+}

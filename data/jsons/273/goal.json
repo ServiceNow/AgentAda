@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the structure and properties of a social network graph derived from bidder interactions.",
+    "persona": "A social network analyst with expertise in graph theory and network metrics, focusing on understanding interactions and relationships within a network to uncover key nodes, connectivity patterns, and network characteristics for potential insights into bidder behavior."
+}

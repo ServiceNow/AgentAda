@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "What is the earliest and latest date in the dataset?",
+        "answer": "The dataset spans from February 2005 to October 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [22, 31],
+        "question": "What is the average value of the time series?",
+        "answer": "The average value of the time series is 542.7 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [48, 57, 63],
+        "question": "Does the dataset exhibit a clear seasonal pattern?",
+        "answer": "Yes, the dataset exhibits a strong annual seasonal pattern.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [76, 83, 91, 98],
+        "question": "What trend is observed in the time series?",
+        "answer": "The time series shows an increasing trend with occasional dips.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [107, 118],
+        "question": "How does the seasonal component vary across years?",
+        "answer": "The seasonal component remains consistent across years, peaking in December.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [126, 132, 145],
+        "question": "How much of the variance is explained by the seasonal component?",
+        "answer": "The seasonal component explains approximately 55% of the variance in the dataset.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [153, 161, 174],
+        "question": "What periods experience the highest seasonal fluctuations?",
+        "answer": "Seasonal fluctuations are highest during the winter months.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [182, 191],
+        "question": "How does the residual component behave after decomposition?",
+        "answer": "The residual component fluctuates around zero with no discernible pattern.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [197],
+        "question": "What key insights are derived from the seasonal-trend decomposition?",
+        "answer": "The decomposition highlights an upward trend, a strong annual seasonal cycle, and a relatively stable residual component.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

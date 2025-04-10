@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/quora-insincere-questions-classification"
+    ],
+    "dataset_description": "An insincere question is defined as a question intended to make a statement rather than look for helpful answers. Some characteristics that can signify that a question is insincere:",
+    "notebook_url": "https://www.kaggle.com/code/thebrownviking20/analyzing-quora-for-the-insinceres",
+    "domain": "Social Media",
+    "help_data_file_names": ["train.csv"]
+}

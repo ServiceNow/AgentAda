@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records and features are present in the aircraft engine dataset?",
+        "answer": "The dataset contains 20,000 records and 15 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 14],
+        "question": "What is the average number of operational cycles before engine failure?",
+        "answer": "The average number of operational cycles before failure is 235.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which sensor readings are used as input for predictive maintenance?",
+        "answer": "Key sensor readings include temperature, pressure, vibration, and fuel consumption.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [22, 25],
+        "question": "How does temperature variation impact the likelihood of engine failure?",
+        "answer": "Temperatures above 750°C significantly increase the probability of failure.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [29, 33],
+        "question": "What is the failure distribution across different engine types?",
+        "answer": "Engine Type A has a failure rate of 45%, Type B has 35%, and Type C has 20%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [36, 40, 43],
+        "question": "What is the correlation between vibration levels and failure events?",
+        "answer": "Engines with vibration levels exceeding 3.8 m/s² have a 70% higher failure rate.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [47],
+        "question": "Which sensor reading is the strongest predictor of engine failure?",
+        "answer": "The operational cycle count is the most predictive feature, followed by vibration levels.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [50, 54, 57],
+        "question": "How does data normalization impact the LSTM model’s performance?",
+        "answer": "Data normalization improves model accuracy by 6% by reducing sensor noise effects.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [61, 64, 68, 72],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The model achieves 93% accuracy in predicting failures 50 cycles in advance, highlighting temperature and vibration as key predictors.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    }
+]

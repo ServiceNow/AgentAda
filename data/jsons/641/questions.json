@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What dataset was used for topic modeling with Hierarchical Dirichlet Process?",
+        "answer": "The dataset consists of customer reviews from an online retail platform.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [26, 33],
+        "question": "How many topics were identified in the dataset using Hierarchical Dirichlet Process?",
+        "answer": "The model dynamically identified 7 distinct topics in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [41],
+        "question": "Which topic was the most prevalent in the dataset?",
+        "answer": "The topic related to 'product quality and user experience' was the most prevalent in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [52, 60],
+        "question": "What are the top three keywords associated with the most dominant topic?",
+        "answer": "The top three keywords for the dominant topic were 'quality', 'performance', and 'durability'.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [74, 81, 90],
+        "question": "What percentage of the dataset was covered by the top two topics?",
+        "answer": "The top two topics accounted for approximately 68% of the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [103, 111],
+        "question": "Which topic had the lowest representation in the dataset?",
+        "answer": "The topic related to 'return and refund policies' had the lowest representation in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [125, 133, 141],
+        "question": "How did the Hierarchical Dirichlet Process determine the number of topics?",
+        "answer": "The model automatically adjusted the number of topics based on the distribution of words in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [150, 159],
+        "question": "Which reviews were most strongly associated with the customer service topic?",
+        "answer": "Reviews containing words like 'support', 'response time', and 'assistance' were strongly associated with the customer service topic.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [170, 178, 185],
+        "question": "How did the distribution of topics vary across different product categories?",
+        "answer": "Electronics had more reviews discussing reliability, while fashion products had more reviews about material quality and style.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [194, 199],
+        "question": "What were the key insights gained from the topic modeling analysis?",
+        "answer": "The analysis highlighted key customer concerns regarding product performance, shipping delays, and customer service responsiveness.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    }
+]

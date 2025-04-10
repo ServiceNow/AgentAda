@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/memocan/data-science-interview-q-and-a-treasury",
+        "https://www.kaggle.com/datasets/thedevastator/jfk-document-files-textual-analysis"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mattison/unsupervised-matrix-factorization",
+    "domain": "Entertainment",
+    "help_data_file_names": ["train.csv"]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rupakroy/market-basket-optimization"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/rinichristy/association-rule-learning-apriori-eclat",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

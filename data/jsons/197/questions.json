@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and tracks in the dataset, and how does this define the scale of the recommendation system?",
+      "answer": "The dataset contains 500,000 users and 100,000 tracks, forming a large-scale user-item matrix for recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of the user-track matrix is filled with ratings, and how does this sparsity affect the performance of the recommendation system?",
+      "answer": "The matrix is 98% sparse, posing challenges for accurately inferring user preferences due to limited overlaps.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 10],
+      "question": "What is the average number of tracks listened to per user, and how does this help in identifying user preferences?",
+      "answer": "Each user listens to an average of 20 tracks, providing sufficient data to model user preferences effectively.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [12, 15],
+      "question": "Which tracks are the most frequently played, and how can they assist in addressing the cold-start problem for new users?",
+      "answer": "Popular tracks like 'Track A' and 'Track B' are frequently played, making them suitable for initial recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [16, 18, 20],
+      "question": "What is the distribution of track popularity scores in the dataset, and how might this influence the diversity of recommendations?",
+      "answer": "Track popularity is heavily skewed towards a few high-score tracks, potentially leading to over-recommendation of popular tracks.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [22, 25],
+      "question": "What trends in user preferences for music genres are observed, and how can these insights guide personalized recommendations?",
+      "answer": "Users frequently prefer genres like 'Pop' and 'Hip-Hop', which can be used to guide genre-specific recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [27, 30, 33],
+      "question": "What temporal trends in music listening behavior are observed, and how can time-aware recommendations improve user engagement?",
+      "answer": "Tracks like 'Summer Hits' show increased plays during specific seasons, indicating the importance of incorporating temporal trends.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [35, 38],
+      "question": "What challenges arise in recommending niche tracks with limited play counts, and how does the model address these issues?",
+      "answer": "The model identifies users with similar preferences and leverages this similarity to recommend niche tracks.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [40, 43],
+      "question": "What insights can be derived from the listening habits of highly active users, and how do they influence the recommendation system?",
+      "answer": "Highly active users provide extensive data across genres, enabling the model to refine recommendations for less active users.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [45, 48, 51, 54],
+      "question": "What strategies are implemented to address the cold-start problem for new users or tracks in the dataset?",
+      "answer": "Popular tracks and genre-based recommendations are used to provide initial suggestions for new users and tracks.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    }
+  ]
+  

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 1000 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What is the mean value of the time series data?",
+        "answer": "The mean value of the time series data is approximately 0.012.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28],
+        "question": "What are the two main frequency components present in the synthetic time series data?",
+        "answer": "The two main frequency components are 7 Hz and 13 Hz.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [35, 36, 37],
+        "question": "Which wavelet function is used for decomposition in this analysis?",
+        "answer": "The analysis uses the Daubechies wavelet with 1 vanishing moment (db1).",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [50],
+        "question": "How many levels of wavelet decomposition were performed in the analysis?",
+        "answer": "The wavelet decomposition was performed up to level 4.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [58, 59],
+        "question": "Which component of the wavelet decomposition captures the overall trend of the time series?",
+        "answer": "The approximation coefficients (cA4) capture the overall trend of the time series.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [73, 74, 75, 76],
+        "question": "How does wavelet decomposition help in anomaly detection?",
+        "answer": "Wavelet decomposition isolates different frequency components, making it easier to detect anomalies at multiple resolutions.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [90],
+        "question": "What is the role of detailed coefficients in wavelet decomposition?",
+        "answer": "Detailed coefficients (cD1, cD2, etc.) capture high-frequency variations and help identify anomalies.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [107, 108],
+        "question": "What visualization technique was used to display the wavelet-decomposed components?",
+        "answer": "The decomposed components were visualized using Matplotlib subplots.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [125, 126, 127],
+        "question": "What is the significance of selecting different levels of wavelet decomposition?",
+        "answer": "Different levels allow analyzing various frequency components separately, improving anomaly detection and trend analysis.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and items in the dataset, and how does this define the scale of the user-item matrix?",
+      "answer": "The dataset contains 50,000 users and 30,000 items, forming a large-scale matrix for collaborative filtering.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of the user-item matrix is filled with ratings, and how does this level of sparsity impact the recommendation process?",
+      "answer": "The matrix is 97% sparse, requiring specialized techniques to manage and infer missing values.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 9],
+      "question": "What is the average number of items rated per user, and how does this contribute to building user profiles?",
+      "answer": "Each user rates an average of 15 items, which is sufficient for identifying preferences in collaborative filtering.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 13],
+      "question": "Which items are the most frequently rated, and how can these items assist in solving the cold-start problem?",
+      "answer": "Popular items like 'Item X' and 'Item Y' are frequently rated, making them effective choices for cold-start recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [14, 16, 18],
+      "question": "What is the distribution of ratings in the dataset, and how does this skew affect the recommendation system?",
+      "answer": "Ratings are concentrated around 4 and 5 stars, potentially introducing a bias towards highly rated items.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [20, 23],
+      "question": "How does the collaborative filtering approach leverage similarities in user behavior to improve recommendations?",
+      "answer": "Collaborative filtering groups users with similar preferences based on shared ratings to predict their future preferences.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [25, 27, 30],
+      "question": "What patterns in user rating behavior across different categories are observed, and how does this inform category-specific recommendations?",
+      "answer": "Users consistently rate items in categories like 'Science Fiction' and 'Mystery', guiding targeted recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [31, 34],
+      "question": "What trends are observed in item popularity over time, and how does collaborative filtering handle evolving preferences?",
+      "answer": "Items like 'Item Z' gain popularity during specific seasons, suggesting the need for time-sensitive recommendation adjustments.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [36, 38],
+      "question": "What challenges arise when recommending niche items with limited ratings, and how does collaborative filtering address these challenges?",
+      "answer": "Collaborative filtering uses user similarities to recommend niche items by matching them with users with similar preferences.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [40, 43, 45],
+      "question": "What techniques are implemented to mitigate the cold-start problem for new users or items in the dataset?",
+      "answer": "Popular items and category-based filters are used to recommend items to new users and for new item scenarios.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    }
+  ]
+  

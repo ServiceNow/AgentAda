@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": "a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.",
+    "notebook_url": "https://www.kaggle.com/code/mahmoudelfahl/cohort-analysis-customer-segmentation-with-rfm",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

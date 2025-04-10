@@ -1,0 +1,25 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud",
+        "https://www.kaggle.com/datasets/whenamancodes/fraud-detection",
+        "https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection",
+        "https://www.kaggle.com/datasets/arslanali4343/credit-card-cheating-detection-cccd",
+        "https://www.kaggle.com/datasets/bannourchaker/frauddetection",
+        "https://www.kaggle.com/datasets/saurabhbadole/credit-card-dataset",
+        "https://www.kaggle.com/datasets/adhyanmaji31/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/oscaryezfeijo/credit-card-fraud",
+        "https://www.kaggle.com/datasets/erak1006/capstone-credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/prasunmaity/creditcar-fraud",
+        "https://www.kaggle.com/datasets/christianpartal/credit-card-data",
+        "https://www.kaggle.com/datasets/peterzakharov/synthetic-united-fraud-dataset",
+        "https://www.kaggle.com/datasets/peterzakharov/synthetic-fused-fraud-dataset",
+        "https://www.kaggle.com/datasets/samadkhan0017/credit-card-fraud-detection-using-smote",
+        "https://www.kaggle.com/datasets/jordanln/llm-prompts-in-the-context-of-machine-learning",
+        "https://www.kaggle.com/datasets/tiplalmistry/credit-card-froud-detection-model"
+    ],
+    "dataset_description": "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.",
+    "notebook_url": "https://www.kaggle.com/code/mendozav/credit-card-fraud-detection-project",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

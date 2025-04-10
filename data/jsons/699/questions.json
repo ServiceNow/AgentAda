@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "Which tables were joined to retrieve customer purchase histories?",
+        "answer": "The 'customers', 'orders', and 'products' tables were joined to retrieve customer purchase histories.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    },
+    {
+        "cell_ids": [27, 39],
+        "question": "How was indexing applied to improve query performance when filtering by order date?",
+        "answer": "B+ Tree Indexing was applied to the 'orders' table to optimize query performance when filtering by order date.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [52, 68, 79],
+        "question": "What indexing method was used to efficiently filter transactions by payment method?",
+        "answer": "Bitmap Indexing was implemented on the 'transactions' table to enhance filtering by payment method.",
+        "task": "Multi-table Search",
+        "skill": "Bitmap Indexing"
+    },
+    {
+        "cell_ids": [91, 104],
+        "question": "Which join algorithm was utilized to efficiently merge user account details with recent transactions?",
+        "answer": "A Hash Join algorithm was used to merge user account details with recent transactions.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    },
+    {
+        "cell_ids": [118, 132, 145],
+        "question": "How did B+ Tree Indexing impact query performance when searching for large orders?",
+        "answer": "B+ Tree Indexing significantly reduced query execution time by optimizing searches for large orders in the 'orders' table.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [159, 171, 186],
+        "question": "How was Bitmap Indexing leveraged to optimize category-based product searches?",
+        "answer": "Bitmap Indexing was used on the 'products' table to improve search efficiency for category-based filtering.",
+        "task": "Multi-table Search",
+        "skill": "Bitmap Indexing"
+    }
+]

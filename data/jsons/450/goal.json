@@ -1,0 +1,4 @@
+{
+    "goal": "Determine which features are most important for predicting heart disease using SHAP values.",
+    "persona": "A healthcare data analyst with 7 years of experience in clinical datasets, focused on leveraging advanced analytics and explainable AI techniques like SHAP to identify key health indicators and improve predictive models for medical conditions such as heart disease."
+}

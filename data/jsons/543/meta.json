@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/nlp-getting-started"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/barun2104/nlp-with-disaster-eda-dfm-svd-ensemble",
+    "domain": "Social Networks",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

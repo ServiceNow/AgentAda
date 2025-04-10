@@ -1,0 +1,133 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ],
+        "question": "What is the average quantity of products purchased in a transaction?",
+        "answer": "The notebook does not directly calculate the average quantity per transaction. It only calculates mean, std, min, 25%, 50%, 75%, and max.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+             14,
+             15,
+            16
+        ],
+        "question": "What are the most frequently purchased items in France based on the provided data?",
+        "answer": "The notebook uses a different dataset for mlxtend, the most frequent items from France are not calculated explicitly, and the most frequent items on the other dataset is coffee in cell 14.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ],
+        "question": "What is the number of unique transactions in the dataset?",
+        "answer": "The number of unique transactions is not calculated explicitly in this notebook. However, the notebook describes how transactions are extracted, and how duplicated rows are dropped",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+        "question": "What is the most frequent itemset identified by the Apriori algorithm with a minimum support of 0.07, using the mlxtend package?",
+         "answer": "Based on the frequent_itemsets output in cell 40,  (RED TOADSTOOL LED NIGHT LIGHT) has the highest support with 0.181122.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+        "question": "What is the highest lift value among the association rules generated from the mlxtend output?",
+        "answer": "Based on the output in cell 42, the highest lift is 8.642959.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [
+          14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+        ],
+        "question": "What is the item that has highest confidence when someone buyes toast?",
+        "answer": "This notebook does not include toast as an item, but the notebook outputs 'SET/6 RED SPOTTY PAPER PLATES' with 'SET/6 RED SPOTTY PAPER CUPS' having highest confidence with value 0.96",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+     {
+        "cell_ids": [
+            45, 46, 47, 48, 49
+        ],
+        "question": "If a customer buys product with id 22326, what are the top 3 product recommendations based on the notebook's analysis?",
+        "answer": "Based on the output of the function, which uses mlxtend Apriori and association rules, in cell 51, the top 3 recommendations for item id '22326' are (22328, 'ROUND SNACK BOXES SET OF 4 FRUITS '), (22554, 'PLASTERS IN TIN WOODLAND ANIMALS'), and (22629, 'SPACEBOY LUNCH BOX ').",
+       "task": "Recommendation Systems",
+        "skill": "Apriori Algorithm"
+    },
+ {
+        "cell_ids": [
+           45, 46, 47, 48, 49
+        ],
+       "question": "If a customer buys product with id 22725, what are the top 3 product recommendations based on the notebook's analysis?",
+         "answer": "Based on the output of the function, which uses mlxtend Apriori and association rules, in cell 52, the top 3 recommendations for item id '22725' are: (22727, 'ALARM CLOCK BAKELIKE RED '), (22326, 'ROUND SNACK BOXES SET OF4 WOODLAND '), and (22728, 'ALARM CLOCK BAKELIKE PINK').",
+        "task": "Recommendation Systems",
+        "skill":"Apriori Algorithm"
+    },
+    {
+        "cell_ids": [
+          45, 46, 47, 48, 49
+        ],
+       "question":"If a customer buys product with id 22809, what are the product recommendations based on the notebook's analysis?",
+        "answer": "The notebook outputs, \"There is no product can be recommended!\" for product id 22809.",
+        "task": "Recommendation Systems",
+        "skill":"Apriori Algorithm"
+    },
+      {
+        "cell_ids": [
+         45, 46, 47, 48, 49
+        ],
+         "question":"If a customer buys product with id 2256523, is it a valid id based on the notebook analysis?",
+        "answer": "The notebook outputs, \"Invalid Product Id, try again!\" for product id 2256523.",
+        "task": "Recommendation Systems",
+        "skill": "Apriori Algorithm"
+    }
+]

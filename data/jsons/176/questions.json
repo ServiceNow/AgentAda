@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the main difference between the model in this notebook and the one in the previous lesson?",
+        "answer": "This notebook uses a simpler matrix factorization model, while the previous lesson used a deep neural net model.",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+            2
+        ],
+        "question": "What does the dot product of two vectors return?",
+         "answer": "A single scalar number",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+   {
+        "cell_ids": [
+          2
+        ],
+        "question": "For the dot product to be defined between two vectors, what should be true about their lengths?",
+         "answer": "The vectors must be of the same length.",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3
+        ],
+         "question": "According to the intuitive interpretation, what does the user vector tell about?",
+        "answer": "'how does this user feel about action?'. Do they love it? Hate it? Or are they indifferent?",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+     {
+        "cell_ids": [
+           5
+        ],
+        "question": "What are the columns used from ratings.csv file?",
+        "answer": "userId, movieId, rating, y",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+   },
+  {
+        "cell_ids": [
+           5
+        ],
+         "question": "What are the columns used from movie.csv file?",
+        "answer": "movieId, title",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+  {
+        "cell_ids": [
+            7
+        ],
+         "question": "What is the shape of the embedded matrix after the PCA?",
+        "answer": "(4790, 3)",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+        {
+        "cell_ids": [
+             9
+        ],
+        "question": "What is the size of the embedding vector for users and movies in the matrix factorization model?",
+         "answer":"8",
+        "task":"Recommendation Systems",
+       "skill": "Matrix Factorization"
+    },
+  {
+        "cell_ids": [
+           10
+        ],
+        "question": "What is the loss function used to train the matrix factorization model?",
+       "answer": "MSE",
+        "task": "Recommendation Systems",
+         "skill": "Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+            10
+        ],
+        "question": "What is the evaluation metric used to train the matrix factorization model?",
+         "answer": "MAE",
+        "task": "Recommendation Systems",
+         "skill": "Matrix Factorization"
+    }
+]

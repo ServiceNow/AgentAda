@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies",
+        "https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset",
+        "https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k",
+        "https://www.kaggle.com/datasets/syedmubarak/netflix-dataset-latest-2021",
+        "https://www.kaggle.com/datasets/muqarrishzaib/tmdb-10000-movies-dataset",
+        "https://www.kaggle.com/datasets/manashjyotiborah/top-10000-movies-hosted-on-tmdb",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset",
+        "https://www.kaggle.com/datasets/yakshshah/blog-recommendation-data",
+        "https://www.kaggle.com/datasets/muhammadbinimran/movie-recommendation-system-prediction-dataset",
+        "https://www.kaggle.com/datasets/luisheitorribeiro/netflix-movie-ratings",
+        "https://www.kaggle.com/datasets/meastanmay/imdb-dataset",
+        "https://www.kaggle.com/datasets/hernan4444/animeplanet-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/snehaanbhawal/anime-list-for-recommendation-system-june-2021",
+        "https://www.kaggle.com/datasets/snehal1409/movielens",
+        "https://www.kaggle.com/datasets/seasonxc/30k-movie-lens",
+        "https://www.kaggle.com/datasets/thedevastator/imdb-movie-ratings-dataset",
+        "https://www.kaggle.com/datasets/veeralakrishna/movielens-25m-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/srinidhi14vaddy/collaborative-filtering-movie-recommendation",
+    "domain": "Entertainment",
+    "help_data_file_names": ["rating.csv"]
+}

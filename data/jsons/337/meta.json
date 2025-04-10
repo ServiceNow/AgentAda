@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mohammadkaiftahir/hr-analytics",
+        "https://www.kaggle.com/datasets/zagarsuren/hr-analytics",
+        "https://www.kaggle.com/datasets/colara/hr-analytics",
+        "https://www.kaggle.com/datasets/annusharma79/hr-analytics-dataset",
+        "https://www.kaggle.com/datasets/lunaticofringe/hr-analytics",
+        "https://www.kaggle.com/datasets/mithunkuamr/hr-analytics",
+        "https://www.kaggle.com/datasets/aditis18/hr-analytics-solution",
+        "https://www.kaggle.com/datasets/kapildevkota123/hr-analytics",
+        "https://www.kaggle.com/datasets/nibeditasahu/hr-analttics-dashboard"
+    ],
+    "dataset_description": "employee performance for HR analytics can provide valuable insights to organizations in terms of employee engagement, productivity, and overall organizational effectiveness. HR analytics involves using data to make informed decisions about human resources and employee-related matters. Here are some key aspects to consider when analyzing employee performance for HR analytics:",
+    "notebook_url": "https://www.kaggle.com/code/playfulminds/hr-analytics",
+    "domain": "Human Resources",
+    "help_data_file_names": []
+}

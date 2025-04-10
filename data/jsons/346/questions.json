@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "How many unique stores are present in the dataset?",
+        "answer": "The dataset contains 54 unique stores.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [14, 17],
+        "question": "What are the key interactive visualizations used in the exploratory data analysis?",
+        "answer": "Key interactive visualizations include time-series plots, correlation heatmaps, and dynamic scatter plots.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [19],
+        "question": "Which store has the highest total sales in the dataset?",
+        "answer": "Store number 4 has the highest total sales.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [22, 25],
+        "question": "What is the average daily sales value across all stores?",
+        "answer": "The average daily sales value across all stores is $9,832.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [28, 30],
+        "question": "How do sales trends change over time in the dataset?",
+        "answer": "Sales trends increase during holiday seasons, with noticeable peaks in December and June.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [33, 36, 38],
+        "question": "What is the correlation between oil prices and sales trends?",
+        "answer": "A slight negative correlation is observed between oil prices and sales trends, indicating that sales decrease when oil prices rise.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [41],
+        "question": "Which factor has the highest influence on store sales?",
+        "answer": "Holidays and promotional events have the highest influence on store sales.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [44, 46, 49],
+        "question": "What is the relationship between store type and sales performance?",
+        "answer": "Supermarkets tend to have higher sales compared to convenience stores and small retailers.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [52, 55, 57, 60],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "Sales are highly seasonal, promotional events drive short-term sales spikes, and store types significantly impact revenue distribution.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

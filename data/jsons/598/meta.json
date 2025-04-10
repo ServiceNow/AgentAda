@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/AI4Code"
+    ],
+    "dataset_description": "The dataset for this competition comprises about 160,000 Jupyter notebooks published by the Kaggle community. Jupyter notebooks are the tool of choice for many data scientists for their ability to tell a narrative with both code and natural language. These two types of discourse are contained within cells of the notebook, and we refer to these cells as either code cells or markdown cells (markdown being the text formatting language used by Jupyter).",
+    "notebook_url": "https://www.kaggle.com/code/mpwolke/correlations-dataprep-kendalltau",
+    "domain": "Business",
+    "help_data_file_names": []
+}

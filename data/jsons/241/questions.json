@@ -1,0 +1,88 @@
+[
+    {
+        "cell_ids": [
+            4
+        ],
+        "question": "What is the total number of customer records in the dataset?",
+        "answer": "(200, 5)",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            5
+        ],
+        "question": "What are the names of the columns in the customer dataset?",
+        "answer": "CustomerID, Gender, Age, Annual Income (k$), Spending Score (1-100)",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            6
+        ],
+        "question": "Are there any missing values in the dataset?",
+         "answer": "CustomerID                0\nGender                    0\nAge                       0\nAnnual Income (k$)        0\nSpending Score (1-100)    0\ndtype: int64",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            8
+        ],
+        "question": "What is the spending score of the first customer?",
+         "answer": "39",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+       "cell_ids": [ 8 ],
+       "question": "What is the annual income of the 10th customer?",
+       "answer": "19",
+       "task": "Basic Data Analysis",
+       "skill":"Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           9
+        ],
+        "question": "What is WCSS (Within Clusters Sum of Squares) calculated for 2 clusters?",
+        "answer": "Not directly available, but the code calculates it.",
+        "task": "Customer Segmentation",
+        "skill": "K-means Clustering"
+    },
+   {
+        "cell_ids": [
+            10
+        ],
+        "question": "Based on the elbow method, what is the suggested optimum number of clusters for this dataset?",
+        "answer": "5",
+         "task": "Customer Segmentation",
+        "skill": "K-means Clustering"
+    },
+    {
+        "cell_ids": [
+            11
+        ],
+         "question": "What cluster does the first customer belong to after K-Means clustering?",
+        "answer": "4",
+         "task": "Customer Segmentation",
+        "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [11],
+      "question": "What cluster does the 10th customer belong to?",
+      "answer": "3",
+      "task": "Customer Segmentation",
+       "skill": "K-means Clustering"
+    },
+    {
+        "cell_ids": [
+           12
+        ],
+       "question":"What is represented by the cyan points in the cluster visualization?",
+        "answer":"Centroids",
+        "task": "Dashboard Summary",
+        "skill":"Interactive Visualization"
+    }
+]

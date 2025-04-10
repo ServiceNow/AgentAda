@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze time series data to extract insights using wavelet decomposition techniques.",
+    "persona": "A data scientist with over 7 years of experience in time series analysis, specializing in advanced signal processing techniques like wavelet decomposition to enhance data-driven models, improve anomaly detection, and capture multi-resolution patterns in non-stationary data."
+}

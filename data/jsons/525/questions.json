@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What is the total number of rows and columns in the dataset?",
+        "answer": "The dataset contains 20,000 rows and 15 columns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28, 42],
+        "question": "What is the mean value of the primary time series variable?",
+        "answer": "The mean value of the primary time series variable is approximately 0.032.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [57, 68, 82],
+        "question": "How does wavelet decomposition help in detecting short-term anomalies in the dataset?",
+        "answer": "Wavelet decomposition isolates short-term variations and sudden changes by analyzing high-frequency components, helping to identify anomalies.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [95, 109, 122, 136],
+        "question": "What insights can be drawn from the low-frequency components of the wavelet decomposition?",
+        "answer": "Low-frequency components capture long-term trends, helping to understand the overall movement and structure of the data.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [149, 163, 178],
+        "question": "How does energy distribution in wavelet coefficients indicate the presence of noise in the data?",
+        "answer": "Higher energy concentration in high-frequency components suggests significant noise, while smoother signals have more energy in low-frequency bands.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [39, 53, 69, 81],
+        "question": "How does the reconstructed signal compare to the original time series after wavelet decomposition?",
+        "answer": "The reconstructed signal retains the key trends but removes transient noise, improving interpretability without distorting meaningful patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [102, 118, 132],
+        "question": "How does the decomposition level impact the granularity of extracted patterns?",
+        "answer": "Lower decomposition levels capture broader trends, while deeper levels reveal finer details and localized changes.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [147, 161, 175, 190],
+        "question": "What effect does adjusting the wavelet threshold have on the signal's smoothness?",
+        "answer": "A higher threshold removes more noise but may distort the data, while a lower threshold retains more details at the cost of increased noise.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [193, 199],
+        "question": "What types of events can be identified by analyzing changes in wavelet coefficients?",
+        "answer": "Significant changes in wavelet coefficients indicate regime shifts, seasonal variations, or unexpected anomalies in the dataset.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [48, 72, 86],
+        "question": "How do wavelet-based features correlate with external time-dependent factors in the dataset?",
+        "answer": "Wavelet features exhibit strong correlations with external time-dependent variables such as economic indicators or environmental conditions.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

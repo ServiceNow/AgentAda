@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of co-authorship network analysis?",
+        "answer": "The dataset represents a network of authors, where nodes are authors and edges represent co-authorship relationships.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the main attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the frequency or strength of co-authorship between authors.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4],
+        "question": "How many authors and co-authorship connections are represented in the network?",
+        "answer": "The network contains 1,000 authors and 3,000 co-authorship connections.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "Which author has the highest degree in the network?",
+        "answer": "Author A has the highest degree, collaborating with 120 other authors.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "Which author has the highest betweenness centrality score, and what is the value?",
+        "answer": "Author B has the highest betweenness centrality score of 0.095.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "What is the average clustering coefficient of the co-authorship network?",
+        "answer": "The average clustering coefficient of the network is 0.42.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many connected components are in the network?",
+        "answer": "The network has 10 connected components.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, while some edges have weights as high as 15, indicating frequent co-authorship.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of authors has the strongest co-authorship connection, and what does it represent?",
+        "answer": "Author X and Author Y have the strongest connection, with a weight of 15, representing the most frequent collaborations.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the diameter of the co-authorship network?",
+        "answer": "The diameter of the network is 12, representing the longest shortest path between any two authors.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    }
+]

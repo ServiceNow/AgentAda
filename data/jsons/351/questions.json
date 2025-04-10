@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many different visualization techniques are demonstrated in the document?",
+        "answer": "The document demonstrates 9 different visualization techniques.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [11, 14],
+        "question": "What are the key interactive visualizations used in the analysis?",
+        "answer": "The key interactive visualizations include Matrix and Bar Plots, Parallel Plots, Network Charts, Venn Diagrams, Donut Charts, Spider Charts, Cluster Maps, and 3D Scatter Plots.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [16],
+        "question": "Which visualization technique is used to detect missing values in a dataset?",
+        "answer": "The 'Missingno' library is used for Matrix and Bar Plots to visualize missing values in a dataset.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [19, 22],
+        "question": "What insights can be derived from using Parallel Plots?",
+        "answer": "Parallel Plots allow the comparison of multiple numerical variables and help in detecting patterns among different classes of data.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [25, 28],
+        "question": "How does a Network Chart help in data visualization?",
+        "answer": "A Network Chart helps visualize correlations between variables, making it easier to interpret relationships and dependencies between features.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [30, 33, 35],
+        "question": "What is the purpose of using a Spider Chart?",
+        "answer": "Spider Charts are used to visualize multivariate data and compare different variables across categories in a radial layout.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [38],
+        "question": "Which factor has the highest influence in a Cluster Map visualization?",
+        "answer": "The highest influencing factor in a Cluster Map is the hierarchical clustering algorithm, which groups similar data points together.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [41, 44, 46],
+        "question": "How do 3D Scatter Plots enhance data exploration?",
+        "answer": "3D Scatter Plots allow users to interact with the data in three dimensions, making it easier to spot trends and clusters that may not be visible in 2D plots.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [49, 52, 55, 58],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "Rare visualization techniques provide deeper insights into patterns, correlations, and missing values, enhancing data exploration and interpretation.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

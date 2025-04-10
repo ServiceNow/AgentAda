@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of nodes and edges in the Game of Thrones network, and how does this support PageRank analysis?",
+      "answer": "The network contains 300 nodes and 1,200 edges, representing character interactions critical for PageRank analysis.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of edge weights in the network, and how do they reflect the strength of character relationships?",
+      "answer": "Edge weights range from 1 to 100, with higher weights indicating stronger relationships or frequent interactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5],
+      "question": "Which characters have the highest degree centrality, and how do they correlate with their PageRank scores?",
+      "answer": "Characters like Jon Snow and Daenerys Targaryen have the highest degree centrality, correlating with their high PageRank scores.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [6, 7],
+      "question": "What are the top 5 characters by PageRank score, and what does this indicate about their roles in the network?",
+      "answer": "The top 5 characters by PageRank score include Tyrion Lannister and Jon Snow, highlighting their centrality in the story.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [8, 9],
+      "question": "How does the distribution of PageRank scores vary across different houses or factions in Game of Thrones?",
+      "answer": "Major houses like the Lannisters and Starks have higher average PageRank scores compared to minor houses or factions.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [10, 11],
+      "question": "How do changes in the damping factor affect the PageRank scores of minor characters?",
+      "answer": "Decreasing the damping factor reduces the influence of indirect connections, lowering the PageRank scores of minor characters.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [12, 13],
+      "question": "Which edges contribute most to the high PageRank scores of central characters, and what insights do they offer?",
+      "answer": "High-weight edges between central characters, such as Jon Snow and Daenerys Targaryen, significantly boost their PageRank scores.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [14, 15],
+      "question": "What roles do low PageRank characters play in the network, and how do they contribute to overall connectivity?",
+      "answer": "Low PageRank characters often act as connectors between major houses or regions, maintaining network cohesion.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [16, 17, 18],
+      "question": "How do the PageRank scores of characters correlate with their narrative importance in the series?",
+      "answer": "High PageRank scores align with pivotal narrative roles, as seen with characters like Tyrion Lannister and Jon Snow.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [19, 20, 21],
+      "question": "What actionable insights from PageRank analysis can guide further studies on character influence and interactions?",
+      "answer": "Insights include focusing on high PageRank characters for influence propagation studies and examining minor characters for hidden alliances.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    }
+  ]
+  

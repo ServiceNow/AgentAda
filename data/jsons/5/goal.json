@@ -1,0 +1,4 @@
+{
+    "goal": "Perform sentiment analysis on text data to identify positive, negative, and neutral sentiments.",
+    "persona": "A data scientist specializing in natural language processing with expertise in applying machine learning models for text analysis. They are focused on understanding sentiments present in social media posts to derive insights that can impact social campaigns and brand perception."
+}

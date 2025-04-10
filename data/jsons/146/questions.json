@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of online payment transactions in the dataset, and how does this impact the complexity of fraud detection?",
+      "answer": "The dataset contains 1,000,000 transactions, presenting a significant volume for analyzing fraud patterns.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of transactions in the dataset are fraudulent, and how does this class imbalance affect the detection process?",
+      "answer": "The percentage of fraudulent transactions is 0.8%, highlighting the class imbalance that challenges the model's accuracy.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 8, 11],
+      "question": "What is the average transaction amount in the dataset, and how does it compare to fraudulent transactions?",
+      "answer": "The average transaction amount is $150.00, whereas fraudulent transactions tend to have higher amounts.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [12, 15, 18, 21],
+      "question": "What is the maximum transaction amount recorded, and is it associated with any flagged fraudulent cases?",
+      "answer": "The maximum transaction amount is $50,000, which is frequently associated with fraudulent cases.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [22],
+      "question": "What is the minimum transaction amount in the dataset, and how does it relate to fraud cases?",
+      "answer": "The minimum transaction amount is $1.00, and such low-value transactions rarely appear as fraudulent.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [23, 25, 28],
+      "question": "Which features are identified as most important in predicting fraudulent transactions, and what patterns do these features reveal?",
+      "answer": "Key features include 'Transaction Amount', 'Payment Type', and 'Country of Origin', where high amounts and unusual origins are strong indicators.",
+      "task": "Fraud Detection",
+      "skill": "Neural Networks"
+    },
+    {
+      "cell_ids": [30, 33],
+      "question": "What customer behaviors are most associated with fraudulent transactions according to the trained neural network?",
+      "answer": "Behaviors such as high-frequency transactions from new accounts and unusual payment methods are strongly associated with fraud.",
+      "task": "Fraud Detection",
+      "skill": "Neural Networks"
+    },
+    {
+      "cell_ids": [34, 37, 40],
+      "question": "What are the most common transaction times for fraudulent activities, and how does this compare to legitimate transactions?",
+      "answer": "Fraudulent transactions are more frequent during late-night hours, contrasting with legitimate transactions occurring during business hours.",
+      "task": "Fraud Detection",
+      "skill": "Neural Networks"
+    },
+    {
+      "cell_ids": [41, 44],
+      "question": "What geographic regions are most commonly associated with flagged fraudulent transactions?",
+      "answer": "Regions such as 'Region C' and 'Region D' are disproportionately represented among flagged fraudulent cases.",
+      "task": "Fraud Detection",
+      "skill": "Neural Networks"
+    },
+    {
+      "cell_ids": [45, 48, 51, 54],
+      "question": "What is the relationship between transaction frequency and the likelihood of fraud, as revealed by the model?",
+      "answer": "The model shows that accounts with an unusually high transaction frequency within short periods are more likely to be flagged as fraudulent.",
+      "task": "Fraud Detection",
+      "skill": "Neural Networks"
+    }
+  ]
+  

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "What dataset was used for the time series analysis of the S&P 500 index?",
+        "answer": "The dataset consists of historical daily closing prices of the S&P 500 index from 2000 to 2023.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [18, 25],
+        "question": "What general trend was observed in the S&P 500 index over the analyzed period?",
+        "answer": "The S&P 500 showed an overall upward trend with periodic declines during financial crises.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [32, 38],
+        "question": "What were the major economic events that influenced the S&P 500 performance?",
+        "answer": "Major events included the 2008 financial crisis, the COVID-19 market crash, and the Federal Reserve's interest rate changes.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [45, 52],
+        "question": "What seasonal effects were observed in the S&P 500 index?",
+        "answer": "The index exhibited higher gains in Q4 due to end-of-year financial reporting and holiday season trading.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [60, 68, 75],
+        "question": "How did trading volume correlate with price movements in the S&P 500?",
+        "answer": "Higher trading volume was observed during earnings seasons and financial crises, often leading to higher volatility.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [81, 89],
+        "question": "Which forecasting models were used to predict future S&P 500 movements?",
+        "answer": "ARIMA and LSTM models were applied to predict future index prices based on historical trends.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [102, 110, 118],
+        "question": "What was the impact of inflation rates on the S&P 500 index?",
+        "answer": "Periods of high inflation generally led to increased market volatility and lower stock returns.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [127, 135, 144],
+        "question": "What were the key findings from the time series decomposition of the S&P 500 data?",
+        "answer": "The decomposition revealed a strong long-term trend, cyclical movements, and short-term seasonal variations.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [153, 161, 170],
+        "question": "How did the ARIMA model perform in forecasting the S&P 500 index?",
+        "answer": "The ARIMA model provided reasonable short-term predictions but struggled with long-term trends due to non-stationarity.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [182, 190, 198],
+        "question": "What recommendations were made for investors based on the S&P 500 time series analysis?",
+        "answer": "Long-term investments in index funds and diversification were suggested to mitigate market risks.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

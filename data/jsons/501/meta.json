@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales"
+    ],
+    "dataset_description": "You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.",
+    "notebook_url": "https://www.kaggle.com/code/jagangupta/time-series-basics-exploring-traditional-ts",
+    "domain": "Commerece",
+    "help_data_file_names": [
+        "sales_train.csv",
+        "shops.csv",
+        "items.csv",
+        "item_categories.csv"
+    ]
+}

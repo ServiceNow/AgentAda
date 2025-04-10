@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/seizure-prediction"
+    ],
+    "dataset_description": "Intracranial EEG (iEEG) data clips are organized in folders containing training and testing data for each human or canine subject. The training data is organized into ten minute EEG clips labeled \"Preictal\" for pre-seizure data segments, or \"Interictal\" for non-seizure data segments. Training data segments are numbered sequentially, while testing data are in random order. Within folders data segments are stored in .mat files as follow:",
+    "notebook_url": "https://www.kaggle.com/code/kiran3799/epilepsy-prediction-notebook",
+    "domain": "Health",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "What dataset was used for customer segmentation in this analysis?",
+        "answer": "The dataset consists of customer purchase transactions, including frequency, monetary value, and recency of purchases.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [12, 19],
+        "question": "How many clusters were selected for the customer segmentation?",
+        "answer": "The optimal number of clusters was determined to be 4 based on the elbow method analysis.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [24, 31, 36],
+        "question": "What features were used to segment the customers?",
+        "answer": "Recency, frequency, and monetary value (RFM) scores were used to differentiate customer segments.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [42, 50, 58],
+        "question": "Which customer segment had the highest average transaction value?",
+        "answer": "Segment 1, representing high-value frequent shoppers, had the highest average transaction value.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [65, 73, 80],
+        "question": "What insights were derived from the segmented customer groups?",
+        "answer": "Customers were categorized into high spenders, frequent buyers, occasional shoppers, and at-risk customers.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [88, 97, 105],
+        "question": "Which customer segment had the highest retention rate?",
+        "answer": "Segment 2, consisting of loyal repeat customers, showed the highest retention rate.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [112, 120, 127],
+        "question": "How do purchasing behaviors differ across the identified customer segments?",
+        "answer": "Premium customers make frequent large purchases, while budget-conscious customers shop infrequently with lower transaction values.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [134, 143, 150],
+        "question": "What strategies can businesses use to increase customer engagement for at-risk segments?",
+        "answer": "Targeted discounts, personalized recommendations, and email re-engagement campaigns can help improve retention.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [157, 165, 172],
+        "question": "Which segment responded most positively to promotional offers?",
+        "answer": "Segment 3, composed of deal-seekers, demonstrated the highest engagement with promotional offers and discounts.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [180, 187, 195],
+        "question": "How can businesses leverage customer segmentation to improve product recommendations?",
+        "answer": "Segment-specific product recommendations can be tailored, such as exclusive deals for loyal customers and budget-friendly options for occasional shoppers.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    }
+]

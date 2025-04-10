@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/bahraleloom/customer-segmentation-in-online-retail",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/ahmetyazgan/rfm-segmentation-cohort-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

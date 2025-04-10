@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdelazizsami/wine-quality",
+        "https://www.kaggle.com/datasets/kirilkuzmin/spike-proteins-in-conona-viruses"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/gauravduttakiit/local-outlier-factor",
+    "domain": "Food",
+    "help_data_file_names": []
+}

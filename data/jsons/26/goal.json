@@ -1,0 +1,5 @@
+{
+    "goal": "To evaluate the effectiveness of a sentiment analysis model on a labeled text dataset.",
+    "persona": "A data analyst analyzing sentiment data from an IMDb dataset to assess model performance and extract insights into text sentiment classification."
+  }
+  

@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this provide a basis for analyzing churn trends?",
+      "answer": "The dataset contains 100,000 customers, offering a substantial base for understanding customer behavior and churn.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of customers are identified as churned, and how does this reflect the overall churn rate in the dataset?",
+      "answer": "The dataset shows a churn rate of 15%, indicating a significant portion of the customer base that has churned.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 9],
+      "question": "What is the average duration of customer engagement, and how does this differ between churned and retained customers?",
+      "answer": "The average duration of engagement is 24 months, with churned customers typically showing shorter engagement periods.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 12, 15],
+      "question": "Which product categories are most associated with churned customers, and how can this inform product-specific retention strategies?",
+      "answer": "Churned customers often purchase items in categories like 'Electronics' and 'Home Decor,' highlighting potential areas for targeted retention efforts.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [16, 18, 20],
+      "question": "What is the distribution of spending levels among customers, and how does this correlate with churn behavior?",
+      "answer": "Customers with higher spending levels are less likely to churn compared to those with lower spending levels.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [22, 25],
+      "question": "How do payment methods correlate with churn rates, and what insights can be derived for improving retention?",
+      "answer": "Customers using credit cards exhibit lower churn rates compared to those using cash on delivery.",
+      "task": "Churn Analysis",
+      "skill": "Gradient Boosting Machines"
+    },
+    {
+      "cell_ids": [27, 30, 32],
+      "question": "What demographic trends are observed among churned customers, and how can these inform targeted retention strategies?",
+      "answer": "Younger customers and those residing in urban areas exhibit higher churn rates, suggesting targeted offers could improve retention.",
+      "task": "Churn Analysis",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [33, 36],
+      "question": "How does purchase frequency influence churn rates, and what strategies can be implemented to encourage repeat purchases?",
+      "answer": "Customers with infrequent purchases are more likely to churn, indicating that loyalty programs could enhance retention.",
+      "task": "Churn Analysis",
+      "skill": "Gradient Boosting Machines"
+    },
+    {
+      "cell_ids": [38, 40, 43],
+      "question": "What impact do delivery delays have on churn rates, and how can operational improvements reduce churn?",
+      "answer": "Delivery delays significantly increase churn rates, emphasizing the need for faster and more reliable delivery services.",
+      "task": "Churn Analysis",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [45, 48, 50, 52],
+      "question": "What strategies can be implemented to reduce churn among high-value customers?",
+      "answer": "Providing personalized discounts and exclusive benefits for high-value customers can significantly enhance retention.",
+      "task": "Churn Analysis",
+      "skill": "Gradient Boosting Machines"
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/pedrocouto39/jane-street-market-train-data-best-formats",
+        "https://www.kaggle.com/datasets/aubertsigouin/biximtl",
+        "https://www.kaggle.com/datasets/rosenthal/citi-bike-stations",
+        "https://www.kaggle.com/datasets/thedevastator/uncover-the-mystery-behind-got-characters-screen",
+        "https://www.kaggle.com/datasets/vbookshelf/xarpai-lung-opacity-detector",
+        "https://www.kaggle.com/datasets/stuartbladon/declassified-cia-intelligence-reports"
+    ],
+    "dataset_description": "The 2021 Big Data Bowl data contains player tracking, play, game, and player level information for all possible passing plays during the 2018 regular season. For purposes of this event, passing plays are considered to be ones on a pass was thrown, the quarterback was sacked, or any one of five different penalties was called (defensive pass interference, offensive pass interference, defensive holding, illegal contact, or roughing the passer). On each play, linemen (both offensive and defensive) data are not provided. The focus of this year's contest is on pass coverage.",
+    "notebook_url": "https://www.kaggle.com/code/vmanav/read-large-datasets-in-seconds",
+    "domain": "Sports",
+    "help_data_file_names": [
+        "games.csv",
+        "players.csv"
+    ]
+}

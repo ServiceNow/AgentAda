@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "What dataset was used for missing value imputation in this analysis?",
+        "answer": "The dataset consists of chronic kidney disease (CKD) patient records with missing values in various medical attributes.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [17, 24],
+        "question": "How was the proportion of missing values assessed before imputation?",
+        "answer": "A missing value heatmap and summary statistics were used to analyze the percentage of missing data in each feature.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [32, 39, 45],
+        "question": "Which features in the dataset had the highest percentage of missing values?",
+        "answer": "Serum creatinine, blood pressure, and albumin levels had the highest percentage of missing values in the dataset.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [53, 61, 69],
+        "question": "How does MICE handle missing data differently from mean or median imputation?",
+        "answer": "MICE imputes missing values iteratively by modeling each variable conditionally based on other variables rather than using a single central tendency measure.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [78, 85, 92],
+        "question": "What was the impact of using MICE on the distribution of the imputed features?",
+        "answer": "MICE preserved the original data distribution and relationships between features better compared to mean imputation.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [101, 109, 116],
+        "question": "How was the performance of MICE evaluated in this study?",
+        "answer": "The imputed data was compared against known values using RMSE and correlation analysis to assess imputation accuracy.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [124, 132, 139],
+        "question": "What advantages does MICE provide over KNN imputation for this dataset?",
+        "answer": "MICE better preserves feature relationships and provides more stable imputations for small sample sizes compared to KNN imputation.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [147, 155, 162],
+        "question": "How can the imputed dataset be used for further medical analysis?",
+        "answer": "The imputed dataset allows for more complete statistical analysis and predictive modeling in CKD diagnosis and progression monitoring.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [170, 177, 185],
+        "question": "What challenges were observed when applying MICE to this dataset?",
+        "answer": "Computational cost and convergence issues were observed, especially when handling highly correlated features with extensive missing values.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [193, 199],
+        "question": "What recommendations were made for improving imputation in medical datasets?",
+        "answer": "Combining domain knowledge with MICE, ensuring proper feature selection, and using ensemble imputation methods were recommended for improved accuracy.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    }
+]

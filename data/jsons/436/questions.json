@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [4],
+        "question": "How many records and features are present in the dataset?",
+        "answer": "The dataset contains 300,000 records and 25 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 15],
+        "question": "What percentage of missing values exist in the dataset?",
+        "answer": "The dataset contains 0.5% missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [22],
+        "question": "What is the distribution of anomalies in the dataset?",
+        "answer": "Out of 300,000 records, 1,500 were labeled as anomalies, representing 0.5% of the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [30, 37],
+        "question": "What percentage of data points were classified as anomalies using the Local Outlier Factor model?",
+        "answer": "Approximately 4.2% of data points were classified as anomalies.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [45, 53, 60],
+        "question": "Which feature contributed the most to anomaly detection?",
+        "answer": "'Feature_12' had the highest anomaly contribution score of 0.78.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [69, 77, 85, 92],
+        "question": "How do anomaly scores compare between normal and anomalous instances?",
+        "answer": "Anomalous instances had an average anomaly score of -3.01, while normal instances had an average anomaly score of -0.45.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [100],
+        "question": "What precision and recall were achieved by the Local Outlier Factor model?",
+        "answer": "The model achieved a precision of 89.4% and a recall of 93.7%.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [109, 118, 127],
+        "question": "How did adjusting the contamination parameter affect anomaly detection results?",
+        "answer": "Increasing the contamination parameter from 0.02 to 0.06 resulted in a 62% increase in detected anomalies but also increased false positives.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [136, 145, 153, 162],
+        "question": "What insights were revealed when visualizing anomalies using t-SNE?",
+        "answer": "The t-SNE visualization showed that anomalies were primarily located in sparse regions of the data, indicating their distinct separation from normal instances.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [170, 178, 186, 194],
+        "question": "Which types of transactions exhibited the highest anomaly detection rates?",
+        "answer": "High-frequency transactions with extreme values in 'Feature_8' and 'Feature_19' had the highest anomaly detection rates at 41.7% and 35.2%, respectively.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    }
+]

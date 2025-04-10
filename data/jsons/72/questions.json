@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What general trend is observed in the time series dataset provided?",
+        "answer": "The dataset shows an overall increasing trend with periodic seasonal fluctuations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average value in the dataset, and how does it vary across different periods?",
+        "answer": "The average value is 1,750 units, with higher values observed during peak seasons.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "What seasonal patterns are identified in the time series data?",
+        "answer": "The data reveals annual seasonal peaks during mid-year and troughs at the start of each year.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [7],
+        "question": "What is the highest recorded value in the dataset, and in which period did it occur?",
+        "answer": "The highest value recorded is 2,500 units in July 2019.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 9, 10],
+        "question": "What are the forecasted values for the next 6 months using the ARIMA model?",
+        "answer": "The forecasted values range between 1,700 and 2,100 units, following the seasonal trend.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "What does the residual analysis suggest about the ARIMA model's fit to the dataset?",
+        "answer": "Residuals show no significant patterns or autocorrelation, indicating a good fit of the ARIMA model.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13, 14, 15],
+        "question": "What evaluation metrics are used to assess the ARIMA model, and what are their values?",
+        "answer": "The model is evaluated using MAE (120 units) and RMSE (160 units), indicating good accuracy.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [16],
+        "question": "How do the forecasted values compare to historical trends in the dataset?",
+        "answer": "The forecasted values align well with historical patterns, including seasonal peaks and troughs.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Were there any missing or anomalous values in the dataset? If so, how were they handled?",
+        "answer": "The dataset had missing values for two months in 2020, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What key insights can be derived from the dataset regarding its trends and seasonality?",
+        "answer": "The dataset shows steady growth with regular seasonal variations and predictable future trends.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Assess the impact of treatments using propensity score matching on various demographic and socio-economic variables.",
+    "persona": "A data scientist specializing in causal inference with 7 years of experience, focused on evaluating the impact of interventions using advanced statistical techniques such as propensity score matching. They are dedicated to deriving insights from large social survey datasets to inform policy decisions and improve socio-economic outcomes."
+}

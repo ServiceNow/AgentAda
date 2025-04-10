@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/kadirduran/rfm-analysis-k-means-clustering-cohort-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [4, 5],
+        "question": "What trends can be observed in the stock price of ARCH CAPITAL GROUP over the past year?",
+        "answer": "The stock price of ARCH CAPITAL GROUP shows a steady upward trend with occasional minor fluctuations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 7],
+        "question": "What is the average daily closing price of ARCH CAPITAL GROUP stock in the dataset?",
+        "answer": "The average daily closing price is $85.42.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "What are the seasonal patterns in the stock price of ARCH CAPITAL GROUP observed in the dataset?",
+        "answer": "The dataset reveals seasonal increases in stock price at the end of each quarter.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [15, 16],
+        "question": "What is the maximum stock price recorded for ARCH CAPITAL GROUP in the dataset?",
+        "answer": "The maximum stock price recorded is $92.30.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18, 19],
+        "question": "What is the predicted stock price of ARCH CAPITAL GROUP for the next quarter?",
+        "answer": "The predicted stock price ranges from $87 to $91, indicating a steady increase.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [20, 21],
+        "question": "How does the volatility of ARCH CAPITAL GROUP stock compare across months in the dataset?",
+        "answer": "The stock is most volatile in March and least volatile in December.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [22, 23],
+        "question": "What are the key performance indicators derived from the stock dataset for ARCH CAPITAL GROUP?",
+        "answer": "Key indicators include an average daily volume of 1.2M and an average daily return of 0.5%.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [24, 25],
+        "question": "How does the forecasted trend compare to the historical trend in the dataset?",
+        "answer": "The forecasted trend closely mirrors the historical upward trend with slight deviations.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [26, 27],
+        "question": "What are the missing values or inconsistencies in the ARCH CAPITAL GROUP dataset?",
+        "answer": "The dataset has missing values for 3 trading days in August and 1 in November.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [28, 29],
+        "question": "What overall conclusions about ARCH CAPITAL GROUP stock can be drawn from the dataset?",
+        "answer": "The stock shows consistent growth, low volatility in December, and potential for steady future gains.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

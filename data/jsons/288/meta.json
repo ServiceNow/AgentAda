@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/huzaifa160/pakistan-cities-dataset",
+        "https://www.kaggle.com/datasets/samanazhar/multilingual-sentiment-analysis"
+    ],
+    "dataset_description": "Urbanization and Corridor Development: Urban areas are increasingly seen as multi-centric regions, extending beyond traditional city limits into suburban and transitional areas. Urban corridors are developed with city clusters connected by transport routes, often linked to economic growth. In Pakistan, urban corridors like the Faisalabad Industrial Estate Development and Management Company (FIEDMC) aim to connect megacities with industrial hubs and ports, focusing on regional economic development.",
+    "notebook_url": "https://www.kaggle.com/code/huzaifa160/pakistan-cities-network-analysis",
+    "domain": "Urban",
+    "help_data_file_names": []
+}

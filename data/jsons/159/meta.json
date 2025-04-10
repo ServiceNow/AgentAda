@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset",
+        "https://www.kaggle.com/datasets/yakshshah/blog-recommendation-data",
+        "https://www.kaggle.com/datasets/rajkumardubey10/amazon-book-dataset30000-books-with-30-category",
+        "https://www.kaggle.com/datasets/anshkgoyal/collaborative-filtering-model"
+    ],
+    "dataset_description": "Contains 278,858 users (anonymized but with demographic information) providing 1,149,780 ratings (explicit / implicit) about 271,379 books.",
+    "notebook_url": "https://www.kaggle.com/code/sankha1998/collaborative-book-recommendation-system",
+    "domain": "Entertainment",
+    "help_data_file_names": ["ratings.csv", "users.csv"]
+}

@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/patricklford/ballet-between-the-earth-and-moon"
+    ],
+    "dataset_description": "This dataset marks the beginning of my adventure in the world of data science. And for me, it represents the merging of two areas of knowledge: computational chemistry and data science.",
+    "notebook_url": "https://www.kaggle.com/code/flavianofernandes/structure-of-liquid-water-by-molecular-dynamics",
+    "domain": "Astronomy",
+    "help_data_file_names": [
+        "lattice.csv",
+        "atoms.csv"
+    ]
+}

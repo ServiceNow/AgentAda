@@ -1,0 +1,20 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/chiragtagadiya/caviar"
+    ],
+    "dataset_description": "This Dataset is a time-varying criminal network that is repeatedly disturbed by police forces. The CAVIAR investigation lasted two years and ran from 1994 to 1996. The operation brought together investigation units of the Montréal police and the Royal Canadian Mounted Police of Canada. During this two-year period, 11 wiretap warrants, valid for a period of about two months each, were obtained (the 11 matrices contained in phase1.csv, phase2.csv, correspond to these eleven, two-month wiretap phases).",
+    "notebook_url": "https://www.kaggle.com/code/gargmanas/caviar-case-study",
+    "domain": "Surveillance",
+    "help_data_file_names": [
+        "phase2.csv",
+        "phase3.csv",
+        "phase4.csv",
+        "phase5.csv",
+        "phase6.csv",
+        "phase7.csv",
+        "phase8.csv",
+        "phase9.csv",
+        "phase10.csv",
+        "phase11.csv"
+    ]
+}

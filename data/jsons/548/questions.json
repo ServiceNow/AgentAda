@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What is the total number of samples in the dataset?",
+        "answer": "The dataset contains 50,000 samples.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 14],
+        "question": "What is the median value of the first numerical feature in the dataset?",
+        "answer": "The median value of the first numerical feature is 7.25.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27],
+        "question": "What preprocessing steps were performed before applying Eigenvalue Decomposition?",
+        "answer": "The dataset was centered, standardized, and categorical variables were one-hot encoded.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [35, 38],
+        "question": "How many principal components were retained for further analysis?",
+        "answer": "10 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [49, 52, 55],
+        "question": "What percentage of variance is captured by the first four principal components?",
+        "answer": "The first four principal components capture 76% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [63, 68],
+        "question": "What method was used to determine the importance of each principal component?",
+        "answer": "The eigenvalues of the covariance matrix were analyzed to determine the importance of each principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [77],
+        "question": "What dataset was used in the Eigenvalue Decomposition analysis?",
+        "answer": "The dataset consists of customer transaction records from a retail business.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [92, 96, 101, 105],
+        "question": "What method was used to visualize the distribution of data points after applying PCA?",
+        "answer": "A scatter plot of the first two principal components was used to visualize the data distribution.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [117],
+        "question": "How does Eigenvalue Decomposition improve feature selection?",
+        "answer": "It identifies the most informative features by analyzing variance contributions, reducing redundant data.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [133, 138, 142, 147],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition for dimensionality reduction?",
+        "answer": "Eigenvalue Decomposition successfully reduced dimensionality while retaining key patterns, making the dataset easier to interpret and analyze.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

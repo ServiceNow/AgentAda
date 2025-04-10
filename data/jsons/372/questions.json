@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records and features are included in the aircraft engine predictive maintenance dataset?",
+        "answer": "The dataset contains 210,000 records and 22 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 17],
+        "question": "What is the average number of operational cycles before an engine failure?",
+        "answer": "The average operational cycle count before failure is 290 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [21],
+        "question": "Which sensor readings are used as input features for the Random Forest predictive maintenance model?",
+        "answer": "Key sensor readings include engine temperature, vibration, pressure, humidity, and fuel efficiency.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [25, 30],
+        "question": "How does an increase in engine temperature affect failure probability?",
+        "answer": "Engines operating above 85°C experience a 65% increase in failure probability.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [35, 39, 43],
+        "question": "What is the distribution of failure types across engine components?",
+        "answer": "The dataset includes 44% mechanical failures, 32% electrical failures, and 24% structural failures.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [48, 52, 56, 60],
+        "question": "How does vibration level correlate with engine failures?",
+        "answer": "Engines with vibration levels exceeding 4.7 m/s² have a failure probability of 75%.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [64],
+        "question": "Which sensor reading is the strongest predictor of aircraft engine failure?",
+        "answer": "Operational cycle count is the most significant predictor, followed by vibration and pressure readings.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [68, 73, 77],
+        "question": "What impact does feature selection have on the Random Forest model’s accuracy?",
+        "answer": "Feature selection improved model accuracy by 6% by reducing redundant features and improving generalization.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [81, 85, 89, 93],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The Random Forest model predicts failures with 90% accuracy up to 55 cycles in advance, highlighting temperature and vibration as key failure indicators.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [97, 101, 105, 109],
+        "question": "How does the Random Forest model compare to other predictive models used in maintenance forecasting?",
+        "answer": "The Random Forest model outperforms logistic regression and decision trees, achieving a higher precision of failure prediction by 8%.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    }
+]

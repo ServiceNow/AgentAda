@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What long-term trend is observed in the climate data over the recorded period?",
+        "answer": "The data shows a gradual increase in average temperatures over the years.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average annual temperature in the dataset?",
+        "answer": "The average annual temperature is 15.7°C.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are evident in the climate data?",
+        "answer": "Temperatures peak in July and August, while the lowest temperatures are recorded in January.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest temperature recorded in the dataset, and in which year did it occur?",
+        "answer": "The highest temperature recorded is 38°C, observed in 2020.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What are the forecasted temperatures for the next year using the ARIMA model?",
+        "answer": "The forecasted temperatures for the next year range between 14°C and 37°C, maintaining seasonal trends.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the dataset reveal about the rate of temperature change over the years?",
+        "answer": "The dataset shows an average annual increase of 0.2°C in temperatures.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How do the forecasted temperatures compare to historical seasonal averages?",
+        "answer": "The forecasted values align closely with historical seasonal averages, showing consistent peaks and troughs.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Were there any missing or anomalous values in the dataset, and how were they handled?",
+        "answer": "The dataset had missing values for two months, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What insights can be drawn about the impact of climate change from the dataset?",
+        "answer": "The dataset indicates a steady increase in temperatures, with more frequent temperature extremes in recent years.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What role do external factors play in influencing the observed climate trends and forecasts?",
+        "answer": "External factors such as greenhouse gas emissions and deforestation contribute to the increasing temperature trends.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

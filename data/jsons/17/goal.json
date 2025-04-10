@@ -1,0 +1,4 @@
+{
+    "goal": "Understand sentiment distribution and influential factors in tweets.",
+    "persona": "A data analyst with expertise in machine learning and natural language processing, focused on improving sentiment analysis models for better understanding of social media dynamics. The analyst is interested in refining model accuracy and exploring how different preprocessing techniques and model parameters affect performance and misclassification rates."
+}

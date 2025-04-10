@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/anthonytherrien/gladiator-combat-records-and-profiles-dataset",
+        "https://www.kaggle.com/datasets/weddou/french-youtubers",
+        "https://www.kaggle.com/datasets/rtatman/six-degrees-of-francis-bacon",
+        "https://www.kaggle.com/datasets/avasadasivan/witcher-network",
+        "https://www.kaggle.com/datasets/aryansingh0909/nyt-articles-21m-2000-present",
+        "https://www.kaggle.com/datasets/anshulmehtakaggl/github-organizations-social-network-analysis",
+        "https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification",
+        "https://www.kaggle.com/datasets/kanchana1990/ronaldos-tweets-insight-engagement-and-trends",
+        "https://www.kaggle.com/datasets/shreyasur965/social-network-ads",
+        "https://www.kaggle.com/datasets/rahulgoel1106/network-analysis-data-from-various-sources",
+        "https://www.kaggle.com/datasets/talhabu/global-refugee-trends-and-displacement-statistics",
+        "https://www.kaggle.com/datasets/thedevastator/football-data-competitions-clubs-players-statist",
+        "https://www.kaggle.com/datasets/hemil26/world-happiness-report-2022",
+        "https://www.kaggle.com/datasets/thedevastator/us-congress-members-tweets",
+        "https://www.kaggle.com/datasets/architty108/github-indian-users-deep-data",
+        "https://www.kaggle.com/datasets/thedevastator/semantic-opencare-network-analysis",
+        "https://www.kaggle.com/datasets/awadhi123/indian-election-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/american-anxieties-dear-abby-s-questions",
+        "https://www.kaggle.com/datasets/thedfrlab/datafest-tbilisi-2020",
+        "https://www.kaggle.com/datasets/thedevastator/greekgodx-tweets-analyzing-conversation-interact"
+    ],
+    "dataset_description": "meetup.com is a website for people organizing and attending regular or semi-regular events (\"meet-ups\"). The relationships amongst users—who goes to what meetups—are a social network, ideal for graph-based analysis.",
+    "notebook_url": "https://www.kaggle.com/code/pierrek20/social-network-visualization-and-analysis",
+    "domain": "Sports",
+    "help_data_file_names": []
+}

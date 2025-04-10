@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/oscaryezfeijo/credit-card-fraud",
+        "https://www.kaggle.com/datasets/rashmitachauhan/creditcardfrauddetection"
+    ],
+    "dataset_description": "Prediction task is to determine whether a person makes over 50K a year. ",
+    "notebook_url": "https://www.kaggle.com/code/prashant111/random-forest-classifier-feature-importance",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

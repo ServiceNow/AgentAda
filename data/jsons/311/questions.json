@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [4, 5],
+        "question": "How many transactions are present in the Bread Basket dataset?",
+        "answer": "The dataset contains 21293 transactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What are the data types of the columns in the dataset?",
+        "answer": "The dataset contains columns with data types: 'date_time' (object), 'transaction' (int64), 'item' (object), and 'weekday_weekend' (object).",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "Are there any missing values in the dataset?",
+        "answer": "No, the dataset does not contain any missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 10],
+        "question": "What are the unique values in the 'weekday_weekend' column?",
+        "answer": "The 'weekday_weekend' column contains two unique values: 'Weekday' and 'Weekend'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6, 7],
+        "question": "Which item appears most frequently in the dataset?",
+        "answer": "'Coffee' is the most frequently purchased item.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 15],
+        "question": "What is the minimum support threshold used for frequent itemset generation using FP-Growth?",
+        "answer": "The minimum support threshold used for FP-Growth is 0.01.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [15, 16],
+        "question": "Which items are most frequently purchased together in the dataset based on FP-Growth?",
+        "answer": "The most frequently purchased itemsets include ('Coffee', 'Bread') and ('Tea', 'Pastry').",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [16],
+        "question": "How many frequent itemsets were generated using FP-Growth?",
+        "answer": "A total of 35 frequent itemsets were generated using the FP-Growth algorithm.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [15, 16, 18],
+        "question": "Which association rule has the highest confidence value?",
+        "answer": "The rule {'Coffee'} → {'Bread'} has the highest confidence value of 0.72.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [16, 17, 18, 19],
+        "question": "What insights can be derived from the discovered association rules?",
+        "answer": "The association rules suggest that customers who buy 'Coffee' often buy 'Bread', and those who buy 'Tea' frequently purchase 'Pastry'.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    }
+]

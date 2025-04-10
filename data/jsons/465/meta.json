@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/khushipitroda/uci-dataset",
+        "https://www.kaggle.com/datasets/devantltd/analysing-second-hand-car-sales-data"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/aayush7kumar/clustering-using-k-means-hierarchical-and-dbscan",
+    "domain": "General",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2, 3],
+        "question": "How many transactions are present in the dataset after preprocessing?",
+        "answer": "The dataset initially contains transactions grouped by Invoice, but after filtering, only transactions with more than 2 items are retained.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the structure of the transaction data after conversion?",
+        "answer": "Each transaction is represented as a list of product descriptions, grouped by Invoice, and then transformed into a DataFrame using one-hot encoding.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "What is the minimum support threshold used for frequent itemset generation?",
+        "answer": "The minimum support threshold used for generating frequent itemsets is 0.005.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [5],
+        "question": "Which item appears most frequently in transactions?",
+        "answer": "The most frequently occurring items are identified using the FP-Growth algorithm, but specific items are shown in the f_patterns DataFrame.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [5, 7],
+        "question": "Which items are most frequently purchased together?",
+        "answer": "The most frequently purchased itemsets are extracted from the f_patterns DataFrame, showing combinations with high support values.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [7],
+        "question": "How many strong association rules were discovered using the FP-Growth algorithm?",
+        "answer": "Strong association rules are filtered with a confidence threshold greater than 0.8, resulting in a set of high-confidence rules.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [7],
+        "question": "What is the most frequent itemset of size 2 in the dataset?",
+        "answer": "The most frequent itemset of size 2 is extracted from the frequent itemsets DataFrame, which lists item pairs with high support.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [7],
+        "question": "What is the strongest association rule found in the dataset?",
+        "answer": "The strongest association rule is identified based on the highest confidence value from the strong_as_rules DataFrame.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [7],
+        "question": "Which item has the highest confidence when forming association rules?",
+        "answer": "The item with the highest confidence is found in the strong_as_rules DataFrame, where confidence values are greater than 0.8.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [7],
+        "question": "Which item is most commonly associated with another item in the dataset?",
+        "answer": "The most commonly associated item pairs are extracted from the strong association rules with high confidence values.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    }
+]

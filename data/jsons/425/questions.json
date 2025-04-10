@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many records and features are present in the dataset used for anomaly detection?",
+        "answer": "The dataset contains 92,000 records and 22 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 16],
+        "question": "What is the percentage of missing values in the dataset?",
+        "answer": "The dataset contains 1.8% missing values across all features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [21],
+        "question": "Which numerical feature has the highest skewness in the dataset?",
+        "answer": "'Transaction Amount' has the highest skewness value of 3.75.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28, 34],
+        "question": "What percentage of data points were classified as anomalies using the Isolation Forest model?",
+        "answer": "Approximately 5.2% of data points were classified as anomalies.",
+        "task": "Anomaly Detection",
+        "skill": "Isolation Forest"
+    },
+    {
+        "cell_ids": [41, 49, 56],
+        "question": "Which feature contributed the most to anomaly detection?",
+        "answer": "'Transaction Frequency' was the most important feature, with an anomaly contribution score of 0.74.",
+        "task": "Anomaly Detection",
+        "skill": "Isolation Forest"
+    },
+    {
+        "cell_ids": [63, 72, 80, 88],
+        "question": "How do anomaly scores differ between fraudulent and normal transactions?",
+        "answer": "Fraudulent transactions have an average anomaly score of 0.81, while normal transactions have a mean anomaly score of -0.12.",
+        "task": "Anomaly Detection",
+        "skill": "Isolation Forest"
+    },
+    {
+        "cell_ids": [96],
+        "question": "What precision and recall were achieved by the Isolation Forest model?",
+        "answer": "The Isolation Forest model achieved a precision of 91.3% and a recall of 93.7%.",
+        "task": "Anomaly Detection",
+        "skill": "Isolation Forest"
+    },
+    {
+        "cell_ids": [104, 113, 121],
+        "question": "What impact does changing the contamination parameter have on anomaly detection results?",
+        "answer": "Increasing the contamination parameter from 0.04 to 0.08 resulted in a 62% increase in detected anomalies but also raised the false positive rate.",
+        "task": "Anomaly Detection",
+        "skill": "Isolation Forest"
+    },
+    {
+        "cell_ids": [129, 136, 144, 152],
+        "question": "What insights were revealed when visualizing anomalies using t-SNE?",
+        "answer": "The t-SNE plot showed a distinct cluster of anomalies separate from normal transactions, with high-density points in fraudulent transactions.",
+        "task": "Anomaly Detection",
+        "skill": "Isolation Forest"
+    },
+    {
+        "cell_ids": [161, 168, 176, 183],
+        "question": "Which industry segments showed the highest anomaly detection rates?",
+        "answer": "E-commerce had the highest anomaly detection rate at 42.6%, followed by Banking at 30.4%.",
+        "task": "Anomaly Detection",
+        "skill": "Isolation Forest"
+    }
+]

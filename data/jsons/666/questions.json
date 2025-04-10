@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "What dataset was used for the market basket analysis?",
+        "answer": "The dataset contains retail transaction records detailing purchased items per transaction.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [15, 21],
+        "question": "Which items are most frequently purchased together in transactions?",
+        "answer": "Bread and butter are the most frequently co-purchased items.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [29, 35, 42],
+        "question": "What are the top 3 product pairs with the highest support values?",
+        "answer": "Milk & cereal, coffee & sugar, and eggs & bacon have the highest support values.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [50, 58, 65],
+        "question": "Which association rule has the highest confidence score?",
+        "answer": "The rule {diapers} → {beer} has the highest confidence score.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [73, 80, 87],
+        "question": "Which product combination shows the strongest lift score?",
+        "answer": "Pasta and pasta sauce have the highest lift score, indicating a strong association.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [95, 102, 110],
+        "question": "What purchase patterns were observed based on different days of the week?",
+        "answer": "Weekends have higher sales of snacks and beverages, while weekdays show more grocery essentials purchases.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [118, 125, 133],
+        "question": "How do discount offers influence purchasing behavior in related products?",
+        "answer": "Discounts on bread led to increased purchases of spreads and butter.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [140, 148, 155],
+        "question": "What product combinations are best suited for cross-promotions?",
+        "answer": "Combining discounts on chips and soda resulted in increased sales for both items.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [162, 170, 178],
+        "question": "What are the top high-confidence association rules identified?",
+        "answer": "The highest confidence rules include {milk} → {bread} and {pasta} → {tomato sauce}.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [185, 192, 199],
+        "question": "How can store layout optimization improve co-purchase rates?",
+        "answer": "Placing coffee near sugar resulted in higher joint sales.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    }
+]

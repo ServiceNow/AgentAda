@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [52],
+        "question": "What dataset was used for PageRank analysis?",
+        "answer": "The dataset consists of a citation network of academic papers, where nodes represent papers and edges indicate citations between them.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [61, 69],
+        "question": "What preprocessing steps were performed before applying PageRank?",
+        "answer": "The dataset was preprocessed by extracting citation relationships, removing duplicate references, and constructing an adjacency matrix.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [76],
+        "question": "Which two research topics show the strongest connectivity based on the PageRank algorithm?",
+        "answer": "The strongest connectivity is observed between 'Neural Networks' and 'Deep Learning'.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [91, 99],
+        "question": "Which feature has the highest negative correlation with a paper's PageRank score?",
+        "answer": "The number of self-citations has the highest negative correlation with a paper's PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [111, 119, 126],
+        "question": "What is the average PageRank score of the top 10 most influential research papers in the dataset?",
+        "answer": "The average PageRank score of the top 10 most influential research papers is 0.86.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [138, 146],
+        "question": "How does PageRank improve the ranking of research papers compared to traditional citation count-based ranking?",
+        "answer": "PageRank improves ranking by considering both direct and indirect citations, increasing ranking precision by 25%.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [158],
+        "question": "Which citation attribute has the weakest impact on a paper's PageRank score?",
+        "answer": "The number of references cited in the bibliography has the weakest impact on a paper's PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [170, 178, 186, 194],
+        "question": "What does the PageRank analysis indicate about the structure of the research citation network?",
+        "answer": "The analysis reveals that a small number of highly cited papers dominate the network, forming key knowledge clusters.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [205],
+        "question": "Which attribute has the least influence on a research paper's PageRank score?",
+        "answer": "The number of co-authors on a paper has the least influence on its PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [202, 203, 204],
+        "question": "What conclusions were drawn about the effectiveness of PageRank for ranking research papers?",
+        "answer": "PageRank effectively identifies influential research papers, enhances citation network analysis, and highlights key academic contributions.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    }
+]

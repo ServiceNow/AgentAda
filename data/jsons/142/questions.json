@@ -1,0 +1,72 @@
+[
+  {
+    "cell_ids": [1],
+    "question": "What is the total number of transactions analyzed in the dataset?",
+    "answer": "The dataset contains 150,000 transactions.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [2, 4],
+    "question": "What percentage of transactions in the dataset are classified as fraudulent?",
+    "answer": "The percentage of fraudulent transactions is 0.15%.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [5, 8, 10],
+    "question": "What is the average transaction amount in the dataset?",
+    "answer": "The average transaction amount is $175.00.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [12, 15, 18, 21],
+    "question": "What is the maximum transaction amount in the dataset?",
+    "answer": "The maximum transaction amount is $40,000.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [22],
+    "question": "What is the minimum transaction amount in the dataset?",
+    "answer": "The minimum transaction amount is $1.00.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [23, 26, 29],
+    "question": "Which features are considered most important for detecting anomalies in the dataset?",
+    "answer": "Key features include 'Transaction Amount', 'Transaction Time', and 'Merchant Category'.",
+    "task": "Fraud Detection",
+    "skill": "Isolation Forest"
+  },
+  {
+    "cell_ids": [31, 34],
+    "question": "What is the accuracy of detecting fraudulent transactions using Isolation Forest?",
+    "answer": "The model achieves an accuracy of 97.3%.",
+    "task": "Fraud Detection",
+    "skill": "Isolation Forest"
+  },
+  {
+    "cell_ids": [35, 38, 40],
+    "question": "What is the precision score of the Isolation Forest model?",
+    "answer": "The precision score of the model is 89.5%.",
+    "task": "Fraud Detection",
+    "skill": "Isolation Forest"
+  },
+  {
+    "cell_ids": [41, 43],
+    "question": "What is the recall score of the Isolation Forest model?",
+    "answer": "The recall score of the model is 87.4%.",
+    "task": "Fraud Detection",
+    "skill": "Isolation Forest"
+  },
+  {
+    "cell_ids": [44, 47, 50, 53],
+    "question": "What is the distribution of transaction times in the dataset?",
+    "answer": "The transaction times are uniformly distributed across a 24-hour period.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  }
+]

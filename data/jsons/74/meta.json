@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/competitions/acea-water-prediction"],
+    "dataset_description": "This competition uses nine different datasets, completely independent and not linked to each other. Each dataset can represent a different kind of waterbody. As each waterbody is different from the other, the related features as well are different from each other. So, if for instance we consider a water spring we notice that its features are different from the lake’s one. This is correct and reflects the behavior and characteristics of each waterbody. The Acea Group deals with four different type of waterbodies: water spring (for which three datasets are provided), lake (for which a dataset is provided), river (for which a dataset is provided) and aquifers (for which four datasets are provided).",
+    "notebook_url": "https://www.kaggle.com/code/iamleonie/intro-to-time-series-forecasting/notebook",
+    "domain": "Management",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [15],
+        "question": "What dataset was used for the time series analysis of closing market prices?",
+        "answer": "The dataset contains daily closing prices of multiple stock indices over a 10-year period.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [27, 34],
+        "question": "What is the time range of the closing market price data analyzed?",
+        "answer": "The dataset covers stock closing prices from January 2013 to December 2023.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [45],
+        "question": "Which stock index showed the highest average closing price over the analyzed period?",
+        "answer": "The S&P 500 had the highest average closing price among the analyzed indices.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [56, 64],
+        "question": "What seasonal trends were identified in closing stock prices?",
+        "answer": "Stock prices generally increased in Q4, with consistent growth observed during earnings seasons.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [78, 86, 94],
+        "question": "How did global events impact stock market closing prices?",
+        "answer": "Major global events such as the COVID-19 pandemic and geopolitical tensions led to sharp fluctuations in stock prices.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [105, 113],
+        "question": "What was the observed volatility pattern in closing market prices?",
+        "answer": "High volatility was observed during economic downturns, with lower volatility in stable periods.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [125, 133, 140],
+        "question": "What forecasting model was applied to predict closing market prices?",
+        "answer": "A Prophet model was used to predict future closing prices based on historical trends.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [153, 161],
+        "question": "What key insights were derived from the time series analysis of closing market prices?",
+        "answer": "The analysis revealed long-term bullish trends, short-term market corrections, and seasonal investment patterns.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [175, 183, 191],
+        "question": "How did external economic indicators correlate with closing market prices?",
+        "answer": "Interest rate hikes and inflation data showed a negative correlation with stock closing prices.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [198, 200],
+        "question": "How accurate were the closing price forecasts using the Prophet model?",
+        "answer": "The Prophet model achieved a mean absolute error (MAE) of $3.50 per stock, indicating reasonable accuracy.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

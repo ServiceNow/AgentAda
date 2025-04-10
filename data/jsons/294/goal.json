@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze customer transaction data to identify purchasing patterns and generate product recommendations.",
+    "persona": "A data analyst with 3 years of experience in retail analytics, specializing in consumer behavior analysis and market basket analysis to enhance product recommendations and sales strategies. They are adept at using Python libraries like pandas and mlxtend to perform data transformations, statistical analyses, and association rule mining for extracting actionable insights."
+}

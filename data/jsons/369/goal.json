@@ -1,0 +1,4 @@
+{
+    "goal": "Predict elevator failures using sensor data for maintenance optimization.",
+    "persona": "A data scientist with 3 years of experience in industrial IoT analytics, specializing in predictive maintenance and time-series analysis. They have a deep understanding of deploying machine learning models, particularly LSTM, to enhance operational efficiency and safety in machinery by predicting failures before they occur."
+}

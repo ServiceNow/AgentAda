@@ -1,0 +1,4 @@
+{
+    "goal": "Identify patterns and associations in transactional data to understand customer purchasing behavior.",
+    "persona": "A data analyst specializing in market basket analysis with expertise in association rule mining techniques like ECLAT. They have a strong interest in exploring retail datasets to uncover significant purchasing patterns that can drive strategic decisions in inventory management and marketing strategies. The analyst aims to translate data insights into actionable business recommendations to enhance sales and customer satisfaction."
+}

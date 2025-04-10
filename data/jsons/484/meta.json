@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/c/titanic"
+    ],
+    "dataset_description": "Predict survival on the Titanic and get familiar with ML basics",
+    "notebook_url": "https://www.kaggle.com/code/carlmcbrideellis/a-selection-of-my-kaggle-notebooks",
+    "domain": "Survival",
+    "help_data_file_names": ["train.csv"]
+}

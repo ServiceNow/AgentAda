@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [50],
+        "question": "What dataset was used for PageRank analysis?",
+        "answer": "The dataset consists of Quora question pairs, where nodes represent questions and edges indicate question similarity based on shared answers.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [59, 67],
+        "question": "What preprocessing steps were performed before applying PageRank?",
+        "answer": "The dataset was preprocessed by creating unique question identifiers using hash functions, constructing a question similarity graph, and generating an adjacency matrix.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [74],
+        "question": "Which two question categories have the strongest connectivity based on the PageRank algorithm?",
+        "answer": "The strongest connectivity is observed between 'Programming' and 'Data Science'.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [89, 97],
+        "question": "Which feature has the highest negative correlation with a question's PageRank score?",
+        "answer": "The number of duplicate occurrences of a question has the highest negative correlation with its PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [109, 117, 124],
+        "question": "What is the average PageRank score of the top 10 most influential questions in the dataset?",
+        "answer": "The average PageRank score of the top 10 most influential questions is 0.79.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [136, 144],
+        "question": "How does PageRank improve the ranking of Quora questions compared to view count-based sorting?",
+        "answer": "PageRank improves ranking by analyzing the interconnectedness of questions, increasing ranking accuracy by 18%.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [156],
+        "question": "Which user interaction metric has the weakest impact on a question's PageRank score?",
+        "answer": "The number of question edits has the weakest impact on a question's PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [168, 176, 184, 192],
+        "question": "What does the PageRank analysis indicate about the structure of the Quora question graph?",
+        "answer": "The analysis reveals that a few highly popular questions dominate the network, forming influential knowledge hubs.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [203],
+        "question": "Which attribute has the least influence on a question's PageRank score?",
+        "answer": "The length of the question text has the least influence on its PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [200, 201, 202],
+        "question": "What conclusions were drawn about the effectiveness of PageRank for ranking Quora questions?",
+        "answer": "PageRank effectively ranks influential questions, enhances search relevance, and highlights key topics in the Quora knowledge network.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    }
+]

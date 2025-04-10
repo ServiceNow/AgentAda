@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/innocentmfa/mercedes-benz-historical-stock-dataset",
+        "https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies",
+        "https://www.kaggle.com/datasets/innocentmfa/alibaba-baba-stock-dataset",
+        "https://www.kaggle.com/datasets/innocentmfa/honda-motor-stocks-prices",
+        "https://www.kaggle.com/datasets/simronw/tesla-stock-data-2024",
+        "https://www.kaggle.com/datasets/gallo33henrique/bitcoin-btc-usd-stock-dataset",
+        "https://www.kaggle.com/datasets/jvanark/nvidia-daily-stock-price-data",
+        "https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction",
+        "https://www.kaggle.com/datasets/jakewright/9000-tickers-of-stock-market-data-full-history",
+        "https://www.kaggle.com/datasets/shahidk3075/bitcoin-price-prediction-dataset",
+        "https://www.kaggle.com/datasets/zongaobian/netflix-stock-data-and-key-affiliated-companies",
+        "https://www.kaggle.com/datasets/zongaobian/daily-performance-of-nvda-and-nvdl",
+        "https://www.kaggle.com/datasets/innocentmfa/paypal-holdings-stock-ticker",
+        "https://www.kaggle.com/datasets/innocentmfa/meta-stock-prices-2020-to-2024",
+        "https://www.kaggle.com/datasets/equinxx/stock-tweets-for-sentiment-analysis-and-prediction",
+        "https://www.kaggle.com/datasets/aditya8123/stock-market-virtual",
+        "https://www.kaggle.com/datasets/gallo33henrique/stock-data-tsla-20-years-shares",
+        "https://www.kaggle.com/datasets/innocentmfa/ibm-stock-prices-dataset",
+        "https://www.kaggle.com/datasets/rawaneid/microsoft-stock-market-2001-2021"
+    ],
+    "dataset_description": "The \"yahoo_finance_dataset(2018-2023)\" dataset is a financial dataset containing daily stock market data for multiple assets such as equities, ETFs, and indexes. It spans from April 1, 2018 to March 31, 2023, and contains 1257 rows and 7 columns. The data was sourced from Yahoo Finance, and the purpose of the dataset is to provide researchers, analysts, and investors with a comprehensive dataset that they can use to analyze stock market trends, identify patterns, and develop investment strategies. The dataset can be used for various tasks, including stock price prediction, trend analysis, portfolio optimization, and risk management. The dataset is provided in XLSX format, which makes it easy to import into various data analysis tools, including Python, R, and Excel.",
+    "notebook_url": "https://www.kaggle.com/code/yassineyahyaouii/time-series-analysis-and-stock-market-prediction",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

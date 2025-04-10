@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the general trend observed in Tesla's stock prices over the recorded period?",
+        "answer": "Tesla's stock prices show a significant upward trend with sharp fluctuations during certain periods.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average stock price of Tesla recorded in the dataset?",
+        "answer": "The average stock price recorded in the dataset is $650.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What periods show the highest volatility in Tesla's stock prices?",
+        "answer": "High volatility is observed during December 2020 and March 2021, coinciding with major market news.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest stock price of Tesla recorded in the dataset, and when did it occur?",
+        "answer": "The highest recorded price is $1,200, observed in November 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What are the forecasted stock prices for Tesla for the next 10 days using the LSTM model?",
+        "answer": "The forecasted stock prices range between $680 and $720, reflecting a stable trend.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What does the dataset reveal about the correlation between trading volume and price spikes for Tesla stock?",
+        "answer": "There is a strong correlation between trading volume increases and significant price spikes.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How well does the LSTM model predict Tesla's stock price trends compared to historical data?",
+        "answer": "The LSTM model captures the upward trend accurately but has minor deviations during high volatility periods.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Were there any missing or anomalous data points in the Tesla stock dataset, and how were they addressed?",
+        "answer": "Missing values for three trading days were imputed using linear interpolation.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What long-term trends and behaviors are evident in Tesla's stock prices?",
+        "answer": "Tesla's stock prices demonstrate significant growth driven by strong market performance and periodic volatility.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What external factors might impact the forecasted trends in Tesla's stock prices?",
+        "answer": "Factors such as changes in EV market demand, policy shifts, and global economic conditions could significantly influence prices.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    }
+]

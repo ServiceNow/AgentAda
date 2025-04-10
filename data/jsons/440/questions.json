@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many observations and features are present in the dataset?",
+        "answer": "The dataset contains 100,000 observations and 20 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 9],
+        "question": "What percentage of the dataset consists of anomalies?",
+        "answer": "Approximately 2.1% of the dataset consists of anomalies.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14],
+        "question": "What is the distribution of anomaly scores for normal and anomalous data points?",
+        "answer": "Normal data points had an average anomaly score of -0.12, while anomalous points had an average score of -3.45.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [19, 23, 27],
+        "question": "Which features contributed most to the anomaly detection process?",
+        "answer": "Features 'F3', 'F8', and 'F15' contributed the most, with importance scores of 0.72, 0.64, and 0.59 respectively.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [32, 36, 40, 44],
+        "question": "How does the model's performance change when the nu parameter is modified?",
+        "answer": "Increasing nu from 0.01 to 0.05 improved recall by 12% but decreased precision by 8%.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [48],
+        "question": "What precision and recall were achieved by the One-Class SVM model?",
+        "answer": "The model achieved a precision of 89.5% and a recall of 91.2%.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [52, 57, 62],
+        "question": "What is the impact of scaling the dataset on anomaly detection results?",
+        "answer": "Scaling improved detection accuracy by 5.3% and reduced false positives by 2.7%.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [67, 71, 75, 80],
+        "question": "How does One-Class SVM compare to Isolation Forest in terms of anomaly detection?",
+        "answer": "One-Class SVM achieved a higher precision (89.5%) but had a lower recall (91.2%) compared to Isolation Forest's precision of 85.3% and recall of 94.7%.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [85, 90],
+        "question": "Which anomaly type had the highest false positive rate?",
+        "answer": "Anomalies characterized by 'F8' and 'F12' had the highest false positive rate of 7.9%.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [95, 100, 105, 110],
+        "question": "How were detected anomalies distributed across different feature clusters?",
+        "answer": "Most detected anomalies were concentrated in clusters with high variance in 'F3' and 'F9', indicating correlation with these attributes.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    }
+]

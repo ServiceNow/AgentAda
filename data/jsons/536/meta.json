@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification"
+    ],
+    "dataset_description": "The goal of this competition is to detect and classify seizures and other types of harmful brain activity in electroencephalography (EEG) data. Even experts find this to be a challenging task and often disagree about the correct labels.",
+    "notebook_url": "https://www.kaggle.com/code/eduardotoloza/probabilistic-classification-of-epileptic-patterns",
+    "domain": "Health",
+    "help_data_file_names": []
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mianbilal12/tesla-stock-data-st"
+    ],
+    "dataset_description": "This dataset provides historical data of TESLA INC. stock (TSLA). The data is available at a daily level. Currency is USD.",
+    "notebook_url": "https://www.kaggle.com/code/abdallahwagih/tesla-stock-forecasting-lstm",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

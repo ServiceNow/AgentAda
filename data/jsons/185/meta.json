@@ -1,0 +1,25 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/memocan/data-science-interview-q-and-a-treasury",
+        "https://www.kaggle.com/datasets/lambdaofgod/matrix-factorization-arxiv-query-result",
+        "https://www.kaggle.com/datasets/mustafayazici/goodbooks-10k-rating-and-description",
+        "https://www.kaggle.com/datasets/arashnic/property-data",
+        "https://www.kaggle.com/datasets/ranitsarkar01/movies-recommender-system-dataset",
+        "https://www.kaggle.com/datasets/hyeonwooan/imdb-data-preprocessed-using-ml20m",
+        "https://www.kaggle.com/datasets/thedevastator/improving-naval-vessel-condition-through-machine",
+        "https://www.kaggle.com/datasets/wolfram77/matrices-brogan",
+        "https://www.kaggle.com/datasets/thedevastator/amod-mental-health-counseling-conversations-data",
+        "https://www.kaggle.com/datasets/sylvieliberman/erowid-experience-report-word2vec-vectors",
+        "https://www.kaggle.com/datasets/arashnic/subjqa-question-answering-dataset",
+        "https://www.kaggle.com/datasets/oscaryezfeijo/us-congressional-tweets-dataset",
+        "https://www.kaggle.com/datasets/sreenathvadlamudi/amazon-product-reviews",
+        "https://www.kaggle.com/datasets/musescore1983/measuring-note-consonance-with-psd-kernel",
+        "https://www.kaggle.com/datasets/pavanigardas/movie-lens",
+        "https://www.kaggle.com/datasets/sasakitetsuya/rental-recommender-data",
+        "https://www.kaggle.com/datasets/thedevastator/jfk-document-files-textual-analysis"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/colinmorris/matrix-factorization",
+    "domain": "Finance",
+    "help_data_file_names": ["rating.csv"]
+}

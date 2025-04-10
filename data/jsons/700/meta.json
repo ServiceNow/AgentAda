@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mielek/earthquakes-around-istanbul-in-2019"
+    ],
+    "dataset_description": "Earthquakes around Istanbul ",
+    "notebook_url": "https://www.kaggle.com/code/brsdincer/earthquakes-in-1910-2017-turkey-all-process",
+    "domain": "Geolocation",
+    "help_data_file_names": [
+        "AgePopulation.csv",
+        "population.csv",
+        "Significant Earthquakes_db.csv",
+        "metadata.csv"
+    ]
+}

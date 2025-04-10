@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/competitions/playground-series-s3e19"],
+    "dataset_description": "For this challenge, you will be predicting a full year worth of sales for various fictitious learning modules from different fictitious Kaggle-branded stores in different (real!) countries. This dataset is completely synthetic, but contains many effects you see in real-world data, e.g., weekend and holiday effect, seasonality, etc. You are given the task of predicting sales during for year 2022.",
+    "notebook_url": "https://www.kaggle.com/code/bennyfung/sales-forecast-by-facebook-prophet/notebook",
+    "domain": "Business",
+    "help_data_file_names": ["train.csv"]
+}

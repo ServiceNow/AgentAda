@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset"
+    ],
+    "dataset_description": "Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers. ",
+    "notebook_url": "https://www.kaggle.com/code/webber0923/customer-dashboard-using-plotly",
+    "domain": "Marketing",
+    "help_data_file_names": []
+}

@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this provide a foundation for hierarchical clustering?",
+      "answer": "The dataset contains 10,000 customers, offering a solid base for segmentation analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of age across the customer dataset, and how does it impact segmentation?",
+      "answer": "Ages range from 18 to 70, with a majority of customers falling between 25 and 45.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5],
+      "question": "What is the income distribution among customers, and how does this relate to spending patterns?",
+      "answer": "Incomes range from $15,000 to $150,000, with higher incomes associated with increased spending activity.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [6, 7],
+      "question": "What are the primary spending categories in the dataset, and how do customers allocate their expenditures?",
+      "answer": "Spending is primarily allocated to groceries, electronics, and entertainment, with significant variations across income levels.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [8, 9, 10],
+      "question": "How many clusters were identified using hierarchical clustering, and what are the defining characteristics of each cluster?",
+      "answer": "Four clusters were identified, characterized by distinct patterns in age, income, and spending behaviors.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [11, 12],
+      "question": "What are the average age, income, and spending levels for each cluster, and how do they reflect customer behaviors?",
+      "answer": "Clusters include young high-income high-spenders and older low-income low-spenders, with varying spending habits.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [13, 14, 15],
+      "question": "Which features contributed most to the hierarchical clustering, and what insights can be drawn from them?",
+      "answer": "Income and spending levels were the most significant contributors, distinguishing high-value customers from low-value ones.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [16, 17],
+      "question": "What strategies can be developed for each customer segment based on their clustering characteristics?",
+      "answer": "Strategies include loyalty programs for high-income clusters, targeted promotions for mid-tier customers, and re-engagement campaigns for low-income segments.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [18, 19, 20],
+      "question": "How do the behaviors of younger high-income clusters differ from older low-income clusters in terms of spending patterns?",
+      "answer": "Younger high-income clusters prioritize luxury and entertainment, while older low-income clusters focus on necessities.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [21, 22, 23, 24],
+      "question": "What actionable insights from hierarchical clustering analysis can improve customer engagement and retention strategies?",
+      "answer": "Insights include offering premium services to high-value clusters, discounts for price-sensitive groups, and personalized experiences for mid-tier clusters.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    }
+  ]
+  

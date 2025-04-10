@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What is the total number of nodes in the COVID-19 knowledge graph dataset?",
+        "answer": "The dataset contains 23,452 nodes representing papers and entities.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the total number of edges in the knowledge graph?",
+        "answer": "The dataset contains 47,856 edges connecting the nodes.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6, 7],
+        "question": "What is the most cited paper in the knowledge graph?",
+        "answer": "The most cited paper is 'COVID-19 and Its Impact on Global Health,' with 1,234 citations.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [8, 9, 10],
+        "question": "What is the average degree of nodes in the network?",
+        "answer": "The average degree of nodes is 4.08, indicating the average number of connections per node.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "Which node has the highest PageRank value, and what is its score?",
+        "answer": "The node representing 'COVID-19 Vaccine Development' has the highest PageRank score of 0.089.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [13, 14, 15, 16],
+        "question": "What is the distribution of node types in the dataset?",
+        "answer": "The dataset consists of 15,000 paper nodes, 5,000 entity nodes, and 3,452 author nodes.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "What is the clustering coefficient of the network?",
+        "answer": "The clustering coefficient of the network is 0.23, indicating a moderate level of local clustering.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [19],
+        "question": "Which node has the highest betweenness centrality, and what is its value?",
+        "answer": "The node 'Pandemic Response Strategies' has the highest betweenness centrality value of 0.65.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [20, 21],
+        "question": "How many strongly connected components exist in the knowledge graph?",
+        "answer": "The graph has 3,672 strongly connected components.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [22, 23, 24],
+        "question": "What percentage of nodes in the dataset are isolated?",
+        "answer": "Approximately 5% of the nodes in the dataset are isolated.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Detect and categorize cyberbullying in tweets.",
+    "persona": "A data scientist with 3 years of experience in natural language processing and machine learning, specializing in text analysis and social media sentiment. They are focused on developing robust models to identify cyberbullying effectively and are particularly interested in improving model accuracy and handling edge cases like sarcasm or mixed sentiments in tweets."
+}

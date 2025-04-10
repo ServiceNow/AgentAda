@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and tracks in the Spotify dataset, and how does this influence the scope of the recommendation system?",
+      "answer": "The dataset contains 200,000 users and 50,000 tracks, creating a large-scale matrix for recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What is the sparsity level of the user-track matrix, and how does this impact the recommendation process?",
+      "answer": "The matrix is 98% sparse, posing challenges for accurate recommendations due to limited overlapping preferences.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 10],
+      "question": "What is the average number of tracks listened to per user, and how does this help in understanding user preferences?",
+      "answer": "Each user listens to an average of 25 tracks, providing sufficient data to model user preferences effectively.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [12, 15],
+      "question": "Which tracks are the most frequently listened to, and how can they be leveraged to recommend to new users?",
+      "answer": "Popular tracks like 'Song A' and 'Song B' are frequently listened to, making them suitable for initial recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [16, 18, 20],
+      "question": "What is the distribution of track popularity scores in the dataset, and how might this affect the diversity of recommendations?",
+      "answer": "Track popularity is skewed towards higher scores, which may lead to over-recommendation of popular tracks.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [22, 25, 28],
+      "question": "What patterns in user preferences for music genres are observed, and how can this guide personalized recommendations?",
+      "answer": "Users frequently prefer genres like 'Pop' and 'Hip-Hop', which can inform targeted recommendations based on these preferences.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [30, 33],
+      "question": "What temporal trends in music preferences are observed, and how can these insights improve the recommendation system?",
+      "answer": "Tracks like 'Summer Hit 2023' show increased popularity during specific seasons, suggesting the importance of time-aware recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [35, 38],
+      "question": "What challenges arise in recommending niche tracks with limited play counts, and how does the system address these challenges?",
+      "answer": "Niche tracks are recommended by leveraging similarities between users who have overlapping preferences for niche genres.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [40, 43],
+      "question": "What insights can be derived from the listening habits of highly active users, and how do these habits influence the recommendation system?",
+      "answer": "Highly active users listen to diverse genres and tracks, contributing significantly to the training of a robust recommendation model.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [44, 47, 50, 52],
+      "question": "What strategies are implemented to address the cold-start problem for new users or tracks in the dataset?",
+      "answer": "Popular tracks and genre-based recommendations are employed to provide initial suggestions for new users and tracks.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    }
+  ]
+  

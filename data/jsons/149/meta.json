@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/sanskar457/fraud-transaction-detection",
+        "https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023",
+        "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud",
+        "https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection",
+        "https://www.kaggle.com/datasets/ealaxi/paysim1",
+        "https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data",
+        "https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud",
+        "https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset",
+        "https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions",
+        "https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets",
+        "https://www.kaggle.com/datasets/sameerk2004/fraud-detection-dataset",
+        "https://www.kaggle.com/datasets/goyaladi/fraud-detection-dataset",
+        "https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/whenamancodes/fraud-detection",
+        "https://www.kaggle.com/datasets/zeesolver/credit-card",
+        "https://www.kaggle.com/datasets/shayannaveed/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset",
+        "https://www.kaggle.com/datasets/saurabhbagchi/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection",
+        "https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset"
+    ],
+    "dataset_description": "The dataset consists of 1.75 million transactions made by considering simulated users through various terminals throughout the period from January 2023 to June 2023. However, the data is highly imbalanced, with only a small percentage (0.1345%) of transactions classified as fraudulent.",
+    "notebook_url": "https://www.kaggle.com/code/huberthamelin/fraudulent-transaction-detection",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

@@ -1,0 +1,30 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/prokshitha/home-value-insights",
+        "https://www.kaggle.com/datasets/tommasoramella/italy-house-prices",
+        "https://www.kaggle.com/datasets/kanchana1990/real-estate-data-london-2024",
+        "https://www.kaggle.com/datasets/doesnotcompile/nf-kc-house-data",
+        "https://www.kaggle.com/datasets/hoangnguyen719/house-prices-preprocessed-feature-selected",
+        "https://www.kaggle.com/datasets/anishpai/ames-housing-dataset-missing",
+        "https://www.kaggle.com/datasets/vishalkumbhar1997/california-housing-price-prediction-regression",
+        "https://www.kaggle.com/datasets/nishanobeysekera/house-prices",
+        "https://www.kaggle.com/datasets/dawidcegielski/house-prices-in-poland",
+        "https://www.kaggle.com/datasets/rituparnaghosh18/raw-housing-cost-data",
+        "https://www.kaggle.com/datasets/rituparnaghosh18/raw-housing-cost-data-imputed",
+        "https://www.kaggle.com/datasets/rituparnaghosh18/transformed-housing-data",
+        "https://www.kaggle.com/datasets/satyajeetkumarraj/housing-prediction-dataset",
+        "https://www.kaggle.com/datasets/pradeepsahu1357/house-prices-prediction-eda-processed-data",
+        "https://www.kaggle.com/datasets/rituparnaghosh18/transformed-housing-data-2",
+        "https://www.kaggle.com/datasets/osama12bin/house-data-csv",
+        "https://www.kaggle.com/datasets/praveenobulreddy/usa-housing-dataset",
+        "https://www.kaggle.com/datasets/rohanchatse/pune-house-prices",
+        "https://www.kaggle.com/datasets/jennyzzhu/vancouver-house-prices-for-past-20-years",
+        "https://www.kaggle.com/datasets/yvonnegatwiri/house-prices-data-exploration"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/dgawlik/house-prices-eda",
+    "domain": "Real Estate",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

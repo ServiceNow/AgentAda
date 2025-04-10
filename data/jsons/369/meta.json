@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shivamb/elevator-predictive-maintenance-dataset",
+        "https://www.kaggle.com/datasets/ziya07/elevator-fault-monitoring-and-early-warning-system"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/haifaaljundi/elevator-predictive-maintenance",
+    "domain": "Maintenance",
+    "help_data_file_names": []
+}

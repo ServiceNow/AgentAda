@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "How many records and features are included in the cohort analysis dataset?",
+        "answer": "The dataset contains 195,000 records and 20 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [11, 16],
+        "question": "What is the overall customer retention rate over a 12-month period?",
+        "answer": "The overall customer retention rate over 12 months is 50%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [22],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 85%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [27, 34],
+        "question": "How does customer retention vary across different purchasing patterns?",
+        "answer": "Customers who purchase frequently in the first 30 days retain at 66%, while those who purchase less frequently retain at 38%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [39, 45, 51],
+        "question": "What is the retention rate for customers in different product categories?",
+        "answer": "Electronics buyers retain at 72%, while apparel buyers retain at 40%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [56, 62, 68, 73],
+        "question": "How does engagement frequency impact cohort retention?",
+        "answer": "Customers who engage weekly retain at 60%, while those engaging monthly retain at 35%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [79],
+        "question": "Which customer segment has the highest long-term retention?",
+        "answer": "Customers who use loyalty rewards retain at 77%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [86, 92, 97],
+        "question": "What sequential purchasing patterns are observed among high-retention customers?",
+        "answer": "Customers who buy kitchen appliances tend to purchase complementary accessories within 45 days, increasing retention by 20%.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [103, 110, 116, 122],
+        "question": "What insights can be derived from the cohort retention and sequential pattern analysis?",
+        "answer": "Retention declines sharply after month 3, with a 28% drop. Sequential purchase trends indicate that repeat purchases in the first two months increase retention.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [129, 135, 141, 148],
+        "question": "How does customer retention compare year-over-year?",
+        "answer": "Retention improved by 10% in the last year due to personalized engagement strategies and targeted sequential purchase recommendations.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    }
+]

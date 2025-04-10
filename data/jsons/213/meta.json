@@ -1,0 +1,27 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn",
+        "https://www.kaggle.com/datasets/borhanitrash/telco-customer-churn",
+        "https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners",
+        "https://www.kaggle.com/datasets/mustafakeser4/bigquery-churn-dataset",
+        "https://www.kaggle.com/datasets/easonlai/sample-telco-customer-churn-dataset",
+        "https://www.kaggle.com/datasets/sakshishr/telco-customer-churn-analysis",
+        "https://www.kaggle.com/datasets/abhinayguptaanalyst/telco-customer-churn-detailed-analysis-model",
+        "https://www.kaggle.com/datasets/reyhanarighy/data-telco-customer-churn",
+        "https://www.kaggle.com/datasets/sibelius5/telco-customer-churn",
+        "https://www.kaggle.com/datasets/nithinreddy90/wa-fn-usec-telco-customer-churn",
+        "https://www.kaggle.com/datasets/hemachandiranmurugan/telecom-churn-details-of-customer",
+        "https://www.kaggle.com/datasets/samran98/customer-churn-telco-final",
+        "https://www.kaggle.com/datasets/singhnproud77/telcocustomerchurn",
+        "https://www.kaggle.com/datasets/alexabiri/telco-customer-churn-data",
+        "https://www.kaggle.com/datasets/denisexpsito/telco-customer-churn-ibm",
+        "https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset",
+        "https://www.kaggle.com/datasets/syedumeerr/telco-customer-churn",
+        "https://www.kaggle.com/datasets/debu1dutta/wa-fn-usec-telco-customer-churn-new-ad",
+        "https://www.kaggle.com/datasets/wereouma/the-telco-churn-xls"
+    ],
+    "dataset_description": "Each row represents a customer, each column contains customer\u2019s attributes described on the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features). The \u201cChurn\u201d column is our target.",
+    "notebook_url": "https://www.kaggle.com/code/turgutguvenc/telco-customer-churn-analysis",
+    "domain": "Telecommunications",
+    "help_data_file_names": []
+}

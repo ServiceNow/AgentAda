@@ -1,0 +1,4 @@
+{
+    "goal": "To develop a collaborative filtering recommendation system for books based on user ratings.",
+    "persona": "A data analyst specializing in recommendation systems with 4 years of experience in the publishing industry, aiming to enhance user experience by providing personalized book suggestions. Interested in leveraging collaborative filtering and matrix factorization techniques to optimize recommendations and improve user engagement."
+}

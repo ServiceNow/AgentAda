@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/LANL-Earthquake-Prediction"
+    ],
+    "dataset_description": "The goal of this competition is to use seismic signals to predict the timing of laboratory earthquakes. The data comes from a well-known experimental set-up used to study earthquake physics. The acoustic_data input signal is used to predict the time remaining before the next laboratory earthquake (time_to_failure).",
+    "notebook_url": "https://www.kaggle.com/code/tarunpaparaju/lanl-earthquake-prediction-signal-denoising",
+    "domain": "Geophysics",
+    "help_data_file_names": []
+}

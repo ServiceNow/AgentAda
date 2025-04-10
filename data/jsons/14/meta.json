@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset"],
+    "dataset_description": "The dataset has three sentiments namely, negative(-1), neutral(0), and positive(+1). It contains two fields for the tweet and label.",
+    "notebook_url": "https://www.kaggle.com/code/subhadeepdebnath/twitter-sentiment-analysis-lstm-complete-guide/notebook",
+    "domain": "Social Networks",
+    "help_data_file_names": []
+}

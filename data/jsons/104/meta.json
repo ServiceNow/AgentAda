@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/soalr-wind",
+        "https://www.kaggle.com/datasets/bulentsiyah/for-simple-exercises-time-series-forecasting",
+        "https://www.kaggle.com/datasets/ramniwashkumar/power-forecasting"
+    ],
+    "dataset_description": "The Dataset is fully dedicated for the developers who want to train the model on Weather Forecasting for Indian climate. This dataset provides data from 1st January 2013 to 24th April 2017 in the city of Delhi, India. The 4 parameters here are meantemp, humidity, wind_speed, meanpressure.",
+    "notebook_url": "https://www.kaggle.com/code/abdallahwagih/temperature-forecasting-using-lstm",
+    "domain": "Science",
+    "help_data_file_names": ["train.csv"]
+}

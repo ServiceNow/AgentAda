@@ -1,0 +1,93 @@
+[
+    {
+        "cell_ids": [
+            13
+        ],
+        "question": "What type of filter is 'butter_bandpass'?",
+        "answer": "It's a band filter.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [
+            13
+        ],
+        "question": "What are the lower and upper cutoff frequencies of the bandpass filter used in 'process_eeg_data' function?",
+        "answer": "The lower cutoff frequency is 1.0 Hz, and the upper cutoff frequency is 50.0 Hz.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [
+            13
+        ],
+        "question": "What is the purpose of the 'notch_filter' applied to the raw EEG data?",
+        "answer": "To remove power line interference (e.g., 50 Hz).",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+       "cell_ids": [
+            13
+        ],
+        "question": "What is 'mne.make_fixed_length_epochs' used for within the 'process_eeg_data' function?",
+        "answer": "To create epochs of fixed length from the raw EEG data.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [
+            13
+        ],
+        "question": "Which method is mentioned in the notebook for computation of PSD estimates?",
+        "answer": "Welch's method.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [
+            13
+        ],
+        "question": "After applying the bandpass filter and other preprocessing steps, how is the EEG data visualized in the 'process_eeg_data' function?",
+        "answer": "EEG data from the first epoch is plotted.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+     {
+        "cell_ids": [
+            13
+        ],
+        "question": "What is the default order of the 'butter_bandpass' filter?",
+        "answer": "The default order is 4.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [
+            13
+        ],
+        "question": "What is done to the EEG data before loading into a Raw object?",
+        "answer": "data_frame is filtered with 'butter_bandpass_filter' and then transposed.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [
+            13
+        ],
+        "question": "What is the 'on_missing' parameter set to in 'raw.set_montage' function?",
+        "answer": "ignore",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [
+            13
+        ],
+        "question": "What is the purpose of ICA in 'process_eeg_data' function?",
+        "answer": "For artifact removal.",
+       "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+
+    }
+]

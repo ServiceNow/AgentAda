@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [21],
+        "question": "What dataset was used for topic modeling with Latent Dirichlet Allocation?",
+        "answer": "The dataset consists of a collection of research papers from various academic domains.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [37, 42],
+        "question": "How many topics were identified using Latent Dirichlet Allocation?",
+        "answer": "The analysis identified 15 distinct topics in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [54],
+        "question": "Which topic had the highest representation in the dataset?",
+        "answer": "The topic related to 'machine learning and artificial intelligence' had the highest representation in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [69, 74],
+        "question": "What are the top three keywords associated with the most frequent topic?",
+        "answer": "The top three keywords for the most frequent topic were 'deep learning', 'neural networks', and 'algorithm'.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [85, 91, 97],
+        "question": "What percentage of the dataset was associated with the top two topics?",
+        "answer": "The top two topics accounted for approximately 62% of the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [110, 116],
+        "question": "Which topic had the lowest representation in the dataset?",
+        "answer": "The topic related to 'historical linguistics' had the lowest representation in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [128, 135, 142],
+        "question": "How was the coherence score used to evaluate the LDA model?",
+        "answer": "The coherence score was used to measure topic quality, with the final model achieving a coherence score of 0.51.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [153, 161],
+        "question": "Which research papers were most strongly associated with the economics topic?",
+        "answer": "Research papers containing keywords like 'market trends', 'inflation', and 'financial stability' were strongly associated with the economics topic.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [174, 182, 191],
+        "question": "How did the distribution of topics vary across different research domains?",
+        "answer": "Machine learning topics were more prevalent in computer science research, while economics and linguistics had distinct topic distributions.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [195, 198],
+        "question": "What insights were gained from the topic modeling analysis?",
+        "answer": "The analysis revealed dominant themes in academic research, highlighting popular topics such as AI, finance, and social sciences, with clear separations between fields.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    }
+]

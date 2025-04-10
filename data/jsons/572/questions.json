@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "What dataset was used for Kernel PCA analysis?",
+        "answer": "The dataset consists of handwritten digit samples used for classification.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [13, 17],
+        "question": "What preprocessing steps were applied before performing Kernel PCA?",
+        "answer": "The dataset was standardized, pixel intensity values were normalized, and missing values were handled.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [27],
+        "question": "How many principal components were retained after applying Kernel PCA?",
+        "answer": "The first 12 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [38, 42],
+        "question": "What proportion of variance is captured by the first three principal components?",
+        "answer": "The first three principal components explain 77% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [53, 58, 63],
+        "question": "Which digit class shows the highest variance in the first principal component?",
+        "answer": "The digit class '8' shows the highest variance in the first principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [72, 76],
+        "question": "How do the principal components correlate with the pixel intensity distributions?",
+        "answer": "The first principal component is highly correlated with the central pixel intensity, capturing the main shape structure of the digits.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [84],
+        "question": "How did Kernel PCA impact the classification performance of handwritten digits?",
+        "answer": "Kernel PCA improved class separability by transforming the non-linear digit structures into a more distinguishable feature space.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [97, 102, 108, 113],
+        "question": "Which specific features contribute the most to the second principal component?",
+        "answer": "Edge pixel intensities and stroke curvature contribute the most to the second principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [125],
+        "question": "What effect does Kernel PCA have on detecting mislabeled digit samples in the dataset?",
+        "answer": "Kernel PCA highlights mislabeled samples by projecting them as outliers in the transformed feature space.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [138, 143, 148, 154],
+        "question": "What conclusions were drawn about the effectiveness of Kernel PCA for handwritten digit recognition?",
+        "answer": "Kernel PCA effectively improved digit classification accuracy by reducing dimensionality while preserving key structural differences.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Identify key indicators and probabilities of equipment failure for predictive maintenance.",
+    "persona": "An experienced data analyst in the field of industrial operations with a focus on predictive maintenance. They have a strong background in machine learning and data modeling techniques, particularly in using LSTM models. Their primary interest is in preempting equipment failures by leveraging sensor data to enhance operational efficiency and reduce downtime."
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of customer demographic and purchase behavior data.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [15, 21],
+        "question": "What preprocessing steps were performed before computing Pearson correlation?",
+        "answer": "The dataset was standardized, missing values were imputed, and categorical variables were converted to numerical values.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [30],
+        "question": "Which two customer attributes show the strongest positive correlation?",
+        "answer": "Customer income and total spending show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [44, 49],
+        "question": "Which numerical feature has the highest negative correlation with purchase frequency?",
+        "answer": "Customer age has the highest negative correlation with purchase frequency.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [60, 65, 71],
+        "question": "What is the Pearson correlation coefficient between product reviews and total sales?",
+        "answer": "The Pearson correlation coefficient between product reviews and total sales is 0.72.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [83, 88],
+        "question": "How does Pearson correlation between product price and customer satisfaction compare to other variables?",
+        "answer": "The correlation between product price and customer satisfaction is lower compared to total sales but still positively related.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [97],
+        "question": "Which product category shows the weakest correlation between sales and marketing spend?",
+        "answer": "The home appliances category shows the weakest correlation between sales and marketing spend.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [109, 115, 120, 127],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between customer engagement time and total purchases?",
+        "answer": "The Pearson correlation coefficient indicates a strong positive relationship, meaning longer engagement time leads to higher purchases.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [138],
+        "question": "Which feature has the least correlation with customer retention rate?",
+        "answer": "Product return rate has the least correlation with customer retention rate.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [149, 155, 162, 169],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for customer purchase analysis?",
+        "answer": "Pearson correlation successfully identified key relationships between customer attributes and spending patterns, helping in targeted marketing strategies.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rabieelkharoua/cancer-prediction-dataset",
+        "https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset",
+        "https://www.kaggle.com/datasets/meetnagadia/kvasir-dataset",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/covid-19-on-working-professionals",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/ashaychoudhary/reproductive-health",
+        "https://www.kaggle.com/datasets/thedevastator/improve-breast-cancer-prognostics-using-machine",
+        "https://www.kaggle.com/datasets/thedevastator/grade-school-math-8k-q-a",
+        "https://www.kaggle.com/datasets/waltervanhuissteden/the-nerthus-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/psychedelic-drug-database",
+        "https://www.kaggle.com/datasets/sahil23009/rohit-sharma-virat-kohli",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/behavior-prediction-experiment",
+        "https://www.kaggle.com/datasets/anthonytherrien/kaggle-playground-season-3-private-leaderboard",
+        "https://www.kaggle.com/datasets/thedevastator/eeg-alpha-wave-recording",
+        "https://www.kaggle.com/datasets/thedevastator/exploring-influencer-profiles-in-customer-to-cus",
+        "https://www.kaggle.com/datasets/thedevastator/imdb-movie-metadata-multivariate-analysis",
+        "https://www.kaggle.com/datasets/thedevastator/usaid-feed-the-future-activities-data",
+        "https://www.kaggle.com/datasets/thedevastator/us-opioid-overdose-deaths",
+        "https://www.kaggle.com/datasets/thedevastator/uncovering-betting-patterns-in-the-premier-leagu",
+        "https://www.kaggle.com/datasets/jordanln/llm-prompts-in-the-context-of-machine-learning"
+    ],
+    "dataset_description": "The training dataset consists of approximately 145k time series. Each of these time series represent a number of daily views of a different Wikipedia article, starting from July, 1st, 2015 up until December 31st, 2016. The leaderboard during the training stage is based on traffic from January, 1st, 2017 up until March 1st, 2017. ",
+    "notebook_url": "https://www.kaggle.com/code/zoupet/predictive-analysis-with-different-approaches",
+    "domain": "Health",
+    "help_data_file_names": []
+}

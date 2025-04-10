@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and movies in the dataset, and how does this impact the complexity of building a recommendation system?",
+      "answer": "The dataset includes 50,000 users and 10,000 movies, creating a large and sparse matrix for collaborative filtering.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of the user-item matrix is filled with ratings, and what challenges does this sparsity pose?",
+      "answer": "The matrix is 98% sparse, requiring efficient algorithms to handle missing data effectively.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [5, 8, 11],
+      "question": "What is the distribution of movie ratings, and how does it influence the collaborative filtering process?",
+      "answer": "Ratings are concentrated around higher values, with most ratings being 4 or 5, potentially biasing recommendations towards popular items.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [13, 16, 18],
+      "question": "What are the top-rated movies in the dataset, and how can they serve as baseline recommendations for new users?",
+      "answer": "Top-rated movies include 'The Shawshank Redemption' and 'Inception', which are often recommended to new users.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [19, 21],
+      "question": "What patterns in user rating behavior are observed, and how do these patterns inform personalized recommendations?",
+      "answer": "Users tend to rate movies in genres they frequently watch, such as 'Action' or 'Romance', which helps tailor recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [23, 25, 28],
+      "question": "How does the distribution of ratings vary across different genres, and what insights can be drawn for genre-specific recommendations?",
+      "answer": "Genres like 'Comedy' and 'Drama' receive more ratings than niche genres like 'Documentary', indicating the need for specialized handling of less-rated genres.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [30, 33],
+      "question": "What are the most common similarities between user profiles based on their rating patterns, and how does collaborative filtering leverage these similarities?",
+      "answer": "Users with similar preferences for genres such as 'Sci-Fi' and 'Adventure' are grouped, enabling accurate personalized recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [34, 36, 39],
+      "question": "What impact do highly active users have on the recommendation system, and how are their preferences incorporated into collaborative filtering?",
+      "answer": "Highly active users shape recommendations by influencing the weight of frequently rated genres or movies in the collaborative filtering process.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [40, 43],
+      "question": "How does collaborative filtering address the challenge of recommending niche movies to users?",
+      "answer": "Collaborative filtering uses similarities in user preferences to suggest niche movies to users with similar tastes, even with limited ratings.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [44, 46, 49],
+      "question": "What strategies are used to mitigate the cold-start problem for new users or movies in the dataset?",
+      "answer": "The system recommends popular movies and uses genre-based suggestions to address the cold-start problem effectively.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    }
+  ]
+  

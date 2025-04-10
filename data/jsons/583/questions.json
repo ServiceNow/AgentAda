@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [18],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of McDonald's menu items, including nutritional content such as calories, fats, and protein.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [27, 34],
+        "question": "What preprocessing steps were performed before computing Pearson correlation?",
+        "answer": "The dataset was standardized, missing values were handled, and categorical variables such as menu categories were encoded into numerical values.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [41],
+        "question": "Which two nutritional factors show the strongest positive correlation?",
+        "answer": "Total fat content and calorie count show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [56, 63],
+        "question": "Which nutritional feature has the highest negative correlation with sodium content?",
+        "answer": "Dietary fiber has the highest negative correlation with sodium content.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [75, 83, 90],
+        "question": "What is the Pearson correlation coefficient between protein content and calorie count?",
+        "answer": "The Pearson correlation coefficient between protein content and calorie count is 0.69.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [101, 109],
+        "question": "How does Pearson correlation between sugar content and total carbohydrates compare to other nutritional values?",
+        "answer": "The correlation between sugar content and total carbohydrates is higher than the correlation between sugar content and fiber.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [121],
+        "question": "Which menu item category shows the weakest correlation between fat content and calorie count?",
+        "answer": "Beverages show the weakest correlation between fat content and calorie count.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [133, 140, 148, 156],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between saturated fat and cholesterol levels?",
+        "answer": "The Pearson correlation coefficient indicates a strong positive relationship, meaning higher saturated fat content is associated with higher cholesterol levels.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [167],
+        "question": "Which nutritional factor has the least correlation with meal portion size?",
+        "answer": "Vitamin C content has the least correlation with meal portion size.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [178, 186, 195, 199],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for analyzing nutritional data?",
+        "answer": "Pearson correlation identified key nutritional relationships, such as fat and calorie content, helping in menu analysis and healthier food choices.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

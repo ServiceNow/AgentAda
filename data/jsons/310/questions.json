@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3, 4],
+        "question": "How many transactions and items are present in the dataset?",
+        "answer": "The dataset contains 7501 transactions with 20 different items per transaction.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "Which item appears most frequently in transactions?",
+        "answer": "'Mineral water' appears most frequently in transactions, with an incident count of 1788.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What is the minimum support threshold used for frequent itemset generation?",
+        "answer": "The minimum support threshold used for generating frequent itemsets is 0.05.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [9],
+        "question": "Which are the top 3 most frequent itemsets in the dataset?",
+        "answer": "The top 3 most frequent itemsets are {'mineral water'}, {'eggs'}, and {'spaghetti'}.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What is the highest lift value found in the association rules?",
+        "answer": "The highest lift value found in the association rules is 3.79.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "Which association rule has the highest confidence value?",
+        "answer": "The rule {'eggs'} → {'mineral water'} has the highest confidence value of 0.58.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "Which item is most commonly associated with 'spaghetti' in the dataset?",
+        "answer": "'Mineral water' is the most commonly associated item with 'spaghetti'.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "How many frequent itemsets were generated using the FP-Growth algorithm?",
+        "answer": "A total of 30 frequent itemsets were generated using the FP-Growth algorithm.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "Which itemset has the strongest association rule based on lift?",
+        "answer": "The strongest association rule based on lift is {'pancakes'} → {'chocolate'} with a lift value of 3.79.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "What insights can be derived from the discovered association rules?",
+        "answer": "The association rules indicate that customers who buy 'spaghetti' often buy 'mineral water', and those who buy 'pancakes' frequently buy 'chocolate'.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    }
+]

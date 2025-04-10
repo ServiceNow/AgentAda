@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many unique timestamps are recorded in the dataset?",
+        "answer": "The dataset contains 3,652 unique timestamps.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18, 32],
+        "question": "What is the granularity of the time series data?",
+        "answer": "The dataset is recorded at a daily granularity.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [45, 58, 71],
+        "question": "What general trend is observed in energy consumption over time?",
+        "answer": "Energy consumption exhibits a long-term increasing trend with seasonal fluctuations.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [84, 97, 112, 128],
+        "question": "What seasonal patterns are evident in the energy consumption data?",
+        "answer": "Energy consumption peaks during winter months and dips during summer months, indicating a strong annual seasonality.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [136, 149, 162],
+        "question": "What is the contribution of seasonality to the overall variation in energy consumption?",
+        "answer": "Seasonality contributes to approximately 40% of the total variance in energy consumption.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [175, 189, 198],
+        "question": "Are there any notable anomalies or sudden shifts in the time series data?",
+        "answer": "Yes, there are sudden drops in energy consumption in March 2020 and December 2021, likely due to external factors such as policy changes or weather anomalies.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

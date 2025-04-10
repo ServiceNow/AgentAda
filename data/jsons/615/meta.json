@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/code/xhlulu/cord-19-eda-parse-json-and-generate-clean-csv"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mobassir/mining-covid-19-scientific-papers",
+    "domain": "Health",
+    "help_data_file_names": []
+}

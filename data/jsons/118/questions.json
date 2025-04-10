@@ -1,0 +1,72 @@
+[
+  {
+    "cell_ids": [1, 2],
+    "question": "What is the total time range of the Tesla stock dataset used for forecasting?",
+    "answer": "The dataset covers Tesla stock data from 2010 to 2021.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [3, 4, 5],
+    "question": "What is the average closing price of Tesla stocks in the dataset?",
+    "answer": "The average closing price of Tesla stocks is $350.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [6, 7],
+    "question": "How many missing values are present in the dataset, and how are they addressed?",
+    "answer": "The dataset contains no missing values.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [8, 9],
+    "question": "What is the highest closing price of Tesla stocks recorded in the dataset?",
+    "answer": "The highest closing price recorded is $900.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [10, 11, 12],
+    "question": "What is the lowest closing price of Tesla stocks recorded in the dataset?",
+    "answer": "The lowest closing price recorded is $20.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  },
+  {
+    "cell_ids": [13, 14],
+    "question": "What trends are observed in Tesla's stock prices over the years?",
+    "answer": "Tesla's stock prices show a significant upward trend with sharp increases after 2019.",
+    "task": "Forecasting",
+    "skill": "LSTM"
+  },
+  {
+    "cell_ids": [15, 16, 17],
+    "question": "What seasonal patterns are observed in Tesla's stock price data?",
+    "answer": "Tesla stock prices tend to increase in the second half of each year.",
+    "task": "Forecasting",
+    "skill": "LSTM"
+  },
+  {
+    "cell_ids": [18, 19, 20],
+    "question": "What is the forecasted closing price for Tesla stocks over the next 6 months?",
+    "answer": "The forecasted closing price averages $920 over the next 6 months.",
+    "task": "Forecasting",
+    "skill": "LSTM"
+  },
+  {
+    "cell_ids": [21, 22],
+    "question": "How closely do the forecasted stock prices match the actual prices?",
+    "answer": "The forecasted stock prices match closely with the actual prices, with minor deviations.",
+    "task": "Forecasting",
+    "skill": "LSTM"
+  },
+  {
+    "cell_ids": [23, 24, 25],
+    "question": "What is the total trading volume of Tesla stocks in the dataset?",
+    "answer": "The total trading volume of Tesla stocks is 15 billion units.",
+    "task": "Basic Data Analysis",
+    "skill": "Basic Data Analysis"
+  }
+]

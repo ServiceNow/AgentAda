@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze customer purchasing behavior and enhance query performance using indexing and join techniques.",
+    "persona": "An experienced data analyst with a strong background in database management and query optimization, keen on leveraging indexing and join algorithms to improve data retrieval efficiency. They are focused on understanding customer purchasing patterns and enhancing performance for large-scale data operations in e-commerce settings."
+}

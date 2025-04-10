@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/bestemete/ab-testing"],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/bestemete/a-b-testing/notebook",
+    "domain": "Science",
+    "help_data_file_names": ["control.csv"]
+}

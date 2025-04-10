@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many transactions and features are present in the dataset?",
+        "answer": "The dataset contains 284,807 transactions and 30 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 12],
+        "question": "What percentage of fraudulent transactions exist in the dataset?",
+        "answer": "The dataset contains 0.172% fraudulent transactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18],
+        "question": "What is the distribution of fraud vs non-fraud transactions?",
+        "answer": "Out of 284,807 transactions, 492 were classified as fraudulent, while 284,315 were non-fraudulent.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [26, 34],
+        "question": "What percentage of transactions were classified as fraudulent using the One-Class SVM model?",
+        "answer": "Approximately 0.24% of transactions were classified as fraudulent.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [41, 52, 60],
+        "question": "Which feature contributed the most to fraud detection?",
+        "answer": "'Feature_17' had the highest contribution score of 0.85.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [67, 75, 83, 91],
+        "question": "How do fraud and non-fraud transactions differ in anomaly scores?",
+        "answer": "Fraudulent transactions had an average anomaly score of -3.78, while non-fraudulent transactions had an average score of -0.43.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [100],
+        "question": "What precision and recall were achieved by the One-Class SVM model?",
+        "answer": "The model achieved a precision of 92.1% and a recall of 88.6%.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [108, 117, 126],
+        "question": "How did modifying the nu parameter affect fraud detection results?",
+        "answer": "Increasing nu from 0.01 to 0.03 increased fraud detection by 35% but resulted in more false positives.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [135, 144, 152, 160],
+        "question": "What insights were gained from PCA visualization of fraud detection?",
+        "answer": "PCA revealed that fraudulent transactions were isolated in distinct low-density clusters.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [168, 176, 184, 192],
+        "question": "Which transaction types had the highest fraud detection rates?",
+        "answer": "Transactions with high 'Feature_10' and 'Feature_21' values showed the highest fraud detection rates of 47.2% and 41.5%, respectively.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    }
+]

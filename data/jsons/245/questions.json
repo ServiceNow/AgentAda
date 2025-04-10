@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this support segmentation analysis?",
+      "answer": "The dataset contains 5,000 customers, providing a substantial base for segmentation analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of annual income among customers, and how does this vary across the dataset?",
+      "answer": "Annual income ranges from $15,000 to $150,000, with most customers earning between $50,000 and $90,000.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 6, 8],
+      "question": "What is the range of spending scores in the dataset, and what patterns are observed among high and low spenders?",
+      "answer": "Spending scores range from 1 to 100, with high spenders typically having mid-to-high income levels.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 12],
+      "question": "How many clusters were identified using K-means, and what are the defining characteristics of each cluster?",
+      "answer": "Five clusters were identified, characterized by distinct combinations of income and spending scores.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [14, 16],
+      "question": "What are the average income and spending scores for each cluster, and how do they define customer behavior?",
+      "answer": "Clusters range from low-income low-spenders to high-income high-spenders, with unique spending and income traits in each.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [18, 20],
+      "question": "What insights about customer preferences can be drawn based on the clustering results?",
+      "answer": "High-income customers prefer luxury products, while low-income customers focus on cost-effective purchases.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [22, 25],
+      "question": "Which features, such as income or spending score, contributed most significantly to the cluster formation?",
+      "answer": "Income and spending scores are the primary drivers for cluster formation, with spending score playing a slightly larger role.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [27, 30],
+      "question": "What is the optimal number of clusters, and how was it determined using the elbow method?",
+      "answer": "The optimal number of clusters was determined to be five using the elbow method.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [32, 35],
+      "question": "What business strategies can be developed for each identified customer segment to increase engagement and revenue?",
+      "answer": "Strategies include loyalty programs for high-spenders, targeted promotions for mid-spenders, and discounts for low-spenders.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [37, 40],
+      "question": "How do the behaviors of mid-income mid-spenders differ from those of high-income high-spenders?",
+      "answer": "Mid-income mid-spenders prioritize value-based purchases, while high-income high-spenders focus on premium and luxury goods.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    }
+  ]
+  

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/gyanprakashkushwaha/mobile-recommendation-system-dataset",
+        "https://www.kaggle.com/datasets/dev0914sharma/dataset",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/fashion-products",
+        "https://www.kaggle.com/datasets/nicoletacilibiu/movies-and-ratings-for-recommendation-system",
+        "https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset",
+        "https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset",
+        "https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction",
+        "https://www.kaggle.com/datasets/jainilcoder/article-recommendation-system",
+        "https://www.kaggle.com/datasets/vishalmane109/anime-recommendations-database",
+        "https://www.kaggle.com/datasets/noorsaeed/medicine-recommendation-system-dataset",
+        "https://www.kaggle.com/datasets/ghadahalshehrei/laptops-info",
+        "https://www.kaggle.com/datasets/bandikarthik/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/meirnizri/cellphones-recommendations",
+        "https://www.kaggle.com/datasets/assopavic/recommendation-system-for-angers-smart-city",
+        "https://www.kaggle.com/datasets/abdallahwagih/movies",
+        "https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database",
+        "https://www.kaggle.com/datasets/muhammadbinimran/movie-recommendation-system-prediction-dataset",
+        "https://www.kaggle.com/datasets/eswarchandt/amazon-movie-ratings",
+        "https://www.kaggle.com/datasets/schemersays/food-recommendation-system"
+    ],
+    "dataset_description": "What can we say about the success of a movie before it is released? Are there certain companies (Pixar?) that have found a consistent formula? Given that major films costing over $100 million to produce can still flop, this question is more important than ever to the industry. Film aficionados might have different interests. Can we predict which films will be highly rated, whether or not they are a commercial success?",
+    "notebook_url": "https://www.kaggle.com/code/kartikgaglani/recommendation-system",
+    "domain": "Entertainment",
+    "help_data_file_names": ["credits.csv"]
+}

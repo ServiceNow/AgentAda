@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "What is the total number of unique products in the dataset?",
+        "answer": "The dataset contains 45,000 unique products.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14, 16],
+        "question": "What is the average rating given by users in the dataset?",
+        "answer": "The average rating given by users is 4.2.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [30],
+        "question": "What preprocessing steps were applied to the dataset before performing SVD?",
+        "answer": "Missing values were handled, text reviews were converted into numerical sentiment scores, and ratings were normalized.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [42, 45],
+        "question": "How many singular values were retained for SVD decomposition?",
+        "answer": "80 singular values were retained for the decomposition.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [53, 57, 59],
+        "question": "What percentage of variance is captured by the first 50 singular values?",
+        "answer": "The first 50 singular values capture 82% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [68, 72],
+        "question": "How did SVD impact the sparsity of the user-item matrix?",
+        "answer": "SVD reduced the sparsity by projecting user and item interactions into a lower-dimensional latent space.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [88],
+        "question": "What dataset was used to perform SVD decomposition in this analysis?",
+        "answer": "The dataset used was the Amazon Fine Food Reviews dataset.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [104, 107, 109, 113],
+        "question": "What method was used to evaluate the quality of SVD-reduced features?",
+        "answer": "The reconstructed matrix was compared with the original ratings, and RMSE was used as the evaluation metric.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [126],
+        "question": "How does SVD improve user preference modeling in recommendation systems?",
+        "answer": "SVD helps by identifying latent factors that represent underlying user preferences and item characteristics.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [139, 143, 148, 152],
+        "question": "What conclusions were drawn about SVD's effectiveness in recommendation tasks?",
+        "answer": "SVD improved recommendation accuracy and handled sparsity better than traditional matrix factorization techniques.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    }
+]

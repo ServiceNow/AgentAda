@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the sentiment of sentences within the dataset to understand their positive, negative, or neutral classifications.",
+    "persona": "A data scientist specializing in natural language processing with 4 years of experience, aiming to build effective sentiment analysis models. They are interested in optimizing machine learning algorithms for better performance in nuanced text classifications and enjoy exploring the impact of preprocessing steps like stopword removal on model performance."
+}

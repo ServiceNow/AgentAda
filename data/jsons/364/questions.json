@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many records and features are present in the predictive maintenance dataset?",
+        "answer": "The dataset contains 120,000 records and 12 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 13],
+        "question": "What is the average operational cycle count before failure?",
+        "answer": "The average operational cycle count before failure is 290 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "Which features are used for failure prediction in the LSTM model?",
+        "answer": "The features include temperature, pressure, vibration, humidity, and operational time.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [20, 24],
+        "question": "How does temperature variation impact the likelihood of equipment failure?",
+        "answer": "Temperatures above 80°C significantly increase failure probability.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [27, 30, 34],
+        "question": "What is the distribution of failure types in the dataset?",
+        "answer": "The dataset contains 40% mechanical failures, 35% electrical failures, and 25% sensor-related failures.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [38, 42, 45, 48],
+        "question": "What is the correlation between vibration levels and failure events?",
+        "answer": "Machines with vibration levels above 4.1 m/s² have a 68% higher failure rate.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [52],
+        "question": "Which sensor reading is the most important predictor of failure?",
+        "answer": "The operational cycle count, followed by vibration levels, is the most significant predictor.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [56, 59, 63],
+        "question": "What impact does feature scaling have on the LSTM model’s accuracy?",
+        "answer": "Feature scaling improves prediction accuracy by reducing sensor variance, leading to a 5% model improvement.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [67, 71, 74, 78],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The model predicts failures with 91% accuracy up to 50 cycles in advance, highlighting temperature and vibration as primary failure indicators.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    }
+]

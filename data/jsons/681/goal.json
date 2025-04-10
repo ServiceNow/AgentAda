@@ -1,0 +1,4 @@
+{
+    "goal": "Impute missing values in a dataset to preserve feature distribution and correlations.",
+    "persona": "A data scientist with expertise in data cleaning and preprocessing, focusing on improving data quality for analysis. They are particularly skilled in handling missing data using advanced imputation methods like KNN, with a strong interest in maintaining the integrity of original data distribution and relationships. They seek to enhance dataset usability for further analytical tasks while efficiently managing computational resources."
+}

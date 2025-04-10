@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [19],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of economic indicators such as GDP, unemployment rates, and inflation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [28, 36],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was cleaned by handling missing values, ranking numerical features, and encoding categorical variables into numerical values.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [43],
+        "question": "Which two economic indicators show the strongest positive Spearman correlation?",
+        "answer": "GDP growth rate and employment rate show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [58, 65],
+        "question": "Which factor has the highest negative correlation with inflation?",
+        "answer": "The currency value index has the highest negative correlation with inflation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [77, 85, 92],
+        "question": "What is the Spearman correlation coefficient between interest rates and housing prices?",
+        "answer": "The Spearman correlation coefficient between interest rates and housing prices is -0.74.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [103, 111],
+        "question": "How does Spearman correlation between tax rates and business growth compare to other economic factors?",
+        "answer": "The correlation between tax rates and business growth is weaker compared to the correlation between consumer spending and business growth.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [123],
+        "question": "Which country category shows the weakest correlation between GDP per capita and quality of life index?",
+        "answer": "Lower-middle-income countries show the weakest correlation between GDP per capita and quality of life index.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [135, 143, 151, 159],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between education levels and median household income?",
+        "answer": "The Spearman correlation coefficient indicates a strong positive relationship, meaning higher education levels are associated with higher median household income.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [170],
+        "question": "Which variable has the least correlation with economic stability?",
+        "answer": "Internet penetration rate has the least correlation with economic stability.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [181, 189, 197, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing economic indicators?",
+        "answer": "Spearman correlation helped identify key trends in economic stability, showing how income distribution and employment rates impact national economic growth.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

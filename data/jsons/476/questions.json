@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [19],
+        "question": "How many time-series variables are present in the dataset?",
+        "answer": "The dataset contains 4 time-series variables.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [37, 51],
+        "question": "What is the average trend value for the main time-series variable?",
+        "answer": "The average trend value for the main time-series variable is 12.5.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [68, 79, 95],
+        "question": "What latent variables are included in the structural equation model for time-series analysis?",
+        "answer": "The latent variables include 'Seasonality Effect', 'Trend Component', and 'Market Influence'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [110, 123, 138, 154],
+        "question": "Which observed variables have the strongest impact on 'Market Influence'?",
+        "answer": "'External Economic Indicator' and 'Consumer Sentiment Score' have the strongest impact on 'Market Influence'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [169, 182, 196, 211],
+        "question": "What is the estimated path coefficient between 'Trend Component' and 'Sales Volume'?",
+        "answer": "The estimated path coefficient between 'Trend Component' and 'Sales Volume' is 0.64.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [225, 238, 251, 266],
+        "question": "Does 'Seasonal Adjustment' mediate the relationship between 'Market Influence' and 'Sales Volume'?",
+        "answer": "'Seasonal Adjustment' partially mediates the relationship, reducing the direct effect from 0.71 to 0.47.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [278, 292, 307, 321],
+        "question": "What percentage of variance in 'Sales Forecast' is explained by the model?",
+        "answer": "The model explains 82% of the variance in 'Sales Forecast' (R² = 0.82).",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [335, 349, 362, 375],
+        "question": "Is there a statistically significant relationship between 'Economic Trends' and 'Demand Fluctuations'?",
+        "answer": "Yes, there is a statistically significant relationship with a p-value of 0.004.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [389, 402, 416, 429],
+        "question": "Which variable has the strongest direct effect on 'Sales Performance'?",
+        "answer": "'Consumer Sentiment Score' has the strongest direct effect on 'Sales Performance' with a path coefficient of 0.78.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [442, 456, 470, 485],
+        "question": "What are the key findings from the structural equation model applied to time-series analysis?",
+        "answer": "The model highlights that 'Market Influence' and 'Trend Component' significantly affect 'Sales Performance', with 'Seasonality Effect' playing a mediating role.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    }
+]

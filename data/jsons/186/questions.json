@@ -1,0 +1,92 @@
+[
+    {
+      "cell_ids": [
+        6
+      ],
+      "question": "What is the range of values for the `rating` in the dataset?",
+      "answer": "The ratings are on a scale from 0.5 to 5.",
+       "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+    },
+      {
+          "cell_ids": [
+              8
+          ],
+          "question": "What is the default similarity metric in the KNNBasic algorithm used for collaborative filtering?",
+           "answer": "The default similarity metric is the Mean Squared Distance.",
+           "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      },
+    {
+      "cell_ids": [
+        11
+      ],
+      "question": "What is the performance metric used in the cross-validation method of this notebook?",
+           "answer": "RMSE (Root Mean Squared Error).",
+          "task": "Dashboard Summary",
+          "skill": "KPI Analysis"
+    },
+    {
+      "cell_ids": [
+        13
+      ],
+      "question": "What is the RMSE score for the user based collaborative filtering model?",
+      "answer": "1.0167064389274099 (The exact number can vary because of random initialization).",
+           "task": "Dashboard Summary",
+          "skill": "Statistical Aggregation"
+      },
+      {
+         "cell_ids": [
+              15
+          ],
+          "question": "What is the RMSE score for the item based collaborative filtering model?",
+           "answer":"1.0165037345437389 (The exact number can vary because of random initialization).",
+           "task": "Dashboard Summary",
+          "skill": "Statistical Aggregation"
+      },
+    {
+          "cell_ids": [
+              17
+          ],
+          "question": "What is the RMSE score for the Matrix Factorization model?",
+           "answer": "0.9350469274317288 (The exact number can vary because of random initialization).",
+           "task": "Dashboard Summary",
+          "skill": "Statistical Aggregation"
+      },
+      {
+          "cell_ids": [
+              19
+          ],
+            "question": "What is the meaning of k in the `precision_recall_at_k` method?",
+             "answer": "k represents the number of top recommendations to consider when computing precision and recall.",
+           "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+      {
+           "cell_ids": [
+             20
+          ],
+            "question": "Does the precision of the random model increases when k changes from 5 to 10?",
+           "answer": "The precision of the random model decreases when k changes from 5 to 10.",
+           "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+    {
+          "cell_ids": [
+              20
+          ],
+            "question": "Do the user-based and item-based collaborative filtering models perform better at k=5 or k=10? (in terms of recall)",
+           "answer": "They perform better at k=10 (in terms of recall).",
+          "task": "Dashboard Summary",
+          "skill": "Statistical Aggregation"
+      },
+      {
+           "cell_ids": [
+              23
+          ],
+           "question": "What are the top 5 movie recommendations for the user with user id 1, based on the collaborative filtering model using SVD?",
+           "answer": "The recommendations are 187.     4.65, 169.     4.63, 98.     4.58,  64.     4.56, 318.     4.54.",
+           "task": "Recommendation Systems",
+          "skill": "Matrix Factorization"
+      }
+  ]

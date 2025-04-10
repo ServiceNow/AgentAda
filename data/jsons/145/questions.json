@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of transactions available in the dataset, and how does this reflect the scope of the analysis?",
+      "answer": "The dataset contains 300,000 transactions, providing a substantial base for anomaly detection analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the percentage of fraudulent transactions in the dataset, and how does this imbalance affect the anomaly detection process?",
+      "answer": "The percentage of fraudulent transactions is 0.15%, highlighting the significant class imbalance that makes anomaly detection critical.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 6, 9],
+      "question": "What is the average transaction amount in the dataset, and how does it compare to the typical transaction amounts flagged as anomalies?",
+      "answer": "The average transaction amount is $140.00, while anomalies are frequently associated with higher transaction amounts.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [11, 14, 16, 19],
+      "question": "What is the maximum transaction amount recorded in the dataset, and does it represent a significant outlier compared to the general distribution?",
+      "answer": "The maximum transaction amount is $50,000, representing a significant outlier compared to the median transaction values.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [20],
+      "question": "What is the minimum transaction amount recorded in the dataset, and how common are transactions near this value?",
+      "answer": "The minimum transaction amount is $1.00, and transactions near this value occur frequently, reflecting common low-value purchases.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [22, 24, 26],
+      "question": "Which features are identified as most significant for detecting anomalies, and what specific patterns in these features contribute to the identification of outliers?",
+      "answer": "Significant features include 'Transaction Amount', 'Time of Transaction', and 'Merchant Type', where unusual combinations often indicate anomalies.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [27, 29],
+      "question": "What are the typical characteristics of flagged anomalies in terms of transaction time and merchant type?",
+      "answer": "Flagged anomalies often occur during non-business hours and involve unusual merchant types compared to normal transactions.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [30, 33, 35],
+      "question": "What is the distribution of transaction amounts among flagged anomalies, and how does this differ from the distribution in normal transactions?",
+      "answer": "Flagged anomalies are concentrated in the top 10% of transaction amounts, while normal transactions show a broader, more uniform distribution.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [36, 39],
+      "question": "What proportion of flagged anomalies corresponds to fraudulent transactions, and what does this indicate about the model's precision in identifying true fraud?",
+      "answer": "Approximately 85% of flagged anomalies correspond to fraudulent transactions, indicating high precision in detecting true fraud cases.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [41, 44, 46, 49],
+      "question": "What unique transaction patterns distinguish normal transactions from anomalies, and how can these patterns guide future fraud prevention measures?",
+      "answer": "Normal transactions exhibit consistent values for 'Merchant Type' and 'Transaction Time', whereas anomalies often show unusual deviations. These patterns can inform stricter validation checks.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    }
+  ]
+  

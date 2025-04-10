@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "What is the total number of features in the dataset?",
+        "answer": "The dataset contains 15 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13, 17],
+        "question": "What is the mean value of the third numerical feature?",
+        "answer": "The mean value of the third numerical feature is 6.42.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28],
+        "question": "What preprocessing steps were performed before applying Kernel PCA?",
+        "answer": "The dataset was normalized, missing values were handled, and categorical variables were encoded into numerical representations.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [36, 41],
+        "question": "How many principal components were retained for further analysis?",
+        "answer": "The first 10 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [52, 57, 63],
+        "question": "What proportion of variance is explained by the first four principal components?",
+        "answer": "The first four principal components explain 78% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [71, 75],
+        "question": "How does feature scaling impact the effectiveness of Kernel PCA?",
+        "answer": "Feature scaling ensures that all features contribute equally to the transformation, preventing large-magnitude variables from dominating the principal components.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [87],
+        "question": "What dataset was analyzed using Kernel PCA?",
+        "answer": "The dataset consists of financial transaction records for fraud detection.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [99, 104, 109, 113],
+        "question": "What visualization technique was used to interpret the transformed data after Kernel PCA?",
+        "answer": "A scatter plot of the first two principal components was used to visualize the data distribution in reduced dimensions.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [124],
+        "question": "How does Kernel PCA contribute to feature selection?",
+        "answer": "It captures the most informative non-linear transformations of the dataset, helping to improve feature selection and classification performance.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [136, 140, 147, 152],
+        "question": "What conclusions were drawn about the effectiveness of Kernel PCA for dimensionality reduction?",
+        "answer": "Kernel PCA effectively reduced dimensionality while preserving important non-linear structures, making it useful for complex datasets.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze sentiment trends in COVID-19 related tweets.",
+    "persona": "A data scientist with expertise in natural language processing and sentiment analysis, interested in understanding public sentiment during global events by leveraging advanced models like BERT and RoBERTa for effective tweet categorization."
+}

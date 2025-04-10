@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many records and features are included in the customer retention dataset?",
+        "answer": "The dataset contains 170,000 records and 20 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [9, 14],
+        "question": "What is the average retention rate of customers over the first six months?",
+        "answer": "The average retention rate over six months is 45%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which cohort month exhibits the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 78%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [23, 27],
+        "question": "How does customer retention vary across different age groups?",
+        "answer": "Customers aged 25-34 retain at 55%, while customers over 50 retain at 33%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [32, 36, 41],
+        "question": "What is the retention rate for high-spending customers compared to low-spending customers?",
+        "answer": "High-spending customers retain at a rate of 62%, whereas low-spending customers retain at 29%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [45, 50, 54, 59],
+        "question": "What is the impact of loyalty programs on customer retention?",
+        "answer": "Customers enrolled in loyalty programs have a 20% higher retention rate compared to non-members.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [63],
+        "question": "Which customer segment has the highest long-term retention rate?",
+        "answer": "Subscription-based customers have the highest retention rate, maintaining 70% retention after six months.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [68, 72, 77],
+        "question": "How does engagement frequency affect customer retention?",
+        "answer": "Customers who engage at least once a week have a retention rate of 60%, while those with less frequent interactions drop to 30%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [82, 87, 91, 96],
+        "question": "What insights can be derived from the cohort retention analysis?",
+        "answer": "Retention sharply declines after month 2, with a 28% drop between months 2 and 3, indicating the importance of early engagement strategies.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [102, 108, 113, 119],
+        "question": "How does customer retention compare year-over-year?",
+        "answer": "Retention rates have improved by 10% in the last year due to enhanced customer experience initiatives.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    }
+]

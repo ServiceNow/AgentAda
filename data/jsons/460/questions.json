@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many regions are analyzed in the dataset?",
+        "answer": "The dataset contains data for 150 regions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 14],
+        "question": "What is the average gender inequality index (GII) score in the dataset?",
+        "answer": "The average GII score across all regions is 0.42.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [20, 28, 36],
+        "question": "Which regions show the highest gender inequality based on spatial patterns?",
+        "answer": "Sub-Saharan Africa and South Asia show the highest gender inequality.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [45, 53, 61, 69],
+        "question": "What does a high positive Moran’s I value indicate about gender inequality distribution?",
+        "answer": "A high positive Moran’s I value indicates that regions with high gender inequality tend to be clustered together.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [78, 86, 94, 102],
+        "question": "How does spatial autocorrelation help in understanding gender disparity trends?",
+        "answer": "It helps identify clusters of high and low gender inequality, revealing regional disparities in gender rights.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [110, 119, 128, 137],
+        "question": "What factors contribute to high spatial clustering of gender inequality?",
+        "answer": "Factors such as education level, income disparity, and political representation contribute to high clustering.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [146, 155, 164, 173],
+        "question": "How does the Local Moran’s I statistic help in identifying specific areas of concern?",
+        "answer": "Local Moran’s I highlights specific regions where gender inequality is significantly higher or lower than neighboring regions.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [181, 190, 199, 208],
+        "question": "What does a Moran’s I value close to zero indicate for gender inequality distribution?",
+        "answer": "A Moran’s I value close to zero suggests that gender inequality is randomly distributed across regions.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [217, 226, 235, 244],
+        "question": "How has gender inequality clustering changed over time based on spatial analysis?",
+        "answer": "Gender inequality clustering has shifted in response to policy changes, with improvements in some regions but persistent issues in others.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [253, 262, 271, 280],
+        "question": "How can spatial autocorrelation analysis help policymakers address gender disparities?",
+        "answer": "It enables targeted interventions by identifying regions with the highest need for policy reforms and resource allocation.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/hr-analytics-case-study",
+        "https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors",
+        "https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset",
+        "https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics",
+        "https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition",
+        "https://www.kaggle.com/datasets/miraclenifise/hr-employee-attrition-datasets",
+        "https://www.kaggle.com/datasets/jazminegreen/ibm-hr-employee-attrition",
+        "https://www.kaggle.com/datasets/nikhilbhosle/employee-attrition-uncleaned-dataset",
+        "https://www.kaggle.com/datasets/sivm205/hr-data",
+        "https://www.kaggle.com/datasets/comrade1234/employee-attrition-using-machine-learning",
+        "https://www.kaggle.com/datasets/karanchunara/hr-analytical-data"
+    ],
+    "dataset_description": "The Synthetic Employee Records Dataset is a simulated dataset created to explore various data analysis and machine learning techniques in the context of human resources and employee management. This synthetic dataset mirrors the structure and characteristics of real employee data, while all the information contained within is entirely fictional and generated for illustrative purposes.",
+    "notebook_url": "https://www.kaggle.com/code/azrielalfajr/performance-and-attrition-retention-analysis",
+    "domain": "Business",
+    "help_data_file_names": [
+        "employee_data.csv",
+        "employee_engagement_survey_data.csv",
+        "training_and_development_data.csv"
+    ]
+}

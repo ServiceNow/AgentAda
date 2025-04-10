@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the overall trend in the inflation rate dataset over the observed period?",
+        "answer": "The dataset shows a gradual increase in inflation rates with periodic fluctuations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly inflation rate in the dataset?",
+        "answer": "The average monthly inflation rate is 3.2%.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What are the identified seasonal patterns in the inflation data?",
+        "answer": "The dataset shows seasonal increases in inflation rates during the first quarter of each year.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest inflation rate recorded in the dataset, and when did it occur?",
+        "answer": "The highest inflation rate recorded is 6.8%, observed in July 2022.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What are the forecasted inflation rates for the next 6 months using the ARIMA model?",
+        "answer": "The forecasted inflation rates range from 3.5% to 4.2%, following recent trends.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the dataset reveal about the volatility of inflation rates over the years?",
+        "answer": "The dataset shows moderate volatility, with significant spikes during economic crises.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How do the forecasted inflation rates compare to historical seasonal averages?",
+        "answer": "The forecasted rates are consistent with historical averages, particularly during the first quarter spikes.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Were there any missing or anomalous values in the dataset, and how were they handled?",
+        "answer": "The dataset contained missing values for two months in 2019, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What insights can be drawn about the long-term trend of inflation rates from the dataset?",
+        "answer": "The dataset indicates a gradual upward trend in inflation rates, influenced by external economic factors.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What role do external factors play in influencing inflation rates as reflected in the dataset?",
+        "answer": "External factors like commodity prices and global economic conditions appear to drive the observed trends in inflation.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

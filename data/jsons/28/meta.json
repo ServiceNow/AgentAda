@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech"],
+    "dataset_description": "The objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.",
+    "notebook_url": "https://www.kaggle.com/code/sandeepbhutani304/sentiment-analysis-using-naive-bayes/notebook",
+    "domain": "Social Networks",
+    "help_data_file_names": ["train.csv"]
+}

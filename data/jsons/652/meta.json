@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/camnugent/sandp500"
+    ],
+    "dataset_description": "Stock market data can be interesting to analyze and as a further incentive, strong predictive models can have large financial payoff. The amount of financial data on the web is seemingly endless. A large and well structured dataset on a wide array of companies can be hard to come by. Here I provide a dataset with historical stock prices (last 5 years) for all companies currently found on the S&P 500 index. ",
+    "notebook_url": "https://www.kaggle.com/code/avikumart/timeseries-stock-price-analysis-forecasting",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

@@ -1,0 +1,20 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/yerkinmudebayev/mali-farm-data",
+        "https://www.kaggle.com/datasets/yerkinmudebayev/flea-beetle-data",
+        "https://www.kaggle.com/datasets/nguyenvunhuhuynh/datasetex2",
+        "https://www.kaggle.com/datasets/yerkinmudebayev/paper-mill-response-data",
+        "https://www.kaggle.com/datasets/ngochoangtran1992/dataset-ex2",
+        "https://www.kaggle.com/datasets/mattroibecon/dataset2",
+        "https://www.kaggle.com/datasets/thuanhuy/dataset2",
+        "https://www.kaggle.com/datasets/trungtien123/exercise2",
+        "https://www.kaggle.com/datasets/ndtp2003/exercise2",
+        "https://www.kaggle.com/datasets/trinhquangtungk17ct/dataset-excercise2",
+        "https://www.kaggle.com/datasets/nat7223/exercise2-2",
+        "https://www.kaggle.com/datasets/thuanhuy/datasetp2"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/kane6543/eigenvalues-and-eigenvectors",
+    "domain": "Agriculture",
+    "help_data_file_names": []
+}

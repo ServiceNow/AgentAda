@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/mahirkukreja/delhi-weather-data"],
+    "dataset_description": "This dataset contains weather data for New Delhi, India.",
+    "notebook_url": "https://www.kaggle.com/code/amar09/time-series-delhi-weather-forecasting-arima/notebook",
+    "domain": "Weather",
+    "help_data_file_names": []
+}

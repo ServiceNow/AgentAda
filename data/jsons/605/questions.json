@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [41],
+        "question": "What dataset was used for Knowledge BERT analysis?",
+        "answer": "The dataset consists of structured knowledge graph data, including entity relationships, text descriptions, and category labels.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [50, 58],
+        "question": "What preprocessing steps were performed before applying Knowledge BERT?",
+        "answer": "The dataset was preprocessed by tokenizing entity descriptions, normalizing text features, and mapping entities to their corresponding knowledge graph embeddings.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [65],
+        "question": "Which two entity attributes show the strongest association in the knowledge graph?",
+        "answer": "Entity category and relationship type show the strongest association in the knowledge graph.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [80, 88],
+        "question": "Which factor has the highest negative correlation with entity similarity scores?",
+        "answer": "Sparse or incomplete entity descriptions have the highest negative correlation with entity similarity scores.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [100, 108, 115],
+        "question": "What is the relationship extraction accuracy when using BERT embeddings?",
+        "answer": "The relationship extraction accuracy using BERT embeddings is 86.3%.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [127, 135],
+        "question": "How does Knowledge BERT's entity retrieval performance compare to traditional embedding-based models?",
+        "answer": "Knowledge BERT's entity retrieval performance is significantly higher than traditional embedding-based models, improving accuracy by 12%.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [147],
+        "question": "Which knowledge graph feature shows the weakest correlation with semantic similarity?",
+        "answer": "Entity popularity within the graph shows the weakest correlation with semantic similarity.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [159, 167, 175, 183],
+        "question": "What does the Knowledge BERT analysis indicate about the relationship between entity embeddings and text-based descriptions?",
+        "answer": "The analysis indicates a strong alignment between entity embeddings and text-based descriptions, demonstrating BERT's ability to encode contextual knowledge effectively.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [194],
+        "question": "Which entity property has the least impact on information retrieval performance?",
+        "answer": "The length of the entity name has the least impact on information retrieval performance.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [197, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Knowledge BERT for enhancing knowledge graph completion?",
+        "answer": "Knowledge BERT significantly improves entity linking, relationship prediction, and semantic understanding, highlighting its effectiveness for knowledge graph completion tasks.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rowhitswami/nips-papers-1987-2019-updated",
+        "https://www.kaggle.com/datasets/ziya07/marketing-behavior-prediction-dataset",
+        "https://www.kaggle.com/datasets/muratkokludataset/durum-wheat-dataset",
+        "https://www.kaggle.com/datasets/yusukemikami/gpt3-condenced-prompt-style",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/marketing-behavior",
+        "https://www.kaggle.com/datasets/ggtejas/tmdb-imdb-merged-movies-dataset",
+        "https://www.kaggle.com/datasets/kanchana1990/real-estate-data-london-2024",
+        "https://www.kaggle.com/datasets/sprakash08/mothers-day-tweets",
+        "https://www.kaggle.com/datasets/caiofleury/ec-europa-grants",
+        "https://www.kaggle.com/datasets/khushipitroda/ola-vs-uber-play-store-reviews",
+        "https://www.kaggle.com/datasets/adarshrouniyar/air-pollution-image-dataset-from-india-and-nepal",
+        "https://www.kaggle.com/datasets/gpreda/reddit-just-no-mother-in-law",
+        "https://www.kaggle.com/datasets/lorentzyeung/top-240-recommended-restaurants-in-new-york-2023",
+        "https://www.kaggle.com/datasets/rajatraj0502/ola-vs-uber-reviews",
+        "https://www.kaggle.com/datasets/trainingdatapro/ocr-barcodes-detection",
+        "https://www.kaggle.com/datasets/diyacharya/ukraine-russia-war-reddit-data",
+        "https://www.kaggle.com/datasets/trainingdatapro/6000-messengers-reviews-google-play",
+        "https://www.kaggle.com/datasets/mozzie/apache-spark-word2vec-model",
+        "https://www.kaggle.com/datasets/meerawks/it-skills-from-jobs",
+        "https://www.kaggle.com/datasets/tadakasuryateja/python-jobs-and-salaries"
+    ],
+    "dataset_description": "Neural Information Processing Systems (NIPS) is one of the top machine learning conferences in the world. It covers topics ranging from deep learning and computer vision to cognitive science and reinforcement learning. ",
+    "notebook_url": "https://www.kaggle.com/code/akhatova/extract-keywords",
+    "domain": "Science",
+    "help_data_file_names": [
+        "authors.csv",
+        "paper_authors.csv"
+    ]
+}

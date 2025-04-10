@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many records and features are present in the dataset?",
+        "answer": "The dataset contains 250,000 records and 20 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 14],
+        "question": "What percentage of missing values exist in the dataset?",
+        "answer": "The dataset contains 1.2% missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [21],
+        "question": "What is the distribution of anomalies in the dataset?",
+        "answer": "Out of 250,000 records, 2,100 were labeled as anomalies, representing 0.84% of the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29, 35],
+        "question": "What percentage of data points were classified as anomalies using the One-Class SVM model?",
+        "answer": "Approximately 5.3% of data points were classified as anomalies.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [42, 51, 58],
+        "question": "Which feature contributed the most to anomaly detection?",
+        "answer": "'Feature_7' had the highest anomaly contribution score of 0.83.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [66, 74, 82, 90],
+        "question": "How do anomaly scores compare between normal and anomalous instances?",
+        "answer": "Anomalous instances had an average anomaly score of -4.12, while normal instances had an average anomaly score of -0.68.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [98],
+        "question": "What precision and recall were achieved by the One-Class SVM model?",
+        "answer": "The model achieved a precision of 86.9% and a recall of 90.2%.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [107, 116, 125],
+        "question": "How did adjusting the nu parameter affect anomaly detection results?",
+        "answer": "Increasing the nu parameter from 0.01 to 0.05 resulted in a 48% increase in detected anomalies but also increased false positives.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [134, 143, 151, 159],
+        "question": "What insights were revealed when visualizing anomalies using PCA?",
+        "answer": "The PCA visualization showed that anomalies were primarily located in low-density regions, indicating their distinct separation from normal instances.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [167, 175, 183, 191],
+        "question": "Which types of transactions exhibited the highest anomaly detection rates?",
+        "answer": "Transactions with extreme values in 'Feature_3' and 'Feature_15' had the highest anomaly detection rates at 39.8% and 32.4%, respectively.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    }
+]

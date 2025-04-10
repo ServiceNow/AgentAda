@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset is analyzed in this notebook?",
+        "answer": "The dataset consists of Amazon sales data, including product categories, sales amounts, and customer reviews.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [25, 39],
+        "question": "What is the total number of unique products in the dataset?",
+        "answer": "The dataset contains approximately 5,000 unique products.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [47, 61, 74],
+        "question": "Which product category has the highest number of sales?",
+        "answer": "The 'Electronics' category has the highest number of sales in the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [88, 102, 117],
+        "question": "What is the average rating of the products?",
+        "answer": "The average product rating is 4.3 out of 5.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [125, 138, 151],
+        "question": "What is the most common price range for products?",
+        "answer": "Most products are priced between $20 and $50.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [162, 178, 193],
+        "question": "What percentage of products have a rating lower than 3.0?",
+        "answer": "Approximately 8% of products have a rating lower than 3.0.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

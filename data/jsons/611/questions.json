@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [47],
+        "question": "What dataset was used for Latent Semantic Analysis?",
+        "answer": "The dataset consists of articles and documents covering various topics such as technology, science, and business.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [56, 64],
+        "question": "What preprocessing steps were performed before applying Latent Semantic Analysis?",
+        "answer": "The dataset was preprocessed by removing stopwords, stemming, normalizing text, and constructing a term-document matrix.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [71],
+        "question": "Which two topics show the strongest semantic similarity in the dataset?",
+        "answer": "The strongest semantic similarity is observed between 'Machine Learning' and 'Artificial Intelligence'.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [86, 94],
+        "question": "Which document attribute has the highest negative correlation with topic coherence?",
+        "answer": "The presence of excessive jargon has the highest negative correlation with topic coherence.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [106, 114, 121],
+        "question": "What is the document classification accuracy after applying Latent Semantic Analysis?",
+        "answer": "The document classification accuracy after applying Latent Semantic Analysis is 84.1%.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [133, 141],
+        "question": "How does Latent Semantic Analysis improve text clustering compared to keyword-based methods?",
+        "answer": "Latent Semantic Analysis captures deeper semantic relationships between words, improving clustering accuracy by 19%.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [153],
+        "question": "Which term frequency feature has the weakest impact on topic similarity scores?",
+        "answer": "The occurrence of common function words has the weakest impact on topic similarity scores.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [165, 173, 181, 189],
+        "question": "What does Latent Semantic Analysis indicate about hidden topic structures in the dataset?",
+        "answer": "The analysis reveals that documents are grouped into well-defined topics based on semantic structures rather than simple word frequency.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [200],
+        "question": "Which text attribute has the least impact on topic extraction in Latent Semantic Analysis?",
+        "answer": "The number of characters in a document has the least impact on topic extraction when using Latent Semantic Analysis.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [197, 198, 199],
+        "question": "What conclusions were drawn about the effectiveness of Latent Semantic Analysis for text classification?",
+        "answer": "Latent Semantic Analysis improves text classification, enhances document clustering, and provides meaningful topic representations.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    }
+]

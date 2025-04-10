@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kashnitsky/mlcourse"
+    ],
+    "dataset_description": "mlcourse.ai is an open Machine Learning course by OpenDataScience (ods.ai), led by Yury Kashnitsky (yorko). Having both a Ph.D. degree in applied math and a Kaggle Competitions Master tier, Yury aimed at designing an ML course with a perfect balance between theory and practice. Thus, you go through math formulae in lectures and practice with Kaggle Inclass competitions. Currently, the course is in a self-paced mode. Check out a thorough Roadmap guiding you through the self-paced mlcourse.ai.",
+    "notebook_url": "https://www.kaggle.com/code/kashnitsky/topic-7-unsupervised-learning-pca-and-clustering",
+    "domain": "Science",
+    "help_data_file_names": []
+}

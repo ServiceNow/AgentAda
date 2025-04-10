@@ -1,0 +1,18 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights",
+        "https://www.kaggle.com/datasets/suraj520/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/hajraamir21/large-customer-churn-analysis-dataset",
+        "https://www.kaggle.com/datasets/sunchuabhishek/churn-dataset",
+        "https://www.kaggle.com/datasets/moaazhammad/customer-churn-prediction",
+        "https://www.kaggle.com/datasets/sibelius5/telco-customer-churn",
+        "https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset",
+        "https://www.kaggle.com/datasets/xyzeys/urbanmart-transactions-dataset-2023-2024",
+        "https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda",
+        "https://www.kaggle.com/datasets/sumit08/powerco-company"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/arpitagoswami03/customer-churn-analysis-eda",
+    "domain": "Telecommunication",
+    "help_data_file_names": []
+}

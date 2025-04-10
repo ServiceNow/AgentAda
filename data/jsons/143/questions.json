@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of transactions in the dataset?",
+      "answer": "The dataset contains 300,000 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of the transactions are classified as fraudulent?",
+      "answer": "The percentage of fraudulent transactions is 0.15%.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 10],
+      "question": "What is the average transaction amount in the dataset?",
+      "answer": "The average transaction amount is $140.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [11, 13, 16, 18],
+      "question": "What is the maximum transaction amount recorded in the dataset?",
+      "answer": "The maximum transaction amount is $50,000.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [19],
+      "question": "What is the minimum transaction amount recorded in the dataset?",
+      "answer": "The minimum transaction amount is $1.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [20, 23, 26],
+      "question": "Which features are most significant in detecting anomalies in the dataset?",
+      "answer": "Key features include 'Transaction Amount', 'Time of Transaction', and 'Customer Region'.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [27, 30],
+      "question": "Which types of transactions are most frequently flagged as anomalies?",
+      "answer": "Transactions with high amounts and unusual times are frequently flagged as anomalies.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [32, 34, 37],
+      "question": "What patterns in transaction times are observed among fraudulent transactions?",
+      "answer": "Fraudulent transactions are more frequent during off-peak hours.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [38, 41],
+      "question": "What customer regions show the highest frequency of flagged anomalies?",
+      "answer": "Region C shows the highest frequency of flagged anomalies.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [42, 45, 48, 50],
+      "question": "What is the distribution of transaction amounts for anomalies detected by the model?",
+      "answer": "Anomalous transactions are predominantly in the upper 10% of transaction amounts.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    }
+  ]
+  

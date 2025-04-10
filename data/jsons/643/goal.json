@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze historical stock price data to identify trends, volatility, and external influences on stock movements.",
+    "persona": "A financial data analyst with 7 years of experience in market analysis, specializing in time series analysis of stock market data. Focused on identifying trends, seasonality, and external factors affecting market behavior, and skilled in forecasting using machine learning techniques like LSTM. Passionate about understanding market dynamics and providing actionable insights for investment strategies."
+}

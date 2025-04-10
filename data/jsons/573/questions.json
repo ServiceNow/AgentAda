@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "What dataset was used for Kernel PCA analysis?",
+        "answer": "The dataset consists of customer purchase history across various product categories.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [14, 19],
+        "question": "What preprocessing steps were applied before performing Kernel PCA?",
+        "answer": "The dataset was standardized, missing values were imputed, and categorical variables were encoded into numerical values.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [27],
+        "question": "How many principal components were retained after applying Kernel PCA?",
+        "answer": "The first 10 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [38, 42],
+        "question": "What proportion of variance is captured by the first three principal components?",
+        "answer": "The first three principal components explain 82% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [53, 58, 63],
+        "question": "Which product category shows the highest variance in the first principal component?",
+        "answer": "The electronics category shows the highest variance in the first principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [72, 76],
+        "question": "How do the principal components correlate with customer spending patterns?",
+        "answer": "The first principal component is strongly correlated with total expenditure and purchase frequency.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [85],
+        "question": "How did Kernel PCA impact customer segmentation in the dataset?",
+        "answer": "Kernel PCA improved customer segmentation by revealing distinct groups with similar purchasing behaviors.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [97, 102, 108, 113],
+        "question": "Which customer demographic contributes the most to the second principal component?",
+        "answer": "Customer age group contributes the most to the second principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [125],
+        "question": "What effect does Kernel PCA have on detecting seasonal trends in purchasing behavior?",
+        "answer": "Kernel PCA highlights seasonal variations by clustering similar purchase patterns across different time periods.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [138, 143, 148, 154],
+        "question": "What conclusions were drawn about the effectiveness of Kernel PCA for analyzing customer clusters?",
+        "answer": "Kernel PCA effectively identified customer segments based on non-linear relationships, improving marketing strategy insights.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    }
+]

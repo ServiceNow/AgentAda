@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the overall trend observed in the sales dataset over the recorded period?",
+        "answer": "The dataset shows a steady upward trend in sales with periodic seasonal peaks.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly sales figure recorded in the dataset?",
+        "answer": "The average monthly sales figure is approximately $45,000.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are evident in the sales data?",
+        "answer": "Seasonal peaks are observed during the holiday months of November and December.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest monthly sales figure recorded, and in which month and year did it occur?",
+        "answer": "The highest monthly sales figure is $75,000, recorded in December 2020.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What are the forecasted sales figures for the next 6 months using the Prophet model?",
+        "answer": "The forecasted sales figures range from $50,000 to $65,000, maintaining seasonal trends.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What does the dataset indicate about the year-on-year growth in sales?",
+        "answer": "The dataset shows an average annual growth rate of approximately 8%.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How do the forecasted sales figures compare to historical seasonal patterns?",
+        "answer": "The forecasted values align well with historical seasonal patterns, reflecting increased sales during holiday months.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Were there any missing or anomalous values in the dataset, and how were they handled?",
+        "answer": "The dataset contained missing values for one month, which were imputed using linear interpolation.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What insights can be drawn about the dataset's long-term trend and seasonal behavior?",
+        "answer": "The dataset demonstrates consistent growth over time with predictable seasonal spikes during the holiday season.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What external factors might influence the forecasted sales trends in the dataset?",
+        "answer": "External factors such as promotional campaigns, market conditions, and consumer spending habits could significantly impact sales trends.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    }
+]

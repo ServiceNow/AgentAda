@@ -1,0 +1,15 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/sougatapramanick/happiness-index-2018-2019",
+        "https://www.kaggle.com/datasets/thedevastator/women-in-headlines-bias",
+        "https://www.kaggle.com/datasets/yaroslavchyrko/rescuenetextension",
+        "https://www.kaggle.com/datasets/johnrohiternest/glove-production-and-dispatch-insights"
+    ],
+    "dataset_description": "A Practical Guide to PSM and DID in Python and R",
+    "notebook_url": "https://www.kaggle.com/code/harrywang/difference-in-differences-in-python",
+    "domain": "Well-being",
+    "help_data_file_names": [
+        "employment.csv",
+        "groupon.csv"
+    ]
+}

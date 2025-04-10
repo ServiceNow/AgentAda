@@ -1,0 +1,4 @@
+{
+    "goal": "Reduce dimensionality of handwritten digit image data while preserving significant variance.",
+    "persona": "A data scientist with expertise in machine learning and image processing, focused on optimizing high-dimensional datasets for enhancing algorithm efficiency and accuracy in computer vision tasks."
+}

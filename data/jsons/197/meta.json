@@ -1,0 +1,30 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset",
+        "https://www.kaggle.com/datasets/mohamedhamad21/spotify-tracks-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/streaming-activity-dataset",
+        "https://www.kaggle.com/datasets/amaanansari09/top-100-songs",
+        "https://www.kaggle.com/datasets/osvaldopereira/sua-msica-recommendation-system",
+        "https://www.kaggle.com/datasets/akhileshgulati/spotify-playlist",
+        "https://www.kaggle.com/datasets/travisdaws/spotify-tracks-acoustic-features",
+        "https://www.kaggle.com/datasets/muhammedzohaibanwer/spotify-songs-dataset",
+        "https://www.kaggle.com/datasets/mohamedjamyl/music-recommendation-system-using-spotify-dataset",
+        "https://www.kaggle.com/datasets/eric27n/kexp-fm-song-plays",
+        "https://www.kaggle.com/datasets/thedevastator/streaming-activity-and-scrobble-features",
+        "https://www.kaggle.com/datasets/olegfostenko/spotify-1-3-million-tracks-10-features",
+        "https://www.kaggle.com/datasets/yusufadeoye/spotify-songs-dataset",
+        "https://www.kaggle.com/datasets/kanishkbansalajm/recommendationsystemspotify",
+        "https://www.kaggle.com/datasets/renukaoladhri/spotify-songs",
+        "https://www.kaggle.com/datasets/ziriantahirli/million-song-data-analysis-2"
+    ],
+    "dataset_description": "This is Spotify Million Song Dataset. This dataset contains song names, artists names, link to the song and lyrics. This dataset can be used for recommending songs, classifying or clustering songs.",
+    "notebook_url": "https://www.kaggle.com/code/eishkaran/spotify-music-recommendation-system",
+    "domain": "Entertainment",
+    "help_data_file_names": [
+        "data_by_artist.csv",
+        "data_by_genres.csv",
+        "data_by_year.csv",
+        "data_w_genres.csv"
+    ]
+}

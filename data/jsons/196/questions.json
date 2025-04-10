@@ -1,0 +1,92 @@
+[
+    {
+      "cell_ids": [
+        1
+      ],
+      "question": "According to this notebook, what is the primary goal of a movie recommendation system?",
+          "answer": "To recommend movies based on the review of previous movie",
+          "task": "Recommendation Systems",
+          "skill": "Deep Neural Networks"
+    },
+      {
+          "cell_ids": [
+              2
+          ],
+         "question": "What are the two main approaches to build recommendation system as per this notebook?",
+            "answer": "Content-based recommenders and Collaborative filtering engines",
+           "task": "Recommendation Systems",
+          "skill": "Basic Data Analysis"
+      },
+      {
+          "cell_ids": [
+              1
+          ],
+           "question": "What is the purpose of a recommender system?",
+          "answer": "To predict the \"rating\" or \"preference\" that a user would give to an item, and improve the quality of search results and provide more relevant items to a user.",
+           "task":"Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+    {
+          "cell_ids":[
+              2
+          ],
+          "question":"What does a collaborative recommender use to suggest items?",
+           "answer": "It uses item metadata, such as genre, director, description, actors, etc. for movies, to make recommendations.",
+          "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      },
+       {
+          "cell_ids": [
+              2
+          ],
+          "question": "What is the main principle behind collaborative filtering?",
+            "answer": "To match persons with similar interests and provides recommendations based on this matching.",
+            "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      },
+   {
+          "cell_ids": [
+             13
+          ],
+          "question": "What is TF-IDF and how is it used in this recommendation system?",
+          "answer": "TF-IDF is a statistical method of evaluating the significance of a word in a given document. The TF-IDF vectorizer is used to convert the text in product description into numerical data for analysis.",
+          "task": "Topic Modeling",
+          "skill": "Latent Dirichlet Allocation"
+     },
+        {
+           "cell_ids": [
+              16
+          ],
+           "question": "What is the use of dot product layer in a recommendation system model?",
+           "answer":"To compute the dot product between the embeddings to merge them together.",
+            "task": "Recommendation Systems",
+          "skill": "Matrix Factorization"
+      },
+       {
+          "cell_ids": [
+              16
+          ],
+           "question": "What does  `Reshape` layer do in the neural network?",
+          "answer":"It is a utility layer needed to correct the shape of the dot product",
+          "task":"Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+      {
+           "cell_ids":[
+            16
+            ],
+             "question":"what is the effect of the `sigmoid` activation in the classification model?",
+           "answer":"It squashes the outputs between 0 and 1 because the labels are either 0 or 1.",
+              "task": "Recommendation Systems",
+          "skill": "Deep Neural Networks"
+         },
+      {
+          "cell_ids": [
+              17
+          ],
+           "question": "How is a movie and a user combined in Dot Product Model?",
+           "answer": "By doing dot product between embedding vectors of user and movie",
+           "task": "Recommendation Systems",
+          "skill":"Matrix Factorization"
+      }
+  ]

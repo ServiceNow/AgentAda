@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/sam1o1/eeg-dataset-collected-from-students-using-vr"
+    ],
+    "dataset_description": "The data collection experiment was designed based on the previous related work. On projects like the proposed one, subjects’ EEG data is collected from them when they are using the system. Thereafter, the data are labeled using a post-knowledge test.",
+    "notebook_url": "https://www.kaggle.com/code/sam1o1/eeg-signal-processing",
+    "domain": "Science",
+    "help_data_file_names": [
+        "Subject01_1.csv",
+        "Subject02_0.csv",
+        "Subject03_1.csv",
+        "Subject04_0.csv"
+    ]
+}

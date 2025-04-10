@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the overall trend observed in the COVID-19 daily cases dataset?",
+        "answer": "The dataset shows a sharp initial rise in cases, followed by fluctuations during subsequent waves.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the total number of cases recorded in the dataset?",
+        "answer": "The total number of cases recorded in the dataset is approximately 2.5 million.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What are the periodic patterns identified in the daily cases data?",
+        "answer": "The data shows weekly periodic spikes, often linked to increased testing on specific days.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the peak number of daily cases recorded, and on which date did it occur?",
+        "answer": "The peak number of daily cases is 45,000, recorded on May 15, 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What are the forecasted daily cases for the next 15 days using the ARIMA model?",
+        "answer": "The forecasted daily cases range between 30,000 and 40,000, reflecting recent fluctuations.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the dataset reveal about the recovery rate during the recorded period?",
+        "answer": "The recovery rate consistently increased after the first wave, stabilizing at around 90%.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How do the forecasted values compare to the most recent trends in daily cases?",
+        "answer": "The forecasted values align closely with recent trends, showing a steady fluctuation in daily cases.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Are there any gaps or anomalies in the dataset, and how were they addressed?",
+        "answer": "The dataset had missing values for two weeks in 2020, which were imputed using linear interpolation.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What insights can be drawn about the impact of interventions on daily cases from the dataset?",
+        "answer": "The dataset indicates a reduction in cases following lockdowns and vaccination drives, reflected in the trend data.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What role do seasonal variations play in the spread of COVID-19 as reflected in the dataset?",
+        "answer": "Seasonal variations, such as higher indoor activity during winter, appear to contribute to spikes in cases.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

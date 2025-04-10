@@ -1,0 +1,102 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What is the size of the Twitter dataset used in the analysis, and how are sentiment classes distributed?",
+        "answer": "The dataset contains 20,000 tweets, with 10,000 positive and 10,000 negative sentiments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+        "question": "What preprocessing steps are applied to the tweets before sentiment analysis?",
+        "answer": "Preprocessing steps include tokenization using BERT and RoBERTa tokenizers, removing special characters, and padding sequences.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            10,
+            11
+        ],
+        "question": "What is the maximum sequence length used for the BERT model, and why?",
+        "answer": "The maximum sequence length is set to 128 to balance computational efficiency and preserving context.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "What is the accuracy of the BERT model on the test dataset?",
+        "answer": "The BERT model achieves an accuracy of 91.2% on the test dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            20,
+            21
+        ],
+        "question": "What metrics are used to compare the performance of BERT and RoBERTa models?",
+        "answer": "Metrics include accuracy, precision, recall, F1-score, and AUC-ROC.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            25,
+            26
+        ],
+        "question": "What are the most common words associated with positive sentiment in the dataset?",
+        "answer": "Words like 'happy', 'love', and 'great' are common in positive tweets.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            30,
+            31
+        ],
+        "question": "What is the impact of using different learning rates on the performance of the BERT model?",
+        "answer": "The best performance is observed with a learning rate of 2e-5, with lower or higher rates leading to suboptimal results.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            35,
+            36
+        ],
+        "question": "What types of tweets are most frequently misclassified by the BERT model?",
+        "answer": "Tweets with ambiguous language or mixed sentiments are most frequently misclassified.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            40,
+            41
+        ],
+        "question": "How does the performance of BERT compare to RoBERTa in terms of accuracy?",
+        "answer": "RoBERTa achieves a slightly higher accuracy of 92% compared to BERT's 91.2%.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            45,
+            46
+        ],
+        "question": "What is the effect of increasing the number of fine-tuning epochs on the BERT model's performance?",
+        "answer": "The BERT model achieves optimal performance after 3 epochs, with overfitting observed beyond this point.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    }
+]

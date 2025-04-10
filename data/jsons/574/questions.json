@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of financial stock prices and their historical performance metrics.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [12, 18],
+        "question": "What preprocessing steps were performed before calculating Pearson correlation?",
+        "answer": "The dataset was cleaned by handling missing values, normalizing numerical features, and ensuring all variables had continuous distributions.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [26],
+        "question": "Which two financial variables show the strongest positive correlation?",
+        "answer": "Stock price and trading volume show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [37, 42],
+        "question": "Which variable has the highest negative correlation with market volatility?",
+        "answer": "The dividend yield has the highest negative correlation with market volatility.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [53, 57, 63],
+        "question": "What is the Pearson correlation coefficient between revenue and profit margin?",
+        "answer": "The Pearson correlation coefficient between revenue and profit margin is 0.87.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [71, 75],
+        "question": "How does Pearson correlation between sales and advertising expenditure compare to other variables?",
+        "answer": "The correlation between sales and advertising expenditure is among the highest, indicating a strong relationship.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [86],
+        "question": "Which industry sector shows the weakest correlation between stock returns and interest rates?",
+        "answer": "The technology sector shows the weakest correlation between stock returns and interest rates.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [98, 103, 109, 113],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between employee satisfaction and company revenue?",
+        "answer": "The Pearson correlation coefficient indicates a moderate positive relationship, suggesting higher employee satisfaction is associated with increased revenue.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [125],
+        "question": "Which variable has the least correlation with total sales in the dataset?",
+        "answer": "Customer age has the least correlation with total sales.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [138, 143, 148, 154],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for analyzing financial data?",
+        "answer": "Pearson correlation effectively identified key relationships between financial variables, providing insights into market trends and investment strategies.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

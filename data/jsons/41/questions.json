@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1, 2],
+        "question": "What is the distribution of sentiment scores for groups A and B in the dataset?",
+        "answer": "The dataset contains 2,000 sentiment scores for group A and 2,000 for group B.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What are the mean sentiment scores for groups A and B?",
+        "answer": "The mean sentiment score is 0.78 for group A and 0.71 for group B.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6, 7],
+        "question": "Why is the Student's T-Test applied to the sentiment scores?",
+        "answer": "The T-Test determines if there is a statistically significant difference between the mean sentiment scores of groups A and B.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [8, 9],
+        "question": "What is the p-value obtained from the T-Test, and what conclusion does it lead to?",
+        "answer": "The p-value is 0.02, indicating a statistically significant difference between the two groups.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "What are the standard deviations of sentiment scores for groups A and B?",
+        "answer": "The standard deviation is 0.09 for group A and 0.10 for group B.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "What assumptions of the Student's T-Test were validated in this analysis?",
+        "answer": "The assumptions of normality and equal variance between groups were validated.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the effect size for the difference in sentiment scores between the two groups?",
+        "answer": "The effect size is 0.5, indicating a medium effect.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [17],
+        "question": "How does the sample size impact the reliability of the T-Test results in this analysis?",
+        "answer": "A larger sample size increases reliability by reducing variability and standard error.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [18, 19],
+        "question": "What are the confidence intervals for the difference in mean sentiment scores between groups A and B?",
+        "answer": "The confidence intervals for the mean difference are [0.04, 0.12].",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [20, 21, 22],
+        "question": "What conclusion can be drawn about the null hypothesis based on the T-Test results?",
+        "answer": "The null hypothesis is rejected, indicating a significant difference between the groups' sentiment scores.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    }
+]

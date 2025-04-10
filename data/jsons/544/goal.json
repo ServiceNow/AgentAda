@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the dataset to understand dimensions reduction and its impact using SVD.",
+    "persona": "A data scientist with a focus on machine learning, specializing in dimensionality reduction techniques like Singular Value Decomposition. With over 3 years of experience, this professional aims to enhance model performance and interpretability by reducing noise and redundancy in high-dimensional data in recommendation systems."
+}

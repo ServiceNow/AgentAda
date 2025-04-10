@@ -1,0 +1,4 @@
+{
+    "goal": "Assess and classify movie reviews based on sentiments into positive and negative categories.",
+    "persona": "A seasoned data scientist specializing in natural language processing with over 7 years of experience in text analysis. They are passionate about using deep learning models to extract insights from unstructured data. Focused on enhancing automated sentiment analysis tools for improving customer feedback interpretation in the entertainment industry."
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze sensor data to uncover underlying patterns and seasonal trends.",
+    "persona": "A data scientist with expertise in time series analysis and signal processing, adept in wavelet decomposition techniques. They focus on extracting patterns from large datasets to inform operational strategies and identify potential anomalies. Their interest lies in utilizing advanced mathematical models to interpret complex sensor data and revealing insights into system behaviors."
+}

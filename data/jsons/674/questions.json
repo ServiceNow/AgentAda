@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What dataset was used for customer segmentation in this analysis?",
+        "answer": "The dataset consists of customer transaction data, including purchase frequency, monetary value, and recency.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [15, 22],
+        "question": "How was the number of clusters determined in the K-Means segmentation?",
+        "answer": "The elbow method and silhouette analysis were used to determine the optimal number of clusters, which was found to be 4.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [28, 36, 42],
+        "question": "What features were selected for the clustering process?",
+        "answer": "Recency, frequency, and monetary value (RFM) features were used to segment the customers.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [49, 56, 63],
+        "question": "Which customer segment exhibited the highest spending behavior?",
+        "answer": "Segment 1, composed of high-value customers, had the highest average spending per transaction.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [71, 78, 85],
+        "question": "What characteristics define the low-engagement customer segment?",
+        "answer": "Customers in Segment 4 exhibited low transaction frequency, high recency, and minimal spending.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [92, 99, 107],
+        "question": "How does customer behavior vary across the identified segments?",
+        "answer": "High-value customers purchase frequently, while occasional shoppers have lower frequency and higher recency values.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [114, 121, 129],
+        "question": "What insights can be derived from the clustering results for targeted marketing?",
+        "answer": "Businesses can offer discounts to low-engagement customers and create premium offers for high-value customers.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [137, 144, 152],
+        "question": "How was PCA utilized in the segmentation analysis?",
+        "answer": "PCA was applied to reduce dimensionality and enhance clustering effectiveness while retaining key customer patterns.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [160, 167, 174],
+        "question": "What are the recommended strategies for retaining at-risk customer segments?",
+        "answer": "Personalized promotions, loyalty programs, and engagement campaigns are recommended for at-risk customers.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [181, 188, 196],
+        "question": "How can businesses apply K-Means segmentation insights to improve customer retention?",
+        "answer": "Businesses can use segmentation insights to customize marketing strategies, allocate resources efficiently, and increase customer lifetime value.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    }
+]

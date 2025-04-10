@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many traffic observations are included in the dataset?",
+        "answer": "The dataset contains 500,000 traffic observations across the UK.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 15],
+        "question": "What is the average vehicle count per observation?",
+        "answer": "The average vehicle count per observation is approximately 120.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [22, 30, 38],
+        "question": "Which regions in the UK show the highest traffic congestion?",
+        "answer": "Greater London and Manchester show the highest traffic congestion levels.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [47, 55, 63, 71],
+        "question": "What does a high positive Moran’s I value indicate about traffic congestion distribution?",
+        "answer": "A high positive Moran’s I value suggests that areas with high traffic congestion are spatially clustered.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [80, 89, 98, 107],
+        "question": "How does spatial autocorrelation help in analyzing urban traffic patterns?",
+        "answer": "Spatial autocorrelation helps in identifying clusters of high and low congestion, aiding in urban traffic management strategies.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [116, 125, 134, 143],
+        "question": "What factors contribute to high spatial clustering of traffic congestion?",
+        "answer": "Factors such as road infrastructure, population density, and commuting patterns contribute to congestion clustering.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [152, 161, 170, 179],
+        "question": "How does the Local Moran’s I statistic help in identifying high-traffic zones?",
+        "answer": "Local Moran’s I highlights specific areas where traffic congestion is significantly higher or lower than surrounding areas.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [187, 196, 205, 214],
+        "question": "What does a Moran’s I value close to zero indicate for traffic congestion distribution?",
+        "answer": "A Moran’s I value close to zero suggests that traffic congestion is randomly distributed across regions.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [223, 232, 241, 250],
+        "question": "How have traffic congestion patterns changed over time based on spatial analysis?",
+        "answer": "Traffic congestion has increased in urban centers while decreasing in some rural areas due to improved road networks.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [259, 268, 277, 286],
+        "question": "How can spatial autocorrelation analysis assist policymakers in urban transportation planning?",
+        "answer": "It helps in identifying high-congestion areas, allowing policymakers to implement targeted interventions such as improved public transport and road expansions.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    }
+]

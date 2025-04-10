@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/ahmedmohameddawoud/ecommerce-ab-testing"],
+    "dataset_description": "For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who \"convert,\" meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.",
+    "notebook_url": "https://www.kaggle.com/code/ahmedmohameddawoud/e-commerce-a-b-testing-project-walk-through/notebook",
+    "domain": "Business",
+    "help_data_file_names": []
+}

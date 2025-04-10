@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many unique values exist in the 'Weather Condition' column?",
+        "answer": "There are 4 unique values in the 'Weather Condition' column.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [25, 41],
+        "question": "What is the average number of bike rentals per day in the dataset?",
+        "answer": "The average number of bike rentals per day is approximately 4,250.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [56, 72, 83],
+        "question": "Is there a statistically significant Granger causality between 'Temperature' and 'Bike Rentals'?",
+        "answer": "Yes, 'Temperature' Granger-causes 'Bike Rentals' with a p-value of 0.003.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [97, 113, 128, 139],
+        "question": "What is the optimal lag length for testing Granger causality between 'Wind Speed' and 'Bike Rentals'?",
+        "answer": "The optimal lag length is 2, based on the lowest AIC value.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [144, 157],
+        "question": "Does 'Precipitation' Granger-cause 'Bike Rental Demand'?",
+        "answer": "No, the null hypothesis cannot be rejected (p-value = 0.48), indicating no causality.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [168, 178, 185, 192],
+        "question": "Which factor has the strongest Granger-causal relationship with 'Bike Rentals'?",
+        "answer": "'Temperature' has the strongest causality with 'Bike Rentals', with an F-statistic of 9.24.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [24, 37, 52, 66],
+        "question": "What percentage of variation in 'Bike Rentals' is explained by 'Humidity'?",
+        "answer": "'Humidity' explains 18% of the variation in 'Bike Rentals' (R² = 0.18).",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [79, 92, 107, 121],
+        "question": "Is there bidirectional Granger causality between 'Bike Rentals' and 'Air Pollution Levels'?",
+        "answer": "Yes, bidirectional Granger causality exists with p-values < 0.05 in both directions.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [135, 149, 164, 176],
+        "question": "Does 'Public Holiday' Granger-cause changes in 'Bike Rentals'?",
+        "answer": "Yes, public holidays Granger-cause a decrease in 'Bike Rentals' with a p-value of 0.02.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [188, 197],
+        "question": "What are the key insights from the Granger causality analysis in this dataset?",
+        "answer": "The analysis shows significant Granger causality relationships between 'Temperature' and 'Bike Rentals', as well as 'Public Holiday' and 'Bike Rentals'. No significant causality was found between 'Precipitation' and 'Bike Rental Demand'.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    }
+]

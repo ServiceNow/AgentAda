@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/saurabhj123/titanic-dataset",
+        "https://www.kaggle.com/datasets/mexwell/electric-vehicle-charging-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/eugeniyosetrov/kde-kernel-density-estimation",
+    "domain": "Science",
+    "help_data_file_names": []
+}

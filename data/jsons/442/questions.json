@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many rows and columns are in the dataset?",
+        "answer": "The dataset contains 100,000 rows and 25 columns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 8],
+        "question": "What is the distribution of the target variable in the dataset?",
+        "answer": "The target variable is imbalanced, with 70% belonging to class 0 and 30% to class 1.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Which feature has the highest importance score in the random forest model?",
+        "answer": "Feature 'F15' has the highest importance score of 0.267.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [18, 21, 24],
+        "question": "What are the top three most important features in the dataset?",
+        "answer": "The top three features based on importance are 'F15' (0.267), 'F9' (0.189), and 'F2' (0.176).",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [29, 33, 37, 41],
+        "question": "How does removing the bottom five least important features impact the model performance?",
+        "answer": "Removing the least important five features improves accuracy by 2.1% while reducing model complexity.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [46],
+        "question": "How does increasing the number of trees in the random forest model impact feature importance rankings?",
+        "answer": "Increasing the number of trees from 100 to 500 stabilizes feature importance rankings and reduces variance by 9%.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [50, 54, 58],
+        "question": "What is the effect of correlated features on feature importance rankings?",
+        "answer": "Correlated features tend to have inflated importance scores, leading to redundancy and potential overfitting.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [63, 67, 71, 75],
+        "question": "How does using only the top 10 features affect model training time and accuracy?",
+        "answer": "Training time is reduced by 35%, while accuracy remains 97% of the full-feature model.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [80, 84],
+        "question": "What happens to feature importance when categorical variables are one-hot encoded?",
+        "answer": "One-hot encoding increases the number of features and distributes importance across multiple new features, sometimes reducing individual feature importance.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [89, 93, 97, 101],
+        "question": "Which features had the lowest importance scores, and what does this imply?",
+        "answer": "Features 'F20', 'F22', and 'F25' had the lowest importance scores (<0.015), implying they contribute minimally and could be dropped.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    }
+]

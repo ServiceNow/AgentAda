@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze time series data for patterns and detect anomalies.",
+    "persona": "A data scientist with expertise in time series analysis and anomaly detection, focused on identifying unusual patterns in time-dependent data to improve operational efficiency and predict potential issues. They have a keen interest in leveraging statistical models and machine learning techniques to enhance data-driven decision-making in the financial sector."
+}

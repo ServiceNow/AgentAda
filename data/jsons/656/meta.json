@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/rockystats/apriori-algorithm-or-market-basket-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

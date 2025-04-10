@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the name of the unsupervised learning technique explored in this notebook?",
+         "answer": "matrix factorization",
+       "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+    {
+         "cell_ids": [
+           2
+        ],
+         "question": "What are the two main types of collaborative filtering mentioned?",
+        "answer": "User-based and Item-based",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+   },
+    {
+        "cell_ids": [
+            2
+        ],
+        "question": "What is the purpose of the utility matrix in a recommendation system?",
+         "answer": "The goal of our recommendation system is to build an mxn matrix (called the utility matrix) which consists of the rating (or preference) for each user-item pair.",
+       "task": "Recommendation Systems",
+         "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            2
+         ],
+        "question": "What do the U and V matrices represent in matrix factorization?",
+         "answer":"U is a representation of users in some low dimensional space, and V is a representation of items.",
+       "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+    {
+       "cell_ids": [
+            2
+        ],
+       "question": "What is the cost function that needs to minimized?",
+       "answer":"Mean squared error",
+        "task": "Recommendation Systems",
+       "skill": "Matrix Factorization"
+    },
+     {
+        "cell_ids": [
+            11
+        ],
+       "question": "What is a common name for the type of recommendation system discussed in part I?",
+       "answer": "Product popularity based system",
+       "task": "Recommendation Systems",
+        "skill": "Basic Data Analysis"
+    },
+  {
+        "cell_ids": [
+            11
+        ],
+        "question":"What is the criteria used for determining the rating of a user to an item in a collaborative filtering system?",
+        "answer": "If a person rates a book more than his/her average rating then he/she likes the book.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+           14
+        ],
+         "question": "What is the name of the algorithm that is used for dimension reduction?",
+        "answer": "PCA",
+       "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+  {
+      "cell_ids": [
+          80, 82
+      ],
+      "question": "What range of years for book publication is used in the analysis after cleaning?",
+        "answer":"1950 and 2016",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           92
+        ],
+         "question": "What is the  maximum year of publication in Books dataset (before cleaning)?",
+          "answer": "2050.000000",
+         "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    }
+]

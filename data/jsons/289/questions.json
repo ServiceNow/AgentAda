@@ -1,0 +1,72 @@
+[
+    {
+      "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "question": "What is the average number of items purchased per transaction?",
+      "answer": "The notebook does not directly calculate or provide the average number of items purchased per transaction.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "question": "What is the most frequent item purchased overall?",
+      "answer": "Based on the bar chart in cell 14, 'coffee' is the most frequently purchased item.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "question": "How many unique transactions are present in the dataset?",
+      "answer": "9465",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "question": "What is the most frequent item purchased during the morning?",
+      "answer": "Based on the bar chart in cell 20, 'coffee' is among the most frequent items in the morning.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "question": "What is the most frequent item purchased during the afternoon?",
+      "answer": "Based on the bar chart in cell 20, 'coffee' is among the most frequent items in the afternoon.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "question": "What is the most frequent item purchased during the evening?",
+      "answer": "Based on the bar chart in cell 20, 'coffee' and 'pastry' are among the most frequent items in the evening.",
+       "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "question": "What is the most frequent item purchased during the night?",
+       "answer": "Based on the bar chart in cell 20, 'coffee' and 'tea' are among the most frequent items in the night.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [14, 15, 16, 17, 18, 19, 20],
+      "question": "Which item is most often purchased with coffee?",
+      "answer": "Based on the association rules in cell 26, 'toast' has the highest confidence when purchased with 'coffee'.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [14, 15, 16, 17, 18, 19, 20],
+       "question": "What are the top 5 items that are most often purchased together?",
+      "answer": "Based on the association rules in cell 26, the top 5 item combinations based on confidence are: (toast, coffee), (spanish brunch, coffee), (medialuna, coffee), (pastry, coffee), and (alfajores, coffee).",
+       "task": "Association Rule Mining",
+       "skill": "Apriori Algorithm"
+     },
+    {
+      "cell_ids": [14, 15, 16, 17, 18, 19, 20],
+      "question": "What items are frequently purchased on weekends?",
+     "answer": "The notebook does not perform specific analysis to extract item purchase patterns on weekends. However, based on cell 19, the date for which more transaction are available on weekends",
+     "task": "Association Rule Mining",
+     "skill": "Apriori Algorithm"
+    }
+  ]

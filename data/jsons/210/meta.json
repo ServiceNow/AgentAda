@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets",
+        "https://www.kaggle.com/datasets/ahmedgaitani/customer-churn-prediction-dataset",
+        "https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data",
+        "https://www.kaggle.com/datasets/harshitstark/dataset",
+        "https://www.kaggle.com/datasets/bravo03/bank-churn",
+        "https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset",
+        "https://www.kaggle.com/datasets/samuelsemaya/e-commerce-customer-churn",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/anshulmehtakaggl/cdrcall-details-record-predict-telco-churn",
+        "https://www.kaggle.com/datasets/tejashvi14/tour-travels-customer-churn-prediction",
+        "https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets",
+        "https://www.kaggle.com/datasets/hassanamin/customer-churn",
+        "https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset",
+        "https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset",
+        "https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn",
+        "https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling",
+        "https://www.kaggle.com/datasets/barun2104/telecom-churn",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/bank-churn-prediction",
+        "https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda",
+        "https://www.kaggle.com/datasets/royjafari/customer-churn"
+    ],
+    "dataset_description": "Each row represents a customer, each column contains customer’s attributes described on the column Metadata.",
+    "notebook_url": "https://www.kaggle.com/code/mehulparmar2712/customer-churn-classification",
+    "domain": "Business",
+    "help_data_file_names": []
+}

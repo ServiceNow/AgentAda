@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/predict-ai-model-runtime"
+    ],
+    "dataset_description": "Predict how fast an AI model runs",
+    "notebook_url": "https://www.kaggle.com/code/dariussingh/understand-evaluation-metrics-google-fast-or-slow",
+    "domain": "Business",
+    "help_data_file_names": []
+}

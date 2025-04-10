@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze transition probabilities within football gameplay using Markov chains.",
+    "persona": "A data scientist specializing in sports analytics with expertise in employing mathematical models, particularly Markov chains, to understand and optimize team strategies and performance metrics in football. The analyst aims to provide actionable insights for coaches and analysts by modeling play sequences and assessing probabilities of achieving favorable outcomes such as scoring goals."
+}

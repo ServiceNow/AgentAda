@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mianbilal12/tesla-stock-data-st"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/abdallahwagih/tesla-stock-forecasting-using-lstm",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

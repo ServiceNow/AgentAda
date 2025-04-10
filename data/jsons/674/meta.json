@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation"
+    ],
+    "dataset_description": "Most banks have a large customer base - with different characteristics in terms of age, income, values, lifestyle, and more. Customer segmentation is the process of dividing a customer dataset into specific groups based on shared traits.",
+    "notebook_url": "https://www.kaggle.com/code/shawkyelgendy/customer-segmentation-eda-k-means-pca",
+    "domain": "Business",
+    "help_data_file_names": []
+}

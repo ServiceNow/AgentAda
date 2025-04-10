@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records and features are included in the employee attrition and retention dataset?",
+        "answer": "The dataset contains 120,000 records and 18 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [12, 17],
+        "question": "What is the overall employee retention rate over the past five years?",
+        "answer": "The overall employee retention rate over five years is 62%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [21],
+        "question": "Which tenure cohort has the highest employee retention?",
+        "answer": "Employees with a tenure of 1-3 years have the highest retention rate at 79%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [26, 31],
+        "question": "How does employee retention vary across different performance ratings?",
+        "answer": "High-performing employees retain at 75%, while employees with average ratings retain at 55%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [36, 41, 46],
+        "question": "What is the retention rate for employees in different job roles?",
+        "answer": "Software engineers retain at 72%, while customer service representatives retain at 50%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [51, 56, 62, 67],
+        "question": "How does salary growth impact employee retention?",
+        "answer": "Employees who received at least a 10% salary increase have a 15% higher retention rate compared to those with stagnant salaries.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [73],
+        "question": "Which employee category has the highest long-term retention?",
+        "answer": "Employees who participate in continuous learning and upskilling programs retain at 80%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [79, 85, 90],
+        "question": "How does work-from-home flexibility affect employee retention?",
+        "answer": "Employees with remote work options have a retention rate of 70%, while office-only employees retain at 58%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [96, 102, 108, 114],
+        "question": "What insights can be derived from the cohort retention analysis?",
+        "answer": "Retention rates drop significantly after year 3, with a 22% decline, indicating that career growth programs should be introduced earlier.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [121, 127, 133, 139],
+        "question": "How does employee retention compare year over year?",
+        "answer": "Employee retention improved by 8% in the past year due to improved work-life balance initiatives and engagement programs.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    }
+]

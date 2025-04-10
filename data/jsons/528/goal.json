@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze eye movement patterns using wavelet decomposition to enhance feature extraction and classification accuracy.",
+    "persona": "A data scientist with expertise in time series analysis and signal processing, focused on leveraging wavelet decomposition techniques to extract meaningful insights from complex datasets, particularly in the area of tracking and analyzing eye movement patterns for improved behavioral classification."
+}

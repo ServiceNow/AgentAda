@@ -1,0 +1,15 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdelrahman16/car-data",
+        "https://www.kaggle.com/datasets/rabieelkharoua/split-or-stay-divorce-predictor-dataset",
+        "https://www.kaggle.com/datasets/oscaryezfeijo/credit-card-fraud",
+        "https://www.kaggle.com/datasets/patricklford/what-about-the-wind",
+        "https://www.kaggle.com/datasets/rajsanj/vibe-track-sample-data"
+    ],
+    "dataset_description": "Predict survival on the Titanic and get familiar with ML basics",
+    "notebook_url": "https://www.kaggle.com/code/codeastar/using-random-forest-to-find-feature-importance",
+    "domain": "Survival",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

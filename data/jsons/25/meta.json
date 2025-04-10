@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/mortena/fb-sentiment"],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mortena/facebook-comments-sentiment-analysis/notebook",
+    "domain": "Social Networks",
+    "help_data_file_names": []
+}

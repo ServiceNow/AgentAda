@@ -1,0 +1,4 @@
+{
+    "goal": "To improve data quality by imputing missing values in clinical records using KNN imputation.",
+    "persona": "A data analyst with a background in healthcare analytics, specializing in handling missing data in clinical datasets. They have extensive experience using advanced imputation techniques to enhance data completeness and integrity. Their primary interest lies in ensuring high-quality datasets for better predictive modeling and decision-making in healthcare applications."
+}

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/dnkumars/industrial-equipment-monitoring-dataset",
+        "https://www.kaggle.com/datasets/boltzmannbrain/nab",
+        "https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15",
+        "https://www.kaggle.com/datasets/daisukelab/dc2020task2",
+        "https://www.kaggle.com/datasets/sudhanvahg/industrial-alarm-monitoring-dataset-2018-2024",
+        "https://www.kaggle.com/datasets/arbazkhan971/anomaly-detection",
+        "https://www.kaggle.com/datasets/icsdataset/hai-security-dataset",
+        "https://www.kaggle.com/datasets/inIT-OWL/genesis-demonstrator-data-for-machine-learning",
+        "https://www.kaggle.com/datasets/inIT-OWL/versatileproductionsystem",
+        "https://www.kaggle.com/datasets/daisukelab/dc2020task2prep",
+        "https://www.kaggle.com/datasets/joebeachcapital/metropt-3-dataset",
+        "https://www.kaggle.com/datasets/patrickfleith/spacecraft-thruster-firing-tests-dataset",
+        "https://www.kaggle.com/datasets/daisukelab/dc2020task2added",
+        "https://www.kaggle.com/datasets/pinuto/marmara-air-quality-data-2024-istanbul-kandilli",
+        "https://www.kaggle.com/datasets/marcorudolph/vorausad",
+        "https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-imu-data-casper-1-and-2",
+        "https://www.kaggle.com/datasets/emilblixthansen/aicd-dataset",
+        "https://www.kaggle.com/datasets/dhirajbembade/metropt-3-dataset",
+        "https://www.kaggle.com/datasets/ziya07/smart-manufacturing-temperature-regulation-dataset",
+        "https://www.kaggle.com/datasets/ziya07/gas-turbine-engine-fault-detection-dataset"
+    ],
+    "dataset_description": "The Numenta Anomaly Benchmark (NAB) is a novel benchmark for evaluating algorithms for anomaly detection in streaming, online applications. It is comprised of over 50 labeled real-world and artificial timeseries data files plus a novel scoring mechanism designed for real-time applications. All of the data and code is fully open-source, with extensive documentation, and a scoreboard of anomaly detection algorithms: github.com/numenta/NAB. The full dataset is included here, but please go to the repo for details on how to evaluate anomaly detection algorithms on NAB.",
+    "notebook_url": "https://www.kaggle.com/code/koheimuramatsu/industrial-machine-anomaly-detection",
+    "domain": "Industry",
+    "help_data_file_names": []
+}

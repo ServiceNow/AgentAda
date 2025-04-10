@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/hr-analytics-case-study",
+        "https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics",
+        "https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset",
+        "https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors",
+        "https://www.kaggle.com/datasets/abdallahwagih/company-employees",
+        "https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset",
+        "https://www.kaggle.com/datasets/dianaddx/employee-data-analysis",
+        "https://www.kaggle.com/datasets/ziya07/employee-attrition-prediction-dataset",
+        "https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset",
+        "https://www.kaggle.com/datasets/fahadrehman07/hr-comma-sep-csv",
+        "https://www.kaggle.com/datasets/susanta21/canteen-shop-transaction-data",
+        "https://www.kaggle.com/datasets/nikhilraj7700/amazon-employee-reviews",
+        "https://www.kaggle.com/datasets/davidafolayan/hr-analytics",
+        "https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance",
+        "https://www.kaggle.com/datasets/whenamancodes/data-professionals-salary-dataset-2022",
+        "https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis",
+        "https://www.kaggle.com/datasets/manidevesh/hr-dataset-analysis",
+        "https://www.kaggle.com/datasets/csafrit2/higher-education-students-performance-evaluation",
+        "https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set"
+    ],
+    "dataset_description": "The garment industry is one of the most dominating industries in this era of industrial globalization. It is a highly labor-intensive industry that requires a large number of human resources to produce its goods and fill up the global demand for garment products. Because of the dependency on human labor, the production of a garment company comprehensively relies on the productivity of the employees who are working in different departments of the company. A common problem in this industry is that the actual productivity of the garment employees sometimes does not meet the targeted productivity that was set for them by the authorities to meet the production goals in due time. When the productivity gap occurs, the company faces a huge loss in production.",
+    "notebook_url": "https://www.kaggle.com/code/myr9988/employee-performance-analysis",
+    "domain": "Business",
+    "help_data_file_names": ["train.csv"]
+}

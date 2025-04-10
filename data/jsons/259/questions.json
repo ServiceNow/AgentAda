@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of data points in the dataset, and how does this form the basis for hierarchical clustering?",
+      "answer": "The dataset contains 250 countries, providing a robust base for clustering analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the range of GDP per capita values in the dataset, and how do they vary among countries?",
+      "answer": "GDP per capita values range from $500 to $75,000, with significant disparities between countries.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5],
+      "question": "What is the distribution of life expectancy across countries, and how does this relate to their economic indicators?",
+      "answer": "Life expectancy ranges from 50 to 85 years, with higher values generally correlating with higher GDP per capita.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [6, 7],
+      "question": "How do literacy rates vary across the dataset, and what patterns emerge among low and high literacy countries?",
+      "answer": "Literacy rates range from 50% to 100%, with higher literacy often observed in economically advanced countries.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [8, 9, 10],
+      "question": "How many clusters were identified using hierarchical clustering, and what are the defining characteristics of each cluster?",
+      "answer": "Four clusters were identified, characterized by distinct levels of GDP, life expectancy, and literacy rates.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [11, 12],
+      "question": "What are the average GDP per capita, literacy rates, and life expectancy for each cluster?",
+      "answer": "Clusters include high GDP high literacy countries and low GDP low literacy countries with varying life expectancies.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [13, 14, 15],
+      "question": "Which features contributed most significantly to the hierarchical clustering, and what insights can be derived from them?",
+      "answer": "GDP per capita and literacy rates were the most significant contributors, separating economically developed and developing countries.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [16, 17],
+      "question": "What strategies or recommendations can be developed for countries in low GDP and low literacy clusters to improve their indicators?",
+      "answer": "Strategies include investment in education, healthcare, and economic development programs.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [18, 19, 20],
+      "question": "How do the behaviors of countries in high GDP high literacy clusters differ from those in low GDP low literacy clusters?",
+      "answer": "High GDP high literacy clusters exhibit better economic development and social indicators, while low GDP low literacy clusters face significant challenges in education and healthcare.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [21, 22, 23, 24],
+      "question": "What insights from the hierarchical clustering analysis can guide global development initiatives and policies?",
+      "answer": "Insights include focusing on targeted aid and programs for low-performing clusters while encouraging collaboration among high-performing countries.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    }
+  ]
+  

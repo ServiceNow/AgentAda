@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of transactions in the dataset?",
+      "answer": "The dataset contains 284,807 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What percentage of the transactions are labeled as fraudulent?",
+      "answer": "The percentage of fraudulent transactions is 0.17%.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5, 7],
+      "question": "What is the average transaction amount in the dataset?",
+      "answer": "The average transaction amount is approximately $88.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [8, 10, 12, 14],
+      "question": "What is the maximum transaction amount in the dataset?",
+      "answer": "The maximum transaction amount is $25,691.16.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [15],
+      "question": "What is the minimum transaction amount in the dataset?",
+      "answer": "The minimum transaction amount is $0.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [16, 18, 20],
+      "question": "What features are most critical for detecting anomalies in the dataset?",
+      "answer": "Key features include 'Amount', 'V14', and 'V12'.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [22, 24],
+      "question": "What transaction patterns are most commonly associated with anomalies?",
+      "answer": "Transactions with high amounts and unique combinations of feature values are commonly flagged.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [25, 27, 30],
+      "question": "What distribution is observed in the transaction amounts of flagged anomalies?",
+      "answer": "Flagged anomalies predominantly fall in the top 5% of transaction amounts.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [31, 34],
+      "question": "What proportion of flagged anomalies corresponds to fraudulent transactions?",
+      "answer": "Most flagged anomalies correspond to transactions labeled as fraudulent, with a precision exceeding 85%.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [35, 38, 41, 43],
+      "question": "What are the characteristics of normal transactions compared to flagged anomalies?",
+      "answer": "Normal transactions typically involve lower amounts and exhibit consistent feature correlations, unlike flagged anomalies.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    }
+  ]
+  

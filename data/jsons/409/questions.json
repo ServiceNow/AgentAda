@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records and features are included in the segmentation cohort analysis dataset?",
+        "answer": "The dataset contains 200,500 records and 28 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [13, 19],
+        "question": "What is the overall customer retention rate over a 12-month period?",
+        "answer": "The overall customer retention rate over 12 months is 62%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [24],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 94%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [30, 37],
+        "question": "How does customer retention vary across different customer segments?",
+        "answer": "Customers in the 'High Spending & High Frequency' segment retain at 79%, while budget shoppers retain at 42%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [43, 50, 57],
+        "question": "What is the retention rate for customers who engage with targeted promotions versus those who do not?",
+        "answer": "Customers who receive targeted promotions retain at 84%, while those who do not engage with promotions retain at 39%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [63, 70, 76, 81],
+        "question": "How do reward-based incentive programs impact cohort retention?",
+        "answer": "Customers who engage with reward-based incentives retain at 33% higher rates compared to those who do not participate.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [87],
+        "question": "Which customer segment has the highest long-term retention?",
+        "answer": "Customers who subscribe to long-term membership plans retain at 89%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [94, 101, 108],
+        "question": "What sequential purchasing patterns are observed among high-retention customers?",
+        "answer": "Customers who purchase kitchen appliances tend to buy cooking accessories within 30 days, increasing retention by 26%.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [115, 121, 128, 134],
+        "question": "What insights can be derived from the cohort retention and sequential pattern analysis?",
+        "answer": "Retention rates decline by 27% after month 3, suggesting the need for improved follow-up engagement. Sequential purchase trends indicate that offering installment options for high-value products enhances retention.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [141, 148, 156, 163],
+        "question": "How does customer retention compare year-over-year?",
+        "answer": "The retention rate improved by 17% over the past year, largely due to improved segmentation and sequential purchase incentives.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    }
+]

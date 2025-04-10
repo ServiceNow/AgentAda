@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the citation network of COVID-19 literature to determine influential papers and research areas.",
+    "persona": "A bibliometrics analyst with a background in scientific research evaluation, specializing in the application of network analysis methods like PageRank to assess the impact and interconnectivity of research papers, with a focus on public health and epidemiology topics during pandemics."
+}

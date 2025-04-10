@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/competitions/nlp-getting-started"],
+    "dataset_description": "Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).",
+    "notebook_url": "https://www.kaggle.com/code/hackspyder/fine-tuning-bert-for-sentiment-analysis/notebook",
+    "domain": "Social Networks",
+    "help_data_file_names": ["train.csv"]
+}

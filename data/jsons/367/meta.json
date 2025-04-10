@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification",
+        "https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance",
+        "https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020",
+        "https://www.kaggle.com/datasets/prognosticshse/preventive-to-predicitve-maintenance",
+        "https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset",
+        "https://www.kaggle.com/datasets/shivamb/elevator-predictive-maintenance-dataset",
+        "https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset",
+        "https://www.kaggle.com/datasets/nphantawee/pump-sensor-data",
+        "https://www.kaggle.com/datasets/nafisur/dataset-for-predictive-maintenance",
+        "https://www.kaggle.com/datasets/mayank1897/condition-monitoring-of-hydraulic-systems",
+        "https://www.kaggle.com/datasets/thedevastator/improving-naval-vessel-condition-through-machine",
+        "https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data",
+        "https://www.kaggle.com/datasets/mhadani/predictive-maintenance-aircraft-engine",
+        "https://www.kaggle.com/datasets/maternusherold/pred-maintanance-data",
+        "https://www.kaggle.com/datasets/inIT-OWL/versatileproductionsystem",
+        "https://www.kaggle.com/datasets/parvmodi/automotive-vehicles-engine-health-dataset",
+        "https://www.kaggle.com/datasets/darkside92/turbofan-predictive-maintenance-nasa",
+        "https://www.kaggle.com/datasets/yuansaijie0604/xinjiang-pm",
+        "https://www.kaggle.com/datasets/abdelazizsami/predictive-maintenance-dataset",
+        "https://www.kaggle.com/datasets/anseldsouza/water-pump-rul-predictive-maintenance"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/brandonmcmahon/predictive-maintenance",
+    "domain": "Industry",
+    "help_data_file_names": []
+}

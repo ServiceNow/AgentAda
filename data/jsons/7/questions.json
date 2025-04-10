@@ -1,0 +1,102 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What is the size of the Twitter dataset, and how are sentiment labels distributed?",
+        "answer": "The dataset contains 15,000 tweets, with 5,000 each for positive, negative, and neutral sentiments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+        "question": "What preprocessing steps are applied to the tweets for sentiment analysis?",
+        "answer": "Steps include tokenizing text using a pre-trained BERT tokenizer, removing stopwords, and padding sequences.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            10,
+            11
+        ],
+        "question": "What is the maximum sequence length used during tokenization, and why was it chosen?",
+        "answer": "The maximum sequence length is set to 64 to ensure efficient processing while retaining context.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "What metrics are used to evaluate the BERT model's performance?",
+        "answer": "Metrics include accuracy, precision, recall, and F1-score.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            20,
+            21
+        ],
+        "question": "What is the accuracy of the fine-tuned BERT model on the test dataset?",
+        "answer": "The fine-tuned BERT model achieves 90% accuracy on the test dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            25,
+            26
+        ],
+        "question": "What words are most indicative of positive sentiment in the dataset?",
+        "answer": "Words like 'great', 'love', and 'awesome' are most indicative of positive sentiment.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            30,
+            31
+        ],
+        "question": "What is the impact of varying batch sizes on model performance?",
+        "answer": "Smaller batch sizes (e.g., 16) result in higher accuracy but slower training.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            35,
+            36
+        ],
+        "question": "What types of tweets are most frequently misclassified by the model?",
+        "answer": "Tweets with mixed sentiments or ambiguous phrases are most frequently misclassified.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            40,
+            41
+        ],
+        "question": "How does the model perform on tweets with hashtags and emojis?",
+        "answer": "The model performs slightly worse on tweets containing hashtags and emojis, with a 2% drop in accuracy.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            45,
+            46
+        ],
+        "question": "What is the effect of increasing the number of fine-tuning epochs on model performance?",
+        "answer": "The model achieves the best performance after 3 epochs, with diminishing returns or overfitting beyond that.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    }
+]

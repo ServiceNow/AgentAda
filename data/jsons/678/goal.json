@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze missing data patterns and evaluate imputation techniques for homebrew beer dataset.",
+    "persona": "A data scientist with a strong background in data preprocessing and cleaning, highly skilled in advanced imputation techniques with 7 years of experience in handling diverse datasets to improve data quality and model accuracy. The analyst is particularly interested in exploring the effects of advanced imputation methods like MICE over traditional approaches to maintain data integrity and enhance predictive modeling outcomes."
+}

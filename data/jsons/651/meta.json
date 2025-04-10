@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks"
+    ],
+    "dataset_description": "The Standard and Poor's 500 or S&P 500 is the most famous financial benchmark in the world. This stock market index tracks the performance of 500 large companies listed on stock exchanges in the United States. As of December 31, 2020, more than $5.4 trillion was invested in assets tied to the performance of this index. Because the index includes multiple classes of stock of some constituent companies—for example, Alphabet's Class A (GOOGL) and Class C (GOOG)—there are actually 505 stocks in the gauge.",
+    "notebook_url": "https://www.kaggle.com/code/h1yung/crypto-forecasting-using-lgbm",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

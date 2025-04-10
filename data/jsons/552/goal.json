@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze handwritten digit images using PCA to reduce dimensionality and assess image reconstruction quality.",
+    "persona": "A data scientist specializing in computer vision with 7 years of experience, focused on optimizing and implementing data reduction techniques for high-dimensional image data. Passionate about developing efficient models for image compression and maintaining image quality through advanced mathematical methodologies."
+}

@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data"],
+    "dataset_description": "The data is the price history and trading volumes of the fifty stocks in the index NIFTY 50 from NSE (National Stock Exchange) India. All datasets are at a day-level with pricing and trading values split across .cvs files for each stock along with a metadata file with some macro-information about the stocks itself. The data spans from 1st January, 2000 to 31st July, 2020.",
+    "notebook_url": "https://www.kaggle.com/code/jayitabhattacharyya/facebook-s-neural-prophet/notebook",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

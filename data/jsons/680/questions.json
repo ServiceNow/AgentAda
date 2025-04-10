@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset was used for demonstrating KNN imputation?",
+        "answer": "The dataset contained missing values related to customer demographics and transaction history.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [24, 32],
+        "question": "How were the missing values identified before applying KNN imputation?",
+        "answer": "The missing values were identified by calculating the percentage of missing data for each feature and visualizing the distribution.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [44, 52, 60],
+        "question": "Which features in the dataset had the highest percentage of missing values?",
+        "answer": "Features related to customer spending behavior and financial transactions had the highest percentage of missing values.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [68, 76, 84],
+        "question": "How did the dataset change after applying KNN imputation?",
+        "answer": "The dataset was completed with estimated values for missing entries, preserving the overall feature distribution more effectively than simple imputation techniques.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [92, 100, 108],
+        "question": "How was the optimal value of k selected for KNN imputation?",
+        "answer": "The optimal k value was determined by testing different values and selecting the one that minimized imputation error and maximized data consistency.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [116, 124, 132],
+        "question": "What were the advantages of using KNN imputation over mean or median imputation?",
+        "answer": "KNN imputation maintained the relationships between features, whereas mean or median imputation could introduce biases and distort data distributions.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [140, 148, 156],
+        "question": "How did KNN imputation impact the variance of numerical features?",
+        "answer": "KNN imputation preserved variance better than simple imputation methods, as it estimated missing values based on feature similarity rather than fixed values.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [164, 172, 180],
+        "question": "What was the effect of KNN imputation on model performance compared to other imputation methods?",
+        "answer": "Models trained on KNN-imputed data outperformed those trained on mean/median-imputed data, as KNN preserved feature dependencies better.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [188, 196],
+        "question": "What preprocessing steps were performed before applying KNN imputation?",
+        "answer": "Features were standardized, categorical variables were encoded, and missing values were visualized to guide imputation strategy selection.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [200],
+        "question": "What considerations should be made when using KNN imputation in large datasets?",
+        "answer": "Computational efficiency, optimal choice of k, handling of categorical variables, and validation of imputed values should be carefully considered.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    }
+]

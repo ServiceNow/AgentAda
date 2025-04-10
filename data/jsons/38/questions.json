@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1, 2],
+        "question": "What is the distribution of sentiment labels in the dataset used for A/B testing?",
+        "answer": "The dataset contains 1,000 positive reviews and 1,000 negative reviews.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4, 5],
+        "question": "What is the average sentiment score in the dataset before A/B testing?",
+        "answer": "The average sentiment score is 0.65.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 7],
+        "question": "What is the purpose of applying Student's T-Test in this analysis?",
+        "answer": "The T-Test is used to determine if there is a significant difference between the sentiment scores of group A and group B.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [8, 9, 10],
+        "question": "What is the p-value obtained from the Student's T-Test on the sentiment scores?",
+        "answer": "The p-value from the T-Test is 0.03.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "What is the mean sentiment score for group A and group B?",
+        "answer": "The mean sentiment score is 0.70 for group A and 0.60 for group B.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13],
+        "question": "What is the conclusion of the A/B test based on the T-Test results?",
+        "answer": "Since the p-value is less than 0.05, we conclude there is a statistically significant difference between the groups.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the standard deviation of sentiment scores in groups A and B?",
+        "answer": "The standard deviation is 0.10 for group A and 0.12 for group B.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "How does the sample size affect the reliability of the A/B test results?",
+        "answer": "A larger sample size increases the reliability of the T-Test by reducing variance.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [19],
+        "question": "What assumptions of the Student's T-Test are validated in this analysis?",
+        "answer": "The assumptions validated include normal distribution of sentiment scores and equal variances between groups.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    },
+    {
+        "cell_ids": [20, 21, 22],
+        "question": "What effect size is observed between groups A and B?",
+        "answer": "The observed effect size is 0.5, indicating a medium effect.",
+        "task": "A/B Testing",
+        "skill": "Student's T-Test"
+    }
+]

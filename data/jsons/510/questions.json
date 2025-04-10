@@ -1,0 +1,58 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 2,500 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18, 27],
+        "question": "What is the minimum and maximum value of the time series?",
+        "answer": "The minimum value is 125.4, and the maximum value is 875.2.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [39, 45, 52],
+        "question": "Does the time series exhibit an overall trend?",
+        "answer": "Yes, the series exhibits a gradual upward trend over time.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [61, 73, 84, 97],
+        "question": "What is the primary seasonal pattern in the dataset?",
+        "answer": "The dataset exhibits a quarterly seasonal pattern with peaks in Q4.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [105, 113, 129],
+        "question": "How does the seasonal component compare to the trend?",
+        "answer": "The seasonal component remains stable while the trend steadily increases over time.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [136, 148, 159, 166],
+        "question": "What percentage of variance is explained by the trend component?",
+        "answer": "The trend component accounts for approximately 60% of the variance.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [175, 188],
+        "question": "Which months contribute the most to seasonal variation?",
+        "answer": "The months of March, June, September, and December show the highest seasonal variation.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [194, 199],
+        "question": "What insights can be drawn from the residual component?",
+        "answer": "The residual component fluctuates randomly around zero, suggesting no remaining strong patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/iamommpatel/physiobank-database-sleep-edfx-cassette",
+        "https://www.kaggle.com/datasets/kgreeshmalakshmi/eeg-based-bci-four-class-wheelchair-application",
+        "https://www.kaggle.com/datasets/mohamedalisalama/eog-dataset-for-movements-classification"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mohamedalisalama/eog-movements-classification",
+    "domain": "Health",
+    "help_data_file_names": []
+}

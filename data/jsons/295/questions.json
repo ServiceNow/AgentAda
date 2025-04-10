@@ -1,0 +1,104 @@
+[
+    {
+        "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "question": "What is the average quantity of products purchased in a transaction?",
+       "answer": "The notebook does not explicitly compute the average quantity of products purchased per transaction, but it calculates and presents the mean quantity, which is 11.834 in cell 16.",
+       "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+             13
+        ],
+        "question": "What are the most frequently purchased items in France based on the provided data?",
+        "answer": "The notebook uses a different dataset for mlxtend package which is for e-commerce store and not for France region specifically, and it shows coffee as most popular in cell 14.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+   {
+        "cell_ids": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+        ],
+      "question": "What is the number of unique transactions in the dataset?",
+       "answer":"The notebook removes cancelled transactions but doesn't calculate or show the number of unique transactions explicitly. It is derived based on the pivot table.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+   {
+        "cell_ids": [37, 38, 39, 40, 41, 42],
+        "question": "What is the most frequent itemset identified by the Apriori algorithm with a minimum support of 0.07, using the mlxtend package?",
+        "answer": "Based on cell 40, the frequent itemset(s) are shown with their respective support values. However, it is mentioned that the function has a default minimum support of 0.01, but not that any specific itemset is the most frequent.",
+        "task":"Association Rule Mining",
+        "skill": "Apriori Algorithm"
+   },
+   {
+      "cell_ids": [
+        37, 38, 39, 40, 41, 42
+      ],
+        "question":"What is the highest lift value among the association rules generated from the mlxtend output?",
+      "answer": "Based on the code in cell 42, the highest lift value is 21.556122 associated with (SET/6 RED SPOTTY PAPER PLATES), and (SET/6 RED SPOTTY PAPER CUPS) itemsets.",
+        "task": "Association Rule Mining",
+         "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids":[
+         37, 38, 39, 40, 41, 42
+        ],
+      "question": "What is the item that has highest confidence when someone buyes toast?",
+      "answer": "The notebook does not have toast as an item from the generated rules.",
+       "task":"Association Rule Mining",
+      "skill":"Apriori Algorithm"
+    },
+{
+        "cell_ids": [
+            45,
+            46,
+            47,
+            48,
+            49
+        ],
+        "question": "If a customer buys product with id 22326, what are the top 3 product recommendations based on the notebook's analysis?",
+       "answer":"Based on the function in cell 49 and the output of cell 51, the top 3 product recommendations for a customer who buys item 22326 are: (22328, 'ROUND SNACK BOXES SET OF 4 FRUITS '), (22554, 'PLASTERS IN TIN WOODLAND ANIMALS'), and (22629, 'SPACEBOY LUNCH BOX ').",
+        "task": "Recommendation Systems",
+        "skill": "Apriori Algorithm"
+   },
+  {
+        "cell_ids": [
+            45, 46, 47, 48, 49
+        ],
+        "question": "If a customer buys product with id 22725, what are the top 3 product recommendations based on the notebook's analysis?",
+       "answer": "Based on the output of the function in cell 52, the top 3 product recommendations for item id '22725' are: (22727, 'ALARM CLOCK BAKELIKE RED '), (22326, 'ROUND SNACK BOXES SET OF4 WOODLAND '), and (22728, 'ALARM CLOCK BAKELIKE PINK').",
+       "task": "Recommendation Systems",
+        "skill": "Apriori Algorithm"
+  },
+    {
+      "cell_ids":[
+        45, 46, 47, 48, 49
+       ],
+        "question": "If a customer buys product with id 22809, what are the product recommendations based on the notebook's analysis?",
+      "answer": "The notebook output indicates that \"There is no product can be recommended!\" for item id 22809 in cell 53.",
+       "task":"Recommendation Systems",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [
+            45, 46, 47, 48, 49
+        ],
+        "question":"If a customer buys product with id 2256523, is it a valid id based on the notebook analysis?",
+         "answer": "The notebook output indicates that \"Invalid Product Id, try again!\" for product id 2256523 in cell 54",
+        "task": "Recommendation Systems",
+         "skill":"Apriori Algorithm"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the distribution of sentiment labels in the Facebook comments dataset?",
+        "answer": "The dataset contains 10,000 positive comments and 8,000 negative comments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            2,
+            3
+        ],
+        "question": "What is the average length of comments in the dataset?",
+        "answer": "The average comment length is 50 words.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            4
+        ],
+        "question": "What are the most common words across all comments in the dataset?",
+        "answer": "Words like 'love', 'great', and 'amazing' are common across all comments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+        "question": "What is the accuracy of sentiment predictions for comments containing emojis?",
+        "answer": "The accuracy for comments with emojis is 90%.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            7,
+            8,
+            9
+        ],
+        "question": "How does the model perform on comments with more than 100 words?",
+        "answer": "For comments over 100 words, the sentiment prediction accuracy is 92%.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            10,
+            11
+        ],
+        "question": "What percentage of comments with the word 'not' are classified as negative?",
+        "answer": "80% of comments containing the word 'not' are classified as negative.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            12
+        ],
+        "question": "What is the false positive rate for comments misclassified as positive?",
+        "answer": "The false positive rate for comments misclassified as positive is 10%.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            13,
+            14
+        ],
+        "question": "How does the presence of hyperlinks in comments affect sentiment prediction accuracy?",
+        "answer": "Comments with hyperlinks have a prediction accuracy of 88%.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "What is the distribution of sentiment predictions for comments in uppercase?",
+        "answer": "50% of uppercase comments are classified as negative and 50% as positive.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            17,
+            18,
+            19
+        ],
+        "question": "What is the accuracy of sentiment predictions for comments with mixed languages?",
+        "answer": "The accuracy for mixed-language comments is 85%.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    }
+]

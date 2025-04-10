@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/jilkothari/udemy-courses-development",
+        "https://www.kaggle.com/datasets/thedevastator/e-commerce-product-listings-on-amazon-india-jul"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/vasubhargava/data-analysis-and-visualization-for-e-commerce-app",
+    "domain": "Commerce",
+    "help_data_file_names": [
+        "sales_orders_items.csv",
+        "login_logs.csv"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/muhammadroshaanriaz/heatwave-excessive-heat-anomalies-by-year",
+        "https://www.kaggle.com/datasets/anishpai/ames-housing-dataset-missing",
+        "https://www.kaggle.com/datasets/dilkushsingh/smartphones-dataset-upto-july24"
+    ],
+    "dataset_description": "Well, we are a head of the largest football event(Soccer, sorry for the American fellows) worldwide, as excited as we were. Well, at least some of us were, by the draw, here comes the data. History of all previous matches, scores and titles of all participating teams to help us predict who will qualify and may even predict who will win. So, lets get our algorithms going.",
+    "notebook_url": "https://www.kaggle.com/code/vbmokin/eda-for-tabular-data-advanced-techniques",
+    "domain": "Climate",
+    "help_data_file_names": []
+}

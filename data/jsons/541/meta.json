@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations"
+    ],
+    "dataset_description": "For this challenge you are given the purchase history of customers across time, along with supporting metadata. Your challenge is to predict what articles each customer will purchase in the 7-day period immediately after the training data ends. Customer who did not make any purchase during that time are excluded from the scoring",
+    "notebook_url": "https://www.kaggle.com/code/mayukh18/svd-model-reranking-implicit-to-explicit-feedback",
+    "domain": "Marketing",
+    "help_data_file_names": [
+        "articles.csv",
+        "customers.csv"
+    ]
+}

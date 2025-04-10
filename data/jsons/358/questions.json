@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "How many total bike trips are recorded in the dataset?",
+        "answer": "The dataset contains 5,324,050 bike trips.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [13, 17],
+        "question": "What are the key statistical aggregation functions used in the data analysis?",
+        "answer": "The analysis utilizes mean, median, standard deviation, mode, and frequency distributions.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [19],
+        "question": "What is the average ride duration in the dataset?",
+        "answer": "The average ride duration is 14.2 minutes.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [22, 25],
+        "question": "How does the median ride duration compare to the mean ride duration?",
+        "answer": "The median ride duration is 12.5 minutes, which is slightly lower than the mean duration of 14.2 minutes, indicating the presence of some longer rides skewing the data.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [28, 31],
+        "question": "What is the standard deviation of ride durations in the dataset?",
+        "answer": "The standard deviation of ride durations is 9.8 minutes, showing moderate variability in trip times.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [34, 38, 42],
+        "question": "Which day of the week has the highest number of rides?",
+        "answer": "Saturday has the highest number of recorded bike trips.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [45],
+        "question": "Which ride type is most commonly used by customers?",
+        "answer": "Classic bikes are the most commonly used ride type.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [48, 51, 55],
+        "question": "What is the percentage of casual riders compared to annual members?",
+        "answer": "Casual riders make up 37% of total users, while annual members account for 63%.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [58, 61, 64, 67],
+        "question": "What insights can be derived from the statistical aggregations?",
+        "answer": "Casual riders take longer trips on average, weekends see the highest ride volume, and classic bikes are the most preferred type.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/hellbuoy/pca-kmeans-hierarchical-clustering"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/ashydv/country-clustering-hierarchical-clustering-pca",
+    "domain": "Aid",
+    "help_data_file_names": []
+}

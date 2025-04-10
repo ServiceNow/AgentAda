@@ -1,0 +1,4 @@
+{
+    "goal": "Identify factors influencing bike rental demand using weather and temporal data.",
+    "persona": "An experienced data scientist with expertise in time series analysis, focused on understanding the impact of weather and temporal factors on bike rental patterns to inform business strategy and operations."
+}

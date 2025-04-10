@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the overall trend observed in the border crossing dataset over the recorded period?",
+        "answer": "The dataset shows a gradual increase in border crossings, with noticeable declines during specific years.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly number of border crossings recorded in the dataset?",
+        "answer": "The average monthly number of border crossings is 1.2 million.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are evident in the border crossing data?",
+        "answer": "Seasonal peaks are observed in summer months, while winter months show a decline in crossings.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest recorded number of border crossings in a single month, and when did it occur?",
+        "answer": "The highest recorded number of crossings is 2.5 million, observed in July 2019.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What are the forecasted monthly border crossings for the next 6 months using the ARIMA model?",
+        "answer": "The forecasted values range from 1.1 million to 1.4 million crossings, following seasonal patterns.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the dataset reveal about the impact of external events on border crossings?",
+        "answer": "The dataset shows significant declines during global events such as the COVID-19 pandemic.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How do the forecasted values compare to historical seasonal trends in border crossings?",
+        "answer": "The forecasted values align closely with historical trends, showing expected peaks in summer months.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Were there any missing or anomalous values in the dataset, and how were they addressed?",
+        "answer": "The dataset had missing data for three months, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What insights can be drawn about long-term border crossing trends from the dataset?",
+        "answer": "The dataset indicates steady growth in crossings, interrupted by occasional declines during major global events.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What role do seasonal and external factors play in influencing border crossing trends and forecasts?",
+        "answer": "Seasonal factors such as summer travel and external events like pandemics significantly impact border crossing trends.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

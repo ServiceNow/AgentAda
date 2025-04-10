@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze financial transaction data to extract key patterns and reduce dimensionality for better data representation.",
+    "persona": "A financial data analyst with 7 years of experience in the banking sector, specializing in data reduction techniques and pattern recognition. They are focused on improving data efficiency and insight generation through advanced analytical methods like Eigenvalue Decomposition. They are interested in uncovering significant trends and reducing data complexity to enhance decision-making processes."
+}

@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/hj5992/restaurantreviews"],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/apekshakom/sentiment-analysis-of-restaurant-reviews/notebook",
+    "domain": "Marketing",
+    "help_data_file_names": []
+}

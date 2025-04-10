@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [46],
+        "question": "What dataset was used for Latent Semantic Analysis?",
+        "answer": "The dataset consists of Quora question pairs, including insincere and genuine questions labeled for analysis.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [55, 63],
+        "question": "What preprocessing steps were performed before applying Latent Semantic Analysis?",
+        "answer": "The dataset was preprocessed by tokenizing text, removing stopwords, applying lemmatization, and constructing a term-frequency matrix.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [70],
+        "question": "Which two question categories show the strongest semantic similarity in the dataset?",
+        "answer": "The strongest semantic similarity is observed between 'Politics' and 'Current Events'.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [85, 93],
+        "question": "Which feature has the highest negative correlation with question sincerity?",
+        "answer": "The presence of provocative language has the highest negative correlation with question sincerity.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [105, 113, 120],
+        "question": "What is the classification accuracy of Quora questions after applying Latent Semantic Analysis?",
+        "answer": "The classification accuracy after applying Latent Semantic Analysis is 81.4%.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [132, 140],
+        "question": "How does Latent Semantic Analysis improve the detection of insincere questions compared to traditional keyword-based approaches?",
+        "answer": "Latent Semantic Analysis improves insincere question detection by capturing deeper contextual meanings, increasing accuracy by 16%.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [152],
+        "question": "Which text attribute shows the weakest influence on question classification?",
+        "answer": "The length of the question has the weakest influence on classification when using Latent Semantic Analysis.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [164, 172, 180, 188],
+        "question": "What does Latent Semantic Analysis indicate about the structure of Quora questions?",
+        "answer": "The analysis reveals that insincere questions often contain repetitive semantic structures related to controversial or misleading statements.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [199],
+        "question": "Which linguistic feature has the least impact on detecting question insincerity?",
+        "answer": "The presence of punctuation marks has the least impact on detecting question insincerity when using Latent Semantic Analysis.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [200],
+        "question": "What conclusions were drawn about the effectiveness of Latent Semantic Analysis for Quora question classification?",
+        "answer": "Latent Semantic Analysis improves insincere question classification, enhances topic-based clustering, and refines semantic similarity measurement.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    }
+]

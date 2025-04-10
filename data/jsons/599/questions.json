@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [35],
+        "question": "What dataset was used for Kendall's Tau correlation analysis?",
+        "answer": "The dataset consists of feature variables related to product sales, including pricing, customer demographics, and purchase frequency.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [44, 52],
+        "question": "What preprocessing steps were performed before computing Kendall's Tau correlation?",
+        "answer": "The dataset was preprocessed by handling missing values, ranking categorical variables such as product categories, and normalizing numerical attributes.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [59],
+        "question": "Which two sales-related variables show the strongest positive Kendall's Tau correlation?",
+        "answer": "Product price and revenue generated show the strongest positive Kendall's Tau correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [74, 82],
+        "question": "Which product attribute has the highest negative correlation with customer return rate?",
+        "answer": "Customer satisfaction rating has the highest negative correlation with customer return rate.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [94, 102, 109],
+        "question": "What is the Kendall's Tau correlation coefficient between marketing spend and product sales?",
+        "answer": "The Kendall's Tau correlation coefficient between marketing spend and product sales is 0.68.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [121, 129],
+        "question": "How does Kendall's Tau correlation between product discount rate and sales volume compare to other pricing factors?",
+        "answer": "The correlation between product discount rate and sales volume is stronger than the correlation between discount rate and customer retention.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [141],
+        "question": "Which customer behavior shows the weakest correlation with product profitability?",
+        "answer": "Browsing time before purchase shows the weakest correlation with product profitability.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [153, 161, 169, 177],
+        "question": "What does the Kendall's Tau correlation coefficient indicate about the relationship between product quality rating and long-term customer loyalty?",
+        "answer": "The Kendall's Tau correlation coefficient indicates a strong positive relationship, meaning higher product quality ratings are associated with higher customer loyalty.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [188],
+        "question": "Which feature has the least correlation with seasonal sales fluctuations?",
+        "answer": "Product packaging type has the least correlation with seasonal sales fluctuations.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [197, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Kendall's Tau correlation for analyzing product sales data?",
+        "answer": "Kendall's Tau correlation helped identify key relationships between pricing, customer satisfaction, and sales trends, highlighting the importance of strategic pricing models.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    }
+]

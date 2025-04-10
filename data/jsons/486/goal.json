@@ -1,0 +1,4 @@
+{
+    "goal": "Determine the impact of treatment on the outcome by addressing selection bias using propensity score matching.",
+    "persona": "A seasoned data analyst with expertise in statistical analysis and causal inference, specializing in healthcare data. They focus on evaluating treatment effects and ensuring accurate estimations by mitigating biases in observational studies. With a keen eye for detail and precision, they aim to derive actionable insights that can inform healthcare interventions and policy decisions."
+}

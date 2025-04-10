@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/hershyandrew/amzn-dpz-btc-ntfx-adjusted-may-2013may2019"
+    ],
+    "dataset_description": "Data set with historical price information for 3 high growth stocks and bitcoin from May 2013 to May 2019. Basic analysis of returns and visualizations included.",
+    "notebook_url": "https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

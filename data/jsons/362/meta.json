@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/behrad3d/nasa-cmaps",
+        "https://www.kaggle.com/datasets/saravanaj/nasa-turbofan-engine-degradation-simulation-data"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/vinayak123tyagi/damage-propagation-modeling-for-aircraft-engine",
+    "domain": "Engineering",
+    "help_data_file_names": []
+}

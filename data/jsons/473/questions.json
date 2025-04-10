@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [13],
+        "question": "How many unique concepts are represented in the dataset?",
+        "answer": "The dataset contains 87 unique concepts.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29, 34],
+        "question": "What are the most frequently occurring philosophical themes in the dataset?",
+        "answer": "The most frequently occurring philosophical themes are 'Metaphysics', 'Ethics', and 'Epistemology'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [48, 53, 67],
+        "question": "What latent variables are included in the structural equation model?",
+        "answer": "The latent variables include 'Philosophical Influence', 'Conceptual Depth', and 'Historical Relevance'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [74, 85, 92, 108],
+        "question": "Which observed factors have the strongest influence on 'Philosophical Influence'?",
+        "answer": "'Number of Citations' and 'Interdisciplinary Connections' have the strongest influence on 'Philosophical Influence'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [116, 127, 138, 153],
+        "question": "What is the estimated path coefficient between 'Historical Relevance' and 'Conceptual Depth'?",
+        "answer": "The estimated path coefficient between 'Historical Relevance' and 'Conceptual Depth' is 0.72.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [161, 175, 184, 197],
+        "question": "Does 'Public Reception' mediate the relationship between 'Philosophical Influence' and 'Long-Term Impact'?",
+        "answer": "'Public Reception' partially mediates the relationship between 'Philosophical Influence' and 'Long-Term Impact', with a significant indirect effect.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [203, 214, 229, 238],
+        "question": "What percentage of the variance in 'Conceptual Evolution' is explained by the model?",
+        "answer": "The model explains 79% of the variance in 'Conceptual Evolution' (R² = 0.79).",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [247, 258, 269, 281],
+        "question": "Is there a statistically significant relationship between 'Philosophical Epoch' and 'Conceptual Depth'?",
+        "answer": "Yes, there is a statistically significant relationship with a p-value of 0.008.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [295, 308, 319, 327],
+        "question": "Which variable has the highest direct effect on 'Interdisciplinary Connections'?",
+        "answer": "'Philosophical School' has the highest direct effect on 'Interdisciplinary Connections' with a path coefficient of 0.82.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [339, 354, 367, 379],
+        "question": "What are the key takeaways from the structural equation model applied to this dataset?",
+        "answer": "The model suggests that 'Historical Relevance' and 'Philosophical Influence' significantly drive 'Conceptual Evolution', which in turn impacts 'Long-Term Recognition'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    }
+]

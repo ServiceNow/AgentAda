@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/txtrouble/carbon-emissions"
+    ],
+    "dataset_description": "Monthly/Annual carbon dioxide emissions from electricity generation from the Energy Information Administration. Data is broken down by fuel type.",
+    "notebook_url": "https://www.kaggle.com/code/berhag/co2-emission-forecast-with-python-seasonal-arima",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

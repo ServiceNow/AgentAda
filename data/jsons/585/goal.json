@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the relationship between various machine learning model parameters and their performance metrics using Spearman correlation.",
+    "persona": "A data scientist with a strong background in machine learning and statistical analysis, focusing on understanding the interdependencies in model parameters to optimize performance outcomes. They are interested in exploring the effectiveness of different tuning strategies and assessing the robustness of models across various datasets like ImageNet."
+}

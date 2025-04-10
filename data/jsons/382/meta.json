@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis",
+        "https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/hr-analytics-case-study",
+        "https://www.kaggle.com/datasets/bhuviranga/customer-churn-data",
+        "https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn",
+        "https://www.kaggle.com/datasets/hassaneskikri/online-retail-customer-churn-dataset",
+        "https://www.kaggle.com/datasets/pentakrishnakishore/bank-customer-churn-data",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/erak1006/brazilian-e-commerce-company-olist",
+        "https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights",
+        "https://www.kaggle.com/datasets/sandiledesmondmfazi/bank-customer-churn",
+        "https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics",
+        "https://www.kaggle.com/datasets/ashirzaki/telecomchurninsights",
+        "https://www.kaggle.com/datasets/ziya07/ecommerce-sales-forecast",
+        "https://www.kaggle.com/datasets/mustafakeser4/bigquery-churn-dataset",
+        "https://www.kaggle.com/datasets/karltonkxb/store-data",
+        "https://www.kaggle.com/datasets/ashishkumarsingh123/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/shivam131019/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/shaileshkumar591/customer-churn-larger-dataset",
+        "https://www.kaggle.com/datasets/akanshachomal/bank-churn-customer-analysis"
+    ],
+    "dataset_description": "Customer churn refers to the phenomenon where customers discontinue their relationship or subscription with a company or service provider. It represents the rate at which customers stop using a company's products or services within a specific period. Churn is an important metric for businesses as it directly impacts revenue, growth, and customer retention.",
+    "notebook_url": "https://www.kaggle.com/code/abhashrai/customer-retention-analysis-prediction",
+    "domain": "Business",
+    "help_data_file_names": ["train.csv"]
+}

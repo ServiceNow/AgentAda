@@ -1,0 +1,4 @@
+{
+    "goal": "Identify patterns and relationships in the given dataset using Kernel PCA to enhance class separability.",
+    "persona": "A seasoned data scientist with over 8 years of experience in bioinformatics, focusing on dimensionality reduction and feature extraction techniques to uncover hidden patterns in complex biological datasets. Passionate about applying advanced computational methods to differentiate between various sample classes and improve the interpretability of classification models in the field of genomics and proteomics."
+}

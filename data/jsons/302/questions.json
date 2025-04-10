@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [2],
+      "question": "What type of data is being analyzed in this dataset?",
+      "answer": "The dataset consists of grocery transaction data, where each row represents items bought together in a single transaction.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [3, 4],
+      "question": "How many unique items are present in the dataset?",
+      "answer": "The dataset contains multiple unique grocery items purchased together in various transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 6],
+      "question": "What is the most frequently purchased item in the dataset?",
+      "answer": "The most frequently purchased item is identified by counting occurrences in the transaction dataset.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [7, 8],
+      "question": "What is the minimum support threshold used for frequent itemset generation?",
+      "answer": "The minimum support threshold used is defined based on the frequency of item co-occurrences in transactions.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [6, 8, 9],
+      "question": "How is the confidence metric used in association rule mining?",
+      "answer": "Confidence measures the proportion of transactions containing an item that also include another item, used to identify strong relationships.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [9, 10, 11],
+      "question": "What are the strongest association rules discovered in the dataset?",
+      "answer": "The strongest association rules are those with the highest confidence and lift values, indicating a strong relationship between items.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [7, 10, 12],
+      "question": "How does the lift metric help in evaluating association rules?",
+      "answer": "Lift compares the actual occurrence of item co-occurrence with what would be expected if they were independent, helping to assess rule strength.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [6, 8, 10],
+      "question": "What is the effect of increasing the support threshold on the number of discovered frequent itemsets?",
+      "answer": "Increasing the support threshold reduces the number of frequent itemsets as only highly common itemsets are retained.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [9, 11, 12],
+      "question": "How does adjusting the confidence threshold affect the generated association rules?",
+      "answer": "Increasing the confidence threshold filters out weaker association rules, keeping only those with strong item co-occurrence relationships.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [10, 12, 13],
+      "question": "What insights can be derived from the discovered association rules in the dataset?",
+      "answer": "The association rules reveal which items are commonly bought together, helping in market basket analysis and sales strategies.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    }
+  ]
+  

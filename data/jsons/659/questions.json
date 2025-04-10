@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "What dataset was analyzed for market basket analysis?",
+        "answer": "The dataset consists of customer transactions containing lists of purchased items.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [14, 19],
+        "question": "Which itemset had the highest support value?",
+        "answer": "The combination of bread and butter had the highest support value in the dataset.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [28, 33, 39],
+        "question": "Which association rule had the strongest confidence score?",
+        "answer": "The rule {milk} → {cereal} had the highest confidence, suggesting strong association.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [47, 52, 60],
+        "question": "What were the most commonly purchased product pairs?",
+        "answer": "Bread and butter, tea and sugar, and chips and soda were frequently bought together.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [68, 75, 82],
+        "question": "What insights were gained from analyzing lift values?",
+        "answer": "Lift values indicated that coffee and sugar had the strongest complementary purchase behavior.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [90, 97, 105],
+        "question": "Which product categories showed the strongest cross-selling potential?",
+        "answer": "Bakery and dairy products had the highest cross-selling potential based on frequent itemsets.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [112, 120, 128],
+        "question": "How did the time of purchase influence transaction patterns?",
+        "answer": "Customers were more likely to buy snacks and beverages together in the evening.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [135, 142, 150],
+        "question": "What promotional strategies were recommended based on market basket analysis?",
+        "answer": "Offering bundle discounts on frequently bought items like milk and cereal was suggested.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [158, 165, 172],
+        "question": "Which product categories should be placed closer in stores based on association rules?",
+        "answer": "Dairy and bakery products should be placed closer to encourage complementary purchases.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [180, 188, 195],
+        "question": "How did discounts on certain items affect related product sales?",
+        "answer": "Discounting coffee led to an increase in sugar and milk purchases.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    }
+]

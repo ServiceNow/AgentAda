@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/tabular-playground-series-sep-2022"
+    ],
+    "dataset_description": "For this challenge, you will be predicting a full year worth of sales for 4 items from two competing stores located in six different countries. This dataset is completely fictional, but contains many effects you see in real-world data, e.g., weekend and holiday effect, seasonality, etc. You are given the challenging task of predicting book sales during the year 2021.",
+    "notebook_url": "https://www.kaggle.com/code/azminetoushikwasi/time-series-analysis-forecasting",
+    "domain": "Science",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

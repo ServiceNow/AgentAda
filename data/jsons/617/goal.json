@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the Clinton email network to identify key influencers using PageRank.",
+    "persona": "A data scientist with extensive experience in network analysis and graph algorithms, focusing on uncovering patterns and influencers within complex communication networks like email archives to inform decision-makers about the most significant hubs of communication."
+}

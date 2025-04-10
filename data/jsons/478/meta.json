@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster"
+    ],
+    "dataset_description": "The data consist of the estimation of obesity levels in people from the countries of Mexico, Peru and Colombia, with ages between 14 and 61 and diverse eating habits and physical condition , data was collected using a web platform with a survey where anonymous users answered each question, then the information was processed obtaining 17 attributes and 2111 records. ",
+    "notebook_url": "https://www.kaggle.com/code/gulnihall/eda-lgbm-xgb-catboost-optuna-stacking-c",
+    "domain": "Health",
+    "help_data_file_names": []
+}

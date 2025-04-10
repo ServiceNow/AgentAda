@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [23],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of house prices along with property characteristics such as size, location, and number of bedrooms.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [32, 40],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was standardized, missing values were imputed, and categorical variables such as neighborhood were ranked for ordinal correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [47],
+        "question": "Which two property attributes show the strongest positive Spearman correlation?",
+        "answer": "House size (square footage) and number of bathrooms show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [62, 70],
+        "question": "Which factor has the highest negative correlation with property price?",
+        "answer": "Distance from the city center has the highest negative correlation with property price.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [82, 90, 97],
+        "question": "What is the Spearman correlation coefficient between lot size and house price?",
+        "answer": "The Spearman correlation coefficient between lot size and house price is 0.64.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [109, 117],
+        "question": "How does Spearman correlation between house age and market value compare to other variables?",
+        "answer": "The correlation between house age and market value is negative but weaker than the correlation between house size and market value.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [129],
+        "question": "Which property characteristic shows the weakest correlation with house price?",
+        "answer": "The number of garages shows the weakest correlation with house price.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [141, 149, 157, 165],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between neighborhood ranking and house price?",
+        "answer": "The Spearman correlation coefficient indicates a strong positive relationship, meaning higher-ranked neighborhoods tend to have higher house prices.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [176],
+        "question": "Which variable has the least correlation with house price appreciation over time?",
+        "answer": "Proximity to public parks has the least correlation with house price appreciation over time.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [187, 195, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing house prices?",
+        "answer": "Spearman correlation identified key property features such as house size, location, and neighborhood ranking as strong predictors of house prices.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

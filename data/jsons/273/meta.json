@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rozemberczki/musae-github-social-network",
+        "https://www.kaggle.com/datasets/gitanjali1425/github-social-network-graph-dataset",
+        "https://www.kaggle.com/datasets/andreagarritano/deezer-social-networks",
+        "https://www.kaggle.com/datasets/michaelfire/google-social-network-structure",
+        "https://www.kaggle.com/datasets/rozemberczki/musae-facebook-pagepage-network"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/genialgokul1099/social-network-graph-link-prediction",
+    "domain": "Social",
+    "help_data_file_names": ["test.csv"]
+}

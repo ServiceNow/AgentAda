@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/borhanitrash/telco-customer-churn",
+        "https://www.kaggle.com/datasets/reyhanarighy/data-telco-customer-churn"
+    ],
+    "dataset_description": "Each row represents a customer, each column contains customer\u2019s attributes described on the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features). The \u201cChurn\u201d column is our target.",
+    "notebook_url": "https://www.kaggle.com/code/tzaftzaf/telco-customer-churn-analysis-and-predictions",
+    "domain": "Telecommunications",
+    "help_data_file_names": []
+}

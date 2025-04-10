@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze and identify patterns and anomalies in the time series data using wavelet decomposition.",
+    "persona": "A data scientist with a strong background in signal processing and time series analysis, who is interested in using advanced decomposition methods such as wavelet analysis to uncover detailed insights and anomalies in large datasets. They focus on capturing both long-term trends and short-term fluctuations to aid decision-making processes in technical and engineering fields."
+}

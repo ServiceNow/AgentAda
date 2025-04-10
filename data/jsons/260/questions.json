@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of data points in the dataset, and how does this support hierarchical clustering analysis?",
+      "answer": "The dataset contains 1,200 records, providing a sufficient base for segmentation using hierarchical clustering.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the range of values for the primary features in the dataset, and how do they vary across the data points?",
+      "answer": "The primary feature values range from 0 to 100, with significant variations between different data points.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5],
+      "question": "What is the distribution of numerical features in the dataset, and how do they influence clustering outcomes?",
+      "answer": "The numerical features follow a normal distribution with some outliers, which significantly affect cluster boundaries.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [6, 7],
+      "question": "What are the key patterns observed in categorical features, and how do they contribute to cluster differentiation?",
+      "answer": "Categorical features exhibit clear groupings, which help distinguish clusters based on shared characteristics.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [8, 9, 10],
+      "question": "How many clusters were identified using hierarchical clustering, and what are the defining characteristics of each cluster?",
+      "answer": "Five clusters were identified, characterized by distinct patterns in numerical and categorical feature distributions.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [11, 12],
+      "question": "What are the average values for key features within each cluster, and how do they describe cluster behaviors?",
+      "answer": "Clusters range from low-feature low-value groups to high-feature high-value groups with distinct categorical traits.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [13, 14, 15],
+      "question": "Which features contributed the most to cluster formation, and what insights can be derived from their influence?",
+      "answer": "Key numerical features, such as 'spending' and 'frequency,' contributed significantly, highlighting differences in usage behaviors.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [16, 17],
+      "question": "What actionable strategies can be implemented for each cluster to enhance engagement and value?",
+      "answer": "Strategies include premium service offers for high-value clusters and retention programs for mid-value segments.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [18, 19, 20],
+      "question": "How do the behaviors of high-feature high-value clusters differ from those of low-feature low-value clusters?",
+      "answer": "High-value clusters exhibit frequent and high-value interactions, while low-value clusters show sporadic and minimal activity.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [21, 22, 23, 24],
+      "question": "What insights from hierarchical clustering analysis can guide future data-driven strategies?",
+      "answer": "Insights include prioritizing loyalty and rewards for high-value clusters, targeted campaigns for mid-tier clusters, and reactivation plans for low-value clusters.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    }
+  ]
+  

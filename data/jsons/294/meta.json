@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/lissetteg/ecommerce-dataset"
+    ],
+    "dataset_description": "I reuploaded this dataset because the original gave me an encoding error. I fixed it by downloading the original dataset and using Sublime text to save it with encoding UTF-8.",
+    "notebook_url": "https://www.kaggle.com/code/rockystats/apriori-algorithm-or-market-basket-analysis/notebook",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [30],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of financial statements from companies, including balance sheet details and bankruptcy status.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [39, 47],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was cleaned by handling missing values, ranking financial ratios, and normalizing numerical features.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [54],
+        "question": "Which two financial indicators show the strongest positive Spearman correlation?",
+        "answer": "Total assets and revenue show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [69, 77],
+        "question": "Which financial factor has the highest negative correlation with bankruptcy likelihood?",
+        "answer": "Return on assets (ROA) has the highest negative correlation with bankruptcy likelihood.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [89, 97, 104],
+        "question": "What is the Spearman correlation coefficient between debt-to-equity ratio and bankruptcy risk?",
+        "answer": "The Spearman correlation coefficient between debt-to-equity ratio and bankruptcy risk is 0.74.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [116, 124],
+        "question": "How does Spearman correlation between liquidity ratio and financial stability compare to other financial metrics?",
+        "answer": "The correlation between liquidity ratio and financial stability is stronger than the correlation between short-term debt and financial stability.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [136],
+        "question": "Which financial metric shows the weakest correlation with a company's profitability?",
+        "answer": "Inventory turnover ratio shows the weakest correlation with a company's profitability.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [148, 156, 164, 172],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between operating cash flow and bankruptcy risk?",
+        "answer": "The Spearman correlation coefficient indicates a strong negative relationship, meaning companies with higher operating cash flow are less likely to go bankrupt.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [183],
+        "question": "Which financial ratio has the least correlation with bankruptcy prediction?",
+        "answer": "The dividend payout ratio has the least correlation with bankruptcy prediction.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [194, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing bankruptcy risk?",
+        "answer": "Spearman correlation helped identify key financial indicators, such as debt ratios and cash flow, as strong predictors of bankruptcy likelihood.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

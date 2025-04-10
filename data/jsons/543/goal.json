@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the text data in disaster-related tweets to understand common themes and improve classification performance.",
+    "persona": "An experienced data analyst specializing in text analytics, focused on extracting meaningful patterns from social media data to enhance emergency response strategies. With a strong background in natural language processing and dimensionality reduction techniques, they aim to improve the interpretability and accuracy of predictive models used for disaster management."
+}

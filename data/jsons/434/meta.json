@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset",
+        "https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction",
+        "https://www.kaggle.com/datasets/fatemehmehrparvar/breast-cancer-prediction",
+        "https://www.kaggle.com/datasets/ankushpanday1/breast-cancer-predictionworld",
+        "https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset",
+        "https://www.kaggle.com/datasets/adhyanmaji31/breast-cancer-prediction",
+        "https://www.kaggle.com/datasets/shubamsumbria/breast-cancer-prediction",
+        "https://www.kaggle.com/datasets/abdelrahman16/breast-cancer-prediction",
+        "https://www.kaggle.com/datasets/iabhishekbhardwaj/breast-cancer-prediction",
+        "https://www.kaggle.com/datasets/haithemhermessi/breast-cancer-screening-data-set",
+        "https://www.kaggle.com/datasets/mannatpruthi/breast-cancer-prediction",
+        "https://www.kaggle.com/datasets/ahmadihossein/csaw-cc-mammography",
+        "https://www.kaggle.com/datasets/yasserhessein/breast-cancer-coimbra-data-set",
+        "https://www.kaggle.com/datasets/allunia/breastcancermodel",
+        "https://www.kaggle.com/datasets/overratedgman/mammographic-mass-data-set",
+        "https://www.kaggle.com/datasets/navamisunil/synthetic-breast-cancer-survival-prediction",
+        "https://www.kaggle.com/datasets/jignashadobariya/breast-cancer-csv",
+        "https://www.kaggle.com/datasets/atom1991/breast-cancer-coimbra",
+        "https://www.kaggle.com/datasets/puspitasaha/breast-cancer-prediction",
+        "https://www.kaggle.com/datasets/priyanka841/breast-cancer-prediction-with-multiple-ml-models"
+    ],
+    "dataset_description": "Predict whether the cancer is benign or malignant",
+    "notebook_url": "https://www.kaggle.com/code/aditimulye/breast-cancer-prediction",
+    "domain": "Health",
+    "help_data_file_names": []
+}

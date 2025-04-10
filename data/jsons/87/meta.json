@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption"],
+    "dataset_description": "PJM Interconnection LLC (PJM) is a regional transmission organization (RTO) in the United States. It is part of the Eastern Interconnection grid operating an electric transmission system serving all or parts of Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia, and the District of Columbia.",
+    "notebook_url": "https://www.kaggle.com/code/robikscube/time-series-forecasting-with-prophet/notebook",
+    "domain": "Management",
+    "help_data_file_names": []
+}

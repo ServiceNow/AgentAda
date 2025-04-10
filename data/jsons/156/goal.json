@@ -1,0 +1,4 @@
+{
+    "goal": "To develop and enhance a recommendation system by analyzing user-item interactions.",
+    "persona": "A data scientist with 7 years of experience in building and refining recommendation systems, focused on leveraging collaborative filtering to improve user experience. They have a strong background in handling large-scale datasets, understanding user behavior, and optimizing algorithms for personalized recommendations. Their interest lies in solving challenges related to data sparsity, cold-start issues, and evolving user preferences."
+}

@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/competitions/cat-in-the-dat"],
+    "dataset_description": "The data contains binary features (bin_*), nominal features (nom_*), ordinal features (ord_*) as well as (potentially cyclical) day (of the week) and month features. The string ordinal features ord_{3-5} are lexically ordered according to string.ascii_letters.",
+    "notebook_url": "https://www.kaggle.com/code/antoreepjana/statistics-for-ml-data-analysis/notebook",
+    "domain": "Science",
+    "help_data_file_names": ["train.csv"]
+}

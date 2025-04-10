@@ -1,0 +1,92 @@
+[
+    {
+         "cell_ids": [
+             1
+         ],
+         "question": "How many different categories are there in the BBC News dataset?",
+         "answer": "5",
+         "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+     },
+      {
+         "cell_ids": [
+              5
+          ],
+         "question": "How many articles are in the training dataset?",
+         "answer":"1490",
+         "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+     },
+      {
+         "cell_ids": [
+             5
+          ],
+          "question": "What are the column names of the train dataset?",
+         "answer": "ArticleId, Text, Category",
+         "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+     },
+     {
+        "cell_ids": [
+            12
+         ],
+          "question": "What is the name of the column that contains the text to be used for model training?",
+          "answer": "'clean_text'",
+          "task":"Basic Data Analysis",
+          "skill":"Basic Data Analysis"
+     },
+     {
+         "cell_ids": [
+           12
+         ],
+         "question": "What is the name of the column that contains the labels for each article in the training data?",
+          "answer": "'Category'",
+           "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+     },
+   {
+         "cell_ids": [
+              17
+         ],
+         "question": "What is the mean of the number of words in each article?",
+         "answer": "401",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+     },
+       {
+         "cell_ids": [
+              17,18
+         ],
+         "question": "What is the number of articles after removing outliers based on number of words",
+         "answer": "1484",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+     },
+     {
+         "cell_ids": [
+             23
+         ],
+        "question": "What is the accuracy of the matrix factorization model on training data?",
+          "answer": "0.9609164420485176",
+          "task": "Topic Modeling",
+          "skill": "Latent Semantic Analysis"
+     },
+        {
+         "cell_ids": [
+           25
+          ],
+        "question": "What are the topics identified in the articles by matrix factorization?",
+          "answer": "Business, tech, politics, sport, entertainment",
+         "task": "Topic Modeling",
+          "skill": "Latent Semantic Analysis"
+     },
+     {
+         "cell_ids": [
+             27
+         ],
+          "question": "Based on the clustering, what category does \"cutting tool\" belong to?",
+         "answer": "Cluster 4",
+         "task":"Topic Modeling",
+         "skill": "Latent Semantic Analysis"
+     }
+ ]

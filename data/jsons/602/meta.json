@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies",
+        "https://www.kaggle.com/datasets/parthdande/imdb-dataset-2024-updated",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/khushipitroda/top-250-indian-movies-imdb",
+        "https://www.kaggle.com/datasets/umerhaddii/imdb-summer-movies-data",
+        "https://www.kaggle.com/datasets/kashifsahil/16000-movies-1910-2024-metacritic",
+        "https://www.kaggle.com/datasets/khushipitroda/imdb-top-250-french-movies",
+        "https://www.kaggle.com/datasets/miroslavsabo/young-people-survey",
+        "https://www.kaggle.com/datasets/shivamb/5minute-crafts-video-views-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/global-movie-franchise-revenue-and-budget-data",
+        "https://www.kaggle.com/datasets/shreyasur965/imdb-top-100-movies-dataset",
+        "https://www.kaggle.com/datasets/asaniczka/crimes-in-los-angeles-2020-2023",
+        "https://www.kaggle.com/datasets/thedevastator/movies-genre-statistics-1995-2018",
+        "https://www.kaggle.com/datasets/thedevastator/mickey-mouse-film-collection",
+        "https://www.kaggle.com/datasets/thedevastator/movies-gross-revenue-ratings-reviews-and-release",
+        "https://www.kaggle.com/datasets/ahmmedrejowan/movies-of-2015",
+        "https://www.kaggle.com/datasets/dogacelik/google-data-analytics-capstone-project-netflix",
+        "https://www.kaggle.com/datasets/roninvers/amazon-prime-movies-updated",
+        "https://www.kaggle.com/datasets/athu1105/tagmybook",
+        "https://www.kaggle.com/datasets/thedevastator/oscar-winning-movies-gross-revenue-imdb-scores-1"
+    ],
+    "dataset_description": "Is the movie industry dying? is Netflix the new entertainment king? Those were the first questions that lead me to create a datasetfocused on movie revenue and analyze it over the last decades. But, why stop there? There are more factors that intervene in this kind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the movie industry, and get answers.",
+    "notebook_url": "https://www.kaggle.com/code/aynashairi/correlation-analysis-movies-data",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies",
+        "https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset",
+        "https://www.kaggle.com/datasets/juhibhojani/sih-challenge-set",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/ayoubcherguelaine/company-documents-dataset",
+        "https://www.kaggle.com/datasets/ayushi10kumari/top-rated-movie-dataset",
+        "https://www.kaggle.com/datasets/imnikhilanand/heart-attack-prediction",
+        "https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/machine-learning-basics-for-beginners",
+        "https://www.kaggle.com/datasets/batuhankalem/los-angeles-earthquake-dataset",
+        "https://www.kaggle.com/datasets/prashant111/ionosphere",
+        "https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric",
+        "https://www.kaggle.com/datasets/arifmia/comprehensive-recipe-dataset",
+        "https://www.kaggle.com/datasets/rabieelkharoua/patient-ratings-identifying-best-drugs",
+        "https://www.kaggle.com/datasets/nkongolo/ugransome-dataset",
+        "https://www.kaggle.com/datasets/rabieelkharoua/multivariate-gait-dataset",
+        "https://www.kaggle.com/datasets/mathurinache/cholesterol",
+        "https://www.kaggle.com/datasets/anitarostami/enhanced-gait-biomechanics-dataset",
+        "https://www.kaggle.com/datasets/krishujeniya/fitness-tracker-accelerometer-and-gyroscope-data",
+        "https://www.kaggle.com/datasets/mathurinache/gpr1200-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/abdulmeral/10-models-for-clustering",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

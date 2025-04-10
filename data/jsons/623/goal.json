@@ -1,0 +1,4 @@
+{
+    "goal": "To extract and understand prevalent topics within a collection of news articles.",
+    "persona": "A data scientist with a background in natural language processing, possessing 3 years of experience analyzing textual datasets. They are skilled in using topic modeling techniques like Latent Dirichlet Allocation to uncover hidden patterns and trends in large corpuses of text. Their primary interest lies in deriving actionable insights from text data to inform decision-making in news reporting and content strategy."
+}

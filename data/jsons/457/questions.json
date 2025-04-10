@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [4],
+        "question": "How many records are in the California housing dataset?",
+        "answer": "The dataset contains 20,640 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 15],
+        "question": "What are the minimum and maximum median house values in the dataset?",
+        "answer": "The minimum median house value is $14,999, and the maximum is $500,001.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [22, 30, 37],
+        "question": "Which geographic regions have the highest and lowest median house prices?",
+        "answer": "Coastal regions like San Francisco and Los Angeles have the highest median house prices, while inland and rural areas have the lowest.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [45, 53, 62],
+        "question": "How is spatial autocorrelation used in analyzing California housing prices?",
+        "answer": "Spatial autocorrelation helps identify clusters of high or low housing prices based on geographic proximity.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [70, 78, 86, 95],
+        "question": "What does a high positive Moran’s I value indicate in the housing dataset?",
+        "answer": "A high positive Moran’s I value indicates that similar housing prices are clustered together in geographic space.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [103, 112, 121, 130],
+        "question": "What is the significance of a Moran’s I value close to zero in this dataset?",
+        "answer": "A Moran’s I value close to zero suggests a random spatial distribution of housing prices, meaning no significant clustering.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [138, 147, 156, 165],
+        "question": "How does population density correlate with spatial autocorrelation in house prices?",
+        "answer": "Higher population density areas tend to have stronger spatial autocorrelation in house prices due to market forces and demand.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [173, 182, 191, 200],
+        "question": "Which variables contribute most to spatial autocorrelation in this dataset?",
+        "answer": "Median income, proximity to coastal areas, and population density contribute most to spatial autocorrelation in house prices.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [208, 217, 226, 235],
+        "question": "How does changing the spatial weight matrix affect Moran’s I results?",
+        "answer": "Changing the spatial weight matrix affects the strength of detected spatial autocorrelation by redefining neighborhood relationships.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [243, 252, 261, 270],
+        "question": "What does a negative Moran’s I value indicate about housing price distribution?",
+        "answer": "A negative Moran’s I value suggests dispersion, meaning high and low housing prices are interspersed rather than clustered.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    }
+]

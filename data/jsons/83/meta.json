@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/mateuszk013/warsaw-daily-weather"],
+    "dataset_description": "The dataset comes from Climate Data Online website and includes the last 30 years (1993-2022) of daily weather measurements in Warsaw, Poland. The dataset can be a good starting point for employing ARIMA and RNN models for weather forecasting. Columns description:",
+    "notebook_url": "https://www.kaggle.com/code/mateuszk013/forecasting-weather-patterns-with-arima-rnn/notebook",
+    "domain": "Weather",
+    "help_data_file_names": []
+}

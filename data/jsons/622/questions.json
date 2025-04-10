@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [57],
+        "question": "What dataset was used for MapReduce-based air pollution analysis?",
+        "answer": "The dataset consists of air quality measurements from multiple monitoring stations, including pollutant levels such as PM2.5, PM10, and NO2.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [66, 74],
+        "question": "What preprocessing steps were performed before applying MapReduce?",
+        "answer": "The dataset was preprocessed by handling missing values, normalizing pollutant measurements, and partitioning the data by time intervals for batch processing.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [81],
+        "question": "Which pollutant showed the highest average concentration across all monitoring stations?",
+        "answer": "PM2.5 had the highest average concentration among all monitored pollutants.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [96, 104],
+        "question": "Which city had the highest air pollution index based on MapReduce analysis?",
+        "answer": "New Delhi recorded the highest air pollution index in the dataset.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [116, 124, 131],
+        "question": "What is the average computation time for processing air pollution data using MapReduce?",
+        "answer": "The average computation time for processing air pollution data using MapReduce is 19.7 minutes per 5 million records.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [143, 151],
+        "question": "How does MapReduce improve the efficiency of analyzing air pollution trends compared to traditional database queries?",
+        "answer": "MapReduce enables parallel data processing, reducing computation time by 45% compared to traditional SQL-based queries.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [163],
+        "question": "Which meteorological factor had the weakest correlation with air pollution levels?",
+        "answer": "Humidity had the weakest correlation with air pollution levels in the dataset.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [175, 183, 191, 199],
+        "question": "What does the MapReduce analysis indicate about seasonal air pollution trends?",
+        "answer": "The analysis reveals that winter months show the highest pollution levels, while summer months experience lower concentrations of pollutants.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [210],
+        "question": "Which factor has the least impact on predicting air pollution levels?",
+        "answer": "The number of vehicles registered in a city had the least impact on predicting air pollution levels.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [207, 208, 209],
+        "question": "What conclusions were drawn about the effectiveness of MapReduce for large-scale air quality analysis?",
+        "answer": "MapReduce efficiently processes large-scale air quality data, enables faster trend identification, and enhances predictive modeling for pollution control.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    }
+]

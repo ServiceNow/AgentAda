@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/shiv28/covidowid"],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/shiv28/covid-19-forecasting-using-arima/notebook",
+    "domain": "Health",
+    "help_data_file_names": []
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/winstonsdodson/titanic-dataset-cleaned"
+    ],
+    "dataset_description": "Predict survival on the Titanic and get familiar with ML basics",
+    "notebook_url": "https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy",
+    "domain": "Travel",
+    "help_data_file_names": ["train.csv"]
+}

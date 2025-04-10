@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this support segmentation analysis?",
+      "answer": "The dataset contains 20,000 customers, providing a large sample for detailed segmentation analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of recency values in the dataset, and how do they influence customer segmentation?",
+      "answer": "Recency values range from 1 to 365 days, with lower values indicating more recent interactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 6, 8],
+      "question": "What is the frequency distribution of transactions among customers, and how does it vary across the dataset?",
+      "answer": "The frequency of transactions ranges from 1 to 500, with a majority of customers making fewer than 20 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 12],
+      "question": "What is the range of monetary values in the dataset, and what patterns emerge among high-value customers?",
+      "answer": "Monetary values range from $10 to $50,000, with high-value customers typically having high transaction frequency.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [14, 16],
+      "question": "How many clusters were identified using K-means with RFM features, and what key characteristics define each cluster?",
+      "answer": "Six clusters were identified, characterized by variations in recency, frequency, and monetary values.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [18, 20],
+      "question": "What are the average RFM scores for each cluster, and how do they define customer behavior?",
+      "answer": "Clusters range from low-frequency, low-monetary customers to high-frequency, high-monetary value customers.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [22, 25],
+      "question": "Which RFM feature contributes most significantly to cluster formation, and how is this reflected in the clustering results?",
+      "answer": "Frequency and monetary values contribute the most, with recency playing a secondary role in defining clusters.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [27, 30],
+      "question": "How does the inertia score change with the number of clusters, and how was the optimal number determined?",
+      "answer": "The inertia score decreases with additional clusters, and the elbow method identified six clusters as optimal.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [32, 35],
+      "question": "What actionable insights can be drawn for marketing strategies based on the identified clusters?",
+      "answer": "Strategies include targeting high-frequency high-value customers with loyalty programs and re-engaging low-recency customers.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [37, 40],
+      "question": "How do the characteristics of high-recency low-monetary customers differ from low-recency high-monetary customers?",
+      "answer": "High-recency low-monetary customers are new or inactive, while low-recency high-monetary customers are consistent high spenders.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    }
+  ]
+  

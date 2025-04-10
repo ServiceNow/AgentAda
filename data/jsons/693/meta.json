@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/tristan581/17k-apple-app-store-strategy-games"
+    ],
+    "dataset_description": "The mobile games industry is worth billions of dollars, with companies spending vast amounts of money on the development and marketing of these games to an equally large market. Using this data set, insights can be gained into a sub-market of this market, strategy games. This sub-market includes titles such as Clash of Clans, Plants vs Zombies and Pokemon GO.",
+    "notebook_url": "https://www.kaggle.com/code/timothyabwao/basic-visual-analysis-mobile-strategy-games-data",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

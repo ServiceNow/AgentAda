@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/zusmani/imran-khans-speeches",
+        "https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop",
+        "https://www.kaggle.com/datasets/zusmani/shehbaz-sharifs-43-key-speeches",
+        "https://www.kaggle.com/datasets/memocan/data-science-interview-q-and-a-treasury",
+        "https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-2-text-analysis",
+        "https://www.kaggle.com/datasets/karan2002shah/topic-analysis-of-review-data",
+        "https://www.kaggle.com/datasets/manhdodz249/irish-times-dataset-for-topic-model",
+        "https://www.kaggle.com/datasets/keplaxo/twitter-vaccination-dataset",
+        "https://www.kaggle.com/datasets/aryansingh0909/nyt-articles-21m-2000-present",
+        "https://www.kaggle.com/datasets/torahman/lda-topic-modeling-buyers-experiement",
+        "https://www.kaggle.com/datasets/deffro/the-climate-change-twitter-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/amod-mental-health-counseling-conversations-data",
+        "https://www.kaggle.com/datasets/jatinchawda/job-titles-and-description",
+        "https://www.kaggle.com/datasets/thedevastator/jfk-document-files-textual-analysis",
+        "https://www.kaggle.com/datasets/sunny9999/taiwan-104-career-jd",
+        "https://www.kaggle.com/datasets/hussainsheikh03/nlp-based-cyber-security-dataset",
+        "https://www.kaggle.com/datasets/patricklford/sentiment-analysis-of-a-collection-of-stories",
+        "https://www.kaggle.com/datasets/furqanrustam118/chatgpt-tweets",
+        "https://www.kaggle.com/datasets/vamsipasam2k/triaged-comments-with-priority-and-labels-hierarchy",
+        "https://www.kaggle.com/datasets/thedevastator/this-american-life-podcast-transcript-dataset"
+    ],
+    "dataset_description": "The competition dataset contains text from works of fiction written by spooky authors of the public domain: Edgar Allan Poe, HP Lovecraft and Mary Shelley. The data was prepared by chunking larger texts into sentences using CoreNLP's MaxEnt sentence tokenizer, so you may notice the odd non-sentence here and there. Your objective is to accurately identify the author of the sentences in the test set.",
+    "notebook_url": "https://www.kaggle.com/code/dikshabhati2002/topic-modeling-lda",
+    "domain": "Politics",
+    "help_data_file_names": ["train.csv"]
+}

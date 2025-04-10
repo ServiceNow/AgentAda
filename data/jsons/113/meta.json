@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/rahulsah06/gooogle-stock-price",
+        "https://www.kaggle.com/datasets/gallo33henrique/bitcoin-btc-usd-stock-dataset",
+        "https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction",
+        "https://www.kaggle.com/datasets/jainshukal/netflix-stock-price",
+        "https://www.kaggle.com/datasets/electricalengineers/mrf-tyre-dataset-for-5-years",
+        "https://www.kaggle.com/datasets/tehminaasrar/sample-stock-data-csv",
+        "https://www.kaggle.com/datasets/ahmed121ashraf131/euro-and-usd-stocks-data-2007-2021"
+    ],
+    "dataset_description": "Dataset of stock prices at different time intervals of Apple USA.",
+    "notebook_url": "https://www.kaggle.com/code/suyashlakhani/stock-price-prediction-and-forecasting-lstm",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

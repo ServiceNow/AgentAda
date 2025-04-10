@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of graph processing?",
+        "answer": "The dataset represents a graph structure where nodes are entities and edges represent relationships or connections between them.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the key attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, representing the strength or frequency of connections.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4, 5],
+        "question": "How many nodes and edges are there in the graph?",
+        "answer": "The graph contains 500,000 nodes and 1,200,000 edges.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "Which node has the highest degree in the graph?",
+        "answer": "Node 501 has the highest degree, connecting to 1,500 other nodes.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What is the average clustering coefficient of the graph?",
+        "answer": "The average clustering coefficient of the graph is 0.28.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [9, 10, 11],
+        "question": "Which node has the highest PageRank score, and what is the value?",
+        "answer": "Node 732 has the highest PageRank score of 0.012.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many connected components exist in the graph?",
+        "answer": "The graph has 32 connected components.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, with some edges having weights up to 10.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of nodes has the highest weight, and what does it represent?",
+        "answer": "Nodes 150 and 251 have the highest weight of 10, representing the strongest connection in the graph.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the diameter of the graph?",
+        "answer": "The diameter of the graph is 14, indicating the longest shortest path between any two nodes.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    }
+]

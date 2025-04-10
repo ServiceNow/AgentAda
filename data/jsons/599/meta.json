@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/yoshifumimiya/lncrnalncrna-of-pediatric-sarscov2"
+    ],
+    "dataset_description": "Long non-coding RNAs (lncRNA) are a type of RNA, generally defined as transcripts more than 200 nucleotides that are not translated into protein. Despite accumulating evidence that the majority of lncRNA in mammals are likely to be functional, only a relatively small proportion has been demonstrated to be biologically relevant. ",
+    "notebook_url": "https://www.kaggle.com/code/yoshifumimiya/feature-selection-using-kendall-tau",
+    "domain": "Health",
+    "help_data_file_names": [
+        "GSE172274_database.csv"
+    ]
+}

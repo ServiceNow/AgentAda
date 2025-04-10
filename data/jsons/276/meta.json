@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/avasadasivan/witcher-network",
+        "https://www.kaggle.com/datasets/abramova/characters-relationships-in-witcher-book-series"
+    ],
+    "dataset_description": "The Witcher is a fantasy novel series by Andrzej Sapkowski and is the inspiration behind multiple computer games and, of course, the popular Netflix show! The series consists of various plots and timelines and therefor I was really interested in seeing what a social network visualization of the book series would look like as well as analyzing how character centrality changes over the course of the series.",
+    "notebook_url": "https://www.kaggle.com/code/avasadasivan/witcher-network-analysis",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

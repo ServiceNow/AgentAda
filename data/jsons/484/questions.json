@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [13],
+        "question": "How many records are present in the dataset?",
+        "answer": "The dataset contains 4,250 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 39],
+        "question": "What is the mean value of the 'Economic Growth Index' in the dataset?",
+        "answer": "The mean value of the 'Economic Growth Index' is approximately 3.5.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [52, 68, 79],
+        "question": "Does 'Industrial Production Index' Granger-cause 'Economic Growth Index'?",
+        "answer": "Yes, 'Industrial Production Index' Granger-causes 'Economic Growth Index' with a p-value of 0.021.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [91, 104, 118, 125],
+        "question": "What is the optimal lag length for testing causality between 'Inflation Rate' and 'Economic Growth Index'?",
+        "answer": "The optimal lag length is 2, based on the lowest BIC value.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [137, 153],
+        "question": "Does 'Economic Growth Index' Granger-cause 'Inflation Rate'?",
+        "answer": "No, the p-value is 0.41, which indicates no significant causality.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [166, 178, 182, 195],
+        "question": "Which factor has the strongest Granger-causal relationship with 'Economic Growth Index'?",
+        "answer": "'Industrial Production Index' has the strongest causal effect with an F-statistic of 7.43 and a p-value of 0.008.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [45, 63, 81, 99],
+        "question": "How much of the variance in 'Economic Growth Index' is explained by 'Industrial Production Index'?",
+        "answer": "'Industrial Production Index' explains 31% of the variance in 'Economic Growth Index' (R² = 0.31).",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [110, 124, 139, 154],
+        "question": "Is there bidirectional Granger causality between 'Inflation Rate' and 'Economic Growth Index'?",
+        "answer": "No, Granger causality exists from 'Inflation Rate' to 'Economic Growth Index' (p-value = 0.029), but not in the reverse direction.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [165, 176, 189, 198],
+        "question": "Does 'Stock Market Index' Granger-cause changes in 'Economic Growth Index'?",
+        "answer": "Yes, a significant Granger causal relationship is observed with a p-value of 0.015.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [177, 191],
+        "question": "What key insights can be drawn from the Granger causality tests performed?",
+        "answer": "'Industrial Production Index' and 'Stock Market Index' significantly Granger-cause 'Economic Growth Index', while 'Inflation Rate' influences 'Economic Growth Index' but not vice versa.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/bigironsphere/socioeconomic-data-and-applications-center",
+        "https://www.kaggle.com/datasets/aslates/cdp-datasets"
+    ],
+    "dataset_description": "Relevant indicators drawn from the World Development Indicators, reorganized according to the goals and targets of the Sustainable Development Goals (SDGs). These indicators may help to monitor SDGs, but they are not always the official indicators for SDG monitoring. ",
+    "notebook_url": "https://www.kaggle.com/code/shabou/cdp-challenge-climate-adaptation-index",
+    "domain": "Socioeconomics",
+    "help_data_file_names": [
+        "country.csv",
+        "country_series.csv",
+        "footnote.csv",
+        "series.csv",
+        "timeseries.csv"
+    ]
+}

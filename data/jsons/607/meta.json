@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/group16/covid19-literature-knowledge-graph",
+        "https://www.kaggle.com/datasets/daishu/covid19-knowledge-graph",
+        "https://www.kaggle.com/datasets/chrisfilo/yahoo-knowledge-graph-covid19-datasets",
+        "https://www.kaggle.com/datasets/junyiacademy/learning-activity-public-dataset-by-junyi-academy",
+        "https://www.kaggle.com/datasets/enriquemartinlopez/covid19-ie-from-literature-processed-triplets",
+        "https://www.kaggle.com/datasets/vishwas199728/corona-tested-sample"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/daishu/covid-19-knowledge-graph",
+    "domain": "Health",
+    "help_data_file_names": []
+}

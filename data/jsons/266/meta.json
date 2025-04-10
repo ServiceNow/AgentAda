@@ -1,0 +1,23 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering",
+        "https://www.kaggle.com/datasets/harrimansaragih/clustering-data-id-gender-income-spending",
+        "https://www.kaggle.com/datasets/shibumohapatra/icmr-data",
+        "https://www.kaggle.com/datasets/khushipitroda/imdb-top-250-tv-shows",
+        "https://www.kaggle.com/datasets/khushipitroda/top-250-indian-movies-imdb",
+        "https://www.kaggle.com/datasets/khushipitroda/uci-dataset",
+        "https://www.kaggle.com/datasets/khushipitroda/imdb-top-250-french-movies",
+        "https://www.kaggle.com/datasets/onthada/benchmarks-datasets-for-clustering",
+        "https://www.kaggle.com/datasets/sylvieliberman/erowid-experience-report-word2vec-vectors",
+        "https://www.kaggle.com/datasets/thedevastator/clustering-polygons-utilizing-iris-moon-and-circ",
+        "https://www.kaggle.com/datasets/setseries/airbnb-listings-in-california",
+        "https://www.kaggle.com/datasets/sushanthegde/northeast-atlantic-sea-bottom-temperature",
+        "https://www.kaggle.com/datasets/yasserhessein/anuran-calls-mfccs",
+        "https://www.kaggle.com/datasets/devantltd/analysing-second-hand-car-sales-data",
+        "https://www.kaggle.com/datasets/mltrev23/clustering-wine"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/gauravduttakiit/clustering-using-k-means-hierarchical",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

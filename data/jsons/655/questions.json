@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "What dataset was used for the market basket analysis?",
+        "answer": "The dataset consists of customer transaction records detailing items purchased together.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [12, 18],
+        "question": "Which items were most frequently bought together?",
+        "answer": "Milk and bread, coffee and sugar, and chips and soda were the most frequently purchased item pairs.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [23, 29],
+        "question": "What are the top-selling products in the dataset?",
+        "answer": "Milk, eggs, and bread were the top-selling products based on transaction frequency.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [36, 42, 50],
+        "question": "Which product pairs had the highest lift values?",
+        "answer": "Diapers and beer had the highest lift value, suggesting a strong association between their purchases.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [55, 63, 71],
+        "question": "What confidence level was observed for customers purchasing bread and butter together?",
+        "answer": "The confidence level for this association rule was 78%.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [79, 86, 94],
+        "question": "How do the support values differ among different product categories?",
+        "answer": "Essential goods like milk and bread had higher support values, while luxury goods had significantly lower support.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [102, 110],
+        "question": "Which product categories demonstrated the strongest association rules?",
+        "answer": "Dairy products and bakery items had the strongest association rules based on customer transactions.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [117, 125, 133],
+        "question": "What seasonal trends were identified in the dataset?",
+        "answer": "Seasonal trends indicated increased sales of ice cream and cold beverages in the summer months.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [140, 148, 156],
+        "question": "What marketing strategies were recommended based on the analysis?",
+        "answer": "Retailers were advised to create combo offers and discounts for frequently bought-together items.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [162, 170, 178],
+        "question": "How did promotional discounts affect product associations?",
+        "answer": "Discounts led to stronger associations between snack items and beverages, increasing joint purchases.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    }
+]

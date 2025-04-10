@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/behrad3d/nasa-cmaps",
+        "https://www.kaggle.com/datasets/saravanaj/nasa-turbofan-engine-degradation-simulation-data"
+    ],
+    "dataset_description": "Prognostics and health management is an important topic in industry for predicting state of assets to avoid downtime and failures. This data set is the Kaggle version of the very well known public data set for asset degradation modeling from NASA. It includes Run-to-Failure simulated data from turbo fan jet engines. ",
+    "notebook_url": "https://www.kaggle.com/code/vinayak123tyagi/damage-propagation-modeling-for-aircraft-engine",
+    "domain": "Aviation",
+    "help_data_file_names": ["train.csv"]
+}

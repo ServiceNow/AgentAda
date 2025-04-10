@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-outcomes-and"
+    ],
+    "dataset_description": "The Austin Animal Center is the largest no-kill animal shelter in the United States that provides care and shelter to over 18,000 animals each year and is involved in a range of county, city, and state-wide initiatives for the protection and care of abandoned, at-risk, and surrendered animals.",
+    "notebook_url": "https://www.kaggle.com/code/rtatman/data-cleaning-challenge-imputing-missing-values",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

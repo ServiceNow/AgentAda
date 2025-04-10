@@ -1,0 +1,15 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/hr-analytics-case-study",
+        "https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset",
+        "https://www.kaggle.com/datasets/nikhilraj7700/amazon-employee-reviews",
+        "https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction",
+        "https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition",
+        "https://www.kaggle.com/datasets/nikhilbhosle/employee-attrition-uncleaned-dataset",
+        "https://www.kaggle.com/datasets/sivm205/hr-data"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/karthikssalian/employee-retention-analysis-and-prediction",
+    "domain": "Human Resources",
+    "help_data_file_names": []
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Create a book recommendation system using book and Wikipedia link embeddings.",
+    "persona": "An innovative data analyst specializing in recommendation systems with a focus on leveraging deep neural networks and matrix factorization. Experienced in extracting insights from large, complex datasets to develop sophisticated models that align book similarities based on Wikipedia link patterns. Passionate about using entity embeddings to enhance the accuracy and relevance of recommendation systems."
+}

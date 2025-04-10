@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset was used for topic modeling with Latent Dirichlet Allocation?",
+        "answer": "The dataset consists of a collection of news articles from multiple online sources.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [25, 29],
+        "question": "How many topics were identified in the dataset using Latent Dirichlet Allocation?",
+        "answer": "The analysis identified 15 distinct topics within the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [38],
+        "question": "Which topic was the most dominant in the dataset?",
+        "answer": "The topic related to 'politics and government policies' was the most dominant in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [50, 54],
+        "question": "What are the top three keywords associated with the most prevalent topic?",
+        "answer": "The top three keywords for the most prevalent topic were 'election', 'government', and 'policy'.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [66, 72, 78],
+        "question": "What percentage of the dataset was covered by the top two topics?",
+        "answer": "The top two topics accounted for approximately 57% of the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [85, 92],
+        "question": "Which topic had the lowest representation in the dataset?",
+        "answer": "The topic related to 'space exploration' had the lowest representation in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [104, 111, 118],
+        "question": "What was the coherence score used to evaluate the quality of the topics?",
+        "answer": "The final model achieved a coherence score of 0.49, indicating a moderate level of topic separation.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [126, 135],
+        "question": "Which news articles were most strongly associated with the business and finance topic?",
+        "answer": "Articles containing terms like 'stock market', 'investment', and 'economic growth' were strongly associated with the business and finance topic.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [144, 153, 160],
+        "question": "How did the distribution of topics vary across different news sources?",
+        "answer": "Political news was more common in major newspapers, while technology-related topics appeared more frequently in specialized tech blogs.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [172, 180],
+        "question": "What were the key insights gained from the topic modeling analysis?",
+        "answer": "The analysis revealed dominant themes in news reporting, highlighting major discussion areas such as politics, finance, and global affairs.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    }
+]

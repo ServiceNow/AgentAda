@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of nodes and edges in the network, and how does this form the basis for PageRank analysis?",
+      "answer": "The network contains 500 nodes and 2,000 edges, providing a dense structure for PageRank computations.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of edge weights in the network, and how do they reflect the strength of interactions?",
+      "answer": "Edge weights range from 1 to 50, with higher weights representing stronger interactions between characters.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5],
+      "question": "Which nodes have the highest degree centrality, and how do they correlate with their PageRank scores?",
+      "answer": "Nodes with the highest degree centrality also have high PageRank scores, indicating their importance in the network.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [6, 7],
+      "question": "What are the top 5 nodes by PageRank score, and what does this indicate about their roles in the network?",
+      "answer": "The top 5 nodes by PageRank score are central characters like Jon Snow and Tyrion Lannister, indicating their pivotal roles.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [8, 9, 10],
+      "question": "How does the PageRank score distribution vary across factions, and what insights can be drawn about faction influence?",
+      "answer": "Factions like the Lannisters and Starks have higher average PageRank scores, reflecting their dominance in the network.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [11, 12],
+      "question": "How do changes in the damping factor affect the PageRank scores of key nodes?",
+      "answer": "Reducing the damping factor decreases the influence of indirect connections, altering the PageRank scores of peripheral nodes.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [13, 14, 15],
+      "question": "Which edges contribute most to the high PageRank scores of key nodes, and what does this reveal about network dynamics?",
+      "answer": "Edges with high weights between central nodes, such as alliances between major houses, significantly boost their PageRank scores.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [16, 17],
+      "question": "What are the roles of low PageRank nodes in the network, and how do they support the overall structure?",
+      "answer": "Low PageRank nodes represent minor characters, often serving as bridges or connectors between major clusters.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [18, 19, 20],
+      "question": "How do the PageRank scores of nodes correlate with their clustering coefficients?",
+      "answer": "Nodes with high PageRank scores often have lower clustering coefficients, indicating their role as hubs connecting diverse groups.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    },
+    {
+      "cell_ids": [21, 22, 23, 24],
+      "question": "What actionable insights from the PageRank analysis can inform strategies for understanding network influence and power dynamics?",
+      "answer": "Insights include focusing on high PageRank nodes for influence propagation studies and analyzing edge weight dynamics for alliance strength.",
+      "task": "Network Analysis",
+      "skill": "PageRank"
+    }
+  ]
+  

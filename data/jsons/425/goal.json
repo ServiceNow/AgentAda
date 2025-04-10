@@ -1,0 +1,4 @@
+{
+    "goal": "Identify anomalies in the time series dataset to inform future decision-making.",
+    "persona": "A data analyst specializing in time series analysis with a focus on anomaly detection. They have over 3 years of experience in analyzing financial transaction data to detect fraudulent activity. Interested in leveraging machine learning models like Isolation Forest for efficient anomaly detection and passionate about using data visualization techniques such as t-SNE for insightful data representations across different industry segments."
+}

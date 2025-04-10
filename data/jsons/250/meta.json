@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/adityaxa/retail-rfm-analysis",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project",
+        "https://www.kaggle.com/datasets/samantas2020/online-retail-xlsx"
+    ],
+    "dataset_description": "Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers. ",
+    "notebook_url": "https://www.kaggle.com/code/fekihmea/customers-segmentation-k-means-rfm",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

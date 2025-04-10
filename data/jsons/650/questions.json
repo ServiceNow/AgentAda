@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "What dataset was used for the time series analysis of stock market prices?",
+        "answer": "The dataset consists of daily stock prices, including opening, closing, high, and low prices for various companies from 2010 to 2023.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [22, 30],
+        "question": "What trend was observed in stock prices over the analyzed period?",
+        "answer": "The stock market exhibited long-term growth with periodic corrections and downturns during economic recessions.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [41],
+        "question": "Which stock sector showed the highest average growth in the analyzed period?",
+        "answer": "The technology sector exhibited the highest average growth rate over the years.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [57, 64],
+        "question": "What seasonal effects were identified in stock prices?",
+        "answer": "Stock prices tended to rise during Q4 due to holiday shopping and end-of-year financial reporting.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [79, 88, 92],
+        "question": "How did major financial events impact stock prices?",
+        "answer": "Stock prices were highly volatile during financial crises such as the COVID-19 pandemic and interest rate hikes.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [105, 113],
+        "question": "What forecasting models were applied to predict stock prices?",
+        "answer": "ARIMA and LSTM models were used to forecast stock prices based on historical trends.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [125, 132, 141],
+        "question": "What was the observed correlation between trading volume and stock price movements?",
+        "answer": "Higher trading volumes were associated with larger price fluctuations, particularly during earnings announcements.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [157, 166],
+        "question": "What was the forecasted trend for stock prices based on the LSTM model?",
+        "answer": "The LSTM model predicted a steady upward trend with short-term volatility in stock prices.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [178, 185, 193],
+        "question": "How did external macroeconomic factors influence stock market trends?",
+        "answer": "Inflation rates and GDP growth showed a strong correlation with overall market performance.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [198, 200],
+        "question": "What were the key investment strategies suggested based on the time series analysis?",
+        "answer": "A diversified portfolio with a focus on growth stocks was recommended for long-term investments.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

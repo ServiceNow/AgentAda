@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/alexandrepetit881234/fake-bills",
+        "https://www.kaggle.com/datasets/jahnic/data-on-sales-posted-on-redflagdeals",
+        "https://www.kaggle.com/datasets/gabrielmilan/m5-accuracy-preprocessed-datasets",
+        "https://www.kaggle.com/datasets/vcolliym/pydml",
+        "https://www.kaggle.com/datasets/spektrum/preprocessing2-of-titanic-dataset",
+        "https://www.kaggle.com/datasets/krystallee/funky-buddha",
+        "https://www.kaggle.com/datasets/khurramejaz/sz-dataset",
+        "https://www.kaggle.com/datasets/vasudeva009/predicting-coupon-redemption-pca"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/devahuja2808/kernel-pca",
+    "domain": "Fraud",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [16],
+        "question": "What dataset was used for topic modeling with Latent Dirichlet Allocation?",
+        "answer": "The dataset consists of COVID-19 research papers from the CORD-19 collection.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [30, 34],
+        "question": "How many topics were identified in the dataset using Latent Dirichlet Allocation?",
+        "answer": "The analysis identified 25 distinct topics within the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [42],
+        "question": "Which topic was the most dominant in the dataset?",
+        "answer": "The topic related to 'COVID-19 transmission and prevention' was the most dominant in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [55, 60],
+        "question": "What are the top three keywords associated with the most prevalent topic?",
+        "answer": "The top three keywords for the most prevalent topic were 'virus', 'infection', and 'spread'.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [73, 79, 85],
+        "question": "What percentage of the dataset was covered by the top two topics?",
+        "answer": "The top two topics accounted for approximately 65% of the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [97, 104],
+        "question": "Which topic had the lowest representation in the dataset?",
+        "answer": "The topic related to 'mental health effects of COVID-19' had the lowest representation in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [115, 122, 130],
+        "question": "What was the coherence score used to evaluate the quality of the topics?",
+        "answer": "The final model achieved a coherence score of 0.55, indicating a strong separation between topics.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [140, 148],
+        "question": "Which research papers were most strongly associated with the vaccine development topic?",
+        "answer": "Research papers containing terms like 'clinical trials', 'mRNA', and 'vaccine efficacy' were strongly associated with the vaccine development topic.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [159, 167, 172],
+        "question": "How did the distribution of topics vary across different sources of research papers?",
+        "answer": "Papers from medical journals focused more on treatment and transmission, while preprints covered a wider range of emerging research areas.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [180, 188],
+        "question": "What were the key insights gained from the topic modeling analysis?",
+        "answer": "The analysis revealed key trends in COVID-19 research, including major focus areas such as transmission, treatment, and vaccine development.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    }
+]

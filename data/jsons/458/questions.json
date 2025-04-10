@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many records are in the US drug overdose dataset?",
+        "answer": "The dataset contains 30,000 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 14],
+        "question": "What is the average drug overdose rate across all states?",
+        "answer": "The average drug overdose rate is 15.7 per 100,000 people.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [21, 29, 35],
+        "question": "Which states have the highest and lowest overdose rates?",
+        "answer": "West Virginia has the highest overdose rate, while Nebraska has the lowest.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [43, 51, 60],
+        "question": "How does spatial autocorrelation help identify overdose hotspots?",
+        "answer": "Spatial autocorrelation helps detect clusters of high overdose rates, indicating potential epidemic zones.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [68, 76, 85, 92],
+        "question": "What does a high positive Moran’s I value indicate in the overdose dataset?",
+        "answer": "A high positive Moran’s I value indicates that high overdose rates are clustered in specific geographic regions.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [101, 110, 119, 128],
+        "question": "What is the interpretation of a Moran’s I value near zero in the dataset?",
+        "answer": "A Moran’s I value near zero suggests that drug overdose rates are randomly distributed across locations.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [136, 145, 154, 163],
+        "question": "Which socioeconomic factors show the strongest correlation with overdose clusters?",
+        "answer": "Unemployment rate, median income, and healthcare access show the strongest correlation with overdose clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [171, 180, 189, 198],
+        "question": "How does changing the spatial weight matrix affect the analysis?",
+        "answer": "Adjusting the spatial weight matrix alters the neighborhood relationships, affecting the detection of overdose clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [206, 215, 224, 233],
+        "question": "What does a negative Moran’s I value imply for drug overdose patterns?",
+        "answer": "A negative Moran’s I value suggests a dispersed pattern, meaning high and low overdose rates are interspersed rather than clustered.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [241, 250, 259, 268],
+        "question": "What regional differences are observed in spatial autocorrelation of drug overdoses?",
+        "answer": "Appalachian and Rust Belt regions show strong positive spatial autocorrelation, while Western states exhibit more dispersed patterns.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    }
+]

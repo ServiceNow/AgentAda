@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of The Witcher network analysis?",
+        "answer": "The dataset represents a character co-occurrence network where nodes are characters and edges represent interactions between them in The Witcher series.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the key attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the frequency or strength of interactions between characters.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4, 5],
+        "question": "How many characters and interactions are present in the network?",
+        "answer": "The network contains 500 characters and 1,200 interactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "Which character has the highest degree in the network?",
+        "answer": "Geralt of Rivia has the highest degree, interacting with 120 other characters.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What is the average clustering coefficient of the network?",
+        "answer": "The average clustering coefficient of the network is 0.38.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [9, 10, 11],
+        "question": "Which character has the highest PageRank score, and what is the value?",
+        "answer": "Ciri has the highest PageRank score of 0.017.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many connected components exist in the network?",
+        "answer": "The network has 8 connected components.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, with some edges having weights as high as 15, representing frequent interactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of characters has the highest weight, and what does it represent?",
+        "answer": "Geralt of Rivia and Yennefer of Vengerberg have the highest weight of 15, representing the strongest interaction in the network.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the diameter of The Witcher character network?",
+        "answer": "The diameter of the network is 10, representing the longest shortest path between any two characters.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    }
+]

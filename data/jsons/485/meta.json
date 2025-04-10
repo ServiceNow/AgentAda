@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/konradb/foreign-exchange-rates-2003-2021"
+    ],
+    "dataset_description": "This dataset contains daily FX rates for the major currencies provided by Yahoo finance; the naming convention should be self-explanatory, for convenience the codes of individual currencies.",
+    "notebook_url": "https://www.kaggle.com/code/konradb/fx-cointegration",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

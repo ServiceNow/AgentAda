@@ -1,0 +1,30 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/zain280/titanic-data-set",
+        "https://www.kaggle.com/datasets/waqi786/titanic-dataset",
+        "https://www.kaggle.com/datasets/nelgiriyewithana/global-missing-migrants-dataset",
+        "https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri",
+        "https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection",
+        "https://www.kaggle.com/datasets/sakshisatre/titanic-dataset",
+        "https://www.kaggle.com/datasets/alyelbadry/titanic-survive-model",
+        "https://www.kaggle.com/datasets/thegoanpanda/brain-tumor-stage-based-recurrence-patterns",
+        "https://www.kaggle.com/datasets/nancyalaswad90/cancer-statistics-in-us-states",
+        "https://www.kaggle.com/datasets/anthonytherrien/gladiator-combat-records-and-profiles-dataset",
+        "https://www.kaggle.com/datasets/mohdshahnawazaadil/titanic-dataset",
+        "https://www.kaggle.com/datasets/emmanueldjegou/ordered-failure-times-table-for-survival-analysis",
+        "https://www.kaggle.com/datasets/uom190346a/health-and-demographics-dataset",
+        "https://www.kaggle.com/datasets/sonialikhan/titanic-data-set",
+        "https://www.kaggle.com/datasets/navamisunil/synthetic-breast-cancer-survival-prediction",
+        "https://www.kaggle.com/datasets/patricklford/nhs-cancer-data",
+        "https://www.kaggle.com/datasets/saurabhj123/titanic-dataset",
+        "https://www.kaggle.com/datasets/anthonytherrien/vampire-characters",
+        "https://www.kaggle.com/datasets/manroopsingh1/trainingtest-set-for-titanic-survival-prediction",
+        "https://www.kaggle.com/datasets/patricklford/global-co-emissions"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/benjenkins96/understanding-survival-analysis",
+    "domain": "Disaster",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

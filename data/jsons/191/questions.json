@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            3
+        ],
+        "question": "What is the purpose of using a popularity-based system for new customers in this recommendation system design?",
+         "answer": "Popularity-based system targets new customers with the most popular products sold on a business's website and is very useful to cold start a recommendation engine.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            5
+        ],
+        "question": "What does  `truncatedSVD` perform?",
+         "answer": "It is used for performing the principal component analysis in this recommendation system.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+      {
+        "cell_ids": [
+            7
+        ],
+          "question": "What are the dimensions of the matrix resulting from `pivot_table` function?",
+          "answer": "The shape is 706 rows × 810 columns",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            8
+        ],
+        "question": "What is the main idea behind using matrix factorization in this recommendation system?",
+         "answer": "To  determine some underlying mathematical structure in the user rating matrix, which can help us predict missing ratings in the future.",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+  {
+        "cell_ids": [
+            13
+        ],
+         "question": "How does the notebook identify the movie for the corresponding movie id in the recommendation section?",
+        "answer": "It uses the `movies` dataframe and looks for a match with  `movieId` column, then gets corresponding movie title.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+         "cell_ids": [
+            16
+         ],
+        "question": "What type of data is used for the third recommendation system?",
+          "answer":"The recommendation system uses the product descriptions",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            16
+        ],
+        "question": "What method is used for extracting numerical features from the text of the product description?",
+         "answer": "TfidfVectorizer",
+          "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+   {
+        "cell_ids": [
+            22
+        ],
+        "question": "What is the function of KMeans algorithm?",
+        "answer":"To group similar product description in to one group.",
+          "task": "Customer Segmentation",
+         "skill":"K-means Clustering"
+    },
+   {
+        "cell_ids": [
+           27
+        ],
+        "question": "What is the main idea of  Item-Item based recommendation system, in contrast to User-Based collaborative model?",
+        "answer": "Item-to-item collaborative filtering matches each of the user’s purchased and rated items to similar items, then combines those similar items into a recommendation list while user-based CF matches the user to similar customers",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+          "cell_ids": [
+            29
+        ],
+       "question": "What does the output of the `recommend` function shows?",
+         "answer": "It outputs the top words in each product cluster based on product descriptions.",
+         "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of Korean drama network analysis?",
+        "answer": "The dataset represents a network of characters in Korean dramas, where nodes are characters and edges represent their interactions or relationships.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the main attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the strength or frequency of interactions between characters.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4, 5],
+        "question": "How many characters and interactions are represented in the network?",
+        "answer": "The network contains 200 characters and 600 interactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "Which character has the highest degree in the network?",
+        "answer": "The character 'Lee Min-Ho' has the highest degree, connecting to 50 other characters.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What is the modularity of the network after applying the Louvain method?",
+        "answer": "The modularity of the network is 0.42, indicating a moderate community structure.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "How many communities are detected using the Louvain method?",
+        "answer": "The Louvain method detected 8 communities in the network.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [11, 12, 13],
+        "question": "Which community has the largest number of characters?",
+        "answer": "Community 3 has the largest number of characters, with 60 members.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What is the average clustering coefficient of the network?",
+        "answer": "The average clustering coefficient of the network is 0.35.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [16, 17],
+        "question": "Which pair of characters has the strongest interaction, and what does it represent?",
+        "answer": "The pair 'Lee Min-Ho' and 'Park Shin-Hye' has the strongest interaction, with a weight of 10, representing frequent interactions.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [18, 19],
+        "question": "What is the diameter of the network?",
+        "answer": "The diameter of the network is 12, indicating the longest shortest path between any two characters.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    }
+]

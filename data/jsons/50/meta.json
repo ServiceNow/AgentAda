@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction"],
+    "dataset_description": "In this Loan Status Prediction dataset, we have the data of applicants who previously applied for the loan based on the property which is a Property Loan.",
+    "notebook_url": "https://www.kaggle.com/code/msjahid/loan-status-analysis-exploring-approval-patterns/notebook",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aadrika/customer-churn"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/aadrika/customer-churn-aadrika",
+    "domain": "Business",
+    "help_data_file_names": []
+}

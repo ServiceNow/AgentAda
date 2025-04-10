@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rukenmissonnier/real-market-data",
+        "https://www.kaggle.com/datasets/newshuntkannada/dataset-for-apriori-and-fp-growth-algorithm",
+        "https://www.kaggle.com/datasets/sujithmandala/grocery-store-transaction-data",
+        "https://www.kaggle.com/datasets/jeffheaton/characteristics-that-favor-freqitemset-algorithms",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-records",
+        "https://www.kaggle.com/datasets/ginikachiomenukor/market-basket-dataset"
+    ],
+    "dataset_description": "Market Basket Analysis is one of the key techniques used by large retailers to uncover associations between items. It works by looking for combinations of items that occur together frequently in transactions. To put it another way, it allows retailers to identify relationships between the items that people buy.",
+    "notebook_url": "https://www.kaggle.com/code/blk1804/apriori-and-fp-growth",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

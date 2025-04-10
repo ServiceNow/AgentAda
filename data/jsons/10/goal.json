@@ -1,0 +1,4 @@
+{
+    "goal": "Determine the sentiment of reviews using text analysis techniques.",
+    "persona": "A data scientist with expertise in natural language processing, specializing in sentiment analysis and machine learning models. Experienced in working with large text datasets and applying advanced techniques like BERT to extract meaningful insights from unstructured data. Passionate about improving model accuracy and exploring the implications of sentiment trends for various applications."
+}

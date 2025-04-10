@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/lorentzyeung/all-japanese-anime-titles-in-imdb",
+        "https://www.kaggle.com/datasets/kingabzpro/world-vaccine-progress",
+        "https://www.kaggle.com/datasets/rhonarosecortez/pizza-sales-dataset",
+        "https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war",
+        "https://www.kaggle.com/datasets/harigoshika/google-stock-price-prediction-2024-to-2030",
+        "https://www.kaggle.com/datasets/manishkr1754/nifty50-mar2008-dec-2022csv",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/births-and-deaths-per-year",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/population-1950",
+        "https://www.kaggle.com/datasets/kpradyumna/product-sales-forecasting",
+        "https://www.kaggle.com/datasets/jocelyndumlao/interactive-tactile-feedback-dataset-e-commerce",
+        "https://www.kaggle.com/datasets/vishalsinghsangral/usa-bank-financial-data",
+        "https://www.kaggle.com/datasets/anzalitiwari/ecommerce-clothes-web-performance",
+        "https://www.kaggle.com/datasets/kenjee/z-unlocked-challenge-1-data-visualization",
+        "https://www.kaggle.com/datasets/gigihtirtakalimanda/uk-online-retails-data-transaction",
+        "https://www.kaggle.com/datasets/thedevastator/transportation-to-work-by-race-ethnicity",
+        "https://www.kaggle.com/datasets/karanjethwani/largest-companies-in-u-s-a-by-revenue",
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset",
+        "https://www.kaggle.com/datasets/pieca111/polish-baby-names-2000-2023",
+        "https://www.kaggle.com/datasets/krishnayadav456wrsty/global-population-trends-1960-2023-to-2080",
+        "https://www.kaggle.com/datasets/karanjethwani/largest-companies-in-us-by-revenue"
+    ],
+    "dataset_description": "This dataset contains historic data for the daily ten minute closing auction on the NASDAQ stock exchange. Your challenge is to predict the future price movements of stocks relative to the price future price movement of a synthetic index composed of NASDAQ-listed stocks.",
+    "notebook_url": "https://www.kaggle.com/code/meli19/interactive-visualization-time-series",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

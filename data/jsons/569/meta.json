@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish"
+    ],
+    "dataset_description": "Studying top products requires more than just product listings. You also need to know what sells well and what does not.",
+    "notebook_url": "https://www.kaggle.com/code/jjmewtw/total-analysis-of-pca-sparse-pca-nmf-kernel-pca",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

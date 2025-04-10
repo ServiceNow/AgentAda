@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/titanic"
+    ],
+    "dataset_description": "Start here! Predict survival on the Titanic and get familiar with ML basics",
+    "notebook_url": "https://www.kaggle.com/code/parulpandey/a-guide-to-handling-missing-values-in-python",
+    "domain": "Travel",
+    "help_data_file_names": ["train.csv"]
+}

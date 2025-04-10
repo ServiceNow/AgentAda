@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many regions are included in the water-use efficiency dataset?",
+        "answer": "The dataset includes water-use efficiency data from 150 regions.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [7, 9],
+        "question": "What are the key performance indicators (KPIs) used to evaluate water-use efficiency?",
+        "answer": "Key performance indicators include 'Water-Use Efficiency', 'Water Stress Level', 'Water Withdrawal', and 'Water Consumption'.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Which region has the highest water-use efficiency score?",
+        "answer": "Northern Europe has the highest water-use efficiency score of 85.3.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [14, 16],
+        "question": "Which factor contributes the most to water-use efficiency?",
+        "answer": "Water withdrawal management contributes the most to water-use efficiency, accounting for 45% of the overall score.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [18, 20],
+        "question": "What is the average water-use efficiency score across all regions?",
+        "answer": "The average water-use efficiency score across all regions is 68.2.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [22],
+        "question": "How does water stress level impact the water-use efficiency score?",
+        "answer": "Regions with high water stress levels tend to have lower water-use efficiency scores due to increased water consumption demand.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [25, 27, 30],
+        "question": "What is the trend of water-use efficiency scores over time?",
+        "answer": "Water-use efficiency scores have shown a gradual increase over the past decade, indicating improved water conservation efforts.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [32],
+        "question": "Which regions are most vulnerable based on water-use efficiency impact analysis?",
+        "answer": "Regions in Sub-Saharan Africa and South Asia have the lowest water-use efficiency scores, making them the most vulnerable.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [34, 36, 38, 40],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Regions with higher water management strategies and low water withdrawal rates tend to have better water-use efficiency scores, while those with high water stress levels struggle the most.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

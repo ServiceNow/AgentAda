@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1, 2],
+      "question": "What is the total number of transactions in the dataset?",
+      "answer": "The dataset contains 284,807 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [3, 4],
+      "question": "What is the percentage of fraudulent transactions in the dataset?",
+      "answer": "The percentage of fraudulent transactions is 0.172%.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 6, 7],
+      "question": "What is the average transaction amount in the dataset?",
+      "answer": "The average transaction amount is $88.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [8, 9, 10],
+      "question": "What is the maximum transaction amount recorded in the dataset?",
+      "answer": "The maximum transaction amount is $25,691.16.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [11, 12, 13],
+      "question": "What is the minimum transaction amount recorded in the dataset?",
+      "answer": "The minimum transaction amount is $0.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [14, 15],
+      "question": "Are there any correlations observed between transaction features and fraudulent activity?",
+      "answer": "Certain features like 'V1' and 'V2' show strong correlations with fraudulent transactions.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [16, 17, 18],
+      "question": "What is the feature importance ranking for detecting fraudulent transactions?",
+      "answer": "Features like 'V4', 'V12', and 'Amount' are among the top-ranked for detecting fraud.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [19, 20],
+      "question": "What is the model's accuracy in detecting fraudulent transactions?",
+      "answer": "The model achieves an accuracy of 99.8%.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [21, 22, 23],
+      "question": "What is the precision score of the fraud detection model?",
+      "answer": "The model's precision score is 91.6%.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [24, 25, 26],
+      "question": "What is the recall score of the fraud detection model?",
+      "answer": "The model's recall score is 90.1%.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    }
+  ]
+  

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What is the total number of records in the dataset?",
+        "answer": "The dataset contains 7,845 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28, 42],
+        "question": "What is the time range covered in this dataset?",
+        "answer": "The dataset spans from January 2010 to December 2023.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [55, 69, 81],
+        "question": "What are the main seasonal patterns observed in the data?",
+        "answer": "The dataset exhibits significant seasonal peaks in the summer months and declines in winter.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [92, 108, 120, 131],
+        "question": "What is the long-term trend observed in the dataset?",
+        "answer": "The long-term trend shows steady growth from 2010 to 2018, followed by slight fluctuations from 2019 onward.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [143, 159],
+        "question": "What percentage of variance is captured by the seasonal component?",
+        "answer": "The seasonal component captures approximately 65% of the total variance in the dataset.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [166, 178, 189],
+        "question": "Which months contribute the most to seasonal variations?",
+        "answer": "The months of June and December contribute the most to seasonal variations.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [195, 200],
+        "question": "How much of the variability in the dataset remains unexplained after decomposition?",
+        "answer": "The residual component accounts for about 20% of the total variability.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [112, 137, 152],
+        "question": "How does the trend component behave in recent years?",
+        "answer": "The trend component shows a peak in 2018, a slight dip in 2020, and a gradual recovery post-2021.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [176, 193],
+        "question": "What year exhibited the highest increase in the trend component?",
+        "answer": "The year 2017 exhibited the highest increase in the trend component, with a 30% rise compared to the previous year.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [199],
+        "question": "What overall insights can be derived from the seasonal-trend decomposition?",
+        "answer": "The decomposition reveals a clear seasonal pattern, strong long-term growth until 2018, and post-2020 fluctuations.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

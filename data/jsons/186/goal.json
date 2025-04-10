@@ -1,0 +1,4 @@
+{
+    "goal": "Build a recommendation system to optimize movie recommendations for users.",
+    "persona": "A data scientist with expertise in building recommendation systems, focusing on collaborative filtering and matrix factorization techniques to enhance user experience in digital platforms."
+}

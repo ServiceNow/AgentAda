@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the primary objective of the neural network in this notebook?",
+          "answer": "The primary objective is not to make accurate predictions on new data, but to generate the best embeddings of books and wikilinks.",
+        "task": "Recommendation Systems",
+        "skill": "Deep Neural Networks"
+    },
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the core principle behind this book recommendation system?",
+         "answer": "The system is based on a simple principle that books with Wikipedia pages that link to similar Wikipedia pages are similar to each other",
+       "task": "Recommendation Systems",
+         "skill": "Deep Neural Networks"
+    },
+     {
+        "cell_ids": [
+           1
+        ],
+        "question": "What are entity embeddings and what is their purpose in recommendation systems?",
+         "answer": "Entity embeddings are a low-dimensional learned representation of categorical variables, which places similar entities closer together in the embedding space. Their purpose is to provide numerical representations of books and links based on learned preferences, making them suitable for use in recommendation systems.",
+          "task": "Recommendation Systems",
+        "skill": "Deep Neural Networks"
+    },
+    {
+        "cell_ids": [
+            1
+        ],
+         "question": "What are the two main components of the training examples used in the supervised machine learning task?",
+         "answer": "The training examples consist of (book, link) pairs.",
+          "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+ {
+        "cell_ids": [
+            1
+        ],
+        "question": "What kind of loss function is used for the regression model?",
+        "answer": "The loss function is mean squared error.",
+        "task":"Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+       "cell_ids": [
+            1
+        ],
+      "question":"What kind of loss function is used for classification model?",
+        "answer":"binary cross entropy",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+      },
+     {
+        "cell_ids": [
+           3
+        ],
+        "question": "How is the data for each book stored?",
+        "answer": "The data is stored as json with a line for every book. Each book entry contains the title, the information from the `Infobox book` template, the internal Wikipedia links, the external links, the date of last edit, and the number of characters in the article.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            8
+        ],
+        "question": "What is the role of `nn.Parameter` in the context of PyTorch modules?",
+        "answer": "It's a marker used by `Module` to identify and include tensors in a modules's `parameters` method.",
+         "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+  {
+        "cell_ids": [
+            12
+        ],
+        "question": "What is the function of the dot product in the matrix factorization model?",
+         "answer": "The dot product is used to combine the user and item embeddings into a single number",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+     {
+       "cell_ids": [
+            38
+        ],
+      "question": "What does the `get_emb_sz` function return?",
+       "answer": "Recommended sizes for embedding matrices based on a heuristic",
+          "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+   }
+]

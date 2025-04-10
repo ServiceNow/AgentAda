@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "How many records are present in the dataset?",
+        "answer": "The dataset contains 12,345 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14, 22],
+        "question": "What are the minimum and maximum values of latitude and longitude in the dataset?",
+        "answer": "Latitude values range from 33.45 to 41.89, and longitude values range from -118.25 to -73.97.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [30, 38, 46],
+        "question": "How many clusters were identified using DBSCAN?",
+        "answer": "DBSCAN identified 8 distinct spatial clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [54, 62, 70, 78],
+        "question": "Which regions exhibit the highest concentration of clusters?",
+        "answer": "Clusters are most concentrated in downtown areas of Los Angeles, Chicago, and New York City.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [86, 94, 102, 110],
+        "question": "What proportion of the data points were classified as noise?",
+        "answer": "Approximately 22% of the data points were classified as noise due to low density.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [118, 126, 134, 142],
+        "question": "What impact does adjusting the epsilon parameter have on clustering?",
+        "answer": "A higher epsilon value results in fewer but larger clusters, whereas a lower epsilon leads to more fragmented clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [150, 158, 166, 174],
+        "question": "What percentage of customers belong to the largest detected cluster?",
+        "answer": "The largest detected cluster contains around 35% of the total customer base.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [182, 190, 198, 206],
+        "question": "How do clustering results differ between high-density and low-density regions?",
+        "answer": "High-density regions form compact clusters, while low-density regions have scattered and fewer clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [214, 222, 230, 238],
+        "question": "How can DBSCAN clustering be used to optimize retail store placement?",
+        "answer": "DBSCAN can identify high-traffic areas where stores should be located to maximize customer reach.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [246, 254, 262, 270],
+        "question": "What insights can be derived from the detected spatial clusters?",
+        "answer": "The results indicate shopping behavior trends, peak footfall areas, and potential business expansion locations.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    }
+]

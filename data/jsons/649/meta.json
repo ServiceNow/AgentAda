@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data"
+    ],
+    "dataset_description": "This dataset includes the historical data of S&P 500 index from 1927 to 2020 with columns of date, opening price, highest price, lowest price, closing price, adjusted closing price, and the number of shares traded each day. ",
+    "notebook_url": "https://www.kaggle.com/code/kushal1506/timeseries-s-p500-stockanalysis-arima-lstm",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

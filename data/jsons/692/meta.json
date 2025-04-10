@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset"
+    ],
+    "dataset_description": "This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon",
+    "notebook_url": "https://www.kaggle.com/code/mehakiftikhar/amazon-sales-dataset-eda",
+    "domain": "Business",
+    "help_data_file_names": []
+}

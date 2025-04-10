@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze retail transaction data to identify sales trends and optimize data processing efficiency.",
+    "persona": "A data scientist with expertise in big data technologies and retail analytics, focused on leveraging MapReduce to enhance the scalability and efficiency of processing large-scale retail transaction datasets for strategic sales insights."
+}

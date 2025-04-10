@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/khushipitroda/imdb-top-250-tv-shows",
+        "https://www.kaggle.com/datasets/lakritidis/product-classification-and-categorization",
+        "https://www.kaggle.com/datasets/khushipitroda/top-250-indian-movies-imdb",
+        "https://www.kaggle.com/datasets/khushipitroda/uci-dataset",
+        "https://www.kaggle.com/datasets/khushipitroda/imdb-top-250-french-movies",
+        "https://www.kaggle.com/datasets/rabieelkharoua/masala-insights-cooking-comments-classification",
+        "https://www.kaggle.com/datasets/thedevastator/unlocking-financial-opportunities-through-crypto",
+        "https://www.kaggle.com/datasets/thedevastator/imdb-movie-review-sentiment-dataset"
+    ],
+    "dataset_description": "This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form. ",
+    "notebook_url": "https://www.kaggle.com/code/fazilbtopal/popular-unsupervised-clustering-algorithms",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

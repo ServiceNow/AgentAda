@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics",
+        "https://www.kaggle.com/datasets/abhinav89/telecom-customer",
+        "https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis",
+        "https://www.kaggle.com/datasets/dileep070/logisticregression-telecomcustomer-churmprediction",
+        "https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom",
+        "https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn",
+        "https://www.kaggle.com/datasets/suraj520/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/rjmanoj/telecom-customer-churn-prediction",
+        "https://www.kaggle.com/datasets/royjafari/customer-churn",
+        "https://www.kaggle.com/datasets/ashirzaki/telecomchurninsights",
+        "https://www.kaggle.com/datasets/mahreen/sato2015",
+        "https://www.kaggle.com/datasets/mustafakeser4/bigquery-churn-dataset",
+        "https://www.kaggle.com/datasets/ashishkumarsingh123/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/hritikesinghrawat/telecom-churn-data",
+        "https://www.kaggle.com/datasets/shivam131019/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/rashadrmammadov/customer-churn-dataset",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/customer-churn",
+        "https://www.kaggle.com/datasets/ahmedgaitani/customer-churn-prediction-dataset",
+        "https://www.kaggle.com/datasets/venkatasubramanian/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/swarajkhan/telecom-churn-predict"
+    ],
+    "dataset_description": "Each row represents a customer, each column contains customer\u2019s attributes described on the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features). The \u201cChurn\u201d column is our target.",
+    "notebook_url": "https://www.kaggle.com/code/essiahouaoui/telecom-customer-churn-prediction",
+    "domain": "Telecommunication",
+    "help_data_file_names": []
+}

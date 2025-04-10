@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/furkangozukara/ecommerce-products-dataset-for-record-linkage",
+        "https://www.kaggle.com/datasets/devkumarnayak/agglomerative-hierachial-clustering-dataset"
+    ],
+    "dataset_description": "Hierarchical clustering algorithms are either top-down or bottom-up. Bottomup algorithms treat each document as a singleton cluster at the outset and then successively merge (or agglomerate) pairs of clusters until all clusters have been merged into a single cluster that contains all documents. Bottom up hierarchical clustering is therefore called hierarchical agglomerative clustering or HAC. Top-down clustering requires a method for splitting a cluster. HAC It proceeds by splitting clusters recursively until individual documents are reached. ",
+    "notebook_url": "https://www.kaggle.com/code/khotijahs1/hierarchical-agglomerative-clustering",
+    "domain": "Commerce",
+    "help_data_file_names": ["rating.csv"]
+}

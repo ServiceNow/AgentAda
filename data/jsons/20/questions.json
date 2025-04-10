@@ -1,0 +1,105 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What is the size of the dataset used for sentiment analysis, and how are the sentiment labels distributed?",
+        "answer": "The dataset contains 30,000 reviews, evenly split between positive and negative sentiments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+            4,
+            5
+        ],
+        "question": "What preprocessing steps are applied to the reviews before training the LSTM model?",
+        "answer": "Preprocessing includes tokenization, converting text to sequences, and padding or truncating to a maximum length of 150.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            6,
+            7
+        ],
+        "question": "What embedding size is used in the LSTM model, and how does it impact performance?",
+        "answer": "The embedding size is set to 200, providing a richer semantic representation at a slightly higher computational cost.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            8,
+            9
+        ],
+        "question": "What accuracy does the LSTM model achieve on the validation dataset?",
+        "answer": "The LSTM model achieves 96% accuracy on the validation dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            10,
+            11
+        ],
+        "question": "What types of reviews are most frequently misclassified by the LSTM model?",
+        "answer": "Reviews with mixed or neutral sentiments are most frequently misclassified.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            12,
+            13,
+            14
+        ],
+        "question": "How does increasing the number of LSTM layers affect the model's performance?",
+        "answer": "Adding more layers improves accuracy up to 2 layers, beyond which overfitting is observed.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "What role does the dropout rate play in improving the generalization of the LSTM model?",
+        "answer": "A dropout rate of 0.4 reduces overfitting and improves model generalization on unseen data.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            17,
+            18
+        ],
+        "question": "What are the most common words in reviews classified as positive sentiment?",
+        "answer": "Words like 'amazing', 'excellent', and 'love' are frequently found in positive sentiment reviews.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            19,
+            20
+        ],
+        "question": "How does varying the batch size affect the training time and accuracy of the LSTM model?",
+        "answer": "A batch size of 64 provides the best balance between training time and model accuracy.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            21,
+            22,
+            23
+        ],
+        "question": "What is the impact of review length on the accuracy of the LSTM model?",
+        "answer": "The model performs better on reviews with lengths between 50 and 150 words, with reduced accuracy for shorter or longer reviews.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    }
+]

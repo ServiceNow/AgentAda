@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "What is the total number of records in the dataset?",
+        "answer": "The dataset contains 23,547 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18, 26],
+        "question": "What are the mean and median values of the key numerical variables?",
+        "answer": "The mean value is 52.1, while the median value is 50.3.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [34, 42, 50],
+        "question": "Which latent variables are defined in the structural equation model?",
+        "answer": "The latent variables include 'Market Growth', 'Customer Satisfaction', and 'Product Value'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [58, 66, 74, 82],
+        "question": "Which observed variables have the most significant influence on 'Market Growth'?",
+        "answer": "'Advertising Budget' and 'Brand Recognition' have the strongest influence on 'Market Growth'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [90, 98, 106, 114],
+        "question": "What is the path coefficient between 'Customer Satisfaction' and 'Repeat Purchase Intent'?",
+        "answer": "The path coefficient between 'Customer Satisfaction' and 'Repeat Purchase Intent' is 0.78.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [122, 130, 138, 146],
+        "question": "Does 'Price Competitiveness' have a direct or indirect effect on 'Customer Retention'?",
+        "answer": "'Price Competitiveness' has an indirect effect on 'Customer Retention' via 'Customer Loyalty'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [154, 162, 170, 178],
+        "question": "What percentage of the variance in 'Revenue Growth' is explained by the model?",
+        "answer": "The model explains 68% of the variance in 'Revenue Growth' (R² = 0.68).",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [186, 194, 202, 210],
+        "question": "What is the significance level of the relationship between 'Brand Awareness' and 'Market Share'?",
+        "answer": "The relationship is statistically significant with a p-value of 0.002.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [218, 226, 234, 242],
+        "question": "Which factor has the highest total effect on 'Customer Satisfaction'?",
+        "answer": "'Product Quality' has the highest total effect on 'Customer Satisfaction' with a total effect value of 0.85.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [250, 258, 266, 274],
+        "question": "What are the key insights derived from the structural equation model?",
+        "answer": "The model suggests that increasing 'Product Value' and 'Service Quality' will significantly enhance 'Customer Retention'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    }
+]

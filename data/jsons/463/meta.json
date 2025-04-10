@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors",
+        "https://www.kaggle.com/datasets/thedevastator/global-movie-franchise-revenue-and-budget-data",
+        "https://www.kaggle.com/datasets/coolkaggleuser/sms-spam-collection-data-set",
+        "https://www.kaggle.com/datasets/thedevastator/times-of-india-headlines-analysis",
+        "https://www.kaggle.com/datasets/thedevastator/flight-performance-characteristics-of-three-inse",
+        "https://www.kaggle.com/datasets/thedevastator/nfl-player-performance-statistics",
+        "https://www.kaggle.com/datasets/thedevastator/hong-kong-social-contact-dynamics",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/marcinrutecki/clustering-methods-comprehensive-study",
+    "domain": "Human Resources",
+    "help_data_file_names": ["train.csv"]
+}

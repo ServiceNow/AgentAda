@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What is the distribution of sentiment labels in the Twitter dataset?",
+        "answer": "The dataset contains 7,500 positive tweets and 7,500 negative tweets.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What is the average word count for tweets in the dataset?",
+        "answer": "The average word count per tweet is 14 words.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4],
+        "question": "What are the most common hashtags in positive sentiment tweets?",
+        "answer": "Common hashtags in positive tweets include #love, #happy, and #amazing.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "What is the overall accuracy of the Naive Bayes model on the test dataset?",
+        "answer": "The Naive Bayes model achieves 84% accuracy on the test dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [7],
+        "question": "What is the precision of the Naive Bayes model for predicting positive sentiment?",
+        "answer": "The precision for positive sentiment predictions is 86%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [8, 9],
+        "question": "How does the model handle tweets with emojis in terms of classification accuracy?",
+        "answer": "Tweets with emojis are classified with an accuracy of 89%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What percentage of tweets containing negations like 'not' are correctly classified?",
+        "answer": "80% of tweets containing negations are correctly classified.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "What is the recall of the Naive Bayes model for negative sentiment tweets?",
+        "answer": "The recall for negative sentiment tweets is 82%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [13],
+        "question": "How does the Naive Bayes model perform on tweets shorter than 10 words?",
+        "answer": "Tweets shorter than 10 words are classified with 77% accuracy.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What is the false positive rate for negative tweets misclassified as positive?",
+        "answer": "The false positive rate is 11%.",
+        "task": "Sentiment Analysis",
+        "skill": "Naive Bayes"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many features and samples are present in the dataset?",
+        "answer": "The dataset contains 12,000 samples and 30 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 10],
+        "question": "Are there any missing values in the dataset?",
+        "answer": "No, the dataset does not contain any missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14, 18, 22],
+        "question": "Which feature has the highest absolute LASSO coefficient?",
+        "answer": "'total_sales' has the highest absolute LASSO coefficient with a value of 2.31.",
+        "task": "Feature Importance Ranking",
+        "skill": "LASSO Regularization"
+    },
+    {
+        "cell_ids": [27, 32, 38, 44],
+        "question": "What are the top five most important features according to LASSO?",
+        "answer": "The top five features are 'total_sales' (2.31), 'customer_loyalty' (1.87), 'promotion_usage' (1.42), 'purchase_frequency' (1.19), and 'average_order_value' (1.05).",
+        "task": "Feature Importance Ranking",
+        "skill": "LASSO Regularization"
+    },
+    {
+        "cell_ids": [49, 55, 62],
+        "question": "Which features have been reduced to zero coefficients by LASSO?",
+        "answer": "'customer_reviews', 'email_engagement', and 'web_traffic' have been reduced to zero coefficients.",
+        "task": "Feature Importance Ranking",
+        "skill": "LASSO Regularization"
+    },
+    {
+        "cell_ids": [68, 75, 83, 91],
+        "question": "What does a zero coefficient in LASSO indicate?",
+        "answer": "A zero coefficient means that the feature does not contribute significantly to the model and has been removed.",
+        "task": "Feature Importance Ranking",
+        "skill": "LASSO Regularization"
+    },
+    {
+        "cell_ids": [97, 104, 112],
+        "question": "How does increasing the LASSO regularization strength affect feature importance?",
+        "answer": "Increasing LASSO regularization strength forces more coefficients to zero, reducing the number of selected features.",
+        "task": "Feature Importance Ranking",
+        "skill": "LASSO Regularization"
+    },
+    {
+        "cell_ids": [119, 127, 135, 143],
+        "question": "Which feature has the lowest non-zero LASSO coefficient?",
+        "answer": "'social_media_ads' has the lowest non-zero LASSO coefficient with a value of 0.06.",
+        "task": "Feature Importance Ranking",
+        "skill": "LASSO Regularization"
+    },
+    {
+        "cell_ids": [150, 158, 166, 174],
+        "question": "How does LASSO feature selection compare to feature importance from a Random Forest model?",
+        "answer": "LASSO assigns higher importance to 'total_sales' and 'promotion_usage', while Random Forest gives more weight to 'web_traffic' and 'customer_reviews'.",
+        "task": "Feature Importance Ranking",
+        "skill": "LASSO Regularization"
+    },
+    {
+        "cell_ids": [182, 190, 198, 207],
+        "question": "How does LASSO feature selection improve model efficiency?",
+        "answer": "LASSO reduces overfitting by eliminating less relevant features, leading to a 20% reduction in model complexity while maintaining predictive accuracy.",
+        "task": "Feature Importance Ranking",
+        "skill": "LASSO Regularization"
+    }
+]

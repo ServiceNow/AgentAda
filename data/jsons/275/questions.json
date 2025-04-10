@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of tweet analysis?",
+        "answer": "The dataset represents a network where nodes are Twitter users and edges represent interactions such as mentions, replies, or retweets.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the key attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the frequency or strength of interactions between users.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4, 5],
+        "question": "How many users and interactions are present in the network?",
+        "answer": "The network contains 10,000 users and 50,000 interactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "Which user has the highest degree in the network?",
+        "answer": "User123 has the highest degree, interacting with 1,200 other users.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What is the average clustering coefficient of the network?",
+        "answer": "The average clustering coefficient of the network is 0.42.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [9, 10, 11],
+        "question": "Which user has the highest PageRank score, and what is the value?",
+        "answer": "User789 has the highest PageRank score of 0.015.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many connected components are in the network?",
+        "answer": "The network has 150 connected components.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, while some edges have weights as high as 20, indicating frequent interactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of users has the highest weight, and what does it represent?",
+        "answer": "User123 and User456 have the highest weight of 20, representing the most frequent interactions in the network.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the diameter of the Twitter interaction network?",
+        "answer": "The diameter of the network is 8, representing the longest shortest path between any two users.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    }
+]

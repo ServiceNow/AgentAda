@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze movie ratings to identify trends and recommend movies.",
+    "persona": "A data analyst with expertise in recommendation systems and collaborative filtering approaches, aiming to enhance user experience by providing personalized movie recommendations. Interested in leveraging user demographics and movie genres to optimize prediction accuracy and improve the RMSE and MAE scores of recommendation models."
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the transportation network between Indian cities to identify key connections and community structures.",
+    "persona": "A data scientist specialized in network analysis with 7 years of experience in urban transportation systems. They are interested in understanding city connectivity patterns and optimizing logistics in large metropolitan areas. This individual is proficient in using advanced network analysis techniques and tools such as the Louvain method to uncover community structures within complex networks."
+}

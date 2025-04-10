@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What is the total number of time series records in the dataset?",
+        "answer": "The dataset contains 15,000 time series records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [23, 35],
+        "question": "What is the frequency of the time series data in the dataset?",
+        "answer": "The time series data is recorded at a frequency of 1 observation per minute.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [48, 60, 74],
+        "question": "How does wavelet decomposition help in identifying trends in time series data?",
+        "answer": "Wavelet decomposition separates high-frequency fluctuations from the main trend, making it easier to identify underlying patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [87, 99, 113, 126],
+        "question": "How can wavelet coefficients be used to detect seasonal patterns in time series data?",
+        "answer": "Wavelet coefficients allow for the extraction of periodic components at different frequency bands, revealing seasonal trends.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [138, 150],
+        "question": "How does wavelet-based smoothing impact short-term fluctuations in time series data?",
+        "answer": "Wavelet-based smoothing reduces noise and short-term fluctuations, making long-term trends more visible.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [55, 77, 101, 124],
+        "question": "What role do high-frequency components play in identifying anomalies in time series data?",
+        "answer": "High-frequency components capture sudden changes in the data, which can be used to detect anomalies or outliers.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [130, 143, 157],
+        "question": "How can wavelet-based multi-resolution analysis improve the detection of hidden patterns in time series data?",
+        "answer": "Multi-resolution analysis decomposes time series data into multiple frequency bands, revealing hidden structures at different time scales.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [165, 176],
+        "question": "What happens when a time series is reconstructed using only low-frequency wavelet components?",
+        "answer": "Reconstructing a time series with only low-frequency components removes short-term variations, highlighting the long-term trend.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [69, 92, 116],
+        "question": "How does wavelet-based feature extraction enhance forecasting models?",
+        "answer": "Wavelet-based feature extraction captures key frequency components that improve the accuracy of forecasting models.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [128, 145, 163, 179],
+        "question": "How can wavelet decomposition be used to analyze structural breaks in time series data?",
+        "answer": "Wavelet decomposition isolates abrupt changes in data structure, helping to identify structural breaks and regime shifts.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

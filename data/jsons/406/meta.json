@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric",
+        "https://www.kaggle.com/datasets/imtkaggleteam/clinical-dataset",
+        "https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset",
+        "https://www.kaggle.com/datasets/bilalozgur/online-retail-rfm-and-cohort-analysis-customer-seg",
+        "https://www.kaggle.com/datasets/danofer/law-school-admissions-bar-passage",
+        "https://www.kaggle.com/datasets/ibrahimonmars/licensed-drivers-by-state-gender-and-age-group",
+        "https://www.kaggle.com/datasets/davedarshan/customer360insights",
+        "https://www.kaggle.com/datasets/thedevastator/boost-student-success-with-college-completion-da",
+        "https://www.kaggle.com/datasets/antaresnyc/human-gut-microbiome-with-asd",
+        "https://www.kaggle.com/datasets/cameronmacpherson/ml-course-ku-3927220000-p003",
+        "https://www.kaggle.com/datasets/mahdiehhajian/images-of-the-large-group-of-head-and-neck",
+        "https://www.kaggle.com/datasets/keremkarayaz/streaming-video-subscriptions-datasets",
+        "https://www.kaggle.com/datasets/thedevastator/childhood-allergies-prevalence-diagnosis-and-tre",
+        "https://www.kaggle.com/datasets/thedevastator/virtual-patient-model-assessment",
+        "https://www.kaggle.com/datasets/thedevastator/college-completion-and-efficiency-measures-for-u",
+        "https://www.kaggle.com/datasets/wduckett/californiaddsexpenditures",
+        "https://www.kaggle.com/datasets/emmanueldjegou/simplified-survival-data",
+        "https://www.kaggle.com/datasets/patjob/sales-cycle-cohort-data"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/erhanalasar/cohort-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

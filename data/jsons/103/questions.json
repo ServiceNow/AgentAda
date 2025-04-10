@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the overall trend observed in the demand dataset over the recorded period?",
+        "answer": "The dataset shows a steady increase in demand with periodic seasonal fluctuations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly demand recorded in the dataset?",
+        "answer": "The average monthly demand is approximately 3,200 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are evident in the demand data?",
+        "answer": "Seasonal peaks occur during holiday periods, particularly in November and December.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest recorded demand in the dataset, and in which month and year did it occur?",
+        "answer": "The highest demand recorded is 5,000 units, observed in December 2020.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What are the forecasted demand values for the next quarter using the LSTM model?",
+        "answer": "The forecasted demand values for the next quarter range between 3,500 and 4,200 units.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What does the dataset indicate about variability in demand across different seasons?",
+        "answer": "The dataset shows higher variability during seasonal peaks and more stable demand during off-peak periods.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How does the LSTM model's forecast compare with historical seasonal trends?",
+        "answer": "The forecast closely aligns with historical trends, accurately predicting seasonal increases and decreases.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Were there any missing values in the demand dataset, and how were they handled?",
+        "answer": "The dataset had missing values for two months, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What insights can be drawn about long-term demand trends from the dataset?",
+        "answer": "The dataset demonstrates consistent growth over time with predictable seasonal spikes during holiday months.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What external factors might influence the forecasted trends in demand?",
+        "answer": "Factors such as market conditions, promotional activities, and economic changes could significantly impact demand trends.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    }
+]

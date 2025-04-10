@@ -1,0 +1,4 @@
+{
+    "goal": "Identify frequent itemsets and uncover association rules using transaction data.",
+    "persona": "An experienced data scientist specializing in market basket analysis with a decade of expertise in retail analytics. Focused on utilizing advanced algorithms like ECLAT to discover patterns and trends in consumer purchasing behavior to enhance cross-selling strategies and optimize inventory management. Highly interested in leveraging data-driven insights to boost sales and customer satisfaction in a retail environment."
+}

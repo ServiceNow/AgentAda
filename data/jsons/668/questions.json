@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What dataset was used for customer segmentation in this analysis?",
+        "answer": "The dataset contains customer transaction data, including purchase frequency, amount spent, and demographic details.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [11, 18],
+        "question": "How many customer clusters were identified in the segmentation process?",
+        "answer": "Five customer clusters were identified based on purchasing behavior and spending patterns.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [24, 31, 37],
+        "question": "Which features were used to define customer segments?",
+        "answer": "Key features included total spending, purchase frequency, recency of last transaction, and customer lifetime value.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [42, 50, 57],
+        "question": "What are the characteristics of the most valuable customer segment?",
+        "answer": "The most valuable customers are frequent buyers with high transaction amounts and low churn rates.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [65, 72, 78],
+        "question": "Which segment of customers is at risk of churning?",
+        "answer": "Segment 4 has customers with low purchase frequency and high time since last transaction, indicating churn risk.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [83, 91, 99],
+        "question": "How does the lowest-spending segment compare to the highest-spending segment?",
+        "answer": "The highest-spending segment has an average transaction value 6 times greater than the lowest-spending segment.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [107, 115, 122],
+        "question": "What insights can be derived about seasonal purchasing trends from the clustering?",
+        "answer": "Some segments, such as occasional buyers, show increased activity during holiday periods.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [130, 138, 145],
+        "question": "How can businesses use this segmentation to improve marketing strategies?",
+        "answer": "Businesses can target high-value customers with exclusive offers and re-engage at-risk customers with discounts.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [152, 159, 167],
+        "question": "Which cluster contains the most frequent buyers?",
+        "answer": "Cluster 2 contains customers who make frequent but moderately priced purchases.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [175, 183, 190],
+        "question": "What role does demographic information play in segmentation results?",
+        "answer": "Demographic factors such as age and location contribute to differences in spending patterns between segments.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    }
+]

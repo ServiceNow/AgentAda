@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [16],
+        "question": "How many customer segments are identified in the dataset?",
+        "answer": "The dataset identifies 5 customer segments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [34, 47],
+        "question": "What is the average recency score for the high-value customers?",
+        "answer": "The average recency score for high-value customers is 8.4.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [58, 69, 82],
+        "question": "What latent variables are included in the structural equation model for customer segmentation?",
+        "answer": "The latent variables include 'Customer Loyalty', 'Purchase Frequency', and 'Monetary Value'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [97, 109, 124, 136],
+        "question": "Which observed variables have the highest direct impact on 'Customer Loyalty'?",
+        "answer": "'Purchase Frequency' and 'Average Order Value' have the highest direct impact on 'Customer Loyalty'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [142, 158, 173, 189],
+        "question": "What is the estimated path coefficient between 'Monetary Value' and 'Customer Retention'?",
+        "answer": "The estimated path coefficient between 'Monetary Value' and 'Customer Retention' is 0.72.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [196, 210, 225, 238],
+        "question": "Does 'Customer Tenure' mediate the relationship between 'Purchase Frequency' and 'Customer Retention'?",
+        "answer": "'Customer Tenure' partially mediates the relationship between 'Purchase Frequency' and 'Customer Retention', reducing the direct effect from 0.68 to 0.41.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [251, 267, 281, 296],
+        "question": "What percentage of the variance in 'Customer Lifetime Value' is explained by the model?",
+        "answer": "The model explains 79% of the variance in 'Customer Lifetime Value' (R² = 0.79).",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [305, 319, 332, 347],
+        "question": "Is there a statistically significant relationship between 'Customer Engagement' and 'Repeat Purchase Rate'?",
+        "answer": "Yes, there is a statistically significant relationship with a p-value of 0.003.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [359, 372, 385, 398],
+        "question": "Which variable has the strongest direct effect on 'Customer Retention'?",
+        "answer": "'Customer Loyalty' has the strongest direct effect on 'Customer Retention' with a path coefficient of 0.81.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [410, 423, 437, 452],
+        "question": "What are the key findings from the structural equation model applied to customer segmentation?",
+        "answer": "The model highlights that 'Purchase Frequency' and 'Customer Loyalty' are key drivers of 'Customer Retention', which significantly impacts 'Customer Lifetime Value'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    }
+]

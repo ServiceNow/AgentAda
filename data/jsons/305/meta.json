@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset"
+    ],
+    "dataset_description": "The Groceries Market Basket Dataset, which can be found here. The dataset contains 9835 transactions by customers shopping for groceries. The data contains 169 unique items.",
+    "notebook_url": "https://www.kaggle.com/code/patelvishwa112/apriori-algorithm-on-grocery-market-data",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

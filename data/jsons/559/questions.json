@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "What is the total number of records in the dataset?",
+        "answer": "The dataset contains 29,500 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 17],
+        "question": "What is the mean value of the third numerical feature?",
+        "answer": "The mean value of the third numerical feature is 6.12.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [26],
+        "question": "What preprocessing steps were performed before dimensionality reduction?",
+        "answer": "The dataset was normalized, missing values were imputed, and categorical variables were encoded.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [37, 41],
+        "question": "How many principal components were retained after decomposition?",
+        "answer": "The first 15 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [54, 58, 63],
+        "question": "What proportion of variance is explained by the first four principal components?",
+        "answer": "The first four principal components explain 77% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [71, 76],
+        "question": "How does feature correlation impact the effectiveness of dimensionality reduction?",
+        "answer": "Highly correlated features contribute redundant information, which dimensionality reduction techniques help to eliminate, improving efficiency.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [85],
+        "question": "What dataset was used in this analysis?",
+        "answer": "The dataset consists of customer transaction records from a retail business.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [99, 103, 108, 113],
+        "question": "What visualization technique was used to interpret the distribution of principal components?",
+        "answer": "A scatter plot of the first two principal components was used to visualize the transformed data.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [126],
+        "question": "How does Eigenvalue Decomposition contribute to feature selection?",
+        "answer": "It identifies the most significant features based on variance contribution, allowing for better selection of informative attributes.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [138, 143, 149, 155],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition for reducing data complexity?",
+        "answer": "Eigenvalue Decomposition successfully reduced the dataset's dimensionality while preserving key relationships, making further analysis more efficient.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

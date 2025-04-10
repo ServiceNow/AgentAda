@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 15,432 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28, 45],
+        "question": "What is the time range covered in the dataset?",
+        "answer": "The dataset spans from January 2016 to December 2023.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [53, 67, 81],
+        "question": "Is there a long-term trend in the dataset?",
+        "answer": "Yes, the dataset shows a steady increase in traffic over time, with periodic dips.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [94, 105, 121, 132],
+        "question": "What is the primary seasonal pattern observed in the dataset?",
+        "answer": "The dataset exhibits strong weekly and yearly seasonal patterns, with peaks during weekends and December.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [144, 157, 169],
+        "question": "How significant is the seasonal component compared to the trend?",
+        "answer": "The seasonal component explains approximately 40% of the variance, while the trend accounts for 55%.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [177, 185, 193, 199],
+        "question": "Are there any anomalies in the residual component?",
+        "answer": "Yes, there are large residual spikes in April 2020 and November 2022, likely due to external events.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

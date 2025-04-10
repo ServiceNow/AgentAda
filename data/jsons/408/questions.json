@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many records and features are included in the time-based cohort analysis dataset?",
+        "answer": "The dataset contains 195,000 records and 26 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [15, 21],
+        "question": "What is the overall customer retention rate over a 12-month period?",
+        "answer": "The overall customer retention rate over 12 months is 61%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [26],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 92%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [32, 39],
+        "question": "How does customer retention vary across different time-based cohorts?",
+        "answer": "Customers who made their first purchase during holiday seasons retain at 77%, whereas off-season first-time buyers retain at 45%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [45, 52, 58],
+        "question": "What is the retention rate for customers who make purchases at regular intervals versus sporadic buyers?",
+        "answer": "Customers who make purchases every 2 months retain at 82%, while sporadic buyers retain at 37%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [64, 71, 78, 84],
+        "question": "How do special event campaigns impact cohort retention?",
+        "answer": "Customers who engage in special event campaigns retain at 31% higher rates compared to those who do not participate.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [90],
+        "question": "Which customer segment has the highest long-term retention?",
+        "answer": "Customers who engage in subscription-based purchases retain at 87%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [97, 104, 110],
+        "question": "What sequential purchasing patterns are observed among high-retention customers?",
+        "answer": "Customers who purchase fitness equipment tend to buy related supplements within 40 days, increasing retention by 24%.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [117, 123, 130, 137],
+        "question": "What insights can be derived from the cohort retention and sequential pattern analysis?",
+        "answer": "Retention rates decline by 29% after month 3, indicating that post-purchase engagement needs improvement. Sequential purchase trends suggest that offering discounts on complementary products increases retention.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [144, 151, 158, 165],
+        "question": "How does customer retention compare year-over-year?",
+        "answer": "The retention rate improved by 15% over the past year, largely due to enhanced time-based segmentation and optimized sequential purchase recommendations.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    }
+]

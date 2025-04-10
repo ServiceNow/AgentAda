@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/priyanshusethi/happiness-classification-dataset",
+        "https://www.kaggle.com/datasets/jocelyndumlao/impulse-buying-factors-on-tiktok-shop",
+        "https://www.kaggle.com/datasets/michaelbryantds/internet-speeds-and-prices",
+        "https://www.kaggle.com/datasets/mdabrarjahin/male-abuse-2k-data",
+        "https://www.kaggle.com/datasets/pramodgupta92/who-covid-19-global-data",
+        "https://www.kaggle.com/datasets/mateiiuliana/exploratory-data-analysis-eda-for-covind-19"
+    ],
+    "dataset_description": "The CDP dataset consists of publicly available responses to 3 different surveys: (1) corporate climate change disclosures; (2) corporate water security disclosures; and (3) disclosures from cities. Data is available for 2018, 2019, and 2020, along with a small collection of supplementary datasets. A starter notebook demonstrates how to load and work with the data. ",
+    "notebook_url": "https://www.kaggle.com/code/shabou/exploratory-analysis-of-cities-responses",
+    "domain": "Wellness",
+    "help_data_file_names": ["city_locations.csv"]
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [13],
+        "question": "What dataset was used for topic modeling with Latent Dirichlet Allocation?",
+        "answer": "The dataset consists of customer reviews from various e-commerce websites.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [27, 33],
+        "question": "How many topics were identified in the dataset using Latent Dirichlet Allocation?",
+        "answer": "The analysis identified 12 distinct topics within the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [42],
+        "question": "Which topic was the most dominant in the dataset?",
+        "answer": "The topic related to 'product quality and user satisfaction' was the most dominant in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [55, 62],
+        "question": "What are the top three keywords associated with the most prevalent topic?",
+        "answer": "The top three keywords for the most prevalent topic were 'quality', 'durability', and 'recommend'.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [74, 80, 87],
+        "question": "What percentage of the dataset was covered by the top two topics?",
+        "answer": "The top two topics accounted for approximately 66% of the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [95, 103],
+        "question": "Which topic had the lowest representation in the dataset?",
+        "answer": "The topic related to 'return and refund policies' had the lowest representation in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [118, 125, 132],
+        "question": "What was the coherence score used to evaluate the quality of the topics?",
+        "answer": "The final model achieved a coherence score of 0.52, indicating a moderate level of topic consistency.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [141, 150],
+        "question": "Which customer reviews were most strongly associated with the customer service topic?",
+        "answer": "Reviews containing terms like 'support', 'response time', and 'helpful' were strongly associated with the customer service topic.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [162, 170, 178],
+        "question": "How did the distribution of topics vary across different product categories?",
+        "answer": "Electronics had more reviews about technical support, while clothing had more reviews about fit and fabric quality.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    },
+    {
+        "cell_ids": [186, 194],
+        "question": "What were the key insights gained from the topic modeling analysis?",
+        "answer": "The analysis highlighted key themes such as product durability, pricing concerns, and customer service responsiveness, providing insights into customer priorities.",
+        "task": "Topic Modeling",
+        "skill": "Latent Dirichlet Allocation"
+    }
+]

@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data"],
+    "dataset_description": "Some say climate change is the biggest threat of our age while others say it’s a myth based on dodgy science. We are turning some of the data over to you so you can form your own view.",
+    "notebook_url": "https://www.kaggle.com/code/leandrovrabelo/climate-change-forecast-sarima-model/notebook",
+    "domain": "Weather",
+    "help_data_file_names": []
+}

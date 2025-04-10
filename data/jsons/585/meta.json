@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction"
+    ],
+    "dataset_description": "In this competition, you are asked to develop models that can predict the ranking of protein thermostability (as measured by melting point, tm) after single-point amino acid mutation and deletion",
+    "notebook_url": "https://www.kaggle.com/code/jbomitchell/spearman-correlation-of-public-models",
+    "domain": "Science",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

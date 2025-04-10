@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [18],
+        "question": "What is the total number of sales records available in the dataset?",
+        "answer": "The dataset contains 143,000 sales records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [34, 49],
+        "question": "What is the time range covered by the sales data?",
+        "answer": "The sales data spans from February 2010 to October 2012.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [57, 71, 84],
+        "question": "How does wavelet decomposition help in identifying seasonal trends in sales data?",
+        "answer": "Wavelet decomposition separates high-frequency fluctuations from underlying seasonal patterns, helping to reveal recurring sales trends.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [92, 108, 123, 137],
+        "question": "What insights can be gained by analyzing the wavelet coefficients of sales data?",
+        "answer": "Wavelet coefficients help detect sudden changes in sales trends, such as promotional spikes or economic downturns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [145, 159],
+        "question": "How does multi-resolution wavelet decomposition improve forecasting accuracy for sales data?",
+        "answer": "Multi-resolution decomposition captures short-term variations while preserving long-term sales trends, leading to more accurate predictions.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [65, 79, 98, 117],
+        "question": "What role do low-frequency components play in analyzing retail sales trends?",
+        "answer": "Low-frequency components reveal the overall growth or decline in sales over time, helping in long-term strategic planning.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [126, 138, 152],
+        "question": "How can wavelet energy distribution be used to identify periods of high sales volatility?",
+        "answer": "Wavelet energy distribution highlights time periods with sharp fluctuations in sales, often associated with seasonal promotions or economic events.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [171, 182],
+        "question": "What happens when sales data is reconstructed using only low-frequency wavelet coefficients?",
+        "answer": "Reconstruction with low-frequency coefficients smooths out short-term fluctuations, revealing the underlying sales trend.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [54, 72, 95],
+        "question": "How does wavelet-based feature extraction contribute to sales anomaly detection?",
+        "answer": "Wavelet decomposition identifies unexpected deviations from sales trends, helping to detect anomalies such as stock shortages or market disruptions.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [113, 128, 147, 163],
+        "question": "How can wavelet decomposition be leveraged to detect seasonal shifts in consumer behavior?",
+        "answer": "Wavelet decomposition isolates seasonal patterns, revealing shifts in consumer purchasing habits across different time periods.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

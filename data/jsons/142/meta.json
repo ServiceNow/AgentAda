@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/lucasgreenwell/depression-anxiety-stress-scales-responses"
+    ],
+    "dataset_description": "Questions, answers, and metadata collected from 39775 Depression Anxiety Stress Scales. The data was hosted on OpenPsychometrics.org a nonprofit effort to educate the public about psychology and to collect data for psychological research.",
+    "notebook_url": "https://www.kaggle.com/code/noobiedatascientist/isolation-forest-and-eda",
+    "domain": "Health",
+    "help_data_file_names": []
+}

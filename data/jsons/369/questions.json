@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "How many records and features are included in the elevator predictive maintenance dataset?",
+        "answer": "The dataset contains 180,000 records and 22 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 16],
+        "question": "What is the average operational cycle count before an elevator failure?",
+        "answer": "The average operational cycle count before failure is 280 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [19],
+        "question": "Which sensor readings are used as input features for the predictive maintenance LSTM model?",
+        "answer": "Key sensor readings include motor temperature, vibration, pressure, speed, and door usage count.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [22, 26],
+        "question": "How does increased motor temperature affect elevator failure probability?",
+        "answer": "Motor temperatures above 85°C increase failure probability by 68%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [30, 34, 38],
+        "question": "What is the distribution of failure types across elevator components?",
+        "answer": "The dataset contains 42% motor failures, 33% door mechanism failures, and 25% sensor failures.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [41, 45, 48, 52],
+        "question": "How does vibration level correlate with elevator breakdowns?",
+        "answer": "Elevators with vibration levels exceeding 3.5 m/s² have a failure probability of 75%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [56],
+        "question": "Which sensor feature has the highest correlation with elevator failures?",
+        "answer": "The number of door usage cycles is the most predictive feature, followed by vibration and motor temperature.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [60, 64, 68],
+        "question": "What impact does feature scaling have on the LSTM model’s accuracy?",
+        "answer": "Feature scaling improves failure prediction accuracy by 5% by reducing sensor variance.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [72, 76, 80, 84],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The LSTM model predicts failures with 91% accuracy up to 60 cycles in advance, with door usage and motor temperature as key failure indicators.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    }
+]

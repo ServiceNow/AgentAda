@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/sabari50312/fundus-pytorch"
+    ],
+    "dataset_description": "Subset of the SMDG-19 for Glaucoma dataset in PyTorch Format",
+    "notebook_url": "https://www.kaggle.com/code/banddaniel/glaucoma-classification-w-vit-f1-score-0-91",
+    "domain": "Health",
+    "help_data_file_names": []
+}

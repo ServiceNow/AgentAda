@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/saurabhbadole/game-of-thrones-book-dataset",
+        "https://www.kaggle.com/datasets/jishnukoliyadan/breaking-bad-network-analysis",
+        "https://www.kaggle.com/datasets/sarmadriaz/a-network-analysis-of-game-of-thrones",
+        "https://www.kaggle.com/datasets/kingabzpro/gameofthronesbooks"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mmmarchetti/game-of-thrones-network-analysis",
+    "domain": "Literature",
+    "help_data_file_names": [
+        "book2.csv",
+        "book3.csv",
+        "book4.csv",
+        "book5.csv"
+    ]
+}

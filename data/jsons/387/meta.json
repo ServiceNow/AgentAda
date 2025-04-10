@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset",
+        "https://www.kaggle.com/datasets/samps74/e-commerce-customer-behavior-dataset",
+        "https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis",
+        "https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset",
+        "https://www.kaggle.com/datasets/muhammadroshaanriaz/e-commerce-trends-a-guide-to-leveraging-dataset",
+        "https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis",
+        "https://www.kaggle.com/datasets/divanshu22/online-retail-dataset",
+        "https://www.kaggle.com/datasets/ermismbatuhan/digital-marketing-ecommerce-customer-behavior",
+        "https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset",
+        "https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction",
+        "https://www.kaggle.com/datasets/datascientist97/e-commerece-sales-data-2024",
+        "https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing",
+        "https://www.kaggle.com/datasets/brsahan/e-commerce-dataset",
+        "https://www.kaggle.com/datasets/ahmedaliraja/e-commerece-sales-data-2023-24",
+        "https://www.kaggle.com/datasets/validmodel/bigbasket-customer-analytics",
+        "https://www.kaggle.com/datasets/imranalishahh/comprehensive-synthetic-e-commerce-dataset",
+        "https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/customer-lifetime-value-analytics-case-study",
+        "https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset",
+        "https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights"
+    ],
+    "dataset_description": "This dataset provides a comprehensive view of customer behavior within an e-commerce platform. Each entry in the dataset corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information is crafted to facilitate a nuanced analysis of customer preferences, engagement patterns, and satisfaction levels, aiding businesses in making data-driven decisions to enhance the customer experience.",
+    "notebook_url": "https://www.kaggle.com/code/youssefabdelghfar/e-commerce-customer-behavior",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

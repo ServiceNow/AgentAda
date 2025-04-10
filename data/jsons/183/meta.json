@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings",
+        "https://www.kaggle.com/datasets/shriyasingh900/netflix-dataset",
+        "https://www.kaggle.com/datasets/osvaldopereira/sua-msica-recommendation-system"
+    ],
+    "dataset_description": "Stable benchmark dataset. 100000 ratings from 1000 users on 1700 movies.",
+    "notebook_url": "https://www.kaggle.com/code/jhoward/collaborative-filtering-deep-dive",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

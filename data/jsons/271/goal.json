@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the COVID-19 research papers dataset to understand the structure and connections within a knowledge graph.",
+    "persona": "An experienced data scientist specializing in network analysis with a keen interest in understanding scientific collaborations and information flow within the domain of COVID-19 research. Their primary goal is to extract valuable insights from large datasets to inform research strategies and policy decisions, with a strong focus on leveraging advanced graph analysis techniques."
+}

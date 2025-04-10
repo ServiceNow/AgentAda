@@ -1,0 +1,4 @@
+{
+    "goal": "Identify factors affecting diabetes prediction using patient data.",
+    "persona": "A healthcare data analyst with 3 years of experience in medical datasets, focused on extracting insights for patient health prediction and management through advanced attribution modeling techniques like Shapley values to understand feature importance."
+}

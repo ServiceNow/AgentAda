@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "How many employees are included in the dataset?",
+        "answer": "The dataset contains 20,314 employees.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [13, 17],
+        "question": "What are the key performance indicators (KPIs) used to evaluate employee performance?",
+        "answer": "Key performance indicators include employee productivity score, project completion rate, training hours, and promotion eligibility.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which department has the highest average performance score?",
+        "answer": "The IT department has the highest average performance score of 86%.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [21, 24],
+        "question": "What is the average training hours attended by employees?",
+        "answer": "The average training hours attended by employees is 52 hours.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [26, 28],
+        "question": "How does project completion rate correlate with employee promotions?",
+        "answer": "Employees with a project completion rate above 85% have a 70% higher chance of promotion.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [30, 32, 35],
+        "question": "What is the trend of employee performance scores over time?",
+        "answer": "Employee performance scores have increased by 9% over the past two years.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [37],
+        "question": "Which factor has the highest impact on employee performance improvement?",
+        "answer": "Continuous training and mentorship programs have the highest impact on employee performance improvement.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [39, 41, 44],
+        "question": "What is the impact of work experience on performance ratings?",
+        "answer": "Employees with more than 5 years of experience have 20% higher performance scores on average.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [47, 49, 51, 54],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Employees with consistent training and high project completion rates achieve better performance, while departments investing in training see long-term improvements.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

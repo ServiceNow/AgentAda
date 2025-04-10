@@ -1,0 +1,4 @@
+{
+    "goal": "Determine the relationship between mushroom characteristics and their classification as edible or poisonous.",
+    "persona": "A data scientist with expertise in predictive modeling and feature selection, interested in optimizing model performance by identifying the most informative features through techniques like LASSO regularization. They have a keen interest in biological data and seek to enhance classification models to aid in food safety and mycological research."
+}

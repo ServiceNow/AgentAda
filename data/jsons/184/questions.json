@@ -1,0 +1,92 @@
+[
+    {
+      "cell_ids": [
+        6
+      ],
+      "question": "What are the unique rating values in the dataset?",
+      "answer": "[4.  5.  3.  2.  1.  4.5 3.5 2.5 0.5 1.5]",
+       "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        8
+      ],
+      "question": "What are the names of the columns in the `movies` dataframe?",
+      "answer": "movieId, title and genres",
+       "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        11
+      ],
+       "question": "What does the `partial_movieId` column represent?",
+           "answer": "It represents the index of each movie, starting from 1 and increasing by one for each unique movie id.",
+      "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+    },
+      {
+          "cell_ids": [
+              14
+          ],
+          "question": "How is the data split into training and testing sets in this notebook?",
+           "answer": "The data is split using a 70/30 ratio by randomly sampling the indices",
+          "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+      {
+          "cell_ids": [
+              17
+          ],
+          "question": "What is the shape of the rating matrix that is generated?",
+           "answer": "The rating matrix shape is based on the max user id, and max partial_movie_id",
+          "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+      {
+          "cell_ids": [
+              20
+          ],
+          "question": "What is the purpose of the `plot_learning_curve` method?",
+           "answer": "To plot the training and testing mean squared error (MSE) over iterations to see how the model is converging.",
+          "task": "Dashboard Summary",
+          "skill": "Interactive Visualization"
+      },
+     {
+          "cell_ids": [
+              22
+          ],
+          "question": "What is the purpose of the `get_recommendation` function?",
+           "answer": "It gets a list of movies (not rated yet) to be recommended to a given user.",
+           "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      },
+       {
+          "cell_ids": [
+              26
+          ],
+          "question": "What method is used to train the MatrixFactorization model?",
+           "answer": "Stochastic Gradient Descent (SGD)",
+           "task": "Recommendation Systems",
+          "skill": "Matrix Factorization"
+      },
+      {
+           "cell_ids": [
+              28
+          ],
+         "question": "What do the top 5 recommendation generated for user id 1 shows?",
+           "answer": "The recommendation shows high rating partial_movie_id for a given user.",
+           "task": "Recommendation Systems",
+          "skill": "Deep Neural Networks"
+      },
+      {
+          "cell_ids": [
+              30
+          ],
+          "question": "What does `get_title` method do?",
+           "answer": "It returns the title of a movie, using movie id",
+             "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      }
+  ]

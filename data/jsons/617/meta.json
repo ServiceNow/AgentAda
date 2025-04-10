@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/code/groe0029/clinton-email-graph-with-pageranks/input"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/groe0029/clinton-email-graph-with-pageranks",
+    "domain": "Technology",
+    "help_data_file_names": [
+        "Persons.csv",
+        "Aliases.csv"
+    ]
+}

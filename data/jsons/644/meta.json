@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/debashis74017/stock-market-data-nifty-100-stocks-5-min-data",
+        "https://www.kaggle.com/datasets/muhammaddawood42/nvidia-stock-data",
+        "https://www.kaggle.com/datasets/zongaobian/microsoft-stock-data-and-key-affiliated-companies",
+        "https://www.kaggle.com/datasets/mhassansaboor/toyota-motors-stock-data-2980-2024",
+        "https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020",
+        "https://www.kaggle.com/datasets/noeyislearning/apple-inc-historical-stock",
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/jillanisofttech/tesla-stock-price",
+        "https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies",
+        "https://www.kaggle.com/datasets/ranatalha71/stock-prices-of-mastercard-and-visa-2008-2024",
+        "https://www.kaggle.com/datasets/innocentmfa/mercedes-benz-historical-stock-dataset",
+        "https://www.kaggle.com/datasets/andrewmvd/brazilian-stock-market",
+        "https://www.kaggle.com/datasets/atulanandjha/national-stock-exchange-time-series",
+        "https://www.kaggle.com/datasets/innocentmfa/alibaba-baba-stock-dataset",
+        "https://www.kaggle.com/datasets/sumandey/national-stock-exchange-banking-sectors",
+        "https://www.kaggle.com/datasets/simronw/tesla-stock-data-2024",
+        "https://www.kaggle.com/datasets/mhassansaboor/intel-stock-data-1980-2024",
+        "https://www.kaggle.com/datasets/innocentmfa/honda-motor-stocks-prices",
+        "https://www.kaggle.com/datasets/jvanark/nvidia-daily-stock-price-data",
+        "https://www.kaggle.com/datasets/jakewright/9000-tickers-of-stock-market-data-full-history"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/alenavorushilova/stock-market-time-series-data-analysis",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

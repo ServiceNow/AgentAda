@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records and features are included in the battery predictive maintenance dataset?",
+        "answer": "The dataset contains 180,500 records and 19 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 16],
+        "question": "What is the mean remaining useful life (RUL) of the batteries before failure?",
+        "answer": "The mean RUL of the batteries before failure is 275 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [20],
+        "question": "Which sensor readings are used as input features for the Random Forest predictive maintenance model?",
+        "answer": "The model utilizes temperature, voltage, current, resistance, and charge capacity as key features.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [24, 29],
+        "question": "How does an increase in charge-discharge cycles impact battery failure probability?",
+        "answer": "Batteries with more than 500 charge-discharge cycles have a 60% higher failure probability.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [33, 38, 43],
+        "question": "What is the distribution of failure types across battery cells?",
+        "answer": "The dataset includes 40% capacity fade failures, 35% thermal runaway failures, and 25% electrolyte depletion failures.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [47, 52, 57, 62],
+        "question": "What correlation exists between voltage drop and battery failures?",
+        "answer": "A voltage drop of more than 0.2V per cycle indicates an 80% likelihood of battery failure.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [66],
+        "question": "Which sensor feature is the most significant predictor of battery failure?",
+        "answer": "The charge capacity degradation rate is the strongest predictor, followed by internal resistance and voltage drop.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [71, 75, 80],
+        "question": "What impact does feature engineering have on the Random Forest model’s accuracy?",
+        "answer": "Feature engineering improved the model's accuracy by 7% by optimizing relevant sensor signals.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [85, 90, 94, 98],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The Random Forest model predicts failures with 92% accuracy up to 70 cycles in advance, with charge capacity decline being the primary indicator.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [103, 108, 113, 118],
+        "question": "How does the Random Forest model compare to other predictive models in battery maintenance?",
+        "answer": "The Random Forest model outperforms decision trees and logistic regression, achieving a 10% higher precision in failure prediction.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    }
+]

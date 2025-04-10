@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [40],
+        "question": "What dataset was used for Kendall's Tau correlation analysis?",
+        "answer": "The dataset consists of various financial indicators, including stock market prices, inflation rates, and economic growth metrics.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [49, 57],
+        "question": "What preprocessing steps were performed before computing Kendall's Tau correlation?",
+        "answer": "The dataset was cleaned by handling missing values, ranking categorical attributes such as market sector classifications, and normalizing numerical financial indicators.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [64],
+        "question": "Which two economic factors show the strongest positive Kendall's Tau correlation?",
+        "answer": "GDP growth and employment rate show the strongest positive Kendall's Tau correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [79, 87],
+        "question": "Which financial metric has the highest negative correlation with consumer confidence?",
+        "answer": "Inflation rate has the highest negative correlation with consumer confidence.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [99, 107, 114],
+        "question": "What is the Kendall's Tau correlation coefficient between interest rates and stock market returns?",
+        "answer": "The Kendall's Tau correlation coefficient between interest rates and stock market returns is -0.63.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [126, 134],
+        "question": "How does Kendall's Tau correlation between exchange rates and foreign direct investment compare to other economic indicators?",
+        "answer": "The correlation between exchange rates and foreign direct investment is weaker than the correlation between exchange rates and import/export balances.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [146],
+        "question": "Which market stability indicator shows the weakest correlation with inflation volatility?",
+        "answer": "Corporate bond yields show the weakest correlation with inflation volatility.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [158, 166, 174, 182],
+        "question": "What does the Kendall's Tau correlation coefficient indicate about the relationship between government debt levels and economic stability?",
+        "answer": "The Kendall's Tau correlation coefficient indicates a strong negative relationship, meaning higher government debt levels are associated with lower economic stability.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [193],
+        "question": "Which economic factor has the least correlation with corporate investment decisions?",
+        "answer": "Short-term interest rate fluctuations have the least correlation with corporate investment decisions.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [197, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Kendall's Tau correlation for analyzing financial market trends?",
+        "answer": "Kendall's Tau correlation helped identify key relationships between macroeconomic indicators, inflation trends, and investment patterns, offering insights into economic stability.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    }
+]

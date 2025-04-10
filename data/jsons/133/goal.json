@@ -1,0 +1,4 @@
+{
+    "goal": "Identify fraudulent transactions within a financial dataset.",
+    "persona": "A data analyst specializing in financial security and fraud detection, with 8 years of experience in financial datasets, focusing on uncovering patterns and anomalies to prevent fraudulent activity. They are adept in machine learning techniques such as Isolation Forest for anomaly detection, and are passionate about enhancing transaction security and accuracy in fraud prediction."
+}

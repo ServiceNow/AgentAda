@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/khushipitroda/top-250-indian-movies-imdb",
+        "https://www.kaggle.com/datasets/khushipitroda/imdb-top-250-french-movies"
+    ],
+    "dataset_description": "THE DATASET WILL BE UPDATED TO MAKE THE USABILITY 10.0 SOON!",
+    "notebook_url": "https://www.kaggle.com/code/gargmanas/multi-model-movie-recommendation-system-analysis",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

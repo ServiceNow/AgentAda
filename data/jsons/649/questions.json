@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset was used for the time series analysis of the S&P 500 stock market?",
+        "answer": "The dataset contains daily closing prices of the S&P 500 index from 2000 to 2023.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [25, 33],
+        "question": "What is the observed long-term trend in S&P 500 stock prices?",
+        "answer": "The analysis indicates an overall upward trend with periodic downturns during financial crises.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [42],
+        "question": "What were the major stock market crashes reflected in the dataset?",
+        "answer": "Significant downturns were observed during the 2008 financial crisis and the 2020 COVID-19 market crash.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [55, 61],
+        "question": "What seasonal patterns were identified in S&P 500 stock prices?",
+        "answer": "A seasonal pattern showed higher stock returns in Q4, influenced by earnings reports and holiday shopping trends.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [77, 85, 90],
+        "question": "How did economic indicators affect S&P 500 stock price trends?",
+        "answer": "Interest rate changes and GDP growth showed a strong correlation with market performance.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [102, 110],
+        "question": "Which forecasting models were used to predict S&P 500 stock prices?",
+        "answer": "Both ARIMA and LSTM models were used to predict future stock price movements.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [123, 131, 140],
+        "question": "How did the ARIMA model perform in predicting S&P 500 stock prices?",
+        "answer": "The ARIMA model captured short-term fluctuations well but struggled with long-term trends.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [155, 163],
+        "question": "What were the key takeaways from the time series analysis of the S&P 500?",
+        "answer": "The analysis highlighted cyclic market trends, external economic influences, and the importance of long-term investment strategies.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [178, 185, 193],
+        "question": "How accurate was the LSTM model in forecasting stock prices?",
+        "answer": "The LSTM model achieved a lower mean squared error (MSE) compared to ARIMA, indicating improved predictive accuracy.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [198, 200],
+        "question": "What recommendations were made based on the stock market analysis?",
+        "answer": "A combination of technical and fundamental analysis was suggested for improving market predictions.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

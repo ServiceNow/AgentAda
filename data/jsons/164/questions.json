@@ -1,0 +1,96 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "How many anime are included in the anime dataset?",
+        "answer": "The notebook loads the anime dataset but doesn't calculate the total number of animes directly. However, the notebook displays the first 5 rows of the anime dataset.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3
+        ],
+       "question": "What is the range of user IDs in the rating dataset used for this analysis?",
+        "answer": "The analysis is limited to the first 10,000 users as shown in cell 4.",
+       "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+             4,
+            5
+        ],
+       "question": "How are missing ratings represented in the original rating dataset?",
+       "answer": "Missing ratings are represented as -1 in the original dataset.",
+        "task": "Data Imputation",
+        "skill": "Basic Data Analysis"
+    },
+    {
+       "cell_ids": [
+         5,
+         6
+       ],
+        "question": "How are missing ratings handled during preprocessing?",
+        "answer": "Missing ratings (-1) are replaced with NaN.",
+        "task": "Data Imputation",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            6
+        ],
+       "question": "How does the notebook handle duplicate ratings from the same user for the same anime?",
+       "answer": "The notebook removes duplicate ratings for the same user and anime combination.",
+       "task": "Data Imputation",
+       "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+          7,8
+        ],
+        "question": "What is the purpose of the user-item interaction matrix?",
+        "answer": "The user-item matrix is used to calculate the similarity between users and items, which are required by collaborative filtering methods.",
+        "task": "Recommendation Systems",
+         "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            8
+        ],
+        "question": "What similarity metric is used to determine user similarity?",
+        "answer": "Cosine similarity is used to calculate the similarity between users.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            10
+        ],
+       "question": "What similarity metric is used to determine item similarity?",
+        "answer": "Cosine similarity is used to calculate the similarity between items.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+          9
+        ],
+        "question": "In user based collaborative filtering, what is considered a positive rating?",
+        "answer": "A rating of 6 or higher is considered a positive rating in user based collaborative filtering.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+     {
+       "cell_ids": [
+           11
+        ],
+        "question": "In item based collaborative filtering, what is considered a positive rating?",
+       "answer": "A rating of 6 or higher is considered a positive rating in item based collaborative filtering.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    }
+]

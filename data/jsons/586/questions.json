@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [22],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of daily bike rental counts in Montreal along with weather and seasonal variables.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [31, 39],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was cleaned by handling missing values, converting categorical variables such as seasons into numerical ranks, and normalizing continuous features.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [46],
+        "question": "Which two environmental factors show the strongest positive Spearman correlation?",
+        "answer": "Temperature and humidity show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [61, 69],
+        "question": "Which weather condition has the highest negative correlation with bike rental counts?",
+        "answer": "Rainfall has the highest negative correlation with bike rental counts.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [81, 89, 96],
+        "question": "What is the Spearman correlation coefficient between wind speed and bike rentals?",
+        "answer": "The Spearman correlation coefficient between wind speed and bike rentals is -0.57.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [108, 116],
+        "question": "How does Spearman correlation between bike rentals and temperature compare to other weather-related variables?",
+        "answer": "The correlation between bike rentals and temperature is stronger than the correlation between bike rentals and humidity.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [128],
+        "question": "Which time-based variable shows the weakest correlation with daily bike rental usage?",
+        "answer": "Day of the week shows the weakest correlation with daily bike rental usage.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [140, 148, 156, 164],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between bike rental demand and seasonality?",
+        "answer": "The Spearman correlation coefficient indicates a strong positive relationship, meaning bike rental demand increases significantly in warmer seasons.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [175],
+        "question": "Which feature has the least correlation with bike rental counts?",
+        "answer": "Visibility levels have the least correlation with bike rental counts.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [186, 194, 198, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing bike rental patterns?",
+        "answer": "Spearman correlation identified key factors such as temperature and seasonality as strong predictors of bike rental demand, helping in urban planning decisions.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

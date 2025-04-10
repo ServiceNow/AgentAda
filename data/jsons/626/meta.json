@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://github.com/franciscadias/data/blob/master/abcnews-date-text.csv"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/nilaychauhan/topic-modeling-of-news-articles-lda",
+    "domain": "News",
+    "help_data_file_names": []
+}

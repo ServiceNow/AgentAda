@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori",
+        "https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba",
+        "https://www.kaggle.com/datasets/irfanasrullah/groceries",
+        "https://www.kaggle.com/datasets/rishantenis/market-basket-analysisapriori-algorithm",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset",
+        "https://www.kaggle.com/datasets/earthian/grocery-dataset",
+        "https://www.kaggle.com/datasets/tanyadayanand/market-basket-analysis"
+    ],
+    "dataset_description": "Market Basket Analysis is one of the key techniques used by large retailers to uncover associations between items. It works by looking for combinations of items that occur together frequently in transactions. To put it another way, it allows retailers to identify relationships between the items that people buy.",
+    "notebook_url": "https://www.kaggle.com/code/aslanahmedov/market-basket-analysis-apriori-algorithm",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

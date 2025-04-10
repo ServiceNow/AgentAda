@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdelazizsami/wine-quality"
+    ],
+    "dataset_description": "Predict sales prices and practice feature engineering, RFs, and gradient boosting",
+    "notebook_url": "https://www.kaggle.com/code/carlmcbrideellis/feature-importance-using-the-lasso",
+    "domain": "Food",
+    "help_data_file_names": ["train.csv"]
+}

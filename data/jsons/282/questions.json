@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of social network analysis?",
+        "answer": "The dataset represents a social network where nodes are individuals and edges represent interactions or connections between them.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the main attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the strength or frequency of interactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4],
+        "question": "How many individuals and connections are represented in the network?",
+        "answer": "The network contains 2,000 individuals and 10,000 connections.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "Which individual has the highest degree in the network?",
+        "answer": "Node 45 has the highest degree, connecting to 120 other individuals.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "Which individual has the highest betweenness centrality score, and what is the value?",
+        "answer": "Node 23 has the highest betweenness centrality score of 0.102.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "What is the average clustering coefficient of the social network?",
+        "answer": "The average clustering coefficient of the social network is 0.37.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many connected components are in the network?",
+        "answer": "The network has 8 connected components.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, while some edges have weights as high as 15, indicating frequent interactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of individuals has the strongest connection, and what does it represent?",
+        "answer": "Node 12 and Node 19 have the strongest connection, with a weight of 15, representing the most frequent interaction.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [19, 20, 21],
+        "question": "What is the diameter of the social network?",
+        "answer": "The diameter of the network is 14, representing the longest shortest path between any two individuals.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    }
+]

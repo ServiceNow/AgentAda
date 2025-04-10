@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [13],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of customer financial transactions and spending behavior records.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [20, 27],
+        "question": "What preprocessing steps were performed before calculating Pearson correlation?",
+        "answer": "The dataset was standardized, missing values were imputed, and categorical variables were converted into numerical values.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [34],
+        "question": "Which financial indicators show the strongest positive correlation?",
+        "answer": "Monthly income and total spending show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [48, 55],
+        "question": "Which factor has the highest negative correlation with loan default rate?",
+        "answer": "Credit score has the highest negative correlation with loan default rate.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [67, 74, 80],
+        "question": "What is the Pearson correlation coefficient between savings balance and spending behavior?",
+        "answer": "The Pearson correlation coefficient between savings balance and spending behavior is -0.58.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [93, 98],
+        "question": "How does Pearson correlation between customer age and financial product ownership compare to other variables?",
+        "answer": "The correlation between customer age and financial product ownership is weaker than income but stronger than spending frequency.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [110],
+        "question": "Which customer segment shows the weakest correlation between total assets and investment risk?",
+        "answer": "Low-income customers show the weakest correlation between total assets and investment risk.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [122, 128, 136, 142],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between interest rate and loan approval probability?",
+        "answer": "The Pearson correlation coefficient indicates a moderate negative relationship, meaning higher interest rates reduce loan approval probability.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [155],
+        "question": "Which financial variable has the least correlation with annual income?",
+        "answer": "Number of bank transactions has the least correlation with annual income.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [166, 172, 181, 190],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for analyzing financial customer behavior?",
+        "answer": "Pearson correlation identified key financial behaviors, such as spending and savings patterns, as significant indicators of financial stability.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,14],
+        "question": "What is the average number of items purchased per transaction?",
+      "answer": "The notebook does not calculate or provide the average number of items purchased per transaction.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,14
+        ],
+      "question": "What is the most frequent item purchased overall?",
+       "answer": "The notebook does not calculate the most frequent item purchased overall. The notebook only shows a bar plot of the top items based on frequency.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+   {
+      "cell_ids": [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,14
+      ],
+      "question": "How many unique transactions are present in the dataset?",
+      "answer": "The notebook does not calculate the number of unique transactions directly. The data is converted into a transaction list, but no unique count is displayed.",
+       "task": "Basic Data Analysis",
+       "skill": "Basic Data Analysis"
+   },
+    {
+        "cell_ids": [14,15,16],
+        "question": "What are the top 5 items that are most often purchased together?",
+       "answer": "The notebook does not explicitly extract the top 5 most frequently purchased item combinations. Frequent itemsets based on a minimum support value are calculated, and then associated rules are mined based on lift.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [ 
+           14, 15, 16
+        ],
+        "question": "What items are frequently purchased on weekends?",
+         "answer": "The dataset used in this notebook does not have the time or date variable, therefore, items purchased during weekends cannot be determined.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+   },
+    {
+      "cell_ids":[
+       8, 9, 10
+      ],
+        "question": "What is the minimum support used in the Apriori implementation?",
+        "answer": "The minimum support used in the Apriori implementation is 0.003, as specified in the code in cell 9.",
+         "task":"Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids":[8, 9, 10],
+      "question": "What is the minimum confidence used in the Apriori implementation?",
+      "answer":"The minimum confidence used in the Apriori implementation is 0.2 as specified in the code in cell 9.",
+       "task":"Association Rule Mining",
+        "skill":"Apriori Algorithm"
+   },
+ {
+        "cell_ids": [8, 9, 10],
+       "question": "What is the minimum lift used in the Apriori implementation?",
+       "answer":"The minimum lift value is set to 3 in cell 9.",
+       "task":"Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+  {
+      "cell_ids": [8, 9, 10],
+      "question": "What is the minimum length of an itemset used in the Apriori implementation?",
+       "answer": "The minimum length of an itemset used in the Apriori implementation is 2 as specified in cell 9.",
+        "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+   {
+        "cell_ids": [
+          6,7
+         ],
+        "question":"What type of data structure is used to represent transactions before applying the Apriori algorithm?",
+      "answer":"The transactions are represented as a list of lists where each inner list is the items bought in that transaction as string values.",
+     "task": "Basic Data Analysis",
+        "skill":"Basic Data Analysis"
+    }
+]

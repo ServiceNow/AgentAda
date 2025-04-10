@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/nikhil7280/weather-type-classification",
+        "https://www.kaggle.com/datasets/rajyellow46/wine-quality",
+        "https://www.kaggle.com/datasets/thomasmeiner/psod-outlier-detection",
+        "https://www.kaggle.com/datasets/abdelazizsami/wine-quality",
+        "https://www.kaggle.com/datasets/joebeachcapital/wine-quality",
+        "https://www.kaggle.com/datasets/piyushagni5/white-wine-quality",
+        "https://www.kaggle.com/datasets/elikplim/forest-fires-data-set",
+        "https://www.kaggle.com/datasets/adilashrafi/wine-quality",
+        "https://www.kaggle.com/datasets/shashankshekhar1205/wine-quality-dataset",
+        "https://www.kaggle.com/datasets/manjitbaishya001/house-prices-2023",
+        "https://www.kaggle.com/datasets/pritsheta/redwinequality",
+        "https://www.kaggle.com/datasets/piyushgoyal443/red-wine-dataset",
+        "https://www.kaggle.com/datasets/shelvigarg/wine-quality-dataset",
+        "https://www.kaggle.com/datasets/danielpanizzo/wine-quality",
+        "https://www.kaggle.com/datasets/patrickfleith/spacecraft-thruster-firing-tests-dataset",
+        "https://www.kaggle.com/datasets/arnavs19/wine-quality-uci-machine-learning-repository",
+        "https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine",
+        "https://www.kaggle.com/datasets/slmsshk/pndm-prediction-dataset",
+        "https://www.kaggle.com/datasets/atharvachute/wine-quality-dataset",
+        "https://www.kaggle.com/datasets/vikasukani/forest-firearea-datasets"
+    ],
+    "dataset_description": "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.",
+    "notebook_url": "https://www.kaggle.com/code/marcinrutecki/outlier-detection-methods",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

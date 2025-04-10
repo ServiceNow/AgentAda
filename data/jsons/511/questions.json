@@ -1,0 +1,51 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records are available in the dataset?",
+        "answer": "The dataset contains 5,000 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [21, 36],
+        "question": "What is the range of values for the time series?",
+        "answer": "The time series values range from 3,450 to 67,800.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [44, 57, 68],
+        "question": "Does the time series exhibit an increasing or decreasing trend?",
+        "answer": "The time series shows a strong upward trend with periodic dips.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [79, 95, 102, 118],
+        "question": "What is the dominant seasonal pattern in the dataset?",
+        "answer": "The dataset exhibits a weekly seasonal pattern with peaks on Fridays.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [127, 139, 152],
+        "question": "How does the magnitude of seasonal fluctuations compare to the trend component?",
+        "answer": "The seasonal fluctuations are smaller in magnitude compared to the dominant upward trend.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [160, 172, 185, 192],
+        "question": "What proportion of variance is explained by the trend?",
+        "answer": "The trend accounts for approximately 75% of the total variance in the series.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [198],
+        "question": "Are there any anomalies present in the residual component?",
+        "answer": "Yes, there are sharp deviations in the residuals during periods of extreme market activity.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

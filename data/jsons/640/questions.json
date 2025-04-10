@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset was used for topic modeling with Hierarchical Dirichlet Process?",
+        "answer": "The dataset consists of a collection of news articles from various sources.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [25, 31],
+        "question": "How many topics were identified in the dataset using Hierarchical Dirichlet Process?",
+        "answer": "The analysis automatically identified 8 distinct topics within the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [40],
+        "question": "Which topic was the most dominant in the dataset?",
+        "answer": "The topic related to 'politics and government policies' was the most dominant in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [53, 60],
+        "question": "What are the top three keywords associated with the most prevalent topic?",
+        "answer": "The top three keywords for the most prevalent topic were 'election', 'government', and 'policy'.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [72, 80, 89],
+        "question": "What percentage of the dataset was covered by the top two topics?",
+        "answer": "The top two topics accounted for approximately 74% of the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [101, 110],
+        "question": "Which topic had the lowest representation in the dataset?",
+        "answer": "The topic related to 'technology and innovations' had the lowest representation in the dataset.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [122, 130, 138],
+        "question": "How did the Hierarchical Dirichlet Process determine the optimal number of topics?",
+        "answer": "The model inferred the number of topics based on the complexity of the dataset without requiring a predefined topic count.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [147, 156],
+        "question": "Which articles were most strongly associated with the finance and economy topic?",
+        "answer": "Articles containing words like 'stock market', 'inflation', and 'GDP' were strongly associated with the finance and economy topic.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [167, 175, 183],
+        "question": "How did the distribution of topics vary across different news sources?",
+        "answer": "Articles from financial news outlets focused more on economic trends, while general news sources had a broader topic distribution.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    },
+    {
+        "cell_ids": [192, 199],
+        "question": "What were the key insights gained from the topic modeling analysis?",
+        "answer": "The analysis highlighted dominant themes such as political developments, economic trends, and emerging technologies.",
+        "task": "Topic Modeling",
+        "skill": "Hierarchical Dirichlet Process"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Perform sentiment analysis on the dataset to classify tweets into positive and negative sentiments.",
+    "persona": "A data analyst with expertise in natural language processing and sentiment analysis, focusing on text-based data insights. The analyst is skilled in using machine learning models, particularly LSTM for analyzing sentiment patterns in large datasets, and has a keen interest in understanding social media dynamics and sentiment trends."
+}

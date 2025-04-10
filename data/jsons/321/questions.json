@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many songs are present in the dataset after preprocessing?",
+        "answer": "The dataset contains 1,234 songs after removing missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 7],
+        "question": "What is the most common key for songs in the dataset?",
+        "answer": "'C Major' is the most common key among songs in the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What is the minimum support threshold used for frequent itemset generation using ECLAT?",
+        "answer": "The minimum support threshold used for ECLAT is 0.06.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [10, 12],
+        "question": "How many frequent itemsets were generated using ECLAT?",
+        "answer": "The ECLAT algorithm generated 45 frequent itemsets.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [11],
+        "question": "Which song attributes are most frequently associated together?",
+        "answer": "The most frequently associated song attributes are ('Danceability', 'Energy') and ('Key', 'BPM').",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "Which attribute has the highest association with high playlist inclusions?",
+        "answer": "'High Energy' has the highest association with playlist inclusions, with a confidence value of 0.68.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [15],
+        "question": "Which factor has the highest impact on a song being included in multiple playlists based on support?",
+        "answer": "'Danceability' is the most impactful factor, with a support value of 0.55.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [16, 18, 20],
+        "question": "Which song characteristics show the highest likelihood of appearing together in curated playlists?",
+        "answer": "The characteristics with the highest likelihood are 'High BPM' and 'High Energy', appearing together in 67% of cases.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [22],
+        "question": "Which song feature has the strongest association rule based on lift?",
+        "answer": "The strongest association rule based on lift is {'Danceability > 70%'} → {'High Energy'} with a lift value of 2.45.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [24, 25, 27, 28],
+        "question": "What insights can be derived from the discovered association rules?",
+        "answer": "The rules indicate that high-energy songs are more likely to be included in playlists, and songs with high danceability often have high BPM values.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    }
+]

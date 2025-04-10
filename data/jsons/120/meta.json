@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/gallo33henrique/bitcoin-btc-usd-stock-dataset"
+    ],
+    "dataset_description": "Amazon.com, Inc. is an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Microsoft, and Facebook. The company has been referred to as \"one of the most influential economic and cultural forces in the world\", as well as the world's most valuable brand.",
+    "notebook_url": "https://www.kaggle.com/code/ashkanforootan/stock-market-forecasting-using-lstm-gru",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

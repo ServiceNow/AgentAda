@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "How many sales records are included in the dataset?",
+        "answer": "The dataset contains 1,115,000 sales records.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [9, 12],
+        "question": "What interactive visualizations are used to analyze sales trends?",
+        "answer": "Interactive visualizations include dynamic time-series plots, zoomable sales trends, and linked axis comparisons.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [15],
+        "question": "Which month had the highest total sales in the dataset?",
+        "answer": "December recorded the highest total sales due to holiday shopping trends.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [18, 21],
+        "question": "What is the average daily sales value across all stores?",
+        "answer": "The average daily sales value across all stores is $5,234.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [24, 26],
+        "question": "How do sales trends vary across different store types?",
+        "answer": "Superstores exhibit the highest sales volume, while convenience stores have more stable daily trends.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [29, 32, 34],
+        "question": "What is the impact of promotions on sales trends?",
+        "answer": "Promotions lead to sharp increases in sales, with an average uplift of 30% during promotional periods.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [37],
+        "question": "Which factor has the highest impact on seasonal sales variations?",
+        "answer": "Holiday seasons and regional events have the highest impact on seasonal sales variations.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [40, 42, 45],
+        "question": "What is the relationship between discount levels and revenue?",
+        "answer": "Moderate discounts (10-20%) result in the highest revenue boost, whereas deep discounts (>50%) lower profitability.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [48, 50, 52, 55],
+        "question": "What insights can be derived from the interactive sales visualizations?",
+        "answer": "Sales peak around major holidays, discounts drive short-term revenue increases, and store types exhibit distinct purchasing patterns.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

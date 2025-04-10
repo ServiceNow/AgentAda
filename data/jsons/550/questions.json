@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 35,000 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 16],
+        "question": "What is the range of values for the first numerical feature?",
+        "answer": "The values for the first numerical feature range from 1.2 to 9.8.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27],
+        "question": "What preprocessing steps were performed before applying Eigenvalue Decomposition?",
+        "answer": "The dataset was standardized, missing values were imputed, and categorical variables were one-hot encoded.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [38, 42],
+        "question": "How many principal components were retained for dimensionality reduction?",
+        "answer": "The first 12 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [51, 54, 57],
+        "question": "What percentage of variance is explained by the first five principal components?",
+        "answer": "The first five principal components explain 79% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [66, 70],
+        "question": "What method was used to determine the number of relevant principal components?",
+        "answer": "The scree plot and cumulative explained variance were used to determine the number of principal components.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [83],
+        "question": "What dataset was analyzed using Eigenvalue Decomposition?",
+        "answer": "The dataset consists of customer purchasing behaviors in an e-commerce platform.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [95, 99, 103, 108],
+        "question": "How does Eigenvalue Decomposition contribute to reducing data redundancy?",
+        "answer": "It transforms correlated features into a set of orthogonal principal components, removing redundancy.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [119],
+        "question": "How does Eigenvalue Decomposition improve feature selection?",
+        "answer": "It helps by ranking features based on their explained variance, allowing selection of the most informative ones.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [133, 137, 143, 148],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition in data compression?",
+        "answer": "Eigenvalue Decomposition significantly reduced dimensionality while retaining most of the critical information in the dataset.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

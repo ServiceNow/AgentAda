@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many total log entries are in the dataset?",
+        "answer": "The dataset contains 1,245,678 log entries.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 38],
+        "question": "What is the most common log level found in the dataset?",
+        "answer": "The most common log level is 'INFO', appearing in 78% of the entries.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [45, 59, 66],
+        "question": "How many unique IP addresses are present in the logs?",
+        "answer": "There are 5,687 unique IP addresses in the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [72, 83, 95, 101],
+        "question": "How many distinct clusters were identified using DBSCAN?",
+        "answer": "DBSCAN identified 14 distinct clusters in the log data, with one major cluster containing 60% of entries.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    },
+    {
+        "cell_ids": [118, 129],
+        "question": "What percentage of log entries were marked as anomalies by LogCluster?",
+        "answer": "LogCluster marked 5.2% of the log entries as anomalies.",
+        "task": "Logs Clustering",
+        "skill": "LogCluster"
+    },
+    {
+        "cell_ids": [133, 149, 157, 169],
+        "question": "What are the top three most common log event patterns discovered using Word2Vec with K-means?",
+        "answer": "The top three patterns identified were: (1) Repeated authentication failures, (2) Suspicious traffic spikes, and (3) Unusual database query sequences.",
+        "task": "Logs Clustering",
+        "skill": "Word2Vec with K-means"
+    },
+    {
+        "cell_ids": [177, 186, 193],
+        "question": "What is the distribution of response times across different log clusters?",
+        "answer": "Clusters 1, 2, and 3 have average response times of 120ms, 300ms, and 550ms, respectively.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    },
+    {
+        "cell_ids": [138, 154, 167],
+        "question": "How do different clusters vary in terms of error frequency?",
+        "answer": "Cluster 1 has a 2% error rate, Cluster 2 has a 15% error rate, and Cluster 3 has a 32% error rate, suggesting varying stability across log patterns.",
+        "task": "Logs Clustering",
+        "skill": "LogCluster"
+    },
+    {
+        "cell_ids": [179, 194],
+        "question": "What key insights were derived from clustering the log entries?",
+        "answer": "Clustering helped reveal high-traffic patterns, recurring failure points, and potential security threats from anomaly detection.",
+        "task": "Logs Clustering",
+        "skill": "Word2Vec with K-means"
+    },
+    {
+        "cell_ids": [185, 199],
+        "question": "Which user agents appear most frequently in different log clusters?",
+        "answer": "The most common user agents are Chrome (Cluster 1), Safari (Cluster 2), and bot activity in Cluster 3.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    }
+]

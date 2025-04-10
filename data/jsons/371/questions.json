@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "How many records and features are present in the predictive maintenance dataset?",
+        "answer": "The dataset contains 180,000 records and 20 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 14],
+        "question": "What is the mean operational cycle count before failure?",
+        "answer": "The mean operational cycle count before failure is 310 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which sensor readings are used as input features for the Random Forest predictive maintenance model?",
+        "answer": "The input features include temperature, vibration, pressure, humidity, and fuel consumption.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [22, 26],
+        "question": "How does an increase in vibration levels impact failure probability?",
+        "answer": "Vibration levels above 4.6 m/s² increase failure probability by 70%.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [30, 34, 38],
+        "question": "What is the distribution of failure types in the dataset?",
+        "answer": "The dataset contains 42% mechanical failures, 33% electrical failures, and 25% environmental failures.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [42, 46, 50, 54],
+        "question": "What is the correlation between pressure levels and failure events?",
+        "answer": "Machines with pressure readings above 230 kPa have a failure probability of 69%.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [58],
+        "question": "Which sensor feature is the most influential predictor of failure?",
+        "answer": "The operational cycle count is the strongest predictor, followed by vibration and pressure readings.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [62, 66, 70],
+        "question": "What impact does feature selection have on the Random Forest model’s performance?",
+        "answer": "Feature selection improved the model’s accuracy by 5% by reducing redundancy and improving generalization.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [74, 78, 82, 86],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The Random Forest model predicts failures with 92% accuracy up to 50 cycles in advance, highlighting temperature and vibration as key failure indicators.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    }
+]

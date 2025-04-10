@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset is used in this notebook?",
+        "answer": "The dataset used in this notebook is the Iris dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [25, 39],
+        "question": "How many samples and features are present in the dataset?",
+        "answer": "The dataset contains 150 samples with 4 features: sepal length, sepal width, petal length, and petal width.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [48, 63],
+        "question": "What are the unique species present in the dataset?",
+        "answer": "The dataset contains three unique species: Setosa, Versicolor, and Virginica.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [72, 85, 99],
+        "question": "What is the average petal length for each species?",
+        "answer": "The average petal lengths are approximately: Setosa - 1.5 cm, Versicolor - 4.26 cm, Virginica - 5.55 cm.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [108, 123, 137],
+        "question": "Which feature has the highest correlation with petal length?",
+        "answer": "Petal width has the highest correlation with petal length.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [152, 167, 180],
+        "question": "What is the distribution of sepal width across different species?",
+        "answer": "Setosa tends to have the highest sepal width, while Virginica has the lowest average sepal width.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

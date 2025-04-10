@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records and features are included in the dataset used for Shapley value attribution?",
+        "answer": "The dataset contains 88,500 records and 15 features.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [13, 20],
+        "question": "Which feature contributes the most to the model prediction based on Shapley values?",
+        "answer": "The feature 'User Engagement Score' has the highest contribution with a mean absolute Shapley value of 0.51.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [26],
+        "question": "What is the average Shapley value for the feature 'Advertising Spend'?",
+        "answer": "The average Shapley value for 'Advertising Spend' is 0.33.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [31, 38],
+        "question": "Which feature has the highest negative impact on model predictions?",
+        "answer": "The feature 'Customer Churn Rate' has the most negative influence with an average Shapley value of -0.46.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [44, 52, 59],
+        "question": "How do Shapley values differ across different marketing attribution channels?",
+        "answer": "Social Media Ads contribute the most with an average Shapley value of 0.47, whereas Organic Traffic has a lower impact at 0.27.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [65, 73, 80, 86],
+        "question": "Which customer segment is most impacted by product recommendation algorithms based on Shapley values?",
+        "answer": "Returning customers benefit the most from product recommendations, with an average Shapley value of 0.42.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [93],
+        "question": "How does feature importance change when using different machine learning models?",
+        "answer": "In a Random Forest model, 'Previous Purchase Behavior' has the highest Shapley impact, while in a Neural Network model, 'Discount Utilization' is the dominant feature.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [101, 108, 116],
+        "question": "Which feature exhibits the most fluctuation in Shapley values across samples?",
+        "answer": "'Session Duration' shows the highest variability in its Shapley values, ranging from -0.18 to 0.53.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [123, 130, 138, 144],
+        "question": "What insights can be derived from Shapley value analysis in customer conversion?",
+        "answer": "Customers with high engagement scores convert more frequently, while high cart abandonment rates negatively impact conversions.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [151, 159, 166, 172],
+        "question": "How do Shapley values for purchase intent differ across customer demographics?",
+        "answer": "Younger customers are more influenced by 'Social Proof' (+0.38), while older customers respond better to 'Loyalty Rewards' (+0.45).",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    }
+]

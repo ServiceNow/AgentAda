@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [24],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of customer transaction records from Santander Bank, including financial activities and account balances.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [33, 41],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was standardized, missing values were handled, and categorical variables such as transaction categories were ranked for ordinal correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [48],
+        "question": "Which two financial metrics show the strongest positive Spearman correlation?",
+        "answer": "Account balance and total monthly deposits show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [63, 71],
+        "question": "Which financial factor has the highest negative correlation with credit risk score?",
+        "answer": "Overdraft frequency has the highest negative correlation with credit risk score.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [83, 91, 98],
+        "question": "What is the Spearman correlation coefficient between customer spending and savings balance?",
+        "answer": "The Spearman correlation coefficient between customer spending and savings balance is -0.59.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [110, 118],
+        "question": "How does Spearman correlation between customer age and financial stability compare to other variables?",
+        "answer": "The correlation between customer age and financial stability is weaker than the correlation between income level and financial stability.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [130],
+        "question": "Which customer spending category shows the weakest correlation with account balance?",
+        "answer": "Entertainment spending shows the weakest correlation with account balance.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [142, 150, 158, 166],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between loan repayments and default probability?",
+        "answer": "The Spearman correlation coefficient indicates a strong negative relationship, meaning higher loan repayments are associated with lower default probability.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [177],
+        "question": "Which financial factor has the least correlation with long-term investment behavior?",
+        "answer": "Daily ATM withdrawal frequency has the least correlation with long-term investment behavior.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [188, 196, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing customer financial behavior?",
+        "answer": "Spearman correlation identified key financial habits such as monthly deposits, spending patterns, and savings trends as strong indicators of financial stability.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

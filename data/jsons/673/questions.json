@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "What dataset was used for customer segmentation in this analysis?",
+        "answer": "The dataset includes customer transaction records containing purchase frequency, total spending, and recency metrics.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [14, 21],
+        "question": "How was the optimal number of clusters determined in this segmentation analysis?",
+        "answer": "The elbow method was used to determine the optimal number of clusters, which was found to be 4.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [27, 34, 40],
+        "question": "What key features were used to segment the customers?",
+        "answer": "The features used for segmentation included recency, frequency, and monetary value (RFM) scores.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [47, 55, 62],
+        "question": "Which customer segment had the highest average purchase frequency?",
+        "answer": "Segment 2, which represents loyal and frequent shoppers, had the highest average purchase frequency.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [68, 75, 82],
+        "question": "What characteristics define the segment of high-value customers?",
+        "answer": "High-value customers exhibit high purchase frequency, larger transaction values, and short recency intervals.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [89, 97, 105],
+        "question": "How do the different customer segments vary in their average spending?",
+        "answer": "Premium customers have the highest spending, while budget-conscious shoppers spend less per transaction.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [112, 120, 127],
+        "question": "What segment had the lowest engagement, and what strategies could improve retention?",
+        "answer": "Segment 4, composed of at-risk customers, had the lowest engagement. Retention strategies include personalized promotions and loyalty programs.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [135, 142, 150],
+        "question": "How can businesses use K-Means segmentation to target specific customer groups?",
+        "answer": "Businesses can tailor marketing strategies based on segment characteristics, offering loyalty rewards for repeat buyers and discounts for occasional shoppers.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [158, 165, 172],
+        "question": "Which customer segment showed the most responsiveness to targeted promotions?",
+        "answer": "Segment 3, deal-seekers, responded the most positively to discount-based promotions.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [180, 187, 195],
+        "question": "How can businesses leverage customer segmentation insights to optimize marketing campaigns?",
+        "answer": "Businesses can develop personalized messaging, optimize product recommendations, and allocate marketing budgets effectively based on customer segment behaviors.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many rows and columns are present in the dataset?",
+        "answer": "The dataset contains 45,000 rows and 28 columns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 8],
+        "question": "Which columns contain missing values, and what is the percentage of missing values in each?",
+        "answer": "Columns F6, F13, and F19 have missing values, with F13 having the highest percentage at 4.8%.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12],
+        "question": "What is the most important feature according to the random forest model?",
+        "answer": "Feature 'F9' has the highest importance score of 0.235.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [18, 21, 24],
+        "question": "What are the top three most important features in the dataset?",
+        "answer": "The top three important features are 'F9' (0.235), 'F4' (0.198), and 'F15' (0.182).",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [30, 34, 38, 42],
+        "question": "How does removing the five least important features impact model accuracy?",
+        "answer": "Removing the five least important features improves model accuracy by 1.6% due to reduced noise.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [48],
+        "question": "How does increasing the number of estimators in the random forest model affect feature importance ranking?",
+        "answer": "Increasing the number of estimators stabilizes feature importance rankings but slightly increases training time.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [53, 57, 61],
+        "question": "What is the impact of correlated features on feature importance scores?",
+        "answer": "Highly correlated features may share importance, causing individual feature importance scores to be lower.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [68, 72, 76, 80],
+        "question": "How does reducing the dataset to only the top 10 most important features impact model training time and accuracy?",
+        "answer": "Training time is reduced by 38%, while model accuracy retains 94% of its original value.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [84, 89],
+        "question": "What is the effect of normalizing numerical features before training the model on feature importance rankings?",
+        "answer": "Normalization does not significantly alter feature importance rankings but improves model convergence.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [95, 99, 103, 107],
+        "question": "Which features had the lowest importance scores, and how does this affect feature selection?",
+        "answer": "Features 'F20', 'F23', and 'F27' had the lowest importance (<0.015), suggesting they have minimal impact and can be removed.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    }
+]

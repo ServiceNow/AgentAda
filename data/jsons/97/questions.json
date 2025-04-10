@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the observed trend in airline passenger data over the recorded period?",
+        "answer": "The dataset shows a consistent upward trend in the number of airline passengers with seasonal variations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly number of airline passengers recorded in the dataset?",
+        "answer": "The average monthly number of airline passengers is approximately 20,000.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal trends can be identified in the dataset?",
+        "answer": "Seasonal peaks occur during summer months, particularly in July and August, with lower passenger numbers in January and February.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest number of airline passengers recorded in a single month, and when did it occur?",
+        "answer": "The highest number of passengers recorded is 35,000, observed in August 1960.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What are the forecasted passenger numbers for the next 12 months using the Prophet model?",
+        "answer": "The forecasted passenger numbers range from 22,000 to 38,000, following seasonal patterns.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What does the dataset indicate about year-on-year growth in airline passengers?",
+        "answer": "The dataset shows an average annual growth rate of approximately 6%.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How do the forecasted values compare to historical seasonal patterns in airline passenger data?",
+        "answer": "The forecasted values align closely with historical seasonal patterns, capturing expected summer peaks and winter dips.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Were there any missing values in the dataset, and how were they handled?",
+        "answer": "The dataset had missing values for two months, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What insights can be drawn about the long-term trend and seasonality of airline passenger numbers?",
+        "answer": "The dataset indicates steady long-term growth with predictable seasonal peaks in summer and dips in winter.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What external factors might influence future trends in airline passenger numbers?",
+        "answer": "External factors such as economic growth, fuel prices, and global travel restrictions could significantly impact future trends.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    }
+]

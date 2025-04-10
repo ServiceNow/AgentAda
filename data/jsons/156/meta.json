@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings",
+        "https://www.kaggle.com/datasets/shriyasingh900/netflix-dataset",
+        "https://www.kaggle.com/datasets/osvaldopereira/sua-msica-recommendation-system"
+    ],
+    "dataset_description": "The datasets describe ratings and free-text tagging activities from MovieLens, a movie recommendation service. It contains 20000263 ratings and 465564 tag applications across 27278 movies. These data were created by 138493 users between January 09, 1995 and March 31, 2015. This dataset was generated on October 17, 2016.",
+    "notebook_url": "https://www.kaggle.com/code/jhoward/collaborative-filtering-deep-dive",
+    "domain": "Entertainment",
+    "help_data_file_names": ["rating.csv"]
+}

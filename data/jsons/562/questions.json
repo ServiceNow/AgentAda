@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "What is the total number of records in the dataset?",
+        "answer": "The dataset contains 500 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13, 19],
+        "question": "What is the average GRE score in the dataset?",
+        "answer": "The average GRE score in the dataset is 315.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [26],
+        "question": "What preprocessing steps were performed before applying Eigenvalue Decomposition?",
+        "answer": "The dataset was normalized, missing values were handled, and all numerical variables were standardized.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [35, 42],
+        "question": "How many principal components were retained for further analysis?",
+        "answer": "The first three principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [51, 57, 63],
+        "question": "What proportion of variance is explained by the first two principal components?",
+        "answer": "The first two principal components explain 85% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [71, 76],
+        "question": "How does feature correlation impact the effectiveness of Eigenvalue Decomposition?",
+        "answer": "Highly correlated features contribute redundant information, which Eigenvalue Decomposition helps to eliminate, improving efficiency.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [84],
+        "question": "What dataset was used in this analysis?",
+        "answer": "The dataset consists of graduate admissions data, including GRE scores, TOEFL scores, and GPA.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [97, 103, 109, 115],
+        "question": "What visualization technique was used to analyze the principal components?",
+        "answer": "A scatter plot of the first two principal components was used to visualize the dataset in reduced dimensions.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [124],
+        "question": "How does Eigenvalue Decomposition contribute to feature selection?",
+        "answer": "It ranks features based on their explained variance, allowing selection of the most informative variables.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [136, 142, 148, 153],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition for dimensionality reduction?",
+        "answer": "Eigenvalue Decomposition effectively reduced dimensionality while preserving essential patterns, making analysis more efficient and interpretable.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

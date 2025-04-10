@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/zillow-prize-1"
+    ],
+    "dataset_description": "In this competition, Zillow is asking you to predict the log-error between their Zestimate and the actual sale price, given all the features of a home. The log error is defined as ",
+    "notebook_url": "https://www.kaggle.com/code/sudalairajkumar/simple-exploration-notebook-zillow-prize",
+    "domain": "Marketing",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

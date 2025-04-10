@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze relationships between biomedical entities in COVID-19 research using a knowledge graph.",
+    "persona": "A biomedical data scientist specializing in COVID-19 research, skilled in natural language processing and graph-based data analysis with a focus on enhancing knowledge extraction using BERT models. They aim to improve understanding of disease-related interactions and entity disambiguation within scientific literature."
+}

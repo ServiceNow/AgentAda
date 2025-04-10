@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mhassansaboor/toyota-motors-stock-data-2980-2024",
+        "https://www.kaggle.com/datasets/mhassansaboor/honda-motors-stocks-data-1980-2024",
+        "https://www.kaggle.com/datasets/bryanb/cac40-stocks-dataset",
+        "https://www.kaggle.com/datasets/mhassansaboor/uber-stocks-dataset-2025"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/ahmedmohamedmahrous/eda-stock-market-time-series-analysis",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

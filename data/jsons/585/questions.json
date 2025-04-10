@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [21],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of model performance metrics across different machine learning benchmarks.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [30, 38],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was standardized, rankings were assigned to model performance scores, and missing values were imputed.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [45],
+        "question": "Which two performance metrics show the strongest positive Spearman correlation?",
+        "answer": "F1-score and precision show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [60, 68],
+        "question": "Which model parameter has the highest negative correlation with model inference time?",
+        "answer": "Model complexity (number of layers) has the highest negative correlation with model inference time.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [80, 88, 95],
+        "question": "What is the Spearman correlation coefficient between model size and accuracy on the test set?",
+        "answer": "The Spearman correlation coefficient between model size and accuracy on the test set is 0.63.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [107, 115],
+        "question": "How does Spearman correlation between training time and validation loss compare to other factors?",
+        "answer": "The correlation between training time and validation loss is weaker compared to the correlation between learning rate and validation loss.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [127],
+        "question": "Which benchmark dataset shows the weakest correlation between model architecture and performance ranking?",
+        "answer": "The ImageNet dataset shows the weakest correlation between model architecture and performance ranking.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [139, 147, 155, 163],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between hyperparameter tuning and generalization performance?",
+        "answer": "The Spearman correlation coefficient indicates a strong positive relationship, meaning better-tuned hyperparameters result in improved generalization performance.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [174],
+        "question": "Which variable has the least correlation with model robustness?",
+        "answer": "Dataset size has the least correlation with model robustness.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [185, 193, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing machine learning model performance?",
+        "answer": "Spearman correlation helped identify key relationships between model parameters and performance, showing how complexity and training strategies affect accuracy.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

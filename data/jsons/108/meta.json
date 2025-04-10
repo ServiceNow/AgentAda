@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset"
+    ],
+    "dataset_description": "This dataset provides synthetic yet realistic data for analyzing and forecasting retail store inventory demand. It contains over 73000 rows of daily data across multiple stores and products, including attributes like sales, inventory levels, pricing, weather, promotions, and holidays.",
+    "notebook_url": "https://www.kaggle.com/code/bondarchuk/retail-store-inventory-forecasting/notebook",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

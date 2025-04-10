@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/solonick/kaggle-resources",
+        "https://www.kaggle.com/datasets/aestheteaman01/covid19-literary-analysis-dataset-covlad"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/maksimeren/covid-19-literature-clustering",
+    "domain": "Health",
+    "help_data_file_names": []
+}

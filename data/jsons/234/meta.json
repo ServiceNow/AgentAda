@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data",
+        "https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset",
+        "https://www.kaggle.com/datasets/ankitchahal1/sales-data",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/app-users-segmentation-case-study",
+        "https://www.kaggle.com/datasets/darrylljk/customer-segmentation-practice-using-rfm-and-k-means",
+        "https://www.kaggle.com/datasets/dev0914sharma/customer-clustering",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/sadmansakibmahi/plant-disease-expert",
+        "https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset",
+        "https://www.kaggle.com/datasets/rupindersinghrana/credit-card-customer-segmentation",
+        "https://www.kaggle.com/datasets/goyaladi/customer-spending-dataset",
+        "https://www.kaggle.com/datasets/manidevesh/customer-sales-data",
+        "https://www.kaggle.com/datasets/yashgupta011/customer-segmentation-dataset",
+        "https://www.kaggle.com/datasets/pawan329/customer-segmentation-kmeans-clustering",
+        "https://www.kaggle.com/datasets/myfaizal/tbc-preprocessing-segmentation-k-means",
+        "https://www.kaggle.com/datasets/ziriantahirli/million-song-data-analysis-2",
+        "https://www.kaggle.com/datasets/mesutssmn/flo-dataset"
+    ],
+    "dataset_description": "This Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.",
+    "notebook_url": "https://www.kaggle.com/code/serapgr/k-means-segmentation",
+    "domain": "Business",
+    "help_data_file_names": []
+}

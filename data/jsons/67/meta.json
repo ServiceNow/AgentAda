@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/shenba/time-series-datasets"],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/sercanyesiloz/electricity-production-forecasting-arima/notebook",
+    "domain": "Business",
+    "help_data_file_names": []
+}

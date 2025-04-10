@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/hyuksama1/north-korean-nuclear-research"
+    ],
+    "dataset_description": "The dataset covering titles and authors of studies on nuclear issues published by the Journal of Kim Il Sung University between 1991 and 2017.",
+    "notebook_url": "https://www.kaggle.com/code/hyuksama1/network-of-nuclear-scientists-in-north-korea",
+    "domain": "Politics",
+    "help_data_file_names": [
+        "keywords.csv"
+    ]
+}

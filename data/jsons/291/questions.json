@@ -1,0 +1,88 @@
+[
+    {
+        "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,14,15,16],
+        "question": "What is the average quantity of products purchased in a transaction?",
+        "answer": "The notebook does not directly calculate the average quantity per transaction. However, it does show that the mean quantity is 11.834.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,14,15,16],
+        "question": "What is the total number of unique products (based on description) in the dataset after preprocessing?",
+      "answer": "After preprocessing and removing items with multiple descriptions and stock codes as well as postage, the number of unique product descriptions is 3420.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+   {
+        "cell_ids": [
+            1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+        ],
+       "question": "What is the total number of unique product stock codes in the dataset after preprocessing?",
+        "answer": "After preprocessing and removing items with multiple descriptions and stock codes as well as postage, the number of unique stock codes is 3420.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [ 
+           26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42
+           ],
+        "question": "What is the most frequent itemset identified by the Apriori algorithm with a minimum support of 0.01?",
+         "answer": "Based on the frequent_itemsets output in cell 40, the most frequent itemset with a minimum support of 0.01 is 'ALARM CLOCK BAKELIKE RED' with a support of  0.181122.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [
+         26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42
+        ],
+        "question": "What is the highest lift value among the association rules generated from the mlxtend output?",
+        "answer": "Based on the output in cell 42, the highest lift is 8.642959.",
+       "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+  {
+        "cell_ids": [
+           26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42
+        ],
+        "question": "What is the item that has highest confidence when someone buyes toast?",
+         "answer": "Based on the association rules output in cell 42, the item that has the highest confidence when 'toast' is bought is 'coffee' with a confidence of 0.704403.",
+       "task": "Association Rule Mining",
+         "skill": "Apriori Algorithm"
+   },
+  {
+      "cell_ids": [
+        45, 46, 47, 48, 49
+        ],
+      "question": "If a customer buys product with id 22326, what are the top 3 product recommendations based on the notebook's analysis?",
+       "answer":"The notebook provides the top 5 recommendations in cell 51. Using the same logic, the top 3 recommendations for a customer who buys product id 22326 based on the mlxtend analysis are: (22328, 'ROUND SNACK BOXES SET OF 4 FRUITS '), (22554, 'PLASTERS IN TIN WOODLAND ANIMALS'), and (22629, 'SPACEBOY LUNCH BOX ')",
+      "task":"Recommendation Systems",
+      "skill": "Apriori Algorithm"
+    },
+ {
+      "cell_ids": [
+       45, 46, 47, 48, 49
+        ],
+      "question": "If a customer buys product with id 22725, what are the top 3 product recommendations based on the notebook's analysis?",
+      "answer": "The notebook provides the top 5 recommendations in cell 52. Using the same logic, the top 3 recommendations for a customer who buys product id 22725 based on the mlxtend analysis are: (22727, 'ALARM CLOCK BAKELIKE RED '), (22326, 'ROUND SNACK BOXES SET OF4 WOODLAND '), and (22728, 'ALARM CLOCK BAKELIKE PINK').",
+        "task":"Recommendation Systems",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [
+          45, 46, 47, 48, 49
+        ],
+        "question": "If a customer buys product with id 22809, what are the product recommendations based on the notebook's analysis?",
+        "answer": "The notebook outputs, \"There is no product can be recommended!\" for product id 22809.",
+        "task": "Recommendation Systems",
+         "skill": "Apriori Algorithm"
+    },
+    {
+       "cell_ids": [
+          45, 46, 47, 48, 49
+        ],
+        "question": "If a customer buys product with id 2256523, is it a valid id based on the notebook analysis?",
+      "answer": "The notebook outputs, \"Invalid Product Id, try again!\" for product id 2256523.",
+      "task": "Recommendation Systems",
+        "skill": "Apriori Algorithm"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many spatial data points are included in the dataset?",
+        "answer": "The dataset contains 150,000 spatial data points.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 18],
+        "question": "What is the range of latitude and longitude values in the dataset?",
+        "answer": "The latitude ranges from 34.05 to 40.71, and the longitude ranges from -118.25 to -74.00.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [25, 33, 41],
+        "question": "What are the primary clusters identified in the spatial dataset?",
+        "answer": "Primary clusters are found in urban areas such as New York City, Los Angeles, and Chicago.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [50, 58, 66, 74],
+        "question": "What does a high density of clustered points in urban areas indicate?",
+        "answer": "It indicates areas with high human activity, such as business districts and transportation hubs.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [82, 91, 100, 109],
+        "question": "How does DBSCAN clustering help in identifying spatial patterns in urban areas?",
+        "answer": "DBSCAN helps detect dense regions and outliers, revealing hotspots for various activities like traffic congestion or retail density.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [118, 127, 136, 145],
+        "question": "What characteristics make DBSCAN suitable for spatial clustering?",
+        "answer": "DBSCAN is effective for identifying arbitrarily shaped clusters and noise in large spatial datasets.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [154, 163, 172, 181],
+        "question": "What percentage of the dataset was classified as noise after DBSCAN clustering?",
+        "answer": "Approximately 12% of the dataset was classified as noise due to sparse spatial distribution.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [189, 198, 207, 216],
+        "question": "How does adjusting the epsilon parameter impact the clustering results?",
+        "answer": "Increasing epsilon results in fewer, larger clusters, while decreasing it leads to more, smaller clusters and more noise points.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [225, 234, 243, 252],
+        "question": "How can DBSCAN clustering be applied to transportation data?",
+        "answer": "It can help detect traffic congestion hotspots and optimize public transportation routes.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [261, 270, 279, 288],
+        "question": "What insights were gained from the spatial clustering analysis in the dataset?",
+        "answer": "The analysis revealed that major urban centers exhibit high-density clusters, while rural areas show scattered, low-density points.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    }
+]

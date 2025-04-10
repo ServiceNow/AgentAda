@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the general trend observed in the time series data over the recorded period?",
+        "answer": "The dataset shows a gradual upward trend with regular seasonal patterns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 5],
+        "question": "What is the average monthly value in the dataset?",
+        "answer": "The average monthly value is approximately 12,800 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 7],
+        "question": "What seasonal patterns are evident in the dataset?",
+        "answer": "Seasonal peaks occur during the mid-year months, particularly in June and July.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [8],
+        "question": "What is the highest recorded value in the dataset, and when did it occur?",
+        "answer": "The highest recorded value is 18,500 units, observed in July 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "What are the forecasted values for the next 6 months using the LSTM model?",
+        "answer": "The forecasted values range from 14,000 to 16,500 units, maintaining historical trends.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [11],
+        "question": "What does the dataset indicate about variability in values across seasons?",
+        "answer": "The dataset shows higher variability during peak seasons compared to off-peak periods.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How does the LSTM model's forecast align with historical seasonal patterns?",
+        "answer": "The LSTM model's forecast aligns well with historical seasonal peaks and troughs.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [14],
+        "question": "Were there any missing values in the dataset, and how were they handled?",
+        "answer": "The dataset had missing values for three weeks, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [15, 16],
+        "question": "What insights can be drawn about the dataset's long-term trends and seasonality?",
+        "answer": "The dataset shows steady growth over time with predictable seasonal spikes during mid-year.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17],
+        "question": "What external factors might influence the forecasted trends in the dataset?",
+        "answer": "Factors such as economic conditions, policy changes, and market dynamics could significantly impact trends.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    }
+]

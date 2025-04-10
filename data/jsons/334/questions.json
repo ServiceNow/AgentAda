@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [4],
+        "question": "How many customers are present in the dataset?",
+        "answer": "The dataset contains 4,349 unique customers.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [7, 9],
+        "question": "What are the key performance indicators (KPIs) used in customer relationship management analytics?",
+        "answer": "Key performance indicators include Customer Acquisition Rate, Customer Retention Rate, Customer Churn Rate, and Conversion Rate.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Which segment of customers has the highest retention rate?",
+        "answer": "Loyal customers have the highest retention rate, maintaining an engagement level of 85%.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [14, 16],
+        "question": "Which customer behavior metric contributes the most to the conversion rate?",
+        "answer": "Engagement with personalized offers contributes the most to the conversion rate, with a 32% impact.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [18, 20],
+        "question": "What is the average customer lifetime value (CLTV) across all segments?",
+        "answer": "The average customer lifetime value across all segments is $1,247.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [22],
+        "question": "How does customer acquisition cost (CAC) impact profitability?",
+        "answer": "High customer acquisition costs reduce profitability, with a CAC-to-CLTV ratio of 0.45 indicating sustainable growth.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [25, 27, 30],
+        "question": "What is the trend of customer retention rates over time?",
+        "answer": "Customer retention rates have increased by 12% over the past two years, indicating improved loyalty programs.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [32],
+        "question": "Which marketing channel has the highest conversion rate based on KPI analysis?",
+        "answer": "Email marketing has the highest conversion rate, contributing to 42% of total customer conversions.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [34, 36, 38, 40],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Customers engaging with targeted marketing campaigns exhibit higher retention and CLTV, while churn rates decrease with improved onboarding strategies.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

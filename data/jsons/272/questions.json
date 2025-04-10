@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of Game of Thrones?",
+        "answer": "The dataset represents a co-occurrence network of Game of Thrones characters, where two characters are connected if their names appear within 15 words of each other in the text.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the main attributes of the edges in the dataset?",
+        "answer": "The edges in the dataset have attributes: Source, Target, Type (undirected), weight (interaction count), and book (book number).",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 4],
+        "question": "How many characters are represented in the network for the first book?",
+        "answer": "There are 187 unique characters represented in the network for the first book.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 4, 5],
+        "question": "What is the total number of edges in the first book's network?",
+        "answer": "The first book's network contains 684 edges representing character co-occurrences.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 7],
+        "question": "Which character has the highest degree centrality in the network?",
+        "answer": "Eddard Stark has the highest degree centrality, connecting to 35 other characters.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [8, 9],
+        "question": "What is the average clustering coefficient of the network?",
+        "answer": "The average clustering coefficient of the network is 0.52.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [10, 11, 12],
+        "question": "Which character has the highest PageRank value, and what is it?",
+        "answer": "Tyrion Lannister has the highest PageRank value of 0.089, indicating his importance in the network.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [2, 13],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, representing a single interaction, while some edges have weights as high as 12.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "How many connected components are in the network for the first book?",
+        "answer": "The network for the first book contains 3 connected components.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [16, 17, 18],
+        "question": "Which pair of characters has the highest weight, and what does it represent?",
+        "answer": "Eddard Stark and Catelyn Stark have the highest weight of 12, representing 12 interactions in the text.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    }
+]

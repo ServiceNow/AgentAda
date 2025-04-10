@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1, 2],
+      "question": "What is the total number of transactions in the financial payment dataset?",
+      "answer": "The dataset contains 500,000 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [3, 4],
+      "question": "What percentage of the transactions in the dataset are fraudulent?",
+      "answer": "The percentage of fraudulent transactions is 0.2%.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 6],
+      "question": "What is the average transaction amount in the dataset?",
+      "answer": "The average transaction amount is $150.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [7, 8],
+      "question": "What is the highest transaction amount in the dataset?",
+      "answer": "The highest transaction amount is $50,000.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [9, 10],
+      "question": "What is the lowest transaction amount in the dataset?",
+      "answer": "The lowest transaction amount is $1.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [11, 12],
+      "question": "What features are most important for detecting fraudulent transactions?",
+      "answer": "Features such as 'Transaction Type', 'Transaction Amount', and 'Account Age' are most important.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [13, 14],
+      "question": "What is the accuracy of the Random Forest model in detecting fraud?",
+      "answer": "The model achieves an accuracy of 99.5%.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [15, 16],
+      "question": "What is the precision score of the Random Forest model?",
+      "answer": "The precision score of the model is 92.0%.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [17, 18],
+      "question": "What is the recall score of the Random Forest model?",
+      "answer": "The recall score of the model is 89.8%.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [19, 20],
+      "question": "How does the Random Forest model handle the class imbalance in the dataset?",
+      "answer": "The model uses class weighting to address the imbalance between fraudulent and non-fraudulent transactions.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    }
+  ]
+  

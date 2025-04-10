@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many crime incidents are recorded in the dataset?",
+        "answer": "The dataset contains 250,000 crime incidents.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 12],
+        "question": "What is the most common type of crime in the dataset?",
+        "answer": "The most common type of crime is 'Theft'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18, 25, 30],
+        "question": "Which areas of Los Angeles have the highest crime density?",
+        "answer": "Downtown LA and South Central have the highest crime density.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [37, 44, 52],
+        "question": "How does spatial autocorrelation help identify crime hotspots in Los Angeles?",
+        "answer": "Spatial autocorrelation helps identify crime clusters by detecting areas where similar crime rates occur close together.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [61, 70, 78, 86],
+        "question": "What does a high positive Moran’s I value indicate for crime incidents in LA?",
+        "answer": "A high positive Moran’s I value indicates that high-crime areas are clustered together.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [95, 104, 113, 122],
+        "question": "How does spatial autocorrelation change when analyzing different crime types?",
+        "answer": "Violent crimes tend to be more clustered, while property crimes are more dispersed across the city.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [130, 138, 146, 154],
+        "question": "What socioeconomic factors are strongly correlated with crime clusters in LA?",
+        "answer": "Unemployment rate, poverty levels, and housing density are strongly correlated with crime clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [163, 171, 179, 187],
+        "question": "What does a Moran’s I value close to zero indicate about crime distribution?",
+        "answer": "A Moran’s I value close to zero suggests that crime incidents are randomly distributed across the city.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [196, 204, 212, 220],
+        "question": "How do crime patterns in LA change over time according to spatial autocorrelation analysis?",
+        "answer": "Crime clusters shift seasonally, with higher density in summer months and reduced clustering in winter.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [229, 238, 247, 256],
+        "question": "What insights does the Local Moran’s I statistic provide about LA crime distribution?",
+        "answer": "Local Moran’s I helps detect local crime hotspots and cold spots, highlighting neighborhoods with significantly different crime rates.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    }
+]

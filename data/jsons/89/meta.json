@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/rakannimer/air-passengers"],
+    "dataset_description": "Air Passengers per month. Workshop dataset",
+    "notebook_url": "https://www.kaggle.com/code/nilaychauhan/time-series-forecasting-using-facebook-prophet/notebook",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

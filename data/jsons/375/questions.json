@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many records and features are included in the machine failure prediction dataset?",
+        "answer": "The dataset contains 250,000 records and 23 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 14],
+        "question": "What is the average operational cycle count before machine failure?",
+        "answer": "The average operational cycle count before failure is 315 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which sensor readings are used as input features for the Random Forest predictive maintenance model?",
+        "answer": "Key sensor readings include temperature, vibration, pressure, load, and fuel consumption.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [22, 27],
+        "question": "How does increased machine load impact failure probability?",
+        "answer": "Machines operating above 80% load capacity have a 67% higher failure probability.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [32, 36, 41],
+        "question": "What is the distribution of failure types in the dataset?",
+        "answer": "The dataset includes 38% mechanical failures, 34% electrical failures, and 28% software-related failures.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [45, 50, 55, 59],
+        "question": "What correlation exists between pressure levels and machine failures?",
+        "answer": "Machines with pressure fluctuations above 250 kPa show a failure probability of 75%.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [63],
+        "question": "Which sensor feature is the strongest predictor of machine failure?",
+        "answer": "The operational cycle count is the strongest predictor, followed by vibration and pressure fluctuations.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [68, 72, 77],
+        "question": "What impact does feature selection have on the Random Forest model’s performance?",
+        "answer": "Feature selection improved the model’s accuracy by 6% by reducing redundant features and optimizing key predictive variables.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [82, 87, 91, 96],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The Random Forest model predicts failures with 94% accuracy up to 65 cycles in advance, with vibration and temperature being key indicators.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    },
+    {
+        "cell_ids": [101, 106, 112, 118],
+        "question": "How does the Random Forest model compare to other predictive models for machine maintenance?",
+        "answer": "The Random Forest model outperforms decision trees and logistic regression, achieving an 11% higher precision in failure prediction.",
+        "task": "Predictive Maintenance",
+        "skill": "Random Forest"
+    }
+]

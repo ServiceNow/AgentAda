@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "How many products are included in the Amazon Sales dataset?",
+        "answer": "The dataset contains 1,000+ Amazon products with ratings and reviews.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [14, 17],
+        "question": "What are the key statistical aggregation functions used in the dataset analysis?",
+        "answer": "The analysis includes mean, median, standard deviation, quantiles, and correlation coefficients.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [19],
+        "question": "What is the average rating across all products in the dataset?",
+        "answer": "The average rating across all products is 4.3 stars.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [22, 26],
+        "question": "How does the median rating compare to the mean rating in the dataset?",
+        "answer": "The median rating is 4.5 stars, slightly higher than the mean rating of 4.3, indicating a slight left-skew in the rating distribution.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [28, 32],
+        "question": "What is the interquartile range (IQR) for product prices in the dataset?",
+        "answer": "The interquartile range (IQR) for product prices is 50 USD.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [35, 38, 41],
+        "question": "What is the correlation between discount percentage and sales volume?",
+        "answer": "There is a moderate positive correlation (0.62) between discount percentage and sales volume, indicating higher sales for discounted products.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [44],
+        "question": "Which numerical feature has the highest standard deviation in the dataset?",
+        "answer": "The actual product price has the highest standard deviation, indicating a wide variation in product pricing.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [47, 50, 53],
+        "question": "What is the percentage of products that have more than 1,000 reviews?",
+        "answer": "Approximately 35% of products in the dataset have more than 1,000 reviews.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [56, 59, 62, 65],
+        "question": "What insights can be derived from the statistical aggregations in the dataset?",
+        "answer": "Higher discounts lead to increased sales, product ratings are skewed positively, and pricing varies significantly across different categories.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    }
+]

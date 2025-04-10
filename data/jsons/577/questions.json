@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of employee attrition records, including job satisfaction and performance metrics.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [18, 25],
+        "question": "What preprocessing steps were performed before calculating Pearson correlation?",
+        "answer": "The dataset was cleaned by handling missing values, normalizing numerical features, and encoding categorical variables.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [33],
+        "question": "Which two employee attributes show the strongest positive correlation?",
+        "answer": "Job level and salary show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [47, 52],
+        "question": "Which factor has the highest negative correlation with employee attrition?",
+        "answer": "Job satisfaction has the highest negative correlation with employee attrition.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [66, 71, 77],
+        "question": "What is the Pearson correlation coefficient between work-life balance and attrition rate?",
+        "answer": "The Pearson correlation coefficient between work-life balance and attrition rate is -0.65.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [90, 96],
+        "question": "How does Pearson correlation between years at company and promotion frequency compare to other factors?",
+        "answer": "The correlation between years at company and promotion frequency is positive but weaker compared to salary progression.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [107],
+        "question": "Which department shows the weakest correlation between overtime hours and employee satisfaction?",
+        "answer": "The finance department shows the weakest correlation between overtime hours and employee satisfaction.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [119, 125, 132, 138],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between training hours and job performance?",
+        "answer": "The Pearson correlation coefficient indicates a strong positive relationship, suggesting more training hours lead to higher job performance.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [150],
+        "question": "Which variable has the least correlation with employee retention?",
+        "answer": "Commute distance has the least correlation with employee retention.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [161, 167, 176, 185],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for analyzing employee attrition?",
+        "answer": "Pearson correlation identified key factors such as job satisfaction and work-life balance as strong predictors of attrition trends.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation",
+        "https://www.kaggle.com/datasets/manidevesh/customer-sales-data",
+        "https://www.kaggle.com/datasets/ziriantahirli/million-song-data-analysis-2",
+        "https://www.kaggle.com/datasets/victormuna/learning-preference-methods",
+        "https://www.kaggle.com/datasets/atashnezhad/segmented-ad-kmean-seismic",
+        "https://www.kaggle.com/datasets/atashnezhad/segmented-ad-kmean-3-cmap-viridis",
+        "https://www.kaggle.com/datasets/ramisashararnidhi/mall-customer-csv",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": "It is created only for the learning purpose of the customer segmentation concepts. We will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm).",
+    "notebook_url": "https://www.kaggle.com/code/krishnaraj30/clustering-segmentation-k-means-clusters",
+    "domain": "Marketing",
+    "help_data_file_names": []
+}

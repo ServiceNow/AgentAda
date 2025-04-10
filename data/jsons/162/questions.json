@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and anime titles in the dataset, and how does this impact the scale of the recommendation system?",
+      "answer": "The dataset contains 100,000 users and 12,000 anime titles, forming a large user-item matrix for collaborative filtering.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What percentage of the user-anime matrix is filled with ratings, and how does this sparsity affect the recommendation process?",
+      "answer": "The matrix is 96% sparse, posing challenges for accurate predictions and recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 6, 8],
+      "question": "What is the average number of anime titles rated per user, and how does this influence the system's ability to capture user preferences?",
+      "answer": "On average, each user rates 20 anime titles, providing sufficient data to identify preferences for recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 13],
+      "question": "Which anime titles are the most frequently rated, and how can they be used to recommend to new users?",
+      "answer": "Popular titles like 'Naruto' and 'Attack on Titan' are frequently rated, making them suitable for cold-start recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [14, 16, 19],
+      "question": "What is the distribution of ratings for anime titles, and how does this affect the diversity of recommendations?",
+      "answer": "Ratings are heavily skewed towards higher values (8-10), which may lead to a bias towards popular titles in recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [21, 23, 26],
+      "question": "What patterns in user preferences for anime genres are observed, and how can this guide genre-specific recommendations?",
+      "answer": "Users frequently rate genres like 'Action' and 'Fantasy', indicating strong preferences that can inform targeted recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [28, 30, 33],
+      "question": "What insights can be derived from the temporal trends in the popularity of anime titles?",
+      "answer": "Titles like 'My Hero Academia' show spikes in popularity during new season releases, suggesting time-sensitive recommendation strategies.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [35, 37],
+      "question": "What challenges arise in recommending niche anime titles with limited ratings, and how does the system address these challenges?",
+      "answer": "Collaborative filtering leverages similarities in user preferences to recommend niche titles to users with overlapping interests.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [39, 42],
+      "question": "What are the characteristics of highly active users, and how do their ratings influence the recommendation system?",
+      "answer": "Highly active users rate a diverse range of genres and titles, providing valuable data to improve the system's recommendations for all users.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [44, 47, 49, 52],
+      "question": "What strategies are implemented to address the cold-start problem for new users or anime titles in the dataset?",
+      "answer": "Popular titles and genre-based recommendations are used to provide initial suggestions in cold-start scenarios.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    }
+  ]
+  

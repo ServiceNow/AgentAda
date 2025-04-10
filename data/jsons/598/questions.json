@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [34],
+        "question": "What dataset was used for Kendall's Tau correlation analysis?",
+        "answer": "The dataset consists of various socio-economic factors, including income levels, education, and employment status.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [43, 51],
+        "question": "What preprocessing steps were performed before computing Kendall's Tau correlation?",
+        "answer": "The dataset was preprocessed by handling missing values, ranking categorical attributes such as education level, and normalizing numerical variables.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [58],
+        "question": "Which two socio-economic variables show the strongest positive Kendall's Tau correlation?",
+        "answer": "Income level and years of education show the strongest positive Kendall's Tau correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [73, 81],
+        "question": "Which demographic factor has the highest negative correlation with income inequality?",
+        "answer": "Access to higher education has the highest negative correlation with income inequality.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [93, 101, 108],
+        "question": "What is the Kendall's Tau correlation coefficient between job stability and unemployment rate?",
+        "answer": "The Kendall's Tau correlation coefficient between job stability and unemployment rate is -0.64.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [120, 128],
+        "question": "How does Kendall's Tau correlation between financial literacy and savings rate compare to other economic factors?",
+        "answer": "The correlation between financial literacy and savings rate is stronger than the correlation between financial literacy and investment risk-taking.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [140],
+        "question": "Which employment characteristic shows the weakest correlation with career advancement?",
+        "answer": "Number of job changes shows the weakest correlation with career advancement.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [152, 160, 168, 176],
+        "question": "What does the Kendall's Tau correlation coefficient indicate about the relationship between public infrastructure investment and economic growth?",
+        "answer": "The Kendall's Tau correlation coefficient indicates a strong positive relationship, meaning higher public infrastructure investment is associated with greater economic growth.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [187],
+        "question": "Which economic indicator has the least correlation with inflation rate?",
+        "answer": "Government subsidies have the least correlation with inflation rate.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [197, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Kendall's Tau correlation for analyzing socio-economic trends?",
+        "answer": "Kendall's Tau correlation helped identify key relationships between education, employment stability, and economic prosperity, highlighting the importance of policy interventions.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    }
+]

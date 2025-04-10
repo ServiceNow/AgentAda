@@ -1,0 +1,94 @@
+[
+    {
+      "cell_ids": [
+        1,
+         3
+      ],
+      "question": "What is the structure of the dataset used for collaborative filtering?",
+      "answer": "The dataset consists of 'userId', 'movie' and 'rating' columns as shown in the head of the df in cell 3.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           4
+          ],
+          "question": "How many ratings are provided in the dataset?",
+          "answer": "The dataset contains 1,000,209 ratings.",
+          "task": "Basic Data Analysis",
+           "skill": "Basic Data Analysis"
+      },
+      {
+         "cell_ids": [
+              4
+          ],
+          "question": "How many unique users are there in the dataset?",
+          "answer": "The dataset contains 6,040 unique users.",
+           "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+      {
+         "cell_ids": [
+              4
+          ],
+         "question": "How many movies, on average, have each user rated?",
+         "answer": "On average, each user has rated approximately 165.6 movies.",
+          "task": "Basic Data Analysis",
+           "skill": "Basic Data Analysis"
+      },
+       {
+          "cell_ids": [
+              5,6
+          ],
+          "question": "What libraries from Surprise are used in this implementation?",
+          "answer": "The notebook uses `Reader`, `Dataset`, `SVD`, and `cross_validate` from the surprise library.",
+          "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      },
+      {
+          "cell_ids": [
+              6,
+               7
+          ],
+          "question": "How is the dataset loaded into Surprise?",
+          "answer": "The dataset is loaded into Surprise's format using `Dataset.load_from_df` and the Reader is passed to load the data.",
+          "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      },
+      {
+           "cell_ids": [
+            7,8
+          ],
+          "question": "Which matrix decomposition algorithm is used in the notebook?",
+          "answer": "The notebook uses the Singular Value Decomposition (SVD) algorithm.",
+          "task": "Recommendation Systems",
+          "skill": "Matrix Factorization"
+      },
+      {
+          "cell_ids": [
+              8
+          ],
+         "question": "What is the prediction result using SVD for a specific user and item?",
+          "answer": "The notebook provides a sample prediction result for user 1 and the movie 'Bug's Life, A (1998)' with an estimated rating.",
+           "task": "Recommendation Systems",
+          "skill": "Collaborative Filtering"
+      },
+      {
+          "cell_ids": [
+             10,11
+          ],
+          "question": "How does the notebook create a list of all unique movies?",
+          "answer": "All unique movies are extracted from the DataFrame’s `movie` column using the `unique()` function and loaded into a pandas DataFrame.",
+          "task": "Basic Data Analysis",
+           "skill": "Basic Data Analysis"
+      },
+     {
+          "cell_ids": [
+             14, 15
+          ],
+          "question": "How are the movies that have not been rated by a specific user obtained?",
+          "answer": "Movies that haven't been rated by a specific user are identified by comparing a list of unique movie titles against another list of watched movies by that specific user using `isin()` function.",
+           "task": "Recommendation Systems",
+         "skill": "Collaborative Filtering"
+      }
+  ]

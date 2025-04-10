@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [4],
+        "question": "What is the total number of samples in the dataset?",
+        "answer": "The dataset contains 15,000 samples.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 12],
+        "question": "What is the mean value of the target variable in the dataset?",
+        "answer": "The mean value of the target variable is 3.75.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27],
+        "question": "What preprocessing steps were applied before using SVD?",
+        "answer": "Normalization, handling missing values, and transforming categorical variables into numerical form.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [38, 41],
+        "question": "How many singular values were retained after decomposition?",
+        "answer": "60 singular values were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [49, 52, 55],
+        "question": "What percentage of variance is explained by the first 20 singular values?",
+        "answer": "The first 20 singular values explain 78% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [63, 66],
+        "question": "How does dimensionality reduction using SVD impact classification performance?",
+        "answer": "Reducing dimensionality improves classification performance by removing noise and redundant features.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [79],
+        "question": "What dataset was used to perform SVD decomposition?",
+        "answer": "The dataset consists of user-item interactions in a recommendation system.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [95, 98, 100, 103],
+        "question": "What method was used to determine the optimal number of singular values to retain?",
+        "answer": "The scree plot and explained variance analysis were used to determine the optimal number of singular values.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [116],
+        "question": "How does SVD help in improving feature interpretability?",
+        "answer": "SVD transforms the dataset into orthogonal components, making the features easier to interpret and reducing multicollinearity.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [129, 132, 138, 142],
+        "question": "What conclusions were drawn about the effectiveness of SVD for data compression?",
+        "answer": "SVD effectively reduces data dimensionality while preserving key patterns, making it useful for data compression and feature extraction.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    }
+]

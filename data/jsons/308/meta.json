@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/newshuntkannada/dataset-for-apriori-and-fp-growth-algorithm"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/shwetabh123/fp-growth-algo",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

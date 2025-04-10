@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/koki25ando/22000-scotch-whisky-reviews"
+    ],
+    "dataset_description": "Dataset was scraped from Whisky Advocate. You can take a look at scraping script here.",
+    "notebook_url": "https://www.kaggle.com/code/korfanakis/whisky-reviews-basic-exploratory-data-analysis",
+    "domain": "Business",
+    "help_data_file_names": []
+}

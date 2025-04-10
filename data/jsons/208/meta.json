@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/suraj520/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/erak1006/telecom-churn-case-study-aditya",
+        "https://www.kaggle.com/datasets/venkatasubramanian/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/hritikesinghrawat/telecom-churn-data",
+        "https://www.kaggle.com/datasets/siddharthaborgohain/telecom-churn-case-study-using-ml",
+        "https://www.kaggle.com/datasets/riddhitokdar/telecomchurncasestudy",
+        "https://www.kaggle.com/datasets/shuklavaibhav1994/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/sourabhpattanshetty/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/akhigangwar/test-dataset-telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/pratikbinani/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/dev1313/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/rajeshsomu/telecom-churn-case-study-hackathon-c56",
+        "https://www.kaggle.com/datasets/bhagvanverma/telecom-churn-case-study-bhagvan28-c46",
+        "https://www.kaggle.com/datasets/pavan157/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/sadasivuninikhita/telecom-churn-case-study-hackathon-c-67",
+        "https://www.kaggle.com/datasets/bhagvanverma/telecom-churn-case-study-bhagvan-c46",
+        "https://www.kaggle.com/datasets/bhargavasrivathsang/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/komalmahawar/telecom-churn-case-study",
+        "https://www.kaggle.com/datasets/ravisankarvangala/telecom-churn-prediction",
+        "https://www.kaggle.com/datasets/ashirvadtiwari/ml2-tel-chrun"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/rahulbhargava21/telecom-churn-case-study",
+    "domain": "Telecommunications",
+    "help_data_file_names": []
+}

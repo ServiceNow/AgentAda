@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mansoordaku/ckdisease"
+    ],
+    "dataset_description": "The data was taken over a 2-month period in India with 25 features ( eg, red blood cell count, white blood cell count, etc). The target is the 'classification', which is either 'ckd' or 'notckd' - ckd=chronic kidney disease. There are 400 rows",
+    "notebook_url": "https://www.kaggle.com/code/chayan8/missing-value-imputation-using-mice-knn-ckd-data",
+    "domain": "Health",
+    "help_data_file_names": []
+}

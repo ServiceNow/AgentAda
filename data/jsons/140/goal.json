@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the dataset to identify and understand credit card fraud.",
+    "persona": "A data scientist specialized in fraud detection with expertise in machine learning techniques, particularly interested in enhancing anomaly detection models to improve financial security and reduce fraudulent activities."
+}

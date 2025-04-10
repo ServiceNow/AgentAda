@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "What is the total number of features in the dataset?",
+        "answer": "The dataset contains 25 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13, 17],
+        "question": "What is the mean value of the second numerical feature?",
+        "answer": "The mean value of the second numerical feature is 4.87.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29],
+        "question": "What preprocessing steps were performed before applying Eigenvalue Decomposition?",
+        "answer": "The dataset was standardized, missing values were handled, and categorical variables were converted into numerical form.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [40, 44],
+        "question": "How many principal components were retained for further analysis?",
+        "answer": "The first 10 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [52, 57, 61],
+        "question": "What percentage of variance is explained by the first five principal components?",
+        "answer": "The first five principal components explain 78% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [71, 75],
+        "question": "What method was used to determine the importance of each principal component?",
+        "answer": "The eigenvalues of the covariance matrix were analyzed to determine the importance of each principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [86],
+        "question": "What dataset was analyzed using Eigenvalue Decomposition?",
+        "answer": "The dataset consists of climate variables from different geographic regions.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [101, 105, 109, 114],
+        "question": "What visualization was used to interpret the contribution of the principal components?",
+        "answer": "A scree plot and a cumulative variance plot were used to interpret the principal components' contributions.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [126],
+        "question": "How does Eigenvalue Decomposition help in identifying the most significant features?",
+        "answer": "It ranks features by their variance contribution, allowing for effective feature selection and dimensionality reduction.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [139, 143, 148, 153],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition for feature extraction?",
+        "answer": "Eigenvalue Decomposition successfully reduced dimensionality while preserving key data structures, improving analysis efficiency.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

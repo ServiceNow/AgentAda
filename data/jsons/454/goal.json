@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the density and distribution of observations to identify concentration areas.",
+    "persona": "A data scientist specialized in geospatial analysis with a strong background in statistical methods, experienced in employing techniques like Kernel Density Estimation to interpret and visualize spatial data. Focused on deriving insights related to spatial patterns and distributions within datasets, aiming to inform urban planning or resource allocation decisions."
+}

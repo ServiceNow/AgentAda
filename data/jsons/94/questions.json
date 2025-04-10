@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the observed trend in the dataset over the recorded period?",
+        "answer": "The dataset shows a consistent upward trend with regular seasonal variations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly value in the dataset?",
+        "answer": "The average monthly value is approximately 15,700 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are evident in the dataset?",
+        "answer": "The dataset reveals seasonal peaks during the end of the year, particularly in December.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest value recorded in the dataset, and in which month and year did it occur?",
+        "answer": "The highest value recorded is 28,000 units, observed in December 2020.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What are the forecasted values for the next 6 months using the Prophet model?",
+        "answer": "The forecasted values for the next 6 months range between 16,000 and 20,000 units.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What does the dataset indicate about variability during seasonal peaks?",
+        "answer": "The dataset shows increased variability during seasonal peaks compared to off-peak periods.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How do the forecasted values align with historical seasonal trends?",
+        "answer": "The forecasted values align closely with historical seasonal peaks, especially during end-of-year periods.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Were there any missing values in the dataset, and how were they handled?",
+        "answer": "The dataset had missing values for one month, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What insights can be drawn about the dataset's long-term trend and seasonality?",
+        "answer": "The dataset demonstrates steady growth over time, with predictable seasonal spikes in December each year.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What external factors could potentially influence the forecasted trends in the dataset?",
+        "answer": "External factors such as market conditions, global economic events, and consumer behavior changes could impact the trends.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    }
+]

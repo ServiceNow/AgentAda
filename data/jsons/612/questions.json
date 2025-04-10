@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [48],
+        "question": "What dataset was used for PageRank analysis?",
+        "answer": "The dataset consists of a web graph containing interconnected web pages with hyperlinks representing edges.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [57, 65],
+        "question": "What preprocessing steps were performed before applying PageRank?",
+        "answer": "The dataset was preprocessed by extracting hyperlink structures, normalizing link weights, and constructing an adjacency matrix.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [72],
+        "question": "Which two web domains show the strongest interconnectivity based on the PageRank algorithm?",
+        "answer": "The strongest interconnectivity is observed between 'example.com' and 'researchsite.org'.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [87, 95],
+        "question": "Which feature has the highest negative correlation with a webpage's PageRank score?",
+        "answer": "The number of outbound links on a webpage has the highest negative correlation with its PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [107, 115, 122],
+        "question": "What is the average PageRank score of the top 10 most influential web pages in the dataset?",
+        "answer": "The average PageRank score of the top 10 most influential web pages is 0.78.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [134, 142],
+        "question": "How does PageRank improve information retrieval compared to simple link-based ranking?",
+        "answer": "PageRank improves information retrieval by considering link authority and connectivity, increasing retrieval relevance by 22%.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [154],
+        "question": "Which hyperlink attribute shows the weakest impact on PageRank score distribution?",
+        "answer": "The presence of nofollow tags shows the weakest impact on PageRank score distribution.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [166, 174, 182, 190],
+        "question": "What does the PageRank analysis indicate about the structure of the web graph?",
+        "answer": "The analysis reveals that a small number of central nodes dominate the web graph, highlighting a scale-free network structure.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [201],
+        "question": "Which web page characteristic has the least influence on its PageRank score?",
+        "answer": "The length of the page content has the least influence on its PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of PageRank for web page ranking?",
+        "answer": "PageRank effectively identifies influential web pages, enhances search ranking accuracy, and reveals key structures in hyperlink networks.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    }
+]

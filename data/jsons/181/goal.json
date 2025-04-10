@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze user interactions and events for content recommendations.",
+    "persona": "A data analyst specializing in recommendation systems, with expertise in collaborative filtering and matrix factorization techniques. They are interested in optimizing content recommendations by understanding user-item interactions, leveraging unsupervised learning methods to improve personalization, and capable of implementing data-driven solutions in a digital content environment."
+}

@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aslanahmedov/self-driving-carbehavioural-cloning",
+        "https://www.kaggle.com/datasets/thecansin/johns-hopkins-covid19-case-tracker"
+    ],
+    "dataset_description": "You are predicting the binary target associated with each row, without overfitting to the minimal set of training examples provided.",
+    "notebook_url": "https://www.kaggle.com/code/rafjaa/dealing-with-very-small-datasets",
+    "domain": "Automotive",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

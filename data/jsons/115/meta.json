@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/anirudhchauhan/climate-change-temperature-data",
+        "https://www.kaggle.com/datasets/bhaskar100/elnino-lanina",
+        "https://www.kaggle.com/datasets/atifmasih/wfp-rainfall-indicators-pakistan-1981-2024",
+        "https://www.kaggle.com/datasets/emreustundag/solar-dataset-tr03",
+        "https://www.kaggle.com/datasets/eminecansuakgul/istanbul-weather-forecasting"
+    ],
+    "dataset_description": "The Dataset is fully dedicated for the developers who want to train the model on Weather Forecasting for Indian climate. This dataset provides data from 1st January 2013 to 24th April 2017 in the city of Delhi, India. The 4 parameters here are meantemp, humidity, wind_speed, meanpressure.",
+    "notebook_url": "https://www.kaggle.com/code/youssefelbadry10/climate-forecasting-lstm-time-series",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

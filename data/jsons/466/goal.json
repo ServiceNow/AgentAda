@@ -1,0 +1,4 @@
+{
+    "goal": "Identify spatial patterns and urban mobility using the DBSCAN algorithm on customer data.",
+    "persona": "A data scientist with 7 years of experience in geospatial analytics, specializing in the application of clustering techniques such as DBSCAN for urban planning and customer behavior analysis. They have a strong interest in uncovering hidden patterns within geographical data and leveraging these insights to optimize city infrastructure and commercial strategy."
+}

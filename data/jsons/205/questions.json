@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this help in analyzing churn trends?",
+      "answer": "The dataset contains 10,000 customers, providing a robust base for churn analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of customers have churned, and what does this indicate about the overall churn rate?",
+      "answer": "Approximately 22% of the customers have churned, highlighting a moderate churn rate that requires targeted interventions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 10],
+      "question": "What is the average tenure of customers, and how does it vary between churned and retained customers?",
+      "answer": "The average tenure is 28 months, with churned customers having a significantly lower average tenure of 12 months.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [12, 14],
+      "question": "Which contract types are associated with higher churn rates, and how can this insight inform retention strategies?",
+      "answer": "Month-to-month contracts show the highest churn rates, indicating the need to promote longer-term contracts.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [15, 17, 20],
+      "question": "What is the distribution of monthly charges, and how does this correlate with customer churn?",
+      "answer": "Monthly charges range from $20 to $120, with churned customers more frequently having charges above $80.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [22, 25],
+      "question": "What role do payment methods play in churn rates, and how can this inform payment-related retention strategies?",
+      "answer": "Electronic check payments are most common among churned customers, suggesting a need for improved or alternative payment options.",
+      "task": "Churn Analysis",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [27, 30],
+      "question": "How does demographic information, such as age and gender, influence churn rates?",
+      "answer": "Younger customers and male customers exhibit higher churn rates, indicating the potential for targeted retention campaigns.",
+      "task": "Churn Analysis",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [32, 35],
+      "question": "How do additional services like streaming TV impact customer retention?",
+      "answer": "Customers subscribing to streaming TV services are less likely to churn, suggesting bundling these services could improve retention.",
+      "task": "Churn Analysis",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [37, 40],
+      "question": "What impact do customer support interactions have on churn, and how can improving support services reduce churn rates?",
+      "answer": "Customers reporting poor support experiences are more likely to churn, emphasizing the importance of efficient customer service.",
+      "task": "Churn Analysis",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [42, 45, 48],
+      "question": "What strategies can be employed to retain high-value customers with high monthly charges?",
+      "answer": "Providing loyalty discounts and personalized offers can effectively reduce churn among high-value customers.",
+      "task": "Churn Analysis",
+      "skill": "Random Forest"
+    }
+  ]
+  

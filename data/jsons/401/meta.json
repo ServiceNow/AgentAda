@@ -1,0 +1,15 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric",
+        "https://www.kaggle.com/datasets/thedevastator/virtual-patient-model-assessment",
+        "https://www.kaggle.com/datasets/thedevastator/boost-student-success-with-college-completion-da",
+        "https://www.kaggle.com/datasets/patricklford/nhs-cancer-data",
+        "https://www.kaggle.com/datasets/mexwell/cmu-sleep",
+        "https://www.kaggle.com/datasets/thedevastator/hospital-care-quality-measures",
+        "https://www.kaggle.com/datasets/georgedurrant/nfl-qb-shoulder-injuries"
+    ],
+    "dataset_description": "You are provided with historical sales data from 2009 to 2012. This data contain 3 product category which are office supplies, technology, and furniture. Each category has several sub-categories. The company also runs promotional in the form of a discount.",
+    "notebook_url": "https://www.kaggle.com/code/dhawyfarrasputra/overall-analysis-and-cohort-analysis",
+    "domain": "Marketing",
+    "help_data_file_names": []
+}

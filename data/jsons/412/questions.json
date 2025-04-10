@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many records and features are included in the dataset used for Markov chain modeling?",
+        "answer": "The dataset contains 50,000 records and 5 features.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [7, 14],
+        "question": "What are the most frequently occurring state transitions in the Markov chain model?",
+        "answer": "The most frequently occurring transitions are 'Introduction' → 'Methodology' and 'Results' → 'Conclusion'.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [19],
+        "question": "What is the probability of transitioning from the 'Abstract' state to the 'Conclusion' state?",
+        "answer": "The probability of transitioning from 'Abstract' to 'Conclusion' is 22%.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [25, 31],
+        "question": "Which state has the highest probability of being an absorbing state in the Markov model?",
+        "answer": "The state 'Conclusion' has the highest absorption probability at 45%.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [38, 46, 53],
+        "question": "How does the transition probability vary between different sections of academic papers?",
+        "answer": "Transitions between 'Introduction' and 'Methodology' occur 74% of the time, while transitions between 'Discussion' and 'Conclusion' occur 88% of the time.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [60, 68, 75, 81],
+        "question": "What is the expected number of transitions before reaching the 'Conclusion' state?",
+        "answer": "The expected number of transitions before reaching 'Conclusion' is 6.7.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [88],
+        "question": "Which transition occurs the least frequently in the Markov model?",
+        "answer": "The transition from 'References' to 'Introduction' occurs the least frequently at 2%.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [95, 102, 110],
+        "question": "What is the probability of a document structure looping back to the 'Introduction' section?",
+        "answer": "The probability of looping back to 'Introduction' is 9%.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [118, 125, 132, 140],
+        "question": "What insights can be derived from the Markov chain transitions in academic paper structures?",
+        "answer": "Papers generally progress in a linear format, with high transition probabilities from 'Introduction' to 'Methodology' and 'Results' to 'Conclusion', reinforcing structured academic writing trends.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [147, 154, 161, 169],
+        "question": "How does the transition structure of papers compare across different academic disciplines?",
+        "answer": "Papers in engineering disciplines have a higher transition probability from 'Results' to 'Discussion' (by 17%), whereas humanities papers show more transitions between 'Methodology' and 'Discussion'.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    }
+]

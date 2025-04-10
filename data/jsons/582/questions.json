@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [17],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of patient medical records, including cardiovascular health indicators.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [26, 33],
+        "question": "What preprocessing steps were performed before computing Pearson correlation?",
+        "answer": "The dataset was standardized, missing values were handled, and categorical variables such as gender and smoking history were encoded into numerical values.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [40],
+        "question": "Which two cardiovascular risk factors show the strongest positive correlation?",
+        "answer": "Cholesterol levels and blood pressure show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [55, 62],
+        "question": "Which factor has the highest negative correlation with heart disease risk?",
+        "answer": "Physical activity level has the highest negative correlation with heart disease risk.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [74, 82, 89],
+        "question": "What is the Pearson correlation coefficient between age and likelihood of heart disease?",
+        "answer": "The Pearson correlation coefficient between age and likelihood of heart disease is 0.72.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [100, 108],
+        "question": "How does Pearson correlation between BMI and cholesterol levels compare to other factors?",
+        "answer": "The correlation between BMI and cholesterol levels is stronger than the correlation between BMI and physical activity.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [120],
+        "question": "Which lifestyle factor shows the weakest correlation with heart disease risk?",
+        "answer": "Daily water intake shows the weakest correlation with heart disease risk.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [132, 139, 147, 155],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between smoking history and heart disease diagnosis?",
+        "answer": "The Pearson correlation coefficient indicates a strong positive relationship, meaning a history of smoking increases the likelihood of heart disease.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [166],
+        "question": "Which medical measurement has the least correlation with heart disease severity?",
+        "answer": "Resting heart rate has the least correlation with heart disease severity.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [177, 185, 194, 200],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for analyzing heart disease risk factors?",
+        "answer": "Pearson correlation identified key risk factors such as cholesterol levels, blood pressure, and age as strong predictors of heart disease likelihood.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

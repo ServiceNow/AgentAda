@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori",
+        "https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis",
+        "https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba",
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset",
+        "https://www.kaggle.com/datasets/mittalvasu95/the-bread-basket",
+        "https://www.kaggle.com/datasets/akashdeepkuila/bakery",
+        "https://www.kaggle.com/datasets/farjanakabirsamanta/analytics-case-studyecommerce",
+        "https://www.kaggle.com/datasets/bhavikjikadara/grocery-store-dataset",
+        "https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset",
+        "https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset",
+        "https://www.kaggle.com/datasets/apmonisha08/market-basket-analysis",
+        "https://www.kaggle.com/datasets/tanishqdublish/grocery-dataset",
+        "https://www.kaggle.com/datasets/irfanasrullah/groceries",
+        "https://www.kaggle.com/datasets/trysuharso/market-basket-analysis",
+        "https://www.kaggle.com/datasets/joebeachcapital/customer-segmentation",
+        "https://www.kaggle.com/datasets/crawford/weekly-sales-transactions",
+        "https://www.kaggle.com/datasets/yekahaaagayeham/online-retail-for-market-basket-analysis"
+    ],
+    "dataset_description": "The retailer wants to target customers with suggestions on itemset that a customer is most likely to purchase .I was given dataset contains data of a retailer; the transaction data provides data around all the transactions that have happened over a period of time. Retailer will use result to grove in his industry and provide for customer suggestions on itemset, we be able increase customer engagement and improve customer experience and identify customer behavior. I will solve this problem with use Association Rules type of unsupervised learning technique that checks for the dependency of one data item on another data item.",
+    "notebook_url": "https://www.kaggle.com/code/xvivancos/market-basket-analysis",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

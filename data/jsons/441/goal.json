@@ -1,0 +1,4 @@
+{
+    "goal": "Determine key features impacting income classification.",
+    "persona": "A data scientist with 3 years of experience specializing in feature engineering and model optimization, focusing on enhancing model interpretability and performance through feature importance analysis, particularly using ensemble methods like Random Forest."
+}

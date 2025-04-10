@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many observations are present in the dataset?",
+        "answer": "The dataset contains 3,800 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29, 44],
+        "question": "What is the average value of the 'Exchange Rate' column?",
+        "answer": "The average exchange rate in the dataset is 1.25.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [58, 71, 89],
+        "question": "Does 'USD Index' Granger-cause 'Exchange Rate'?",
+        "answer": "Yes, 'USD Index' Granger-causes 'Exchange Rate' with a p-value of 0.017.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [94, 107, 121, 136],
+        "question": "What is the optimal lag length for testing causality between 'Interest Rate' and 'Exchange Rate'?",
+        "answer": "The optimal lag length is 3, based on the lowest AIC value.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [145, 153],
+        "question": "Does 'Exchange Rate' Granger-cause 'Interest Rate'?",
+        "answer": "No, the p-value is 0.37, indicating no significant causality.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [163, 175, 188, 192],
+        "question": "Which factor has the strongest Granger-causal relationship with 'Exchange Rate'?",
+        "answer": "'USD Index' has the strongest causal effect with an F-statistic of 6.89 and a p-value of 0.004.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [50, 69, 87, 102],
+        "question": "How much of the variance in 'Exchange Rate' is explained by 'Interest Rate'?",
+        "answer": "'Interest Rate' explains 28% of the variance in 'Exchange Rate' (R² = 0.28).",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [119, 133, 147, 159],
+        "question": "Is there bidirectional Granger causality between 'Interest Rate' and 'Exchange Rate'?",
+        "answer": "No, Granger causality exists from 'Interest Rate' to 'Exchange Rate' (p-value = 0.014), but not in the reverse direction.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [171, 181, 196],
+        "question": "Does 'Stock Market Index' Granger-cause changes in 'Exchange Rate'?",
+        "answer": "Yes, a significant Granger causal relationship is observed with a p-value of 0.028.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [179, 193],
+        "question": "What key insights can be drawn from the Granger causality tests performed?",
+        "answer": "'USD Index' and 'Stock Market Index' significantly Granger-cause 'Exchange Rate', while 'Interest Rate' influences 'Exchange Rate' but not vice versa.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    }
+]

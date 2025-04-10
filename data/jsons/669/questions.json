@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "What dataset was used for customer segmentation in this analysis?",
+        "answer": "The dataset contains customer transaction data, including purchase history, spending patterns, and demographic details.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [13, 20],
+        "question": "How many customer segments were identified using K-Means clustering?",
+        "answer": "Five customer segments were identified based on purchasing behavior and spending characteristics.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [27, 34, 40],
+        "question": "What features were used for clustering customers?",
+        "answer": "Key features included purchase frequency, total amount spent, recency of last purchase, and customer lifetime value.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [48, 55, 61],
+        "question": "Which customer segment has the highest average spending?",
+        "answer": "Segment 3 has the highest spending customers who make frequent high-value purchases.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [69, 76, 82],
+        "question": "How does PCA contribute to the segmentation process in this analysis?",
+        "answer": "PCA reduces dimensionality, helping to identify key components that explain customer behavior before clustering.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [90, 97, 103],
+        "question": "Which segment has the highest risk of customer churn?",
+        "answer": "Segment 5 contains infrequent buyers with high recency, indicating a high risk of churn.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [110, 118, 125],
+        "question": "What insights can be drawn from the segmentation about customer loyalty?",
+        "answer": "Loyal customers tend to belong to segment 1 and 3, making frequent purchases with high retention rates.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [133, 141, 149],
+        "question": "How can businesses use this segmentation to optimize marketing strategies?",
+        "answer": "Businesses can target high-value customers with exclusive promotions and offer retention incentives to at-risk segments.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [156, 163, 171],
+        "question": "Which customer cluster is the most price-sensitive?",
+        "answer": "Segment 2 consists of customers who primarily purchase discounted or lower-priced items.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [179, 187, 195],
+        "question": "How does seasonality impact different customer segments?",
+        "answer": "Some segments, such as occasional buyers, show higher spending trends during holiday seasons.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    }
+]

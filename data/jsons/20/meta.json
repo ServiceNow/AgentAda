@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets"],
+    "dataset_description": "Finding if a person is depressed from their use of words on social media can definitely help in the cure!",
+    "notebook_url": "https://www.kaggle.com/code/mehakiftikhar/sentiment-analysis-lstm-accuracy-96/notebook",
+    "domain": "Social Networks",
+    "help_data_file_names": []
+}

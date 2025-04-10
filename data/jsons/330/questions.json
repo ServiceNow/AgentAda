@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many unique customers are present in the dataset?",
+        "answer": "The dataset contains 2240 unique customers.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15, 17],
+        "question": "Which product category has the highest total purchase amount?",
+        "answer": "Wines have the highest total purchase amount among all product categories.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18],
+        "question": "What is the minimum support threshold used for frequent itemset generation using ECLAT?",
+        "answer": "The minimum support threshold used for ECLAT is 0.005.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [20, 23],
+        "question": "How many frequent itemsets were generated using ECLAT?",
+        "answer": "The ECLAT algorithm generated 53 frequent itemsets.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [22],
+        "question": "Which customer attributes have the highest correlation with purchasing behavior?",
+        "answer": "Income and marital status show the highest correlation with purchasing behavior.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [25],
+        "question": "Which product combinations are most frequently purchased together?",
+        "answer": "Customers frequently purchase 'Wines' and 'Meat Products' together.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [27, 28, 30],
+        "question": "Which customer segment shows the highest engagement with promotional campaigns?",
+        "answer": "Customers in the 'High Income & Family' segment show the highest engagement with promotional campaigns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [32],
+        "question": "Which association rule has the highest confidence value?",
+        "answer": "The rule {'Meat Products'} → {'Wines'} has the highest confidence value of 0.65.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [34, 36, 38, 39],
+        "question": "What insights can be derived from the discovered frequent itemsets?",
+        "answer": "The frequent itemsets indicate that customers who buy 'Wines' often buy 'Meat Products', and those who buy 'Fruits' frequently purchase 'Sweet Products'.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    }
+]

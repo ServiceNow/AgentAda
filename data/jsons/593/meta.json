@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning"
+    ],
+    "dataset_description": "Anti-phishing refers to efforts to block phishing attacks. Phishing is a kind of cybercrime where attackers pose as known or trusted entities and contact individuals through email, text or telephone and ask them to share sensitive information. Typically, in a phishing email attack, and the message will suggest that there is a problem with an invoice, that there has been suspicious activity on an account, or that the user must login to verify an account or password. Users may also be prompted to enter credit card information or bank account details as well as other sensitive data. Once this information is collected, attackers may use it to access accounts, steal data and identities, and download malware onto the user’s computer.",
+    "notebook_url": "https://www.kaggle.com/code/fadilparves/pishing-detection-using-machine-learning",
+    "domain": "Fraud",
+    "help_data_file_names": []
+}

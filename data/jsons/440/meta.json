@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/jorekai/anomaly-detection-falling-people-events",
+        "https://www.kaggle.com/datasets/minhajuddinmeraj/anomalydetectiondatasetucf",
+        "https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset",
+        "https://www.kaggle.com/datasets/rohitsuresh15/radroad-anomaly-detection",
+        "https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection",
+        "https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data",
+        "https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset",
+        "https://www.kaggle.com/datasets/yuriykatser/skoltech-anomaly-benchmark-skab",
+        "https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset",
+        "https://www.kaggle.com/datasets/nagasai524/anomaly-detection-in-helicopter",
+        "https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset",
+        "https://www.kaggle.com/datasets/caesarlupum/benchmark-labeled-anomaly-detection-ts",
+        "https://www.kaggle.com/datasets/wardaddy24/marble-surface-anomaly-detection-2",
+        "https://www.kaggle.com/datasets/aymenabb/ddos-evaluation-dataset-cic-ddos2019",
+        "https://www.kaggle.com/datasets/ipythonx/mvtec-ad",
+        "https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection",
+        "https://www.kaggle.com/datasets/boltzmannbrain/nab",
+        "https://www.kaggle.com/datasets/ujjwalchowdhury/walmartcleaned",
+        "https://www.kaggle.com/datasets/belkhirnacim/textiledefectdetection",
+        "https://www.kaggle.com/datasets/katehighnam/beth-dataset"
+    ],
+    "dataset_description": "The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.",
+    "notebook_url": "https://www.kaggle.com/code/pradeepb/anomaly-detection",
+    "domain": "Health",
+    "help_data_file_names": []
+}

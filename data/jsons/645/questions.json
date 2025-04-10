@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset was used for the time series market basket analysis?",
+        "answer": "The dataset contains transaction records from a retail store spanning multiple years.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [25, 31],
+        "question": "What is the time range covered by the transaction data in this analysis?",
+        "answer": "The dataset includes transactions from January 2015 to December 2023.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [40],
+        "question": "Which product category showed the most consistent sales trend over time?",
+        "answer": "Beverages maintained a stable upward trend in sales throughout the dataset.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [52, 61],
+        "question": "What seasonal trends were observed in the transaction data?",
+        "answer": "Sales peaked during holiday seasons such as Black Friday and Christmas, with notable dips in January.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [74, 83, 91],
+        "question": "What was the average monthly revenue trend across the years?",
+        "answer": "The average monthly revenue showed a steady increase of 5% per year.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [102, 111],
+        "question": "How did promotional events affect the sales trends?",
+        "answer": "Promotional discounts led to short-term spikes in sales, particularly during seasonal sales events.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [123, 132, 140],
+        "question": "What impact did economic factors have on transaction volumes?",
+        "answer": "Higher inflation rates in 2022 resulted in decreased transaction volumes and a shift towards lower-cost items.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [150, 159],
+        "question": "What forecasting method was used to predict future transaction trends?",
+        "answer": "A Prophet model was used to forecast transaction volumes based on historical trends.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [170, 178, 186],
+        "question": "What were the key insights from the time series market basket analysis?",
+        "answer": "The analysis identified seasonal purchasing patterns, the influence of discounts, and gradual revenue growth.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [195, 200],
+        "question": "How accurate were the revenue predictions based on the time series model?",
+        "answer": "The Prophet model achieved a mean absolute error (MAE) of $2,500 per month, indicating a reasonable prediction accuracy.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

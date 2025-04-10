@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [4],
+        "question": "How many regions are included in the Climate Adaptation Index dataset?",
+        "answer": "The dataset includes climate adaptation data from 120 regions.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [7, 9],
+        "question": "What are the key performance indicators (KPIs) measured in the Climate Adaptation Index?",
+        "answer": "The Climate Adaptation Index includes KPIs such as 'Temperature Variability', 'Water Stress', 'Disaster Readiness', and 'Economic Resilience'.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Which region has the highest Climate Adaptation Index score?",
+        "answer": "The region with the highest Climate Adaptation Index score is Northern Europe, with a score of 82.5.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [14, 16],
+        "question": "Which factor contributes the most to the Climate Adaptation Index score?",
+        "answer": "Economic Resilience contributes the most to the Climate Adaptation Index, accounting for 40% of the overall score.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [18, 20],
+        "question": "What is the average Climate Adaptation Index score across all regions?",
+        "answer": "The average Climate Adaptation Index score across all regions is 62.7.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [22],
+        "question": "How does water stress impact the overall Climate Adaptation Index score?",
+        "answer": "Regions with high water stress tend to have lower Climate Adaptation Index scores due to increased environmental risks.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [25, 27, 30],
+        "question": "What is the trend of Climate Adaptation Index scores over time?",
+        "answer": "The Climate Adaptation Index scores have shown a steady increase over the past decade, indicating improved adaptation strategies.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [32],
+        "question": "Which regions are most vulnerable based on the Climate Adaptation Index?",
+        "answer": "Regions in Sub-Saharan Africa and South Asia have the lowest Climate Adaptation Index scores, making them the most vulnerable.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [34, 36, 38, 40],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Regions with higher economic resilience and disaster readiness tend to have better Climate Adaptation Index scores, while those with high water stress struggle the most.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

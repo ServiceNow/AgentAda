@@ -1,0 +1,97 @@
+[
+    {
+        "cell_ids": [
+            7,
+            8
+        ],
+        "question": "What is the average rating given by users in the dataset?",
+         "answer": "3.516850",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            7,
+            8,
+            10
+        ],
+         "question": "What is the minimum and maximum rating present in the dataset?",
+        "answer": "The minimum rating is 0.5 and the maximum is 5.0",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           7,
+            8
+        ],
+         "question": "How many unique users have provided ratings in the dataset?",
+        "answer": "There are 668 user who has given their ratings for 149532 movies.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            8
+        ],
+        "question": "What is the maximum movie ID in the dataset?",
+        "answer": "149532",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            10,11
+        ],
+        "question": "What are the most frequent genres in the dataset?",
+        "answer": "This can be inferred from the word cloud of genres. The word cloud visualizes the most frequently occurring genres.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+       "cell_ids": [
+           10,12
+       ],
+        "question": "What are the most common words in movie titles?",
+         "answer": "This can be inferred from the word cloud of titles. The word cloud visualizes the most frequently occurring words in the titles.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [
+           13,14
+       ],
+        "question": "Which movies have the highest sum of user ratings?",
+        "answer": "The top 5 are: Shawshank Redemption, The (1994), Pulp Fiction (1994), Forrest Gump (1994), Silence of the Lambs, The (1991), Star Wars: Episode IV - A New Hope (1977)",
+       "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+        {
+        "cell_ids": [
+            13, 16
+        ],
+        "question": "Which movies have the highest number of ratings?",
+        "answer": "The top 5 are: Pulp Fiction (1994), Forrest Gump (1994), Shawshank Redemption, The (1994), Jurassic Park (1993), Silence of the Lambs, The (1991)",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+  {
+        "cell_ids": [
+            21,22
+        ],
+        "question": "Which are the top 20 movies that are similar to 'Toy Story (1995)' based on genre?",
+        "answer": "['Antz (1998)', 'Toy Story 2 (1999)', 'Adventures of Rocky and Bullwinkle, The (2000)', 'Emperor's New Groove, The (2000)', 'Monsters, Inc. (2001)', 'DuckTales: The Movie - Treasure of the Lost Lamp (1990)', 'Wild, The (2006)', 'Shrek the Third (2007)', 'Tale of Despereaux, The (2008)', 'Asterix and the Vikings (Astérix et les Vikings) (2006)', 'Turbo (2013)', 'Boxtrolls, The (2014)', 'Black Cauldron, The (1985)', 'Lord of the Rings, The (1978)', \"We're Back! A Dinosaur's Story (1993)\", 'Atlantis: The Lost Empire (2001)', 'Land Before Time, The (1988)', 'Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie) (2001)', 'Sinbad: Legend of the Seven Seas (2003)', 'Phantom Tollbooth, The (1970)']",
+        "task": "Recommendation Systems",
+        "skill":"Collaborative Filtering"
+    },
+     {
+        "cell_ids": [
+            7,
+            8
+        ],
+        "question": "How many movies and ratings are present in the dataset?",
+        "answer": "There are 10329 movies and 105339 ratings.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

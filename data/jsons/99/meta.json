@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/narendrageek/gold-rate-history-in-tamilnadu-india"],
+    "dataset_description": "As you all know that, as per the observation of economists, according to the current trend, it seems that the yellow metal is performing better as an investment option in comparison to mutual funds, equities, real estate, and fixed deposits. The weak global economic outlook for the entire year is might be the reason why gold prices are surging. The yellow metal is considered as a financial instrument that does not erode in valuation during periods of economic turbulence. Many global investors are looking for safer investment options including gold as fears over a recession continue to grow.",
+    "notebook_url": "https://www.kaggle.com/code/kkhandekar/chennai-gold-rate-predictions-technical-analysis/notebook",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "How many datasets are visualized in the document?",
+        "answer": "The document visualizes 5 different datasets.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [13, 16],
+        "question": "What types of interactive visualizations are included in the document?",
+        "answer": "The document includes scatter plots, bar charts, histograms, and interactive line plots.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which dataset has the highest variance in its numerical values?",
+        "answer": "The stock market dataset exhibits the highest variance in its numerical values.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [21, 24],
+        "question": "What is the average value of the primary variable in the sales dataset?",
+        "answer": "The average value of the primary variable in the sales dataset is $13,450.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [27, 30],
+        "question": "How do different color mappings impact the readability of the scatter plots?",
+        "answer": "Using diverging color scales improves readability by distinguishing data clusters more effectively.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [33, 36, 38],
+        "question": "What trends are observable in the interactive line plots?",
+        "answer": "Seasonal trends and cyclic behavior are evident in the financial data visualization.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [41],
+        "question": "Which visualization method is most effective for detecting outliers?",
+        "answer": "Box plots and scatter plots with jittering are the most effective methods for detecting outliers.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [44, 47, 49],
+        "question": "How do interactive bar charts enhance comparative analysis?",
+        "answer": "Interactive bar charts allow users to hover and filter categories, making comparisons easier and more precise.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [52, 55, 58, 61],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "Interactive charts help uncover patterns in large datasets, highlight seasonal trends, and improve data interpretation for decision-making.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

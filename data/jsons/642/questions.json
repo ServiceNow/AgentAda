@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset was used for the market analysis in this time series study?",
+        "answer": "The dataset consists of historical stock prices from major financial exchanges.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [25, 31],
+        "question": "What is the time range of the stock market data used in this analysis?",
+        "answer": "The stock market data spans from January 2010 to December 2022.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [40],
+        "question": "Which stock showed the highest volatility over the given time period?",
+        "answer": "Stock XYZ exhibited the highest volatility, with significant price fluctuations.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [53, 60],
+        "question": "What were the top three trends identified in the stock price movements?",
+        "answer": "The analysis identified an overall upward trend, seasonal variations, and short-term fluctuations due to market events.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [72, 80, 89],
+        "question": "What was the average monthly return for the analyzed stock index?",
+        "answer": "The average monthly return for the stock index was 2.5%.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [101, 110],
+        "question": "Which external economic factor had the strongest correlation with stock price movements?",
+        "answer": "Interest rate changes had the strongest correlation with stock price movements.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [122, 130, 138],
+        "question": "What seasonal patterns were observed in the stock market data?",
+        "answer": "The stock market showed strong seasonal trends, with higher gains in Q4 and increased volatility in Q1.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [147, 156],
+        "question": "How did major market events impact stock prices in the dataset?",
+        "answer": "Major events like the 2020 market crash led to a sudden 30% drop in stock values, followed by a gradual recovery.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [167, 175, 183],
+        "question": "What forecasting method was applied to predict future stock prices?",
+        "answer": "The analysis used ARIMA to predict future stock prices with a confidence interval of 95%.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [192, 199],
+        "question": "What were the key takeaways from the market analysis using time series methods?",
+        "answer": "The analysis highlighted the importance of seasonal trends, market volatility, and the impact of macroeconomic factors on stock prices.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1, 2],
+      "question": "What is the total time range of the stock market dataset used for forecasting?",
+      "answer": "The dataset covers stock market data from 2010 to 2020.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [3, 4],
+      "question": "What is the average closing price of stocks in the dataset?",
+      "answer": "The average closing price of stocks is $250.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 6],
+      "question": "How many missing values are present in the dataset, and how are they handled?",
+      "answer": "The dataset contains 10 missing values, which are handled using forward-fill imputation.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [7, 8, 9],
+      "question": "What is the highest closing price recorded in the dataset?",
+      "answer": "The highest closing price recorded is $400.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 11, 12],
+      "question": "What is the lowest closing price recorded in the dataset?",
+      "answer": "The lowest closing price recorded is $100.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [13, 14],
+      "question": "What trends in stock prices are observed over the years?",
+      "answer": "Stock prices show an overall increasing trend with sharp fluctuations in 2015 and 2018.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [15, 16, 17],
+      "question": "What seasonal patterns are observed in the stock price data?",
+      "answer": "Stock prices tend to peak in the fourth quarter of each year.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [18, 19, 20],
+      "question": "What is the forecasted closing price for stocks over the next month?",
+      "answer": "The forecasted closing price is approximately $300.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [21, 22],
+      "question": "How do the predicted stock prices compare with the actual prices?",
+      "answer": "The predicted prices closely match the actual prices, with minor deviations.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [23, 24, 25],
+      "question": "What is the total trading volume of stocks recorded in the dataset?",
+      "answer": "The total trading volume of stocks is 500 million units.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    }
+  ]
+  

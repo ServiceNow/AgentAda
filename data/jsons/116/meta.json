@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price"
+    ],
+    "dataset_description": "Data set with historical price information for 3 high growth stocks and bitcoin from May 2013 to May 2019. Basic analysis of returns and visualizations included.",
+    "notebook_url": "https://www.kaggle.com/code/yassinesfaihi/lstm-s-p500-stocks-time-series-forecasting",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

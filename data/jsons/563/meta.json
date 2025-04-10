@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices",
+        "https://www.kaggle.com/datasets/rabieelkharoua/split-or-stay-divorce-predictor-dataset",
+        "https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering",
+        "https://www.kaggle.com/datasets/thedevastator/flight-performance-characteristics-of-three-inse",
+        "https://www.kaggle.com/datasets/datahasharunava/surgicalface-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/explore-reddit-s-funny-subreddit-analyze-communi",
+        "https://www.kaggle.com/datasets/krishnasince2005/churn-prediction",
+        "https://www.kaggle.com/datasets/sarodeankur/telecom-churn"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/prashantkumarsundge/understanding-pca-in-details",
+    "domain": "Automotive",
+    "help_data_file_names": []
+}

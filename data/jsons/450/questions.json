@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [4],
+        "question": "How many rows and columns does the dataset contain?",
+        "answer": "The dataset consists of 65,000 rows and 20 columns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 13],
+        "question": "Are there any missing values in the dataset?",
+        "answer": "Yes, missing values are found in 'cholesterol_level', 'age', and 'blood_pressure'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 23, 28],
+        "question": "Which feature has the highest SHAP importance value?",
+        "answer": "'cholesterol_level' has the highest SHAP importance value at 0.812.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [35, 42, 50, 56],
+        "question": "What are the top five most important features according to SHAP values?",
+        "answer": "The top five features are 'cholesterol_level' (0.812), 'blood_pressure' (0.765), 'age' (0.724), 'smoking_status' (0.682), and 'diabetes' (0.653).",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [61, 67, 74],
+        "question": "What does a negative SHAP value indicate in this dataset?",
+        "answer": "A negative SHAP value means that the feature decreases the likelihood of a patient having heart disease.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [80, 88, 95, 102],
+        "question": "Which feature has the lowest SHAP importance score?",
+        "answer": "'physical_activity' has the lowest SHAP importance score at 0.045.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [108, 115, 123],
+        "question": "How does SHAP importance compare with feature importance from a Random Forest model?",
+        "answer": "SHAP values give more importance to 'blood_pressure', whereas Random Forest assigns more weight to 'smoking_status'.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [129, 137, 145, 152],
+        "question": "Which features contribute the least to the model's predictions?",
+        "answer": "'alcohol_consumption', 'family_history', and 'exercise_frequency' contribute the least, with SHAP values below 0.06.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [158, 166, 175, 183],
+        "question": "What happens when low-importance features identified by SHAP are removed?",
+        "answer": "Removing low-importance features speeds up training without impacting accuracy, leading to a 0.5% improvement.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [190, 198, 206, 214],
+        "question": "How do SHAP values reveal feature interactions in this dataset?",
+        "answer": "SHAP interaction values show that 'cholesterol_level' and 'blood_pressure' strongly influence heart disease risk when combined.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    }
+]

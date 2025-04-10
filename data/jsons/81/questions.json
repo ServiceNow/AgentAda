@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the overall trend in the demand data over the observation period?",
+        "answer": "The demand data shows a consistent upward trend with periodic seasonal spikes.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly demand in the dataset?",
+        "answer": "The average monthly demand is 5,400 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are evident in the demand data?",
+        "answer": "Seasonal peaks occur during the holiday season in November and December.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest recorded monthly demand, and when did it occur?",
+        "answer": "The highest recorded monthly demand is 8,000 units, observed in December 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What are the forecasted demand values for the next quarter using the ARIMA model?",
+        "answer": "The forecasted demand values for the next quarter range from 5,800 to 6,200 units.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the dataset indicate about demand volatility over the years?",
+        "answer": "The dataset shows moderate volatility, with occasional sharp increases during peak seasons.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How do the forecasted demand values compare to historical seasonal averages?",
+        "answer": "The forecasted values are consistent with historical seasonal averages, reflecting higher demand during peak months.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Were there any anomalies or missing values in the dataset, and how were they handled?",
+        "answer": "The dataset had missing values for three months in 2020, which were imputed using linear interpolation.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What insights can be derived about the long-term demand trends from the dataset?",
+        "answer": "The dataset reveals a steady increase in demand, with consistent seasonal spikes during specific months.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What role do external factors play in influencing demand patterns as reflected in the dataset?",
+        "answer": "External factors such as promotions and economic conditions contribute to observed peaks in demand.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

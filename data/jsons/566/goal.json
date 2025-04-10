@@ -1,0 +1,4 @@
+{
+    "goal": "Classify breast cancer diagnosis using dimensionality reduction techniques.",
+    "persona": "A data scientist specializing in bioinformatics with 7 years of experience, dedicated to improving medical diagnosis accuracy through advanced machine learning techniques. Passionate about leveraging PCA and other dimensionality reduction methods to manage complex datasets in oncology research."
+}

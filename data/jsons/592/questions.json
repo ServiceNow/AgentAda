@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [28],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of historical cryptocurrency prices, including Bitcoin, Ethereum, and other digital assets.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [37, 45],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was cleaned by handling missing values, ranking cryptocurrencies based on market capitalization, and normalizing price changes.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [52],
+        "question": "Which two cryptocurrencies show the strongest positive Spearman correlation?",
+        "answer": "Bitcoin and Ethereum show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [67, 75],
+        "question": "Which financial indicator has the highest negative correlation with Bitcoin's price?",
+        "answer": "The U.S. dollar index has the highest negative correlation with Bitcoin's price.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [87, 95, 102],
+        "question": "What is the Spearman correlation coefficient between trading volume and cryptocurrency price changes?",
+        "answer": "The Spearman correlation coefficient between trading volume and cryptocurrency price changes is 0.71.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [114, 122],
+        "question": "How does Spearman correlation between volatility and daily returns compare to other financial metrics?",
+        "answer": "The correlation between volatility and daily returns is stronger than the correlation between liquidity and daily returns.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [134],
+        "question": "Which market factor shows the weakest correlation with cryptocurrency price fluctuations?",
+        "answer": "Regulatory announcements show the weakest correlation with cryptocurrency price fluctuations.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [146, 154, 162, 170],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between Bitcoin and stock market indices?",
+        "answer": "The Spearman correlation coefficient indicates a weak positive relationship, meaning Bitcoin prices sometimes move with stock indices but not consistently.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [181],
+        "question": "Which economic indicator has the least correlation with cryptocurrency trading volume?",
+        "answer": "Interest rates have the least correlation with cryptocurrency trading volume.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [192, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing cryptocurrency trends?",
+        "answer": "Spearman correlation helped identify key market relationships, showing strong dependencies between Bitcoin, Ethereum, and trading volume trends.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

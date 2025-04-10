@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "What is the total number of variables in the dataset?",
+        "answer": "The dataset contains 20 variables.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13, 17],
+        "question": "What is the standard deviation of the second feature in the dataset?",
+        "answer": "The standard deviation of the second feature is 2.45.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [26],
+        "question": "What preprocessing steps were performed before Eigenvalue Decomposition?",
+        "answer": "The dataset was normalized, categorical variables were one-hot encoded, and missing values were imputed.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [35, 39],
+        "question": "How many principal components were selected for further analysis?",
+        "answer": "The first 15 principal components were selected.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [47, 51, 56],
+        "question": "What proportion of variance is explained by the first three principal components?",
+        "answer": "The first three principal components explain 70% of the variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [65, 69],
+        "question": "How does Eigenvalue Decomposition affect feature correlation?",
+        "answer": "It transforms correlated features into a set of uncorrelated principal components.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [83],
+        "question": "What dataset was analyzed using Eigenvalue Decomposition?",
+        "answer": "The dataset consists of financial transactions from a banking institution.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [94, 99, 104, 108],
+        "question": "What method was used to determine the number of relevant principal components?",
+        "answer": "The scree plot and cumulative variance analysis were used to determine the number of relevant principal components.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [121],
+        "question": "How does Eigenvalue Decomposition contribute to dimensionality reduction?",
+        "answer": "It reduces data complexity by projecting features onto a lower-dimensional space while preserving variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [137, 141, 146, 152],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition in feature extraction?",
+        "answer": "Eigenvalue Decomposition efficiently captured key data patterns and reduced dimensionality without significant information loss.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

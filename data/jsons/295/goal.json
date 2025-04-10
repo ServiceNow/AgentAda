@@ -1,0 +1,4 @@
+{
+    "goal": "Identify frequent itemsets and generate product recommendations based on association rule mining.",
+    "persona": "An experienced data scientist with a strong background in retail analytics, specializing in market basket analysis and recommendation systems. They are interested in uncovering purchasing patterns to improve cross-selling strategies and enhance customer shopping experiences."
+}

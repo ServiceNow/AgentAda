@@ -1,0 +1,93 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What are the two matrices resulting from matrix factorization?",
+        "answer": "U is a representation of users in some low dimensional space, and V is a representation of items.",
+       "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+  {
+        "cell_ids": [
+           2
+        ],
+       "question": "What is the goal of matrix factorization in recommendation systems?",
+       "answer": "to populate the utility matrix by finding similarities between users and items.",
+        "task": "Recommendation Systems",
+        "skill":"Matrix Factorization"
+    },
+      {
+        "cell_ids": [
+            2
+        ],
+        "question": "What does the cost function in matrix factorization aim to minimize?",
+        "answer": "Mean squared error over the utility matrix.",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+   },
+    {
+        "cell_ids": [
+           5
+        ],
+        "question": "What is the shape of the dataframe after merging movie and rating data?",
+        "answer": "(20000797, 6)",
+        "task": "Basic Data Analysis",
+         "skill":"Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+             5
+         ],
+        "question": "What are the column names of the combined dataframe?",
+         "answer":"movieId, title, genres, userId, rating, timestamp",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+   {
+        "cell_ids": [
+            9
+        ],
+         "question": "What is the embedding size used in the matrix factorization model?",
+        "answer": "8",
+        "task": "Recommendation Systems",
+         "skill":"Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+            10
+         ],
+         "question": "What is the loss function used during training?",
+         "answer":"MSE",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+  {
+        "cell_ids": [
+            10
+         ],
+       "question": "What is the evaluation metric used during training?",
+       "answer": "MAE",
+       "task":"Recommendation Systems",
+       "skill": "Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+            13
+         ],
+         "question": "What is the RMSE score of the best model from the GridSearchCV?",
+        "answer":"0.930229238035991",
+         "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+    {
+         "cell_ids": [
+            15
+        ],
+       "question": "What are the best parameters obtained from the grid search for SVD model",
+      "answer": "{'n_epochs': 5, 'lr_all': 0.005}",
+      "task": "Recommendation Systems",
+       "skill":"Matrix Factorization"
+    }
+]

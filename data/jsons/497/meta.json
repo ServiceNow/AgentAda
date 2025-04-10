@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs",
+        "https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols",
+        "https://www.kaggle.com/datasets/osamac/ssh-logs-with-attack-classification",
+        "https://www.kaggle.com/datasets/onesinustamba/php-framework-cms-and-library"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/sethuvamsikrishna/log-parsing",
+    "domain": "WebLogging",
+    "help_data_file_names": []
+}

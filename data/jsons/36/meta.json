@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset"],
+    "dataset_description": "There two datasets Respectively one Consists of Tweets from Twitter with Sentimental Label and the other from Reddit which Consists of Comments with its Sentimental Label.",
+    "notebook_url": "https://www.kaggle.com/code/njcolvin/naive-bayes-sentiment-analysis/notebook",
+    "domain": "Social Networks",
+    "help_data_file_names": []
+}

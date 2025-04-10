@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze factors affecting machine failure in a predictive maintenance context.",
+    "persona": "A data scientist with 7 years of experience specializing in predictive maintenance, focused on leveraging sensor data to forecast machinery failures effectively using advanced machine learning models, particularly LSTM networks."
+}

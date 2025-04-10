@@ -1,0 +1,93 @@
+[
+    {
+        "cell_ids": [
+           2
+        ],
+        "question": "What are the three parts of the recommendation system designed in the notebook?",
+        "answer": "Product popularity based system, Model-based collaborative filtering system, a search engine based recommendation system",
+        "task": "Recommendation Systems",
+        "skill": "Recommendation Systems"
+    },
+  {
+        "cell_ids": [
+            4
+        ],
+        "question": "What are the column names in the amazon ratings dataframe?",
+        "answer": "UserId, ProductId, Rating, Timestamp",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            4,
+            5
+        ],
+        "question": "What is the shape of the original amazon ratings dataset?",
+        "answer": "(2023070, 4)",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            5
+        ],
+        "question": "What is the shape of the subset of the ratings dataset that is used (first 10000 rows)?",
+        "answer": "(10000, 4)",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            10
+        ],
+        "question": "What are the top 10 most popular products based on number of reviews?",
+        "answer": "Based on the output provided in the notebook, they are: B001MA0QY2,B0009V1YR8,B0043OYFKU,B0000YUXI0,B003V265QW,B000ZMBSPE,B003BQ6QXK,B004OHQR1Q,B00121UVU0,B000FS05VG",
+        "task":"Recommendation Systems",
+        "skill": "Basic Data Analysis"
+    },
+    {
+         "cell_ids": [
+            15
+         ],
+         "question": "What is the predicted rating for movie id 872 by user id 3 using BaselineOnly algorithm?",
+        "answer": "3.494574995057245",
+        "task":"Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+   {
+        "cell_ids": [
+            22
+         ],
+        "question": "What is the shape of the TF-IDF transformed matrix of product descriptions?",
+       "answer": "(500, 8932)",
+        "task": "Recommendation Systems",
+         "skill": "Deep Neural Networks"
+    },
+   {
+        "cell_ids": [
+            25
+         ],
+         "question": "What are some of the top words in cluster 0 of product descriptions?",
+        "answer": " concrete, stake, ft, coating, apply, epoxy, drying, sq, garage, formula",
+         "task": "Recommendation Systems",
+         "skill": "Deep Neural Networks"
+    },
+    {
+        "cell_ids": [
+            27
+        ],
+        "question": "Based on the clustering model, which cluster does the 'cutting tool' keyword belong to?",
+        "answer": "Cluster 4",
+        "task":"Recommendation Systems",
+        "skill": "Deep Neural Networks"
+    },
+      {
+        "cell_ids": [
+           28
+        ],
+        "question": "Based on the clustering model, which cluster does the 'spray paint' keyword belong to?",
+          "answer": "Cluster 2",
+        "task":"Recommendation Systems",
+        "skill": "Deep Neural Networks"
+    }
+]

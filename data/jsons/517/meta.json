@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/giobbu/belgium-obu",
+        "https://www.kaggle.com/datasets/ravali566/time-series-in-r-time-series-forecasting"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/satishgunjal/tutorial-time-series-analysis-and-forecasting",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

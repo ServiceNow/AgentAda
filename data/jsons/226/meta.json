@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/dev0914sharma/customer-clustering",
+        "https://www.kaggle.com/datasets/ramisashararnidhi/mall-customer-csv"
+    ],
+    "dataset_description": "This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form. ",
+    "notebook_url": "https://www.kaggle.com/code/listonlt/mall-customers-segmentation-k-means-clustering",
+    "domain": "Business",
+    "help_data_file_names": []
+}

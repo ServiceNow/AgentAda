@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many records and features are included in the football Markov chain dataset?",
+        "answer": "The dataset contains 120,000 records and 18 features.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [11, 17],
+        "question": "What are the most common transition states in the football Markov model?",
+        "answer": "The most common transition states are 'Pass to Midfield' → 'Shot Attempt' and 'Midfield Possession' → 'Defensive Clearance'.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [22],
+        "question": "What is the probability of a team scoring after reaching the final third?",
+        "answer": "The probability of scoring after entering the final third is 36%.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [28, 35],
+        "question": "Which state has the highest absorption probability in the Markov chain model?",
+        "answer": "The highest absorption probability is for the 'Goal Scored' state, with a probability of 41%.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [42, 49, 55],
+        "question": "How does the probability of retaining possession change based on the field zone?",
+        "answer": "Teams retain possession 80% of the time in the midfield, but only 55% in the attacking third.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [61, 68, 75, 81],
+        "question": "What is the expected number of passes before a goal attempt?",
+        "answer": "The expected number of passes before a goal attempt is 7.4.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [88],
+        "question": "Which transition has the lowest probability in the Markov model?",
+        "answer": "The transition from 'Defensive Clearance' to 'Direct Goal Attempt' has the lowest probability at 4%.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [95, 102, 109],
+        "question": "What is the probability of losing possession immediately after a successful tackle?",
+        "answer": "The probability of losing possession immediately after a tackle is 23%.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [116, 123, 130, 137],
+        "question": "What insights can be derived from the Markov chain transitions in football analysis?",
+        "answer": "Midfield possession is the most stable state, while transitions to goal-scoring opportunities are largely driven by quick passes through the wings.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    },
+    {
+        "cell_ids": [144, 151, 158, 165],
+        "question": "How do different formations impact transition probabilities in football Markov models?",
+        "answer": "Attacking formations like 4-3-3 lead to higher transition probabilities to 'Shot Attempt' (by 12%), while defensive formations like 5-4-1 increase ball retention in defensive areas.",
+        "task": "Attribution Modeling",
+        "skill": "Markov Chains"
+    }
+]

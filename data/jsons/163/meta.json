@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/pypiahmad/behance-community-art-data"
+    ],
+    "dataset_description": "For this challenge you are given the purchase history of customers across time, along with supporting metadata. Your challenge is to predict what articles each customer will purchase in the 7-day period immediately after the training data ends. Customer who did not make any purchase during that time are excluded from the scoring.",
+    "notebook_url": "https://www.kaggle.com/code/julian3833/h-m-collaborative-filtering-user-user",
+    "domain": "Art",
+    "help_data_file_names": [
+        "transactions_train.csv",
+        "customers.csv"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vikramamin/customer-churn-telecom-lr-dt-rf-and-auc"
+    ],
+    "dataset_description": "Each row represents a customer, each column contains customer’s attributes described on the column Metadata.",
+    "notebook_url": "https://www.kaggle.com/code/sanket30/churn-prediction-using-rf",
+    "domain": "Business",
+    "help_data_file_names": []
+}

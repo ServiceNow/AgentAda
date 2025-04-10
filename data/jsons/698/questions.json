@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "Which tables were joined to analyze user transaction histories?",
+        "answer": "The 'users', 'transactions', and 'items' tables were joined to analyze user transaction histories.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    },
+    {
+        "cell_ids": [25, 38],
+        "question": "How was indexing applied to speed up filtering by user activity levels?",
+        "answer": "B+ Tree Indexing was applied to the 'users' table to optimize filtering by user activity levels.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [49, 62, 75],
+        "question": "What indexing method was used to improve searching for frequently purchased items?",
+        "answer": "Bitmap Indexing was implemented on the 'items' table to efficiently search for frequently purchased items.",
+        "task": "Multi-table Search",
+        "skill": "Bitmap Indexing"
+    },
+    {
+        "cell_ids": [87, 99],
+        "question": "Which join algorithm was used to efficiently merge transaction records with user details?",
+        "answer": "A Hash Join algorithm was used to merge transaction records with user details in an optimized manner.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    },
+    {
+        "cell_ids": [113, 127, 139],
+        "question": "What impact did indexing have on query execution time when retrieving high-value transactions?",
+        "answer": "B+ Tree Indexing reduced query execution time by 40% when retrieving high-value transactions from the 'transactions' table.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [152, 165, 178],
+        "question": "How was Bitmap Indexing leveraged to optimize filtering by product categories?",
+        "answer": "Bitmap Indexing was applied to the 'categories' table to enhance performance when filtering by product categories.",
+        "task": "Multi-table Search",
+        "skill": "Bitmap Indexing"
+    }
+]

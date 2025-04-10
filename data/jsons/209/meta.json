@@ -1,0 +1,25 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics",
+        "https://www.kaggle.com/datasets/suraj520/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/datazng/telecom-company-churn-rate-call-center-data",
+        "https://www.kaggle.com/datasets/ashirzaki/telecomchurninsights",
+        "https://www.kaggle.com/datasets/ashishkumarsingh123/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/shivam131019/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/sagnikpatra/edadata",
+        "https://www.kaggle.com/datasets/hemachandiranmurugan/telecom-churn-details-of-customer",
+        "https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset",
+        "https://www.kaggle.com/datasets/nithinreddy90/wa-fn-usec-telco-customer-churn",
+        "https://www.kaggle.com/datasets/ezzzio/telecom-churn-data",
+        "https://www.kaggle.com/datasets/shartul/freecell-telecom-customer-analytics",
+        "https://www.kaggle.com/datasets/syedumeerr/telco-customer-churn",
+        "https://www.kaggle.com/datasets/debu1dutta/wa-fn-usec-telco-customer-churn-new-ad"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/yassineyahyaouii/exploratory-data-analysis-telecom-customer-churn",
+    "domain": "Telecom",
+    "help_data_file_names": [
+        "telecom_data_dictionary.csv",
+        "telecom_zipcode_population.csv"
+    ]
+}

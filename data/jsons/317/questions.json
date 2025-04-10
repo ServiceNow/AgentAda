@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many transactions and unique items are present in the dataset?",
+        "answer": "The dataset contains 7501 transactions with 20 items per transaction.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 10],
+        "question": "How is the transaction data structured after processing?",
+        "answer": "Each transaction is represented as a list containing item names extracted from the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13],
+        "question": "What is the minimum support threshold used for frequent itemset generation using ECLAT?",
+        "answer": "The minimum support threshold used for ECLAT is 0.003.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [12, 15],
+        "question": "How many frequent itemsets were generated using ECLAT?",
+        "answer": "The ECLAT algorithm generated 47 frequent itemsets.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [14],
+        "question": "Which item appears most frequently in transactions?",
+        "answer": "'Milk' appears most frequently in transactions, with a support of 25.3%.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16, 18],
+        "question": "What is the highest support value found in the frequent itemsets?",
+        "answer": "The highest support value found in the frequent itemsets is 0.21.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [17],
+        "question": "Which itemset has the highest combination frequency?",
+        "answer": "The itemset {'spaghetti', 'mineral water'} has the highest combination frequency with 645 occurrences.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [19, 21, 22],
+        "question": "Which items are most frequently purchased together in the dataset?",
+        "answer": "The most frequently purchased itemsets include ('spaghetti', 'mineral water') and ('eggs', 'milk').",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [23],
+        "question": "Which itemset has the strongest association rule based on support?",
+        "answer": "The strongest association rule based on support is {'pasta'} → {'grated cheese'} with a support value of 0.21.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [24, 26, 27, 28],
+        "question": "What insights can be derived from the discovered frequent itemsets?",
+        "answer": "The frequent itemsets indicate that customers who buy 'spaghetti' often buy 'mineral water', and those who buy 'eggs' frequently purchase 'milk'.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    }
+]

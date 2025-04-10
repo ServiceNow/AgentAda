@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many records and features are included in the dataset used for Shapley value attribution?",
+        "answer": "The dataset contains 82,000 records and 14 features.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [11, 18],
+        "question": "Which feature has the highest positive contribution to the model's prediction according to Shapley values?",
+        "answer": "The feature 'Total Purchase Value' has the highest positive contribution with a mean absolute Shapley value of 0.53.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [24],
+        "question": "What is the average Shapley value for the feature 'Ad Click Rate'?",
+        "answer": "The average Shapley value for 'Ad Click Rate' is 0.31.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [30, 37],
+        "question": "Which feature negatively influences the model prediction the most?",
+        "answer": "The feature 'Customer Churn Rate' has the highest negative impact with an average Shapley value of -0.47.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [42, 50, 58],
+        "question": "How do Shapley values differ across customer loyalty segments?",
+        "answer": "For VIP customers, 'Loyalty Program Enrollment' contributes 0.44, whereas for new customers, 'Discount Sensitivity' has a higher impact at 0.52.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [65, 72, 78, 84],
+        "question": "Which marketing campaign shows the highest impact on revenue based on Shapley values?",
+        "answer": "Email Marketing campaigns have the highest impact on revenue with an average Shapley value of 0.61.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [90],
+        "question": "How do feature importance rankings change when using different models?",
+        "answer": "In an XGBoost model, 'Customer Lifetime Value' has the highest Shapley impact, whereas in a Logistic Regression model, 'Ad Impressions' is ranked higher.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [96, 103, 111],
+        "question": "Which feature exhibits the most fluctuation in its impact on predictions?",
+        "answer": "'Website Engagement Time' has the highest variation in Shapley values, ranging from -0.12 to 0.55.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [118, 125, 133, 140],
+        "question": "What insights can be derived from the Shapley value analysis for customer segmentation?",
+        "answer": "Frequent shoppers are influenced most by 'Purchase Frequency', while occasional buyers have a higher reliance on 'Discount Offers' for conversion.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [147, 153, 160, 168],
+        "question": "How do Shapley values vary between different regions for attribution modeling?",
+        "answer": "Customers in North America show a higher Shapley impact from 'Social Media Engagement' (+0.39), while European customers are more influenced by 'Loyalty Points Accumulation' (+0.42).",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    }
+]

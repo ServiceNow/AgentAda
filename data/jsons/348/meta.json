@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe"
+    ],
+    "dataset_description": "The data was scraped from Booking.com. All data in the file is publicly available to everyone already. Please be noted that data is originally owned by Booking.com. ",
+    "notebook_url": "https://www.kaggle.com/code/jiashenliu/quick-visualization-of-data",
+    "domain": "Business",
+    "help_data_file_names": []
+}

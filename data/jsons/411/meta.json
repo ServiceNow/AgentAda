@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rczekster/matches-brazilian-football-from-2003-to-2019"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/sportsstatseli/football-markov-chains",
+    "domain": "Sports",
+    "help_data_file_names": []
+}

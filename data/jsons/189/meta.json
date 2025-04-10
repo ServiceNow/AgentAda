@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset",
+        "https://www.kaggle.com/datasets/mohamedhamad21/spotify-tracks-dataset",
+        "https://www.kaggle.com/datasets/osvaldopereira/sua-msica-recommendation-system",
+        "https://www.kaggle.com/datasets/travisdaws/spotify-tracks-acoustic-features",
+        "https://www.kaggle.com/datasets/mohamedjamyl/music-recommendation-system-using-spotify-dataset",
+        "https://www.kaggle.com/datasets/eric27n/kexp-fm-song-plays",
+        "https://www.kaggle.com/datasets/yusufadeoye/spotify-songs-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset",
+    "domain": "Entertainment",
+    "help_data_file_names": ["data_by_genres.csv", "data_by_year.csv"]
+}

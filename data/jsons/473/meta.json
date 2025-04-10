@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rafpast/rob-burbea-all-teachings-embedded"
+    ],
+    "dataset_description": "This dataset was compiled for the Philosophy Data Project and used to develop the features available on that site. As a former philosophy teacher and now data scientist, I thought it would be interesting to apply the tools of data science to the history of philosophy. ",
+    "notebook_url": "https://www.kaggle.com/code/azxc9595/visual-graphs-of-philosophy",
+    "domain": "Spirituality",
+    "help_data_file_names": []
+}

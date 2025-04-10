@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/boltzmannbrain/nab"
+    ],
+    "dataset_description": "The Numenta Anomaly Benchmark (NAB) is a novel benchmark for evaluating algorithms for anomaly detection in streaming, online applications. It is comprised of over 50 labeled real-world and artificial timeseries data files plus a novel scoring mechanism designed for real-time applications. All of the data and code is fully open-source, with extensive documentation, and a scoreboard of anomaly detection algorithms: github.com/numenta/NAB. The full dataset is included here, but please go to the repo for details on how to evaluate anomaly detection algorithms on NAB.",
+    "notebook_url": "https://www.kaggle.com/code/gauravduttakiit/isolation-forest-unsupervised-anomaly-detection/notebook",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

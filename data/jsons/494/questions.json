@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many log entries are present in the dataset before preprocessing?",
+        "answer": "The dataset contains 1,245,678 log entries before preprocessing.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [25, 37],
+        "question": "What is the proportion of unique IP addresses in the dataset?",
+        "answer": "The dataset contains 78,452 unique IP addresses, representing approximately 6.3% of the total log entries.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    },
+    {
+        "cell_ids": [49, 58, 64],
+        "question": "What is the most common status code in the log data?",
+        "answer": "The most common status code is 200, which appears in 92.4% of the log entries.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [75, 83, 97, 105],
+        "question": "How many log clusters were identified using DBSCAN?",
+        "answer": "DBSCAN identified 15 distinct log clusters, with 3 clusters accounting for 80% of the log entries.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    },
+    {
+        "cell_ids": [111, 126],
+        "question": "What percentage of log entries were classified as anomalies by LogCluster?",
+        "answer": "LogCluster classified 2.7% of log entries as anomalies.",
+        "task": "Logs Clustering",
+        "skill": "LogCluster"
+    },
+    {
+        "cell_ids": [132, 147, 159, 174],
+        "question": "What are the top three log message patterns found using Word2Vec with K-means clustering?",
+        "answer": "The top three log message patterns are: (1) User authentication failures, (2) High-frequency API requests, and (3) Server timeout errors.",
+        "task": "Logs Clustering",
+        "skill": "Word2Vec with K-means"
+    },
+    {
+        "cell_ids": [179, 188, 194],
+        "question": "What is the average request size in bytes for different log clusters?",
+        "answer": "The average request sizes for the top three clusters are: Cluster 1 - 512 bytes, Cluster 2 - 1,024 bytes, Cluster 3 - 768 bytes.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    },
+    {
+        "cell_ids": [135, 149, 163],
+        "question": "How does the request frequency vary among different log clusters?",
+        "answer": "Clusters 1, 2, and 3 contain 60%, 25%, and 10% of the total requests, respectively, with significant variations in peak request times.",
+        "task": "Logs Clustering",
+        "skill": "LogCluster"
+    },
+    {
+        "cell_ids": [177, 191],
+        "question": "What insights can be derived from clustering web server logs?",
+        "answer": "Clustering revealed distinct user behaviors, frequent system errors, and anomalous request patterns, providing valuable insights for server optimization.",
+        "task": "Logs Clustering",
+        "skill": "Word2Vec with K-means"
+    },
+    {
+        "cell_ids": [185, 198],
+        "question": "What are the most common user agents found in different log clusters?",
+        "answer": "The most common user agents in the clusters are Googlebot, Mozilla Firefox, and Chrome, with bot activity primarily in Cluster 3.",
+        "task": "Logs Clustering",
+        "skill": "DBSCAN"
+    }
+]

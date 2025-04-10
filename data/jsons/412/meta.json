@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/svenasai/japan-loto7-raw-data",
+        "https://www.kaggle.com/datasets/pypiahmad/social-recommendation-data"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/triskelion/deep-markov-chains",
+    "domain": "Games",
+    "help_data_file_names": []
+}

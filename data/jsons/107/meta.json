@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mnassrib/jena-climate"
+    ],
+    "dataset_description": "Jena Climate is weather timeseries dataset recorded at the Weather Station of the Max Planck Institute for Biogeochemistry in Jena, Germany.",
+    "notebook_url": "https://www.kaggle.com/code/alfathterry/multivariate-time-series-forecasting-lstm",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

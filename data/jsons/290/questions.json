@@ -1,0 +1,126 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "question": "What is the average number of items purchased per transaction?",
+        "answer": "The notebook does not directly calculate or provide the average number of items purchased per transaction. It focuses on association rule mining.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "question": "What are the most frequently purchased items in France based on the provided data?",
+        "answer": "The notebook uses a different dataset for mlxtend and does not perform a count of the most frequent items in France with the apyori package",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+         "question": "What is the number of unique transactions in the dataset?",
+        "answer": "The notebook doesn't directly count the number of unique transactions for the apyori implementation, although it is derived during the pivot table transformation.",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            26, 27, 28, 29, 30, 31, 32, 33, 34
+        ],
+        "question": "What are the top 5 most frequent items in transactions from France based on the mlxtend analysis?",
+         "answer": "The notebook does not explicitly show the top 5 most frequent items based on the mlxtend frequent pattern analysis. The frequent_itemsets only shows items that meet a support of 0.07.",
+       "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            26, 27, 28, 29, 30, 31, 32, 33, 34
+        ],
+        "question": "How many unique items are considered in the association rules for mlxtend analysis after preprocessing?",
+       "answer": "The number of unique items after preprocessing in the mlxtend analysis is 1562 (before dropping POSTAGE).",
+       "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+          35, 36, 37, 38, 39, 40, 41, 42
+        ],
+        "question": "What item combinations are frequently purchased with high confidence and lift according to mlxtend analysis?",
+         "answer": "Based on the output in cell 42, the item combination (ALARM CLOCK BAKELIKE GREEN) and (ALARM CLOCK BAKELIKE RED) are frequently bought together with high confidence (0.815789, 0.837838 respectively) and lift (8.642959).",
+         "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [
+           35, 36, 37, 38, 39, 40, 41, 42
+        ],
+        "question": "What are the top 3 association rules with the highest lift using the mlxtend analysis?",
+      "answer": "Based on cell 42 the top 3 association rules with highest lift are : (ALARM CLOCK BAKELIKE RED) with (ALARM CLOCK BAKELIKE GREEN) ,(ALARM CLOCK BAKELIKE GREEN) with (ALARM CLOCK BAKELIKE RED), (SET/6 RED SPOTTY PAPER PLATES) with (SET/6 RED SPOTTY PAPER CUPS)",
+       "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+   },
+  {
+        "cell_ids": [
+          21,22,23,24,25
+        ],
+        "question": "What is the highest confidence value found in association rules derived using apyori implementation?",
+        "answer": "Based on the results of the apyori implementation in cell 26, the highest confidence value is 0.704403.",
+       "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+   },
+    {
+      "cell_ids": [
+           21,22,23,24,25
+        ],
+        "question": "What is the highest lift value found in association rules derived using apyori implementation?",
+      "answer": "Based on the results of the apyori implementation in cell 26, the highest lift value is 1.472431.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+        "cell_ids": [1,2,3,4,5,6,7,8,9,10,11,12,13],
+        "question": "What is the purpose of the Apriori algorithm in market basket analysis, as described in the notebook?",
+        "answer":"The Apriori algorithm is used to find the most frequent itemsets or elements in a transaction database and identify association rules between the items, such as determining which products are likely to be bought together.",
+        "task": "Association Rule Mining",
+         "skill":"Apriori Algorithm"
+    }
+]

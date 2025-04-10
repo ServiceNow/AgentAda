@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze sales trends and forecast future performance using historical data.",
+    "persona": "A data analyst with expertise in time series analysis and forecasting, experienced in retail analytics. This analyst focuses on identifying sales trends, seasonality, and long-term patterns in store data to enhance strategic decision-making. They have a strong proficiency in statistical analysis and machine learning techniques, such as LSTM, to create accurate sales forecasts and provide actionable insights for business growth."
+}

@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/terminus7/pokemon-challenge"
+    ],
+    "dataset_description": "Three files are available. The first one contains the Pokemon characteristics (the first column being the id of the Pokemon). The second one contains information about previous combats. The first two columns contain the ids of the combatants and the third one the id of the winner. Important: The Pokemon in the first columns attacks first.",
+    "notebook_url": "https://www.kaggle.com/code/kanncaa1/data-sciencetutorial-for-beginners",
+    "domain": "Entertainment",
+    "help_data_file_names": [
+        "combats.csv",
+        "pokemon.csv"
+    ]
+}

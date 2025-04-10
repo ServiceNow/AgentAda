@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-records"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mbalvi75/14-fp-growth",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

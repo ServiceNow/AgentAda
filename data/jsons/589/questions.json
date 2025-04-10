@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [25],
+        "question": "What dataset was used for Spearman correlation analysis?",
+        "answer": "The dataset consists of Amazon product sales, including customer reviews, pricing, and purchase frequency.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [34, 42],
+        "question": "What preprocessing steps were performed before computing Spearman correlation?",
+        "answer": "The dataset was cleaned by handling missing values, ranking categorical features such as product categories, and normalizing numerical values.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [49],
+        "question": "Which two product attributes show the strongest positive Spearman correlation?",
+        "answer": "Product price and average customer rating show the strongest positive Spearman correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [64, 72],
+        "question": "Which product feature has the highest negative correlation with return rate?",
+        "answer": "Customer satisfaction rating has the highest negative correlation with return rate.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [84, 92, 99],
+        "question": "What is the Spearman correlation coefficient between advertising spend and total sales?",
+        "answer": "The Spearman correlation coefficient between advertising spend and total sales is 0.76.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [111, 119],
+        "question": "How does Spearman correlation between product discounts and customer purchase frequency compare to other factors?",
+        "answer": "The correlation between product discounts and customer purchase frequency is stronger than the correlation between customer reviews and purchase frequency.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [131],
+        "question": "Which product category shows the weakest correlation between price and sales volume?",
+        "answer": "Luxury electronics show the weakest correlation between price and sales volume.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [143, 151, 159, 167],
+        "question": "What does the Spearman correlation coefficient indicate about the relationship between shipping speed and customer satisfaction?",
+        "answer": "The Spearman correlation coefficient indicates a strong positive relationship, meaning faster shipping speeds result in higher customer satisfaction.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [178],
+        "question": "Which product characteristic has the least correlation with product ranking on Amazon?",
+        "answer": "The number of product images has the least correlation with product ranking.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    },
+    {
+        "cell_ids": [189, 197, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Spearman correlation for analyzing Amazon sales data?",
+        "answer": "Spearman correlation helped identify key factors such as pricing strategies, customer reviews, and shipping speed as major influences on sales performance.",
+        "task": "Correlation Analysis",
+        "skill": "Spearman Correlation"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/harrywang/propensity-score-matching",
+        "https://www.kaggle.com/datasets/ksork6s4/openglue",
+        "https://www.kaggle.com/datasets/googleai/in-the-wild-misinformation-media"
+    ],
+    "dataset_description": "A Practical Guide to PSM and DID in Python and R",
+    "notebook_url": "https://www.kaggle.com/code/gangwang0/simple-matching-in-r",
+    "domain": "Education",
+    "help_data_file_names": [
+        "employment.csv",
+        "groupon.csv"
+    ]
+}

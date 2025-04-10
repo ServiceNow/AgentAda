@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "In matrix factorization, what is the meaning of matrix X?",
+        "answer": "X is the user-feature matrix of order  k*u , where k is the number of latent factors and u is the number of users.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the meaning of matrix Y in matrix factorization?",
+          "answer": "Y is the item-feature matrix of order k*i where k is the number of latent factors and i is the number of items",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            1
+        ],
+         "question": "What does the term b_ui represent in the predicted rating equation?",
+        "answer": "It represents the bias involved in rating r_ui, calculated as  μ + b_u + b_i where μ is overall average rating, b_i indicate the observed deviations of item i from the average and b_u indicate the observed deviations of user u from the average.",
+          "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the loss function used in the matrix factorization model?",
+          "answer": "The loss function is the sum of squared difference between the actual ratings and the predicted ratings plus a regularization term to avoid overfitting.",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+     {
+         "cell_ids": [
+            1
+        ],
+        "question": "What is the role of the regularization term in the loss function?",
+         "answer": "To avoid overfitting by adding the sum of all the weights squared to the loss function.",
+        "task": "Feature Importance Ranking",
+         "skill": "LASSO Regularization"
+    },
+     {
+         "cell_ids": [
+            1
+        ],
+        "question": "What does \\(\\lambda\\) represent in the loss function?",
+         "answer": "It represents the regularization constant.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+  {
+        "cell_ids": [
+          1
+        ],
+          "question": "What is the update equation for the user bias?",
+         "answer": " b_u  ← b_u - η (e_ui - λ b_u)",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+  {
+        "cell_ids": [
+          1
+        ],
+          "question": "What does e_ui represents in the update equations?",
+         "answer": "e_ui denotes the error in our prediction.",
+          "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3
+        ],
+          "question": "What are the dimensions of the embedding layers `user_embedded` and `movie_embedded`?",
+        "answer": "The embedding layers `user_embedded` and `movie_embedded` have embedding sizes `user_embedding_size` and `movie_embedding_size` respectively",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5
+        ],
+           "question": "What is the mathematical operation used to combine the embedding layers in this model?",
+        "answer": "Dot product",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

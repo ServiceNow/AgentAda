@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": "Each row in the file represents an event. All events are related to products and users. Each event is like many-to-many relation between products and users.",
+    "notebook_url": "https://www.kaggle.com/code/jianlizhou/customer-segmentation-by-rfm-model-and-k-means",
+    "domain": "Business",
+    "help_data_file_names": []
+}

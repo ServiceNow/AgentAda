@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/web-traffic-time-series-forecasting"
+    ],
+    "dataset_description": "The training dataset consists of approximately 145k time series. Each of these time series represent a number of daily views of a different Wikipedia article, starting from July, 1st, 2015 up until December 31st, 2016. The leaderboard during the training stage is based on traffic from January, 1st, 2017 up until March 1st, 2017.",
+    "notebook_url": "https://www.kaggle.com/code/headsortails/wiki-traffic-forecast-exploration-wtf-eda",
+    "domain": "Internet",
+    "help_data_file_names": ["key_1.csv"]
+}

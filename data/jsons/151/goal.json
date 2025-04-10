@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the dataset to improve movie recommendation systems and understand movie and user interaction patterns.",
+    "persona": "A data scientist with over 7 years of experience in building recommendation systems. They specialize in collaborative filtering techniques, aiming to improve user engagement by tailoring movie recommendations. They have a keen interest in understanding user behavior and leveraging data to enhance recommendation quality, particularly focusing on minimizing biases and addressing challenges like data sparsity and cold-start problems."
+}

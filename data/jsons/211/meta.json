@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/bank-churn-prediction",
+        "https://www.kaggle.com/datasets/svbstan/sales-product-and-customer-insight-repository",
+        "https://www.kaggle.com/datasets/ravisankarvangala/telecom-churn-prediction",
+        "https://www.kaggle.com/datasets/nithinreddy90/wa-fn-usec-telco-customer-churn",
+        "https://www.kaggle.com/datasets/ashkanranjbar/basalam-marketing-analytics"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/shaz506/customer-churn-data-exploration",
+    "domain": "Business",
+    "help_data_file_names": []
+}

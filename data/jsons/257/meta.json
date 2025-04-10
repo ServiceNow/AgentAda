@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/app-users-segmentation-case-study",
+        "https://www.kaggle.com/datasets/nkongolo/ugransome-dataset",
+        "https://www.kaggle.com/datasets/yasserhessein/anuran-calls-mfccs",
+        "https://www.kaggle.com/datasets/spotlightkid/datasets-from-python-seaborn-library",
+        "https://www.kaggle.com/datasets/devantltd/analysing-second-hand-car-sales-data"
+    ],
+    "dataset_description": "You are provided with an anonymized dataset containing numeric feature variables, the binary target column, and a string ID_code column.",
+    "notebook_url": "https://www.kaggle.com/code/darbin/hierarchical-clustering-approach",
+    "domain": "Business",
+    "help_data_file_names": ["train.csv"]
+}

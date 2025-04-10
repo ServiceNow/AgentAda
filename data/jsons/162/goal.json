@@ -1,0 +1,4 @@
+{
+    "goal": "Develop a recommendation system by analyzing user preferences and anime titles.",
+    "persona": "A data science specialist with 3 years of experience in building recommendation systems, particularly focused on entertainment content such as anime. They are passionate about leveraging data insights to improve user engagement by tailoring recommendations based on user behavior and preferences. Their expertise includes collaborative filtering and handling large, sparse datasets."
+}

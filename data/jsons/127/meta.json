@@ -1,0 +1,15 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction",
+        "https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction",
+        "https://www.kaggle.com/datasets/oscaryezfeijo/credit-card-fraud",
+        "https://www.kaggle.com/datasets/jordanln/llm-prompts-in-the-context-of-machine-learning",
+        "https://www.kaggle.com/datasets/rashmitachauhan/creditcardfrauddetection",
+        "https://www.kaggle.com/datasets/samadkhan0017/credit-card-fraud-detection-using-smote",
+        "https://www.kaggle.com/datasets/jordanln/natural-language-processing-of-chatbot-prompts"
+    ],
+    "dataset_description": "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.",
+    "notebook_url": "https://www.kaggle.com/code/muhammadali786/credit-card-fraud-detection-with-random-forest",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

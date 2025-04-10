@@ -1,0 +1,92 @@
+[
+    {
+      "cell_ids": [
+        6
+      ],
+      "question": "What type of recommendation is provided by Model I?",
+      "answer": "Model 1 provides product popularity based recommendations, targeted at new customers",
+      "task": "Recommendation Systems",
+       "skill":"Collaborative Filtering"
+    },
+    {
+          "cell_ids": [
+              16
+          ],
+          "question": "What is the purpose of the `create_interaction_matrix` function in this notebook?",
+          "answer": "This function to create an interaction matrix dataframe from transactional type interactions",
+           "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+      {
+          "cell_ids": [
+              17
+          ],
+         "question":"What does the function `create_user_dict` return?",
+          "answer":"Dictionary type output containing interaction_index as key and user_id as value",
+          "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+      {
+          "cell_ids": [
+              18
+          ],
+           "question":"What does the function  `create_item_dict` return?",
+           "answer": "A Dictionary type output containing item_id as key and item_name as value",
+             "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+     {
+      "cell_ids": [
+              22
+          ],
+      "question":"Which text processing tasks are performed?",
+          "answer": "Lower casing, Removal of punctuations, Removal of Stopwords and Removal of URLs",
+          "task": "Basic Data Analysis",
+          "skill":"Basic Data Analysis"
+      },
+      {
+       "cell_ids":[
+        26
+       ],
+       "question":"What is used to convert text into numerical data for analysis in part III?",
+       "answer":"TfidfVectorizer",
+       "task": "Topic Modeling",
+      "skill": "Latent Dirichlet Allocation"
+     },
+      {
+           "cell_ids": [
+              29
+          ],
+           "question": "What information is provided by printing top terms per cluster after running KMeans?",
+             "answer": "Top words in each product cluster based on product description.",
+            "task": "Topic Modeling",
+          "skill": "Latent Dirichlet Allocation"
+      },
+     {
+      "cell_ids": [
+              42
+          ],
+      "question": "What are we plotting when using `plot_learning_curve` function?",
+            "answer":"It plots the training and test mean squared error over iterations.",
+            "task": "Dashboard Summary",
+            "skill": "Interactive Visualization"
+     },
+      {
+          "cell_ids": [
+              43
+          ],
+         "question": "What do the recommendation returned for `Pai Vihar` contains?",
+           "answer": "It returns Top 7 Restaurants Like Pai Vihar With Similar Reviews.",
+         "task": "Recommendation Systems",
+           "skill": "Collaborative Filtering"
+      } ,
+     {
+           "cell_ids": [
+             12
+          ],
+           "question": "What is Matrix factorization and what is its use?",
+              "answer":"Matrix factorization is a way to generate latent features when multiplying two different kinds of entities. Collaborative filtering is the application of matrix factorization to identify the relationship between items’ and users’ entities. With the input of users’ ratings on the shop items, we would like to predict how the users would rate the items so the users can get the recommendation based on the prediction.",
+             "task": "Recommendation Systems",
+           "skill": "Matrix Factorization"
+      }
+  ]

@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and movies in the dataset, and how does this define the scale of the recommendation system?",
+      "answer": "The dataset contains 25,000 users and 10,000 movies, forming a moderately sized matrix for collaborative filtering.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What is the sparsity level of the user-movie matrix, and what challenges does this pose for collaborative filtering algorithms?",
+      "answer": "The matrix is 98% sparse, necessitating efficient techniques to manage and infer missing values.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 9],
+      "question": "What is the average number of movies rated per user, and how does this influence the development of user profiles?",
+      "answer": "On average, each user rates 12 movies, providing limited but sufficient data for collaborative filtering models.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 12],
+      "question": "Which movies receive the most ratings, and how can these movies address the cold-start problem for new users?",
+      "answer": "Popular movies like 'Inception' and 'The Dark Knight' are frequently rated and serve as effective choices for initial recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [14, 16, 19],
+      "question": "What is the distribution of movie ratings, and how might this bias affect the recommendation results?",
+      "answer": "Ratings are predominantly 4 and 5 stars, potentially leading to over-recommendation of popular movies.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [21, 23],
+      "question": "How does collaborative filtering utilize similarities in user preferences to predict ratings for unrated movies?",
+      "answer": "Collaborative filtering identifies similar users based on their ratings and predicts preferences by leveraging their shared interests.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [25, 28, 30],
+      "question": "What trends in user preferences for movie genres are observed, and how does this impact genre-specific recommendations?",
+      "answer": "Users show strong preferences for genres like 'Action' and 'Drama', which can be prioritized in personalized recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [31, 33],
+      "question": "What patterns emerge in movie popularity over time, and how can time-aware recommendations improve user satisfaction?",
+      "answer": "Movies like 'The Avengers' see spikes in popularity during release periods, suggesting the importance of temporal trends in recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [35, 38],
+      "question": "What challenges are associated with recommending niche movies with limited ratings, and how does collaborative filtering address these challenges?",
+      "answer": "Collaborative filtering leverages user similarities to recommend niche movies by matching them to users with aligned preferences.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [40, 42, 45],
+      "question": "What strategies are implemented to mitigate the cold-start problem for new movies or users in the dataset?",
+      "answer": "Popular movies and genre-based filtering are used to provide initial recommendations for new users and movies.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    }
+  ]
+  

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kashnitsky/mlcourse",
+        "https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes",
+        "https://www.kaggle.com/datasets/arifmia/heart-attack-risk-dataset",
+        "https://www.kaggle.com/datasets/rishabhkarn/used-car-dataset",
+        "https://www.kaggle.com/datasets/sakshisatre/servo-motor-mechanism-dataset",
+        "https://www.kaggle.com/datasets/khushipitroda/uci-dataset",
+        "https://www.kaggle.com/datasets/prashant111/glass-identification-dataset",
+        "https://www.kaggle.com/datasets/hasibur013/diabetes-dataset",
+        "https://www.kaggle.com/datasets/prishasawhney/pulsar-classification-for-class-prediction-cleaned",
+        "https://www.kaggle.com/datasets/jiscecseaiml/pseudomonas-aeruginosa",
+        "https://www.kaggle.com/datasets/thedevastator/online-shopping-consumer-behavior-dataset",
+        "https://www.kaggle.com/datasets/abhaynath001/breast-cancer-data",
+        "https://www.kaggle.com/datasets/shreyasur965/social-network-ads",
+        "https://www.kaggle.com/datasets/swatikhedekar/eda-on-titanic-dataset",
+        "https://www.kaggle.com/datasets/samueltaiwograce/stroke-dataset",
+        "https://www.kaggle.com/datasets/bonginstates/crime-data-from-2020-to-present-csv",
+        "https://www.kaggle.com/datasets/die9origephit/human-activity-recognition",
+        "https://www.kaggle.com/datasets/thedevastator/psychoactive-compound-descriptors",
+        "https://www.kaggle.com/datasets/saigeethac/red-and-white-wine-quality-datasets",
+        "https://www.kaggle.com/datasets/mimrankhalid/linear-regression-for-house-price-predictions"
+    ],
+    "dataset_description": "Predict whether the cancer is benign or malignant",
+    "notebook_url": "https://www.kaggle.com/code/kanncaa1/feature-selection-and-data-visualization",
+    "domain": "Education",
+    "help_data_file_names": []
+}

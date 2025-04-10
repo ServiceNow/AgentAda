@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the overall trend observed in the weather dataset over the recorded period?",
+        "answer": "The dataset shows an overall increasing trend in temperatures with seasonal fluctuations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly temperature recorded in the dataset?",
+        "answer": "The average monthly temperature is 22.3°C.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are evident in the temperature data?",
+        "answer": "Seasonal peaks are observed during summer months, while winter months show consistent drops.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest temperature recorded in the dataset, and when did it occur?",
+        "answer": "The highest temperature recorded is 40°C, observed in July 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What are the forecasted average monthly temperatures for the next quarter using the ARIMA model?",
+        "answer": "The forecasted temperatures for the next quarter range between 20°C and 25°C.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the dataset reveal about temperature volatility over the years?",
+        "answer": "The dataset shows moderate volatility with occasional spikes during extreme weather events.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How do the forecasted temperatures compare with historical seasonal trends in the dataset?",
+        "answer": "The forecasted temperatures align closely with historical seasonal trends, reflecting expected seasonal peaks and dips.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Are there any missing values in the dataset, and how were they handled?",
+        "answer": "The dataset had missing temperature values for five days, which were imputed using linear interpolation.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What key insights can be drawn from analyzing the trend and seasonality of the dataset?",
+        "answer": "The dataset reveals increasing long-term temperature trends and predictable seasonal variations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What external factors might influence the observed patterns and forecast in the weather dataset?",
+        "answer": "External factors such as climate change and regional weather events contribute to deviations in observed patterns.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

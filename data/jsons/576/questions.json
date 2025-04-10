@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of employee performance metrics and workplace engagement scores.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [17, 23],
+        "question": "What preprocessing steps were performed before computing Pearson correlation?",
+        "answer": "The dataset was normalized, missing values were handled, and categorical variables were encoded into numerical values.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [31],
+        "question": "Which two employee attributes show the strongest positive correlation?",
+        "answer": "Work hours per week and productivity score show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [45, 50],
+        "question": "Which numerical feature has the highest negative correlation with employee absenteeism?",
+        "answer": "Job satisfaction level has the highest negative correlation with employee absenteeism.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [64, 69, 74],
+        "question": "What is the Pearson correlation coefficient between training hours and performance rating?",
+        "answer": "The Pearson correlation coefficient between training hours and performance rating is 0.79.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [87, 92],
+        "question": "How does Pearson correlation between salary and employee retention compare to other factors?",
+        "answer": "The correlation between salary and employee retention is moderate, while factors like job satisfaction have a stronger correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [103],
+        "question": "Which department shows the weakest correlation between workload and employee burnout?",
+        "answer": "The HR department shows the weakest correlation between workload and employee burnout.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [115, 121, 128, 134],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between remote work hours and job performance?",
+        "answer": "The Pearson correlation coefficient indicates a positive relationship, showing that increased remote work hours are associated with better job performance.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [145],
+        "question": "Which variable has the least correlation with employee turnover rate?",
+        "answer": "Years of experience has the least correlation with employee turnover rate.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [157, 163, 172, 180],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for employee productivity analysis?",
+        "answer": "Pearson correlation successfully identified key relationships between work conditions and employee productivity, providing insights for HR decision-making.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

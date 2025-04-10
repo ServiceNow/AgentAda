@@ -1,0 +1,4 @@
+{
+    "goal": "Evaluate the causal impact of treatment on outcomes using propensity score matching.",
+    "persona": "A data scientist specializing in causal inference with 7 years of experience in health research. She is focused on understanding the effects of interventions on health outcomes, using advanced statistical techniques like propensity score matching to control for confounding variables. Her aim is to provide robust insights into the effectiveness of treatments, guiding policymakers and healthcare providers in making data-driven decisions."
+}

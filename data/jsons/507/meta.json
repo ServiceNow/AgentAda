@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/saurav9786/time-series-data"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/saurav9786/time-series-tutorial",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

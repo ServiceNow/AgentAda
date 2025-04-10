@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the overall trend observed in the temperature dataset over the recorded period?",
+        "answer": "The dataset shows a gradual upward trend in temperature with seasonal variations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly temperature recorded in the dataset?",
+        "answer": "The average monthly temperature is 22.5°C.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are evident in the temperature data?",
+        "answer": "Seasonal peaks occur during summer months, with lower temperatures recorded in winter.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest recorded temperature in the dataset, and in which month and year did it occur?",
+        "answer": "The highest recorded temperature is 40°C, observed in July 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What are the forecasted temperatures for the next quarter using the LSTM model?",
+        "answer": "The forecasted temperatures for the next quarter range between 25°C and 30°C.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What does the dataset reveal about temperature variability across seasons?",
+        "answer": "The dataset shows higher variability during summer months and relatively stable temperatures during winter.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How does the LSTM model's forecast compare to historical seasonal trends?",
+        "answer": "The forecast aligns well with historical trends, accurately predicting seasonal peaks and troughs.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Were there any missing or anomalous values in the temperature dataset, and how were they addressed?",
+        "answer": "The dataset had missing values for one week, which were imputed using linear interpolation.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What insights can be drawn about long-term temperature trends from the dataset?",
+        "answer": "The dataset shows a gradual increase in average temperatures over time, with consistent seasonal variations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What external factors might influence the forecasted temperature trends?",
+        "answer": "Factors such as climate change, urbanization, and global weather phenomena could impact future temperature trends.",
+        "task": "Forecasting",
+        "skill": "LSTM"
+    }
+]

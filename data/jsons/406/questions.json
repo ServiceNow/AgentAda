@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "How many records and features are included in the cohort analysis dataset?",
+        "answer": "The dataset contains 185,500 records and 23 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [17, 25],
+        "question": "What is the overall customer retention rate over a 12-month period?",
+        "answer": "The overall customer retention rate over 12 months is 60%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [30],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 93%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [36, 42],
+        "question": "How does customer retention vary across different purchase categories?",
+        "answer": "Customers who purchase home appliances retain at 78%, while fashion customers retain at 50%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [49, 56, 62],
+        "question": "What is the retention rate for customers who make frequent purchases versus occasional buyers?",
+        "answer": "Frequent buyers have a retention rate of 82%, while occasional buyers retain at 38%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [69, 76, 82, 87],
+        "question": "How do loyalty rewards impact cohort retention?",
+        "answer": "Customers enrolled in loyalty rewards programs retain at 31% higher rates compared to those who are not enrolled.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [93],
+        "question": "Which customer segment has the highest long-term retention?",
+        "answer": "Customers who engage in personalized product recommendations retain at 86%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [100, 107, 113],
+        "question": "What sequential purchasing patterns are observed among high-retention customers?",
+        "answer": "Customers who buy kitchen appliances tend to purchase maintenance service plans within 30 days, increasing retention by 25%.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [120, 127, 133, 140],
+        "question": "What insights can be derived from the cohort retention and sequential pattern analysis?",
+        "answer": "Retention rates decline by 25% after month 3, indicating that post-purchase engagement efforts need to be enhanced. Sequential purchasing analysis suggests that cross-selling related items boosts retention.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [147, 154, 161, 168],
+        "question": "How does customer retention compare year-over-year?",
+        "answer": "The retention rate improved by 16% over the past year, mainly due to enhanced customer engagement and sequential purchase campaigns.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    }
+]

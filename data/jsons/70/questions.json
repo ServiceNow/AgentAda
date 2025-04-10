@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2, 3],
+        "question": "What is the general trend observed in the Delhi weather dataset over the recorded years?",
+        "answer": "The dataset shows an upward trend in average temperatures over the years, with noticeable seasonal variations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4],
+        "question": "What is the average monthly temperature in Delhi according to the dataset?",
+        "answer": "The average monthly temperature is 29.5°C.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "What seasonal temperature patterns can be identified in the dataset?",
+        "answer": "Temperatures peak in May and June, while January records the lowest average temperatures.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [7],
+        "question": "What is the highest temperature recorded in Delhi, and when did it occur?",
+        "answer": "The highest recorded temperature is 48°C in May 2020.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 9, 10],
+        "question": "What are the forecasted temperatures for the next 12 months using the ARIMA model?",
+        "answer": "The forecasted temperatures for the next 12 months range between 25°C and 40°C, following seasonal trends.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "What does the residual analysis indicate about the ARIMA model's accuracy?",
+        "answer": "Residuals exhibit no significant autocorrelation, suggesting that the ARIMA model fits the data well.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13, 14, 15],
+        "question": "What evaluation metrics are used to assess the ARIMA model, and what do they indicate?",
+        "answer": "Metrics such as MAE (2.5°C) and RMSE (3.1°C) indicate accurate forecasting performance.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [16],
+        "question": "How do the forecasted temperatures compare with historical seasonal trends?",
+        "answer": "The forecasted temperatures align closely with historical trends, showing expected seasonal peaks and dips.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Are there any missing values in the Delhi weather dataset, and how were they handled?",
+        "answer": "The dataset had missing values for two months in 2018, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What key insights can be drawn from the dataset regarding Delhi's weather trends and seasonality?",
+        "answer": "The dataset reveals increasing average temperatures over time, regular seasonal patterns, and occasional extreme weather events.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

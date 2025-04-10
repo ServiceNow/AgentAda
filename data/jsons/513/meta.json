@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/willianoliveiragibin/velocity-wheels",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/retail-analytics-trends",
+        "https://www.kaggle.com/datasets/thedevastator/unlock-the-mysteries-of-language-understanding-w",
+        "https://www.kaggle.com/datasets/sushanthegde/northeast-atlantic-sea-bottom-temperature",
+        "https://www.kaggle.com/datasets/patrickfleith/spacecraft-thruster-firing-tests-dataset"
+    ],
+    "dataset_description": "In this competition you are predicting the values of air pollution measurements over time, based on basic weather information (temperature and humidity) and the input values of 5 sensors.",
+    "notebook_url": "https://www.kaggle.com/code/bextuychiev/advanced-time-series-analysis-decomposition",
+    "domain": "Science",
+    "help_data_file_names": ["train.csv"]
+}

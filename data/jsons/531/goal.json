@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze EEG signals to identify patterns associated with seizures and neurological disorders using wavelet decomposition.",
+    "persona": "A neuroscientist and data analyst with 8 years of experience in EEG data analysis, specializing in the application of signal processing techniques for neurological research. Passionate about applying advanced statistical methods and machine learning to uncover insights in brain wave data, with a focus on identifying markers for neurological conditions and enhancing diagnostic tools."
+}

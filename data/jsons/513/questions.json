@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "How many unique time points are available in the dataset?",
+        "answer": "The dataset contains 1,250 unique time points.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [21, 37],
+        "question": "What is the most common time interval between observations?",
+        "answer": "The most common interval between observations is daily.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [50, 63, 79],
+        "question": "What is the overall trend observed in the dataset?",
+        "answer": "The dataset shows a gradual upward trend with occasional dips.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [91, 108, 124, 139],
+        "question": "What seasonal components are detected in the dataset?",
+        "answer": "The dataset has strong weekly and monthly seasonality, with peaks at the start of each month.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [145, 159, 173],
+        "question": "How does the magnitude of the seasonal variation compare to the trend component?",
+        "answer": "The seasonal variation contributes to around 35% of the total variation, while the trend accounts for 50%.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [181, 192, 198],
+        "question": "Are there any significant residual fluctuations in the decomposition?",
+        "answer": "Yes, there are sharp residual peaks in March 2021 and October 2022, indicating anomalies.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

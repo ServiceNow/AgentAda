@@ -1,0 +1,99 @@
+[
+    {
+        "cell_ids": [
+            2,
+            3,
+            4
+        ],
+        "question": "How many movies are in the movie dataset?",
+        "answer": "The notebook loads the movie dataset, but the exact number of movies is not computed. However, the first few rows of the movie dataframe are displayed in cell 4.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            2,
+            3,
+            5
+        ],
+        "question": "What is the range of ratings in the rating dataset?",
+        "answer": "The notebook loads the rating dataset but the range is not computed. However, the first few rows of the rating dataframe are displayed in cell 5.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+             6,
+            7
+        ],
+       "question": "How are the years extracted from the movie titles?",
+        "answer": "The notebook uses regular expressions to extract the years from the movie titles, storing them into a new column and then removing it from the title.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            9,
+            10
+        ],
+        "question": "Why is the 'genres' column dropped from the movie dataframe?",
+        "answer": "The 'genres' column is dropped because collaborative filtering does not use movie features, it uses user preferences. ",
+       "task": "Feature Importance Ranking",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            11,
+             12
+        ],
+        "question": "Why is the 'timestamp' column dropped from the rating dataframe?",
+         "answer": "The 'timestamp' column is dropped because it is not needed for the collaborative filtering model.",
+         "task": "Feature Importance Ranking",
+        "skill": "Basic Data Analysis"
+    },
+    {
+         "cell_ids": [
+           13,14
+        ],
+        "question": "How is the input user's movie preference represented?",
+        "answer": "The input user's preference is represented as a pandas DataFrame with movie titles and corresponding ratings, and then mapped to the movieIds using movie dataframe.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+   {
+        "cell_ids": [
+            16,17
+        ],
+        "question": "How are similar users identified for the input user?",
+         "answer": "Similar users are identified by filtering the ratings dataframe to include only the users that have rated the same movies as the input user, then those users are sorted by how many movies in common they have.",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+             23,24,25,26
+        ],
+        "question": "What metric is used to calculate user similarity?",
+        "answer": "The Pearson Correlation Coefficient is used to calculate the similarity between users.",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+     {
+        "cell_ids": [
+           26,27, 28,29
+        ],
+        "question": "How many of the most similar users are considered for recommendation?",
+        "answer": "The top 50 most similar users are considered for recommendations.",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+   {
+        "cell_ids": [
+            30, 31, 32, 33, 34, 35
+        ],
+        "question": "How is the final recommendation score for movies calculated?",
+         "answer": "The final recommendation score for movies is calculated by taking the weighted average of the ratings of each movie by the top similar users, using their Pearson Correlation as the weight. The movies are then ranked by this weighted average to provide recommendations.",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    }
+]

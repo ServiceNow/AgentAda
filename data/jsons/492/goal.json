@@ -1,0 +1,4 @@
+{
+    "goal": "To analyze and determine the impact of various variables on customer churn using propensity score matching to address selection bias.",
+    "persona": "A data scientist with expertise in statistical analysis and machine learning, committed to utilizing advanced techniques such as propensity score matching to identify causal relationships and improve predictive accuracy for business outcomes. They are particularly interested in understanding customer retention patterns and leveraging data-driven insights to inform decision-making and strategy development."
+}

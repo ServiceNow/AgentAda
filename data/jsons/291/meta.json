@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset",
+        "https://www.kaggle.com/datasets/earthian/grocery-dataset"
+    ],
+    "dataset_description": "The Online Retail II data set, which includes the sales data of the UK-based online sales store, was used. ",
+    "notebook_url": "https://www.kaggle.com/code/ozlemilgun/market-basket-analysis-with-apriori-algorithm",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/jeffheaton/characteristics-that-favor-freqitemset-algorithms"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/priy998/eclat-algorithm",
+    "domain": "Data",
+    "help_data_file_names": []
+}

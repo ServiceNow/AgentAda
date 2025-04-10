@@ -1,0 +1,102 @@
+[
+    {
+        "cell_ids": [
+            2,
+            3,
+            4
+        ],
+        "question": "How are movie titles and ratings stored in the original datasets?",
+        "answer": "Movie titles and ratings are stored in separate CSV files named 'movies.csv' and 'ratings.csv', respectively, each containing multiple columns related to movies and ratings.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+        "question": "What is the structure of the movies dataframe?",
+        "answer": "The movies dataframe includes columns for 'movieId', 'title', and 'genres'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+         "question": "What is the structure of the ratings dataframe?",
+        "answer": "The ratings dataframe includes columns for 'userId', 'movieId', 'rating', and 'timestamp'.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+   {
+        "cell_ids": [
+            7,
+            8,
+            9
+        ],
+       "question": "How is the year of release extracted from the movie title?",
+       "answer": "The year of release is extracted from the movie title using string manipulation and regular expressions, stored in a separate 'year' column, and then removed from the 'title' column.",
+        "task": "Data Imputation",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            9,10
+        ],
+         "question": "Why is the genres column dropped from the movies dataframe?",
+        "answer": "The genres column is dropped because the item-based collaborative filtering model does not directly use genre information, but instead focuses on user preferences inferred from their ratings.",
+        "task": "Feature Importance Ranking",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+             11,
+             12
+        ],
+        "question": "Why is the timestamp column dropped from the ratings dataframe?",
+       "answer": "The timestamp column is dropped from the ratings dataframe because it is not directly used by the item-based collaborative filtering model.",
+        "task": "Feature Importance Ranking",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+          13
+        ],
+         "question": "What type of collaborative filtering is used in this notebook?",
+         "answer": "The notebook uses item-to-item based collaborative filtering.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [
+        13,
+        16,
+         17
+      ],
+        "question": "How are the user-item ratings structured after pre-processing?",
+        "answer": "The user-item ratings are structured as a pivot table with 'movieId' as index and 'userId' as columns and ratings as values, with NaN for missing ratings.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [
+        14,16
+      ],
+        "question": "What is the rationale behind removing movies with few ratings and users with few ratings?",
+        "answer": "The rationale is to reduce noise in the data by removing relatively unpopular movies and less active users, making the system more efficient and statistically significant.",
+        "task": "Data Imputation",
+         "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            21,
+             22
+        ],
+        "question": "How is cosine similarity used to find similar movies?",
+        "answer": "Cosine similarity is used to compute the similarity between movie vectors, based on the rating of each movie from all the users, to find movies that are similar to each other.",
+         "task": "Recommendation Systems",
+         "skill": "Collaborative Filtering"
+    }
+]

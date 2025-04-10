@@ -1,0 +1,25 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast",
+        "https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies",
+        "https://www.kaggle.com/datasets/mianbilal12/apple-stock-market-data-19802024",
+        "https://www.kaggle.com/datasets/gallo33henrique/bitcoin-btc-usd-stock-dataset",
+        "https://www.kaggle.com/datasets/jainshukal/netflix-stock-price",
+        "https://www.kaggle.com/datasets/chayanonc/multiple-stock-prices-by-industry-updated-daily",
+        "https://www.kaggle.com/datasets/mhassansaboor/uber-stocks-dataset-2025",
+        "https://www.kaggle.com/datasets/yanmaksi/btcbusd-1m-2023-09-csv",
+        "https://www.kaggle.com/datasets/thelastwhitekid/gold-sp-500-index-arimax-time-series",
+        "https://www.kaggle.com/datasets/harigoshika/google-stock-price-prediction-2024-to-2030",
+        "https://www.kaggle.com/datasets/martininf1n1ty/orlen-dataset",
+        "https://www.kaggle.com/datasets/mianbilal12/tesla-stock-data-st",
+        "https://www.kaggle.com/datasets/yousefeddin/s-and-p-500-stock-price-end-of-2024",
+        "https://www.kaggle.com/datasets/sandeshbhat/wikipedia-web-traffic-201819",
+        "https://www.kaggle.com/datasets/pamalkrmondal/zomato-stock-price-historical-dataset",
+        "https://www.kaggle.com/datasets/acarmehmet/nvidia-historical-stock-data",
+        "https://www.kaggle.com/datasets/dhruvil633/intraday-trading-information-for-ibm-stock"
+    ],
+    "dataset_description": "High-quality financial data is expensive to acquire and is therefore rarely shared for free. Here I provide the full historical daily price and volume data for all US-based stocks and ETFs trading on the NYSE, NASDAQ, and NYSE MKT. It's one of the best datasets of its kind you can obtain. ",
+    "notebook_url": "https://www.kaggle.com/code/nageshsingh/stock-market-forecasting-arima",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

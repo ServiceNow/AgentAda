@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze Quora questions to detect insincere queries using Latent Semantic Analysis.",
+    "persona": "A data analyst with expertise in natural language processing and latent semantic analysis, focused on improving text classification models for online platforms. They have 3 years of experience working with textual datasets and are interested in enhancing the detection of insincere content to improve user interactions and content moderation systems."
+}

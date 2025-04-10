@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the network structure and station connectivity within the city bike-sharing system to identify key hubs and optimize the network.",
+    "persona": "An urban mobility data analyst with expertise in transportation networks and a focus on leveraging network analysis techniques like PageRank to enhance city infrastructure efficiency and connectivity. They are interested in optimizing public transportation systems and improving user accessibility within urban environments."
+}

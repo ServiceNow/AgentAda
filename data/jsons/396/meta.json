@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/bahraleloom/customer-segmentation-in-online-retail",
+        "https://www.kaggle.com/datasets/bilalozgur/online-retail-rfm-and-cohort-analysis-customer-seg",
+        "https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-clientes-en-ecommerce",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": "Online retail is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.",
+    "notebook_url": "https://www.kaggle.com/code/tklimonova/online-retail-cohort-and-rfm-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

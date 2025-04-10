@@ -1,0 +1,9 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/competitions/m5-forecasting-accuracy"],
+    "dataset_description": "In the challenge, you are predicting item sales at stores in various locations for two 28-day time periods. Information about the data is found in the M5 Participants Guide.",
+    "notebook_url": "https://www.kaggle.com/code/aruncjohn/m5-comprehensive-data-analysis-python",
+    "domain": "Commerce",
+    "help_data_file_names": [
+        "calendar.csv"
+    ]
+}

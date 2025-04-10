@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores"],
+    "dataset_description": "This dataset consists of all Netflix original films released as of June 1st, 2021. Additionally, it also includes all Netflix documentaries and specials. The data was webscraped off of this Wikipedia page, which was then integrated with a dataset consisting of all of their corresponding IMDB scores. IMDB scores are voted on by community members, and the majority of the films have 1,000+ reviews. ",
+    "notebook_url": "https://www.kaggle.com/code/rushinaik/t-tests-with-example/notebook",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

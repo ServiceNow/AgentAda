@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the average stock price in the dataset?",
+      "answer": "The average stock price is calculated based on the 'Close' column of the dataset.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "How many records are there in the dataset?",
+      "answer": "The dataset contains a total of 3,000 records.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 6],
+      "question": "How many missing values are present in the 'Close' column of the dataset?",
+      "answer": "The 'Close' column contains 5 missing values.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the highest stock price recorded in the dataset?",
+      "answer": "The highest stock price recorded in the dataset is $150.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the lowest stock price recorded in the dataset?",
+      "answer": "The lowest stock price recorded in the dataset is $50.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the total volume of stocks traded in the dataset?",
+      "answer": "The total volume of stocks traded in the dataset is 10 million.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 5],
+      "question": "Are there any trends in the stock prices over time?",
+      "answer": "The stock prices show an increasing trend over the years.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [2, 5],
+      "question": "How does the stock price vary between different months of the year?",
+      "answer": "Stock prices tend to be higher in December compared to other months.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [2, 5],
+      "question": "What is the correlation between stock volume and stock price?",
+      "answer": "There is a positive correlation between stock volume and stock price.",
+      "task": "Correlation Analysis",
+      "skill": "Pearson Correlation"
+    },
+    {
+      "cell_ids": [2, 6],
+      "question": "What is the expected stock price for the next month based on past trends?",
+      "answer": "The expected stock price for the next month is $120.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    }
+  ]
+  

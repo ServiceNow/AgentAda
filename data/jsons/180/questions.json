@@ -1,0 +1,120 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What are the two matrices resulting from matrix factorization?",
+        "answer": "U is a representation of users in some low dimensional space, and V is a representation of items.",
+       "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+           2
+        ],
+       "question": "What is the goal of matrix factorization in recommendation systems?",
+       "answer": "to populate the utility matrix by finding similarities between users and items.",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+      {
+        "cell_ids": [
+          2
+         ],
+        "question": "What is the formula used to calculate predicted rating in the matrix factorization model?",
+        "answer": "$\\mathbf{m_{Twister}} \\cdot \\mathbf{u_{Stanley}} = (1.0 \\cdot -0.2) + (-0.5 \\cdot 1.5) + (0.3 \\cdot -0.1) + (-0.1 \\cdot 0.9)$",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+            2
+        ],
+        "question": "What is the cost function being minimized in the matrix factorization model?",
+         "answer": "Mean squared error over the utility matrix.",
+        "task":"Recommendation Systems",
+         "skill": "Matrix Factorization"
+    },
+     {
+        "cell_ids": [
+             5
+         ],
+        "question": "What is the shape of the merged book and rating dataframe?",
+         "answer": "(20000797, 6)",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            5
+        ],
+        "question": "What are the column names of the combined dataframe?",
+        "answer": "movieId, title, genres, userId, rating, timestamp",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+   {
+        "cell_ids": [
+            7
+        ],
+        "question": "What is the shape of the embedded matrix after the PCA?",
+        "answer": "(4790, 3)",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+        {
+        "cell_ids": [
+             9
+        ],
+         "question": "What is the embedding size used in the matrix factorization model?",
+        "answer": "8",
+         "task": "Recommendation Systems",
+         "skill": "Matrix Factorization"
+    },
+  {
+        "cell_ids": [
+           10
+         ],
+        "question": "What is the loss function used to train the matrix factorization model?",
+        "answer": "MSE",
+       "task": "Recommendation Systems",
+        "skill":"Matrix Factorization"
+    },
+    {
+       "cell_ids": [
+            10
+        ],
+        "question": "What is the evaluation metric used to train the matrix factorization model?",
+         "answer": "MAE",
+       "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+            13
+         ],
+       "question": "What is the RMSE score of the best model from the GridSearchCV?",
+        "answer": "0.930229238035991",
+          "task": "Recommendation Systems",
+         "skill": "Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+             15
+        ],
+        "question": "What are the best parameters obtained from the grid search for SVD model",
+        "answer": "{'n_epochs': 5, 'lr_all': 0.005}",
+         "task": "Recommendation Systems",
+          "skill": "Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+            17
+        ],
+        "question": "What are the top 9 items recommended to a user after a purchase of Product ID 6117036094 based on collaborative filtering?",
+        "answer": "['0733001998', '1304139212', '1304139220', '130414089X', '130414643X', '130414674X', '1304174778', '1304174867', '1304174905']",
+         "task":"Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    }
+]

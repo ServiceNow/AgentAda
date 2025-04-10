@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://github.com/pistonly/modwtpy/blob/master/GDPcomponents.csv"],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/tcap9000/signal-filtering-r-peak-detection-using-biosppy",
+    "domain": "Science",
+    "help_data_file_names": []
+}

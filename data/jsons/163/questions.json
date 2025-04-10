@@ -1,0 +1,105 @@
+[
+    {
+        "cell_ids": [
+            2,
+            3,
+            4
+        ],
+        "question": "How many unique customers are in the dataset?",
+        "answer": "The notebook creates a mapping for all unique customers and calls them users. Number of unique users (customers) are not mentioned directly but used later for filtering.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            2,
+            3,
+            4
+        ],
+         "question": "How many unique articles (items) are in the dataset?",
+         "answer": "The notebook creates a mapping for all unique articles and calls them items. The total number of unique items is not shown directly but used later for filtering.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6,
+             7
+        ],
+        "question": "What is the time frame of the transactions considered for the User-User Collaborative Filtering (UUCF) model?",
+        "answer": "The UUCF model uses transactions after '2020-08-21', which is assigned to START_DATE.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+         "cell_ids": [
+           5,
+            6,
+             7
+        ],
+        "question": "What is the minimum number of purchases a user must have to be included in the UUCF model?",
+        "answer": "The minimum number of purchases is set to 3, which is assigned to MINIMUM_PURCHASES.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            6,
+            7
+        ],
+        "question": "How is the similarity between two users calculated in this UUCF model?",
+        "answer": "The similarity between two users is calculated by comparing the overlap of their purchased items, normalized by the square root of the product of the lengths of their purchase lists.",
+        "task": "Recommendation Systems",
+         "skill": "Collaborative Filtering"
+    },
+     {
+        "cell_ids": [
+             6,
+             7
+        ],
+        "question": "How many similar users are considered to generate recommendations for a given user?",
+        "answer": "The top 30 similar users are considered, which is assigned to N_SIMILAR_USERS.",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+           6,7
+        ],
+        "question": "Does the model drop the user from their own neighborhood of similar users?",
+        "answer": "The notebook uses `DROP_USER_FROM_HIS_NEIGHBORHOOD = False` which means user is not dropped from his neighborhood.",
+         "task": "Recommendation Systems",
+         "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            6,7
+        ],
+        "question": "How are item recommendations ranked within the neighborhood of similar users?",
+       "answer": "Items are ranked by summing the similarity scores of the users who purchased them within the neighborhood.",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            6,
+            7
+        ],
+        "question": "How many items are recommended by the UUCF model for each user?",
+       "answer": "The UUCF model attempts to recommend up to 12 items per user, however, might return less and the rest is filled by the fallback model.",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            8,
+            9,
+            10
+        ],
+         "question": "What is the source of the fallback recommendation model used to fill the gaps left by UUCF?",
+         "answer": "The fallback model is a 12-most popular items model.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    }
+]

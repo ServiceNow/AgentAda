@@ -1,0 +1,4 @@
+{
+    "goal": "Predict equipment failures using sensor data for predictive maintenance.",
+    "persona": "An industrial data scientist with a background in predictive analytics and 8 years of experience in equipment maintenance sectors. This individual focuses on utilizing machine learning models, particularly LSTM, to forecast mechanical and electrical failures in machinery. They are keen on harnessing data from sensors to optimize maintenance schedules, reduce downtime, and enhance operational efficiency."
+}

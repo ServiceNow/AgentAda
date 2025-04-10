@@ -1,0 +1,24 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/belkhirnacim/textiledefectdetection",
+        "https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies",
+        "https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/machine-learning-basics-for-beginners",
+        "https://www.kaggle.com/datasets/patrickfleith/spacecraft-thruster-firing-tests-dataset",
+        "https://www.kaggle.com/datasets/icsdataset/hai-security-dataset",
+        "https://www.kaggle.com/datasets/khushipitroda/uci-dataset",
+        "https://www.kaggle.com/datasets/patrickfleith/controlled-anomalies-time-series-dataset",
+        "https://www.kaggle.com/datasets/ramoliyafenil/text-based-cyber-threat-detection",
+        "https://www.kaggle.com/datasets/vivovinco/beehives",
+        "https://www.kaggle.com/datasets/zhonglifr/thyroid-disease-unsupervised-anomaly-detection",
+        "https://www.kaggle.com/datasets/kaiser14/network-anomaly-dataset",
+        "https://www.kaggle.com/datasets/thomasdubail/screwanomalies-detection",
+        "https://www.kaggle.com/datasets/wisam1985/digital-currencies-2024",
+        "https://www.kaggle.com/datasets/thedevastator/detailed-labelled-fishing-trajectories-from-ais",
+        "https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data"
+    ],
+    "dataset_description": "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.",
+    "notebook_url": "https://www.kaggle.com/code/jiedong00/anomaly-detection-with-unsupervised-learning",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

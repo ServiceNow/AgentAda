@@ -1,0 +1,4 @@
+{
+    "goal": "Identify fraudulent transactions using a dataset of financial transactions.",
+    "persona": "A data scientist with over 4 years of experience in fraud detection and risk analytics, adept at using machine learning models to improve security in financial services. They are focused on identifying patterns and features indicative of fraudulent activity, and are skilled with tools such as Random Forest to develop robust fraud detection mechanisms."
+}

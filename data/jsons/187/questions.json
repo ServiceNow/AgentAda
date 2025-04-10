@@ -1,0 +1,92 @@
+[
+    {
+      "cell_ids": [
+        3
+      ],
+      "question": "How many columns and rows are in the dataset?",
+      "answer": "The dataset has 100000 entries (rows) and 3 columns: user_id, item_id, and rating.",
+      "task": "Basic Data Analysis",
+       "skill": "Basic Data Analysis"
+    },
+     {
+          "cell_ids": [
+              6
+          ],
+         "question": "What does the output of the `ratings['rating'].unique()` represent?",
+            "answer": "It lists the unique values available in the `rating` column.",
+           "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+     {
+      "cell_ids": [
+       10
+      ],
+      "question": "What are latent factors in matrix factorization models?",
+      "answer": "Latent factors are hidden characteristics of users and items that the model learns based on the ratings data, rather than being directly observed or measured.",
+          "task": "Recommendation Systems",
+          "skill": "Matrix Factorization"
+    },
+    {
+          "cell_ids": [
+              13
+          ],
+         "question": "What do precision and recall quantify in the context of recommendation systems?",
+          "answer": "Precision quantifies the proportion of recommended items that are actually relevant, while recall quantifies the proportion of relevant items that are recommended.",
+           "task": "Recommendation Systems",
+          "skill": "KPI Analysis"
+      },
+    {
+      "cell_ids": [
+        15
+      ],
+        "question": "According to the results, which model performed best using the RMSE metrics?",
+          "answer": "The matrix factorization model using SVD.",
+          "task": "Dashboard Summary",
+          "skill": "Statistical Aggregation"
+      },
+     {
+       "cell_ids": [
+              18
+          ],
+      "question": "What is the purpose of the `precision_recall_at_k` function in this notebook?",
+       "answer": "The function calculates the precision and recall metrics for each user at a given k value and threshold.",
+      "task": "Recommendation Systems",
+      "skill": "KPI Analysis"
+      },
+       {
+        "cell_ids": [
+              20
+          ],
+          "question": "What is the purpose of  `KFold(n_splits=5)` in this notebook?",
+            "answer": "It creates a k-fold cross validation iterator with 5 splits.",
+          "task": "A/B Testing",
+          "skill": "Student's T-Test"
+      },
+      {
+          "cell_ids": [
+              28
+          ],
+          "question": "What does the model return when using  `get_recommendation` method?",
+          "answer": "Returns the top k recommendations, using estimated rating as the main key for sorting.",
+          "task": "Recommendation Systems",
+           "skill": "Collaborative Filtering"
+      },
+      {
+          "cell_ids": [
+              29
+          ],
+         "question": "What does the method `get_title` do?",
+            "answer": "It outputs the name of a book given it's movie ID.",
+            "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+      {
+         "cell_ids": [
+              30
+          ],
+        "question": "What is the output of the `predict` method?",
+            "answer": "The method predicts rating value based on user ID and movie ID.",
+           "task": "Recommendation Systems",
+          "skill": "Matrix Factorization"
+      }
+  ]

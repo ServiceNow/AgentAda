@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/tanisha1416/aqi-bangalore-2023",
+        "https://www.kaggle.com/datasets/shruthiiiee/asia-2023-air-report-2000-cities",
+        "https://www.kaggle.com/datasets/bilalwaseer/air-index-of-worlds-all-cities-2017-to-2022",
+        "https://www.kaggle.com/datasets/adarshrouniyar/air-pollution-image-dataset-from-india-and-nepal",
+        "https://www.kaggle.com/datasets/manavgupta92/airqualityindexdata",
+        "https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022",
+        "https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update",
+        "https://www.kaggle.com/datasets/nitingoyal8/india-air-quality-index-aqi-dataset",
+        "https://www.kaggle.com/datasets/asjad99/chicago-air-pollution",
+        "https://www.kaggle.com/datasets/ashaychoudhary/air-quality-of-india-top-10-cities",
+        "https://www.kaggle.com/datasets/dnkumars/air-quality-index",
+        "https://www.kaggle.com/datasets/timmofeyy/air-quality-in-biggest-cities-of-the-world",
+        "https://www.kaggle.com/datasets/yakhyojon/air-quality-data",
+        "https://www.kaggle.com/datasets/sazidthe1/global-air-pollution-data",
+        "https://www.kaggle.com/datasets/brpuneet898/latest-air-quality-index-analysis",
+        "https://www.kaggle.com/datasets/bhadramohit/india-air-quality-index2024-dataset",
+        "https://www.kaggle.com/datasets/sawdi777/tehran-air-quality-full-sat-traffic-metrology",
+        "https://www.kaggle.com/datasets/tanveersinghbedi/global-air-quality-index-aqi-data-2015-2024",
+        "https://www.kaggle.com/datasets/khusheekapoor/aaq-data-hyderabad",
+        "https://www.kaggle.com/datasets/taweilo/taiwan-air-quality-data-20162024"
+    ],
+    "dataset_description": "OpenAQ is an open-source project to surface live, real-time air quality data from around the world. Their “mission is to enable previously impossible science, impact policy and empower the public to fight air pollution.” The data includes air quality measurements from 5490 locations in 47 countries.",
+    "notebook_url": "https://www.kaggle.com/code/piumallick/air-pollution-analysis-on-air-quality-index",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many records and features are in the dataset?",
+        "answer": "The dataset contains 569 records and 30 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 12],
+        "question": "What percentage of missing values exist in the dataset?",
+        "answer": "The dataset contains 0% missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which feature in the dataset has the highest correlation with the target variable?",
+        "answer": "'Mean radius' has the highest correlation of 0.73 with the target variable.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [26, 33],
+        "question": "What percentage of data points were classified as anomalies using the Local Outlier Factor model?",
+        "answer": "Approximately 4.5% of data points were classified as anomalies.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [41, 50, 57],
+        "question": "Which feature contributed the most to anomaly detection?",
+        "answer": "'Mean perimeter' had the highest anomaly contribution score of 0.81.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [66, 74, 83, 91],
+        "question": "How do anomaly scores compare between malignant and benign tumors?",
+        "answer": "Malignant tumors had an average anomaly score of -2.12, while benign tumors had an average anomaly score of -0.27.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [100],
+        "question": "What precision and recall were achieved by the Local Outlier Factor model?",
+        "answer": "The model achieved a precision of 87.6% and a recall of 91.5%.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [109, 118, 126],
+        "question": "How did adjusting the contamination parameter affect anomaly detection results?",
+        "answer": "Increasing the contamination parameter from 0.02 to 0.05 resulted in a 45% increase in detected anomalies but also increased false positives.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [135, 143, 151, 159],
+        "question": "What insights were revealed when visualizing anomalies using t-SNE?",
+        "answer": "The t-SNE visualization showed that anomalies clustered separately from normal cases, indicating distinct separability in the feature space.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    },
+    {
+        "cell_ids": [167, 175, 183, 191],
+        "question": "Which tumor characteristics exhibited the highest anomaly detection rates?",
+        "answer": "Tumors with high 'mean concavity' and 'mean fractal dimension' had the highest anomaly detection rates at 42.3% and 31.8%, respectively.",
+        "task": "Anomaly Detection",
+        "skill": "Local Outlier Factor"
+    }
+]

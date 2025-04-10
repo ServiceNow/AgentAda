@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze user-item interaction patterns to improve movie recommendation systems.",
+    "persona": "A data scientist specializing in recommendation systems with 7 years of experience, passionate about leveraging collaborative filtering techniques to enhance user experience by improving recommendation accuracy and addressing challenges like sparsity and cold-start problems."
+}

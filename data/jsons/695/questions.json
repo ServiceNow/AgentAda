@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [15],
+        "question": "What dataset is analyzed in this notebook?",
+        "answer": "The dataset analyzed in this notebook is related to COVID-19 cases, recoveries, and deaths.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 42],
+        "question": "How many total records are present in the dataset?",
+        "answer": "The dataset contains 100,000+ records with daily case reports from multiple regions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [51, 68],
+        "question": "Which country reported the highest number of COVID-19 cases?",
+        "answer": "The United States reported the highest number of COVID-19 cases in the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [79, 95, 110],
+        "question": "What is the overall recovery rate for COVID-19 in the dataset?",
+        "answer": "The recovery rate is approximately 85%, based on total recoveries divided by confirmed cases.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [126, 141, 157],
+        "question": "Which month saw the highest increase in COVID-19 cases?",
+        "answer": "The highest increase in COVID-19 cases occurred in December 2020.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [172, 186, 199],
+        "question": "What is the correlation between COVID-19 cases and deaths in the dataset?",
+        "answer": "There is a strong positive correlation (above 0.85) between COVID-19 cases and deaths.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

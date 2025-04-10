@@ -1,0 +1,4 @@
+{
+    "goal": "Categorize articles into distinct topics using matrix factorization.",
+    "persona": "A data scientist specializing in natural language processing with 4 years of experience, focused on leveraging machine learning to analyze text data and derive actionable insights. Interested in improving textual categorization processes for enhanced information retrieval in media datasets."
+}

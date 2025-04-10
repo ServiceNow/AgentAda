@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many time-series variables are included in the dataset?",
+        "answer": "The dataset contains 5 time-series variables.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 41],
+        "question": "What is the mean value of the primary time-series variable?",
+        "answer": "The mean value of the primary time-series variable is 15.8.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [56, 68, 79],
+        "question": "Which time-series variable shows the highest correlation with 'Sales Volume'?",
+        "answer": "'Consumer Spending Index' has the highest correlation with 'Sales Volume' (r = 0.85).",
+        "task": "Causality Analysis",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [92, 103, 115, 127],
+        "question": "Does 'Economic Growth Rate' Granger-cause 'Stock Market Index'?",
+        "answer": "Yes, 'Economic Growth Rate' Granger-causes 'Stock Market Index' with a p-value of 0.003.",
+        "task": "Causality Analysis",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [139, 152],
+        "question": "What is the optimal lag order for testing Granger causality between 'Interest Rate' and 'Inflation'?",
+        "answer": "The optimal lag order is 3, based on the AIC criterion.",
+        "task": "Causality Analysis",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [164, 178, 190],
+        "question": "Is there a bidirectional causality between 'Oil Prices' and 'Currency Exchange Rate'?",
+        "answer": "Yes, bidirectional Granger causality exists with significant p-values in both directions.",
+        "task": "Causality Analysis",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [19, 35, 49, 61],
+        "question": "What percentage of variance in 'Consumer Confidence' is explained by 'Unemployment Rate'?",
+        "answer": "'Unemployment Rate' explains 67% of the variance in 'Consumer Confidence' (R² = 0.67).",
+        "task": "Causality Analysis",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [77, 91, 105, 119],
+        "question": "Does 'Government Spending' Granger-cause 'GDP Growth'?",
+        "answer": "No, the test fails to reject the null hypothesis (p-value = 0.42), indicating no causality.",
+        "task": "Causality Analysis",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [133, 147, 161, 175],
+        "question": "Which time-series variable has the strongest predictive power over 'Housing Market Index'?",
+        "answer": "'Mortgage Interest Rate' has the strongest predictive power with an F-statistic of 5.89.",
+        "task": "Causality Analysis",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [189, 197],
+        "question": "What are the main insights from the Granger causality analysis applied to this dataset?",
+        "answer": "The analysis shows significant causal relationships between 'Economic Growth' and 'Stock Market Index', as well as between 'Oil Prices' and 'Currency Exchange Rate', while 'Government Spending' does not Granger-cause 'GDP Growth'.",
+        "task": "Causality Analysis",
+        "skill": "Granger Causality"
+    }
+]

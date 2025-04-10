@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/endofnight17j03/bert-sentiment-analysis"],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/endofnight17j03/sentiment-analysis-llm-bert/notebook",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

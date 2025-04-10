@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [39],
+        "question": "What dataset was used for Kendall's Tau correlation analysis?",
+        "answer": "The dataset consists of European energy consumption data, including electricity usage, renewable energy share, and CO2 emissions.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [48, 56],
+        "question": "What preprocessing steps were performed before computing Kendall's Tau correlation?",
+        "answer": "The dataset was cleaned by handling missing values, ranking categorical variables such as energy source types, and normalizing numerical values like electricity consumption.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [63],
+        "question": "Which two energy-related variables show the strongest positive Kendall's Tau correlation?",
+        "answer": "Renewable energy share and electricity generation from solar and wind show the strongest positive Kendall's Tau correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [78, 86],
+        "question": "Which environmental factor has the highest negative correlation with CO2 emissions?",
+        "answer": "The proportion of electricity generated from renewable sources has the highest negative correlation with CO2 emissions.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [98, 106, 113],
+        "question": "What is the Kendall's Tau correlation coefficient between industrial energy consumption and total energy demand?",
+        "answer": "The Kendall's Tau correlation coefficient between industrial energy consumption and total energy demand is 0.74.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [125, 133],
+        "question": "How does Kendall's Tau correlation between electricity prices and energy consumption compare to other economic indicators?",
+        "answer": "The correlation between electricity prices and energy consumption is weaker than the correlation between household income and energy demand.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [145],
+        "question": "Which energy production method shows the weakest correlation with national energy dependency?",
+        "answer": "Hydropower generation shows the weakest correlation with national energy dependency.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [157, 165, 173, 181],
+        "question": "What does the Kendall's Tau correlation coefficient indicate about the relationship between government subsidies and renewable energy adoption?",
+        "answer": "The Kendall's Tau correlation coefficient indicates a strong positive relationship, meaning higher government subsidies are associated with increased renewable energy adoption.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [192],
+        "question": "Which economic factor has the least correlation with fluctuations in energy demand?",
+        "answer": "Interest rates have the least correlation with fluctuations in energy demand.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [197, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Kendall's Tau correlation for analyzing energy consumption patterns?",
+        "answer": "Kendall's Tau correlation helped identify key relationships between energy sources, electricity consumption, and emissions, highlighting policy-driven shifts in energy sustainability.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    }
+]

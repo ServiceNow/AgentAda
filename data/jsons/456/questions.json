@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many spatial data points are included in the dataset?",
+        "answer": "The dataset contains 8,500 spatial data points.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 14],
+        "question": "What are the minimum and maximum latitude values in the dataset?",
+        "answer": "The minimum latitude is 25.4 and the maximum latitude is 49.2.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [20, 27, 35],
+        "question": "What are the minimum and maximum longitude values in the dataset?",
+        "answer": "The minimum longitude is -125.7 and the maximum longitude is -67.2.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [42, 50, 59],
+        "question": "Which region exhibits the highest spatial autocorrelation based on Moran's I?",
+        "answer": "Urban areas such as New York City and San Francisco show the highest spatial autocorrelation.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [66, 73, 81, 89],
+        "question": "How does spatial autocorrelation help in identifying clustering patterns?",
+        "answer": "Spatial autocorrelation measures how similar values are in geographically close areas, revealing clustering patterns of similar values.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [95, 102, 110, 118],
+        "question": "What is the significance of a positive Moran's I value?",
+        "answer": "A positive Moran's I value indicates clustering of similar values in geographic space, suggesting spatial dependence.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [124, 131, 138, 146],
+        "question": "What does a negative Moran’s I value signify in a spatial dataset?",
+        "answer": "A negative Moran’s I value indicates dispersion, meaning that dissimilar values are found closer together in geographic space.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [153, 161, 169, 177],
+        "question": "How does changing the spatial weight matrix affect spatial autocorrelation results?",
+        "answer": "Adjusting the spatial weight matrix alters the neighborhood structure, impacting how spatial relationships are quantified.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [184, 192, 200, 208],
+        "question": "What does a Moran’s I value close to zero indicate?",
+        "answer": "A Moran’s I value close to zero suggests a random spatial distribution with no significant clustering or dispersion.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    },
+    {
+        "cell_ids": [215, 223, 231, 239],
+        "question": "Which regions in the dataset exhibit the lowest spatial autocorrelation?",
+        "answer": "The lowest spatial autocorrelation is observed in sparsely populated rural regions and randomly distributed data points.",
+        "task": "Geospatial Analysis",
+        "skill": "Spatial Autocorrelation"
+    }
+]

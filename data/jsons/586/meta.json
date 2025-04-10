@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aubertsigouin/biximtl"
+    ],
+    "dataset_description": "Data on North America's first large-scale bike sharing system",
+    "notebook_url": "https://www.kaggle.com/code/residentmario/spearman-correlation-with-montreal-bikes",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

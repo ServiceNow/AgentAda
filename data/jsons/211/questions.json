@@ -1,0 +1,95 @@
+[
+    {
+      "cell_ids": [
+        3,
+        4
+      ],
+      "question": "How many customers are in the dataset?",
+      "answer": "7043",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+      {
+          "cell_ids": [
+              3,
+              4
+          ],
+          "question": "What are the columns in the dataset?",
+          "answer": "['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']",
+          "task": "Basic Data Analysis",
+          "skill": "Basic Data Analysis"
+      },
+    {
+      "cell_ids": [
+        7
+      ],
+      "question": "How many missing values are present in the `TotalCharges` column after converting it to numeric?",
+      "answer": "11",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        8,
+        9
+      ],
+      "question": "What is the mean of `TotalCharges` used to fill missing values?",
+      "answer": "2283.300441",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+      "cell_ids": [
+        10
+      ],
+      "question": "What are the unique values in the `tenure` column?",
+      "answer": "[ 1 34  2 45  8 22 10 28 62 13 16 58 49 25 69 52 71\n 21 12 30 47 72 17 27  5 46 11 70 63 43 15 60 18 66\n  9  3 31 50 64 56  7 42 35 48 29 65 38 68 32 55 37\n 36 41  6  4 33 67 23 57 61 14 20 53 40 59 24 44 19\n 54 51 26  0 39]",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        11
+      ],
+      "question": "What are the indices of the rows where the `tenure` is 0?",
+        "answer": "[488, 753, 936, 1082, 1340, 3331, 3826, 4380, 5218, 6670, 6754]",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        12
+      ],
+      "question": "After removing the rows with `tenure` equal to 0, what are the indices of the remaining rows where `tenure` is 0?",
+        "answer": "Int64Index([], dtype='int64')",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        13
+      ],
+      "question": "What are the value counts for the `InternetService` column?",
+      "answer": "Fiber optic    3096\nDSL            2416\nNo             1520\nName: InternetService, dtype: int64",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        14
+      ],
+        "question": "What is the maximum value of MonthlyCharges?",
+      "answer": "118.750000",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        17
+      ],
+      "question": "How many customers with Male and Female gender respectively have not churned the service?",
+      "answer": "Male      2619\nFemale    2544",
+      "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+  ]

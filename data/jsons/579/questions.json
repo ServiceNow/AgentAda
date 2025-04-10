@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of customer banking transactions and financial product usage.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [22, 28],
+        "question": "What preprocessing steps were performed before computing Pearson correlation?",
+        "answer": "The dataset was cleaned by handling missing values, scaling numerical features, and encoding categorical variables.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [35],
+        "question": "Which two financial attributes show the strongest positive correlation?",
+        "answer": "Customer savings balance and investment portfolio value show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [50, 57],
+        "question": "Which feature has the highest negative correlation with overdraft frequency?",
+        "answer": "Credit score has the highest negative correlation with overdraft frequency.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [69, 76, 82],
+        "question": "What is the Pearson correlation coefficient between monthly income and spending rate?",
+        "answer": "The Pearson correlation coefficient between monthly income and spending rate is 0.71.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [95, 101],
+        "question": "How does Pearson correlation between age and total financial assets compare to other financial indicators?",
+        "answer": "The correlation between age and total financial assets is positive but weaker than the correlation between investment experience and total assets.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [113],
+        "question": "Which banking product category shows the weakest correlation between interest rates and customer adoption?",
+        "answer": "Short-term savings accounts show the weakest correlation between interest rates and customer adoption.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [125, 131, 138, 144],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between loan repayment history and future creditworthiness?",
+        "answer": "The Pearson correlation coefficient indicates a strong positive relationship, meaning a better loan repayment history increases future creditworthiness.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [157],
+        "question": "Which variable has the least correlation with annual investment growth?",
+        "answer": "The number of monthly ATM withdrawals has the least correlation with annual investment growth.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [168, 175, 184, 193],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for analyzing banking customer behavior?",
+        "answer": "Pearson correlation effectively identified key financial behaviors, such as investment habits and credit usage, influencing customer financial health.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

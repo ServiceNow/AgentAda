@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze customer transaction data to retain essential features reducing dimensionality while maintaining important data relationships.",
+    "persona": "A data analyst with expertise in principal component analysis, focused on reducing dimensionality of large datasets to enhance computational efficiency and maintain critical relationships. They specialize in the application of eigenvalue decomposition techniques to summarize data effectively and optimize data visualization, catering to retail business insights."
+}

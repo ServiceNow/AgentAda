@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many numerical features are present in the dataset?",
+        "answer": "The dataset contains 12 numerical features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [23, 38],
+        "question": "What is the mean value of the 'Customer Spending' variable?",
+        "answer": "The mean value of 'Customer Spending' is 128.5.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [52, 67, 81],
+        "question": "Which feature has the highest correlation with 'Revenue'?",
+        "answer": "'Advertising Budget' has the highest correlation with 'Revenue' (r = 0.78).",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [95, 110, 124, 139],
+        "question": "Does 'Marketing Spend' Granger-cause 'Sales Volume'?",
+        "answer": "Yes, 'Marketing Spend' Granger-causes 'Sales Volume' with a p-value of 0.002.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [153, 168],
+        "question": "What is the optimal lag order for testing Granger causality between 'Interest Rate' and 'Investment Growth'?",
+        "answer": "The optimal lag order is 4, based on the AIC criterion.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [177, 182, 190],
+        "question": "Is there a bidirectional causality between 'Oil Prices' and 'Inflation Rate'?",
+        "answer": "Yes, bidirectional Granger causality exists with significant p-values in both directions.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [13, 29, 44, 59],
+        "question": "What percentage of variance in 'Stock Market Index' is explained by 'Consumer Sentiment'?",
+        "answer": "'Consumer Sentiment' explains 72% of the variance in 'Stock Market Index' (R² = 0.72).",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [74, 89, 103, 118],
+        "question": "Does 'Government Policy Changes' Granger-cause 'Economic Growth'?",
+        "answer": "No, the test fails to reject the null hypothesis (p-value = 0.48), indicating no causality.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [133, 147, 161, 176],
+        "question": "Which feature has the strongest predictive power over 'Housing Market Trends'?",
+        "answer": "'Mortgage Rates' have the strongest predictive power with an F-statistic of 6.45.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [186, 197],
+        "question": "What are the key takeaways from the Granger Causality applied to this dataset?",
+        "answer": "The analysis reveals significant causal relationships between 'Marketing Spend' and 'Sales Volume', as well as between 'Oil Prices' and 'Inflation Rate', while 'Government Policy Changes' do not Granger-cause 'Economic Growth'.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Identify patterns and associations among items in transaction data.",
+    "persona": "An experienced data scientist specializing in market basket analysis and association rule mining, with a keen interest in understanding consumer purchasing behavior to enhance product placement and inventory management strategies in retail environments."
+}

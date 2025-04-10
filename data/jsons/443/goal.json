@@ -1,0 +1,4 @@
+{
+    "goal": "Determine the most significant features influencing diagnosis predictions.",
+    "persona": "An experienced data scientist specializing in healthcare analytics, with a focus on leveraging machine learning models to optimize feature selection and improve diagnostic prediction accuracy. They have extensive knowledge in using random forest models and are interested in the impact of feature selection and encoding techniques on model performance and accuracy."
+}

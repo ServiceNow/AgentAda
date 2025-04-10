@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "What dataset was used for the stock market forecasting analysis?",
+        "answer": "The dataset consists of historical stock prices from multiple companies over a 15-year period.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [22, 30],
+        "question": "What is the time range of the stock price data analyzed?",
+        "answer": "The dataset includes stock price data from January 2008 to December 2023.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [41],
+        "question": "Which stock demonstrated the highest volatility during the analyzed period?",
+        "answer": "Tesla (TSLA) exhibited the highest volatility, with frequent large price swings.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [55, 64],
+        "question": "What seasonal patterns were identified in stock price movements?",
+        "answer": "Stock prices generally increased in Q4, coinciding with strong corporate earnings and holiday sales.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [79, 87, 95],
+        "question": "How did the 2008 financial crisis impact stock market trends?",
+        "answer": "The crisis led to a sharp market decline, with stock prices hitting multi-year lows before a gradual recovery.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [106, 115],
+        "question": "Which external factor had the most significant impact on stock prices?",
+        "answer": "Federal Reserve interest rate decisions had a major impact on stock price movements, especially in 2022.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [128, 136, 145],
+        "question": "What forecasting technique was used to predict stock price trends?",
+        "answer": "An ARIMA model was applied to forecast stock price trends based on historical data.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [157, 165],
+        "question": "What were the key insights derived from the stock market time series analysis?",
+        "answer": "The analysis revealed cyclical market trends, the influence of external macroeconomic factors, and the importance of volatility indicators.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [180, 188, 195],
+        "question": "How did the ARIMA model perform in predicting stock price movements?",
+        "answer": "The ARIMA model achieved a mean absolute percentage error (MAPE) of 3.2%, indicating a moderate level of accuracy.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [200],
+        "question": "What recommendations were made based on the stock market forecasting analysis?",
+        "answer": "It was suggested to use a hybrid model combining ARIMA with deep learning methods for improved accuracy in stock price forecasting.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

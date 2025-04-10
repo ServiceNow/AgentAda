@@ -1,0 +1,102 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What is the size of the dataset, and how are sentiment classes distributed?",
+        "answer": "The dataset contains 27,000 tweets distributed across positive, negative, and neutral sentiments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+            4
+        ],
+        "question": "What is the average word count in tweets for each sentiment class?",
+        "answer": "Positive tweets average 22 words, negative tweets average 18 words, and neutral tweets average 20 words.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+        "question": "What is the accuracy of the sentiment classification model?",
+        "answer": "The model achieves an accuracy of 87% on the validation set.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            7,
+            8
+        ],
+        "question": "What preprocessing steps were used to prepare the tweets for sentiment analysis?",
+        "answer": "Steps included tokenization, removing stopwords, and padding sequences.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            9,
+            10
+        ],
+        "question": "What are the precision, recall, and F1-scores for each sentiment class?",
+        "answer": "Precision: 0.89, Recall: 0.86, F1-Score: 0.87 for positive; similar values for other classes.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            11,
+            12
+        ],
+        "question": "What words contribute most to the model's predictions for positive sentiment?",
+        "answer": "Words like 'amazing', 'excellent', and 'love' are significant for positive predictions.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            13,
+            14
+        ],
+        "question": "What is the percentage of tweets misclassified by the model?",
+        "answer": "Approximately 13% of tweets are misclassified.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "What is the distribution of sentiment classes in misclassified tweets?",
+        "answer": "Most misclassifications occur between neutral and positive sentiments.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            17,
+            18
+        ],
+        "question": "How does the model perform when handling tweets with hashtags or emojis?",
+        "answer": "The model performs slightly worse on tweets with hashtags or emojis, showing a 5% drop in accuracy.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            19,
+            20
+        ],
+        "question": "What is the impact of tweet length on the model's prediction accuracy?",
+        "answer": "Tweets longer than 40 words have lower accuracy due to truncation during preprocessing.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    }
+]

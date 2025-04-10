@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/competitions/demand-forecasting-kernels-only"],
+    "dataset_description": "The objective of this competition is to predict 3 months of item-level sales data at different store locations.",
+    "notebook_url": "https://www.kaggle.com/code/habibmrad1983/eda-prophet-mlp-neural-network-forecasting/notebook",
+    "domain": "Business",
+    "help_data_file_names": ["train.csv"]
+}

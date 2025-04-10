@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/patricklford/amazon-alibaba-and-ebay-2013-2023",
+        "https://www.kaggle.com/datasets/muhammedkbalylmaz/usd-trend-exp-ma-project"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mehmetisik/smoothing-methods-holt-winters",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

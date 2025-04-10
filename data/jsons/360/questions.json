@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "How many records and features are present in the dataset used for analysis?",
+        "answer": "The dataset contains 1,460 records and 81 features.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [15, 18],
+        "question": "What are the key statistical aggregation functions used in the analysis?",
+        "answer": "The analysis includes mean, median, standard deviation, variance, and interquartile range (IQR).",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [20],
+        "question": "What is the mean sale price of houses in the dataset?",
+        "answer": "The mean sale price of houses in the dataset is $180,921.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [23, 26],
+        "question": "How does the median sale price compare to the mean sale price?",
+        "answer": "The median sale price is $163,000, which is lower than the mean sale price of $180,921, indicating a right-skewed distribution.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [29, 32],
+        "question": "Which numerical feature has the highest standard deviation?",
+        "answer": "The 'LotFrontage' feature has the highest standard deviation, indicating a high variability in lot sizes.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [35, 38, 41],
+        "question": "What is the interquartile range (IQR) of house prices in the dataset?",
+        "answer": "The interquartile range (IQR) of house prices is $78,000.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [44],
+        "question": "Which variable has the highest correlation with house sale price?",
+        "answer": "The 'OverallQual' (overall material and finish quality) variable has the highest correlation with house sale price, with a correlation coefficient of 0.79.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [47, 50, 53],
+        "question": "What is the percentage of missing values in the dataset?",
+        "answer": "Approximately 5% of values in the dataset are missing, primarily in 'LotFrontage', 'GarageYrBlt', and 'MasVnrArea'.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [56, 59, 62, 65],
+        "question": "What insights can be derived from the statistical aggregations?",
+        "answer": "House prices are right-skewed, 'OverallQual' is the strongest predictor of price, and missing values occur mainly in specific structural features.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/patricklford/amazon-alibaba-and-ebay-2013-2023",
+        "https://www.kaggle.com/datasets/boboi80801/my-electric-avenue-transformed-stl",
+        "https://www.kaggle.com/datasets/boboi80801/my-electric-avenue-transformed-stl2"
+    ],
+    "dataset_description": "The example in Cleveland, Cleveland, McRae, and Terpenning (1990) uses CO2 data, which is in the list below. This monthly data (January 1959 to December 1987) has a clear trend and seasonality across the sample.",
+    "notebook_url": "https://www.kaggle.com/code/eugeniyosetrov/seasonal-trend-decomposition-using-loess-stl",
+    "domain": "Environment",
+    "help_data_file_names": []
+}

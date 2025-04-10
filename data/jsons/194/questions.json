@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and movies in the dataset, and how does this define the scale of the recommendation system?",
+      "answer": "The dataset contains 30,000 users and 10,000 movies, forming a moderately sized user-item matrix for recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of the user-movie matrix is filled with ratings, and how does this sparsity impact the recommendation system's performance?",
+      "answer": "The matrix is 95% sparse, making it challenging to accurately infer preferences due to limited overlap in user ratings.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 10],
+      "question": "What is the average number of movies rated per user, and how does this contribute to building user preference profiles?",
+      "answer": "Each user rates an average of 12 movies, providing sufficient data to identify individual preferences.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [12, 15],
+      "question": "Which movies are the most frequently rated, and how can they assist in addressing the cold-start problem for new users?",
+      "answer": "Popular movies like 'Inception' and 'The Matrix' are frequently rated, making them suitable for initial recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [16, 18, 20],
+      "question": "What is the distribution of movie ratings in the dataset, and how might this influence the diversity of recommendations?",
+      "answer": "Ratings are concentrated around higher values (4 and 5 stars), which could bias recommendations towards popular movies.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [22, 25],
+      "question": "What patterns in user preferences for movie genres are observed, and how can these insights guide personalized recommendations?",
+      "answer": "Users show consistent preferences for genres like 'Action' and 'Drama', which can inform targeted recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [27, 30, 33],
+      "question": "What temporal trends are observed in movie ratings, and how can time-aware recommendations enhance user satisfaction?",
+      "answer": "Movies like 'Avatar' show spikes in ratings during re-releases, highlighting the need for temporal trends in recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [35, 38],
+      "question": "What challenges are associated with recommending niche movies with limited ratings, and how does the system address these challenges?",
+      "answer": "The system uses similarities in user preferences to recommend niche movies by identifying shared interests in overlapping genres.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [40, 43],
+      "question": "What insights can be drawn from highly active users' rating patterns, and how do these influence the recommendation model?",
+      "answer": "Highly active users rate movies across diverse genres, providing valuable data to refine the model's predictions for other users.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [45, 48, 51, 54],
+      "question": "What strategies are implemented to address the cold-start problem for new users or movies in the dataset?",
+      "answer": "Popular movies and genre-based filters are used to provide initial suggestions for new users and movies.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    }
+  ]
+  

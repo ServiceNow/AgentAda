@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "How many unique categories are present in the 'Product Type' column?",
+        "answer": "The 'Product Type' column contains 8 unique categories.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 45],
+        "question": "What is the median value of the 'Sales Volume' column?",
+        "answer": "The median value of 'Sales Volume' is 502.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [61, 74, 89],
+        "question": "Which variable has the strongest correlation with 'Monthly Revenue'?",
+        "answer": "'Advertising Budget' has the strongest correlation with 'Monthly Revenue' (r = 0.82).",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [103, 116, 129, 144],
+        "question": "Does 'Customer Foot Traffic' Granger-cause 'Sales Revenue'?",
+        "answer": "Yes, 'Customer Foot Traffic' Granger-causes 'Sales Revenue' with a p-value of 0.004.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [157, 172],
+        "question": "What is the optimal lag order for testing Granger causality between 'Interest Rate' and 'Loan Defaults'?",
+        "answer": "The optimal lag order is 3, based on the AIC criterion.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [181, 191, 199],
+        "question": "Is there a bidirectional causality between 'Stock Prices' and 'Consumer Confidence Index'?",
+        "answer": "Yes, bidirectional Granger causality exists with significant p-values in both directions.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [21, 37, 53, 67],
+        "question": "What percentage of variance in 'Quarterly Profit' is explained by 'Marketing Spend'?",
+        "answer": "'Marketing Spend' explains 65% of the variance in 'Quarterly Profit' (R² = 0.65).",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [82, 96, 111, 125],
+        "question": "Does 'Government Policy Changes' Granger-cause 'Economic Growth'?",
+        "answer": "No, the test fails to reject the null hypothesis (p-value = 0.56), indicating no causality.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [137, 150, 165, 178],
+        "question": "Which factor has the strongest predictive power over 'Real Estate Market Trends'?",
+        "answer": "'Mortgage Rates' have the strongest predictive power with an F-statistic of 7.81.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [187, 198],
+        "question": "What are the key insights from the Granger causality analysis in this dataset?",
+        "answer": "The analysis shows significant causal relationships between 'Customer Foot Traffic' and 'Sales Revenue', as well as between 'Stock Prices' and 'Consumer Confidence Index', while 'Government Policy Changes' do not Granger-cause 'Economic Growth'.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    }
+]

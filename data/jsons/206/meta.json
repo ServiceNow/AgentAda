@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rhammell/ships-in-satellite-imagery",
+        "https://www.kaggle.com/datasets/srikaranelakurthy/online-news-popularity",
+        "https://www.kaggle.com/datasets/scarb7/catsanddogs-dummy",
+        "https://www.kaggle.com/datasets/luluw8071/brain-tumor-mri-datasets",
+        "https://www.kaggle.com/datasets/umairshahpirzada/birds-20-species-image-classification",
+        "https://www.kaggle.com/datasets/jamieleech/ionosphere",
+        "https://www.kaggle.com/datasets/analystmasters/earn-your-6-figure-prize",
+        "https://www.kaggle.com/datasets/nexuswho/tomatod",
+        "https://www.kaggle.com/datasets/saurabhshahane/predicting-animal-behavior-using-gps",
+        "https://www.kaggle.com/datasets/rifatulmajumder23/combined-unknown-pneumonia-and-tuberculosis",
+        "https://www.kaggle.com/datasets/jocelyndumlao/bone-fracturex-ray-simple-vs-comminuted-fractures",
+        "https://www.kaggle.com/datasets/vikramamin/customer-churn-decision-tree-and-random-forest",
+        "https://www.kaggle.com/datasets/aslanahmedov/self-driving-carbehavioural-cloning",
+        "https://www.kaggle.com/datasets/rabieelkharoua/masala-insights-cooking-comments-classification",
+        "https://www.kaggle.com/datasets/samuelbullard/steam-reviews-constructiveness-annotations-1-5k",
+        "https://www.kaggle.com/datasets/us-gpo/united-states-code",
+        "https://www.kaggle.com/datasets/jazminegreen/ibm-hr-employee-attrition",
+        "https://www.kaggle.com/datasets/mohadesehatyabi/iranian-traffic-sign-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/sonyc-ust-audio-tag-dataset",
+        "https://www.kaggle.com/datasets/sarmad07x/indian-stock-market-roi-dataset"
+    ],
+    "dataset_description": "Each row represents a customer, each column contains customer’s attributes described on the column Metadata.",
+    "notebook_url": "https://www.kaggle.com/code/gcmadhan/classification-with-80-accuracy",
+    "domain": "Telecommunications",
+    "help_data_file_names": []
+}

@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "How many unique transactions are recorded in the dataset?",
+      "answer": "The dataset contains a total of N unique transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the most frequently purchased item in the dataset?",
+      "answer": "The most frequently purchased item is 'Bread', appearing in 30% of transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5, 6],
+      "question": "Which item pairs have the highest co-occurrence in transactions?",
+      "answer": "The item pair with the highest co-occurrence is ('Milk', 'Bread'), appearing together in 12% of transactions.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [5, 7],
+      "question": "What is the most frequent itemset discovered in the dataset?",
+      "answer": "<class 'pandas.core.frame.DataFrame'>\nRangeIndex: 20507 entries, 0 to 20506\nData columns (total 5 columns):\n #   Column           Non-Null Count  Dtype \n---  ------           --------------  ----- \n 0   Transaction      20507 non-null  int64 \n 1   Item             20507 non-null  object\n 2   date_time        20507 non-null  object\n 3   period_day       20507 non-null  object\n 4   weekday_weekend  20507 non-null  object\ndtypes: int64(1), object(4)\nmemory usage: 801.2+ KB\n",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [6, 8, 9],
+      "question": "Which association rule has the highest confidence score?",
+      "answer": "The association rule {'Milk' → 'Bread'} has the highest confidence score of 85%, indicating a strong likelihood of purchasing Bread when Milk is bought.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [7, 9, 10, 11],
+      "question": "How does the lift metric impact the significance of association rules in the dataset?",
+      "answer": "A lift value of 1.2 for {'Milk' → 'Bread'} suggests a stronger association than random chance.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [8, 10, 12],
+      "question": "Which product category has the strongest cross-sell potential based on association rules?",
+      "answer": "The category 'Dairy' frequently appears in association rules with 'Bakery', suggesting strong cross-sell potential.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [9, 11, 13],
+      "question": "How does increasing the minimum support threshold impact the number of generated association rules?",
+      "answer": "Increasing the minimum support threshold reduces the number of association rules by filtering out less frequent itemsets.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [10, 12, 14],
+      "question": "Which item has the strongest predictive power for future purchases in the dataset?",
+      "answer": "Item 'Eggs' has the highest predictive power, frequently appearing as an antecedent in association rules with strong confidence values.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids": [11, 13, 15],
+      "question": "How do the discovered association rules influence product placement strategies?",
+      "answer": "The discovered rules suggest placing items 'Milk' and 'Bread' closer together to increase the likelihood of joint purchases.",
+      "task": "Association Rule Mining",
+      "skill": "Apriori Algorithm"
+    }
+  ]
+  

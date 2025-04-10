@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/bigquery/google-analytics-sample"
+    ],
+    "dataset_description": "The Google Merchandise Store sells Google branded merchandise. The data is typical of what you would see for an ecommerce website.",
+    "notebook_url": "https://www.kaggle.com/code/alyassi/multitouch-attribution-markov-google-analytics",
+    "domain": "Business",
+    "help_data_file_names": []
+}

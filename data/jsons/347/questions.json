@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [13],
+        "question": "How many countries are included in the dataset?",
+        "answer": "The dataset contains 194 countries.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [16, 19],
+        "question": "What are the key interactive visualizations used in the COVID-19 analysis?",
+        "answer": "Key interactive visualizations include time-series plots, animated geographic maps, and bar race charts.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [22],
+        "question": "Which country has reported the highest total COVID-19 cases?",
+        "answer": "The United States has reported the highest total COVID-19 cases.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [25, 28],
+        "question": "What is the average daily new cases across all countries?",
+        "answer": "The average daily new cases across all countries is approximately 10,400.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [30, 33],
+        "question": "How have vaccination rates changed over time?",
+        "answer": "Vaccination rates have increased steadily, with significant acceleration after mid-2021.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [36, 39, 42],
+        "question": "What is the correlation between vaccination rates and case fatality rates?",
+        "answer": "Higher vaccination rates are generally correlated with lower case fatality rates across most countries.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [45],
+        "question": "Which factor has the highest influence on COVID-19 case growth?",
+        "answer": "Population density and travel restrictions have the highest influence on COVID-19 case growth.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [48, 50, 53],
+        "question": "What is the impact of lockdown measures on COVID-19 case trends?",
+        "answer": "Countries that implemented early lockdowns showed a reduction in case growth, while delayed responses resulted in higher peaks.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [56, 59, 62, 65],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "COVID-19 waves follow seasonal trends, vaccinations help reduce case severity, and government interventions significantly impact case growth rates.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

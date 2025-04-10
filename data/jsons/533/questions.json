@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [15],
+        "question": "What is the total number of signal recordings in the dataset?",
+        "answer": "The dataset contains 10,000 signal recordings.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 38],
+        "question": "What is the duration of each signal recording in the dataset?",
+        "answer": "Each signal recording spans 10 seconds with a sampling rate of 250 Hz.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [49, 62, 75],
+        "question": "How does wavelet decomposition help in detecting noise in biosignals?",
+        "answer": "Wavelet decomposition separates high-frequency noise from the main signal, allowing for more accurate signal interpretation.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [88, 101, 114, 127],
+        "question": "What insights can be gained by analyzing wavelet coefficients of biosignals?",
+        "answer": "Wavelet coefficients reveal important frequency components in the signal, helping to identify anomalies or specific physiological events.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [136, 148],
+        "question": "How does multi-scale wavelet decomposition improve the accuracy of R-peak detection?",
+        "answer": "Multi-scale decomposition enhances peak detection by isolating dominant frequency components associated with heartbeats.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [56, 78, 99, 121],
+        "question": "What role do low-frequency components play in identifying long-term patterns in biosignal recordings?",
+        "answer": "Low-frequency components capture slow variations in the signal, which are useful for identifying baseline drift and long-term trends.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [132, 145, 158],
+        "question": "How can wavelet energy distribution help in detecting sudden changes in biosignals?",
+        "answer": "Wavelet energy distribution highlights sudden changes in signal amplitude, helping to detect anomalies such as arrhythmias or artifacts.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [172, 183],
+        "question": "What happens when biosignals are reconstructed using only low-frequency wavelet coefficients?",
+        "answer": "Reconstructing biosignals with low-frequency coefficients smooths out short-term fluctuations, revealing the underlying physiological trend.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [61, 83, 107],
+        "question": "How does wavelet-based feature extraction contribute to classifying biosignals?",
+        "answer": "Wavelet decomposition extracts key signal features that improve classification models for detecting normal and abnormal physiological states.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [119, 135, 154, 169],
+        "question": "How can wavelet decomposition be leveraged to detect irregular patterns in physiological signals?",
+        "answer": "Wavelet decomposition isolates signal components at different frequency bands, enabling the identification of irregularities such as heart arrhythmias.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

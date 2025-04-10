@@ -1,0 +1,58 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What dataset was used for Random Forest Imputation in this analysis?",
+        "answer": "The dataset contained demographic and financial information, including income and spending behavior.",
+        "task": "Data Imputation",
+        "skill": "Random Forest Imputation"
+    },
+    {
+        "cell_ids": [28, 37],
+        "question": "What percentage of missing values were present in the dataset before applying Random Forest Imputation?",
+        "answer": "Approximately 15% of the data contained missing values, with some features having more than 30% missing.",
+        "task": "Data Imputation",
+        "skill": "Random Forest Imputation"
+    },
+    {
+        "cell_ids": [41, 52, 63],
+        "question": "How were categorical variables handled before applying Random Forest Imputation?",
+        "answer": "Categorical variables were encoded using one-hot encoding to ensure compatibility with the Random Forest model.",
+        "task": "Data Imputation",
+        "skill": "Random Forest Imputation"
+    },
+    {
+        "cell_ids": [75, 81, 92],
+        "question": "What strategy was used to train the Random Forest model for imputing missing values?",
+        "answer": "Each feature with missing values was treated as a target variable, and the remaining features were used as predictors.",
+        "task": "Data Imputation",
+        "skill": "Random Forest Imputation"
+    },
+    {
+        "cell_ids": [101, 112, 124],
+        "question": "How did the distribution of imputed values compare to the original feature distribution?",
+        "answer": "The imputed values closely followed the original distribution, reducing skewness compared to mean imputation.",
+        "task": "Data Imputation",
+        "skill": "Random Forest Imputation"
+    },
+    {
+        "cell_ids": [137, 145, 159],
+        "question": "What were the main advantages of using Random Forest Imputation over mean or median imputation?",
+        "answer": "Random Forest Imputation preserved complex relationships between features and reduced bias in the imputed values.",
+        "task": "Data Imputation",
+        "skill": "Random Forest Imputation"
+    },
+    {
+        "cell_ids": [168, 177, 185],
+        "question": "What were the computational challenges encountered when using Random Forest Imputation?",
+        "answer": "The imputation process was computationally intensive, especially for large datasets with high-dimensional feature spaces.",
+        "task": "Data Imputation",
+        "skill": "Random Forest Imputation"
+    },
+    {
+        "cell_ids": [193, 198],
+        "question": "How did the performance of Random Forest Imputation compare to other imputation techniques in this analysis?",
+        "answer": "Random Forest Imputation resulted in lower prediction error compared to mean, median, and KNN imputation techniques.",
+        "task": "Data Imputation",
+        "skill": "Random Forest Imputation"
+    }
+]

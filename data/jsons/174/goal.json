@@ -1,0 +1,4 @@
+{
+    "goal": "Develop a recommendation system using product descriptions and ratings data.",
+    "persona": "A data scientist with expertise in building recommendation systems, specializing in applying collaborative filtering and natural language processing to enhance product recommendation models. They are skilled in processing and analyzing large datasets to extract meaningful insights, with a strong interest in creating personalized user experiences."
+}

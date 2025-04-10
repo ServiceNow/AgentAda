@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset"
+    ],
+    "dataset_description": "Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.",
+    "notebook_url": "https://www.kaggle.com/code/arthurtok/employee-attrition-via-ensemble-tree-based-methods",
+    "domain": "Human Resources",
+    "help_data_file_names": []
+}

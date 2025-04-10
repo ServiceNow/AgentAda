@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud",
+        "https://www.kaggle.com/datasets/whenamancodes/fraud-detection",
+        "https://www.kaggle.com/datasets/arslanali4343/credit-card-cheating-detection-cccd",
+        "https://www.kaggle.com/datasets/adhyanmaji31/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection",
+        "https://www.kaggle.com/datasets/christianpartal/credit-card-data"
+    ],
+    "dataset_description": "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.",
+    "notebook_url": "https://www.kaggle.com/code/codeaesthete/credit-card-fraud-detection-deep-neural-networks",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

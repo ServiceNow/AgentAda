@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rashminslnk/youtube-subscribers-data-2024",
+        "https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics",
+        "https://www.kaggle.com/datasets/muhammadroshaanriaz/e-commerce-trends-a-guide-to-leveraging-dataset",
+        "https://www.kaggle.com/datasets/shilongzhuang/pizza-sales",
+        "https://www.kaggle.com/datasets/prathamsaraf1389/numpy-pandas-and-matplot-lib-practise",
+        "https://www.kaggle.com/datasets/zeesolver/dark-web",
+        "https://www.kaggle.com/datasets/nevildhinoja/e-commerce-sales-prediction-dataset",
+        "https://www.kaggle.com/datasets/lorentzyeung/all-japanese-anime-titles-in-imdb",
+        "https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis",
+        "https://www.kaggle.com/datasets/pinuto/energy-crisis-and-stock-price-dataset-2021-2024",
+        "https://www.kaggle.com/datasets/jamiewelsh2/ball-by-ball-ipl",
+        "https://www.kaggle.com/datasets/carlosalvro/lego-sets-dataset",
+        "https://www.kaggle.com/datasets/funxexcel/text-handling-ipba-kn",
+        "https://www.kaggle.com/datasets/thedevastator/hulu-popular-shows-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-records",
+        "https://www.kaggle.com/datasets/sachinkanchan92/reddit-top-posts-50-subreddit-analysis-2011-2024",
+        "https://www.kaggle.com/datasets/jeffsinsel/nyc-fhvhv-data",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/retail-analytics-trends",
+        "https://www.kaggle.com/datasets/yukawithdata/taylor-swift-the-eras-tour-official-setlist-data",
+        "https://www.kaggle.com/datasets/abhishek0032/youtube-dataset-all-data-scienceanalyst-channels"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/prashant111/comprehensive-data-analysis-with-pandas",
+    "domain": "Media",
+    "help_data_file_names": ["train.csv"]
+}

@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/vsb-power-line-fault-detection"
+    ],
+    "dataset_description": "Faults in electric transmission lines can lead to a destructive phenomenon called partial discharge. If left alone, partial discharges can damage equipment to the point that it stops functioning entirely. Your challenge is to detect partial discharges so that repairs can be made before any lasting harm occurs.",
+    "notebook_url": "https://www.kaggle.com/code/pnussbaum/vsb-power-using-autoencoding-v09",
+    "domain": "Energy",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

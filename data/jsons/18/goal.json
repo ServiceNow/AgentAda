@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze sentiment in IMDB reviews to understand patterns in positive and negative sentiments.",
+    "persona": "A data scientist specializing in natural language processing and machine learning, with 7 years of experience in text analytics and sentiment analysis. Focused on leveraging NLP models like LSTM to derive insights from unstructured data and improve model accuracy for business applications, with a keen interest in model performance metrics and optimization strategies."
+}

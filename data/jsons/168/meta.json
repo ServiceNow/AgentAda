@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies",
+        "https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/muqarrishzaib/tmdb-10000-movies-dataset",
+        "https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset",
+        "https://www.kaggle.com/datasets/yakshshah/blog-recommendation-data",
+        "https://www.kaggle.com/datasets/muhammadbinimran/movie-recommendation-system-prediction-dataset",
+        "https://www.kaggle.com/datasets/luisheitorribeiro/netflix-movie-ratings",
+        "https://www.kaggle.com/datasets/meastanmay/imdb-dataset",
+        "https://www.kaggle.com/datasets/hernan4444/animeplanet-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/snehal1409/movielens",
+        "https://www.kaggle.com/datasets/seasonxc/30k-movie-lens",
+        "https://www.kaggle.com/datasets/thedevastator/imdb-movie-ratings-dataset",
+        "https://www.kaggle.com/datasets/veeralakrishna/movielens-25m-dataset",
+        "https://www.kaggle.com/datasets/oyounis/movie-lens-1m",
+        "https://www.kaggle.com/datasets/tohid2974/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/bajajganesh/movielensml-latest27m",
+        "https://www.kaggle.com/datasets/aparajitasingh15/imdb-data",
+        "https://www.kaggle.com/datasets/vutukuripavankumar10/top-rated-movies"
+    ],
+    "dataset_description": "This dataset (ml-latest-small) describes 5-star rating and free-text tagging activity from MovieLens, a movie recommendation service. It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.",
+    "notebook_url": "https://www.kaggle.com/code/varunnagpalspyz/movie-recommendation-with-collaborative-filtering",
+    "domain": "Entertainment",
+    "help_data_file_names": ["ratings.csv"]
+}

@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis"],
+    "dataset_description": "The following data is intended for advancing financial sentiment analysis research. It's two datasets (FiQA, Financial PhraseBank) combined into one easy-to-use CSV file. It provides financial sentences with sentiment labels.",
+    "notebook_url": "https://www.kaggle.com/code/faizulislam19095/sentiment-analysis-using-naive-bayes/notebook",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

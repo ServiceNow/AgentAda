@@ -1,0 +1,20 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/crawford/weekly-sales-transactions",
+        "https://www.kaggle.com/datasets/robikscube/zillow-home-value-index",
+        "https://www.kaggle.com/datasets/davedarshan/customer360insights",
+        "https://www.kaggle.com/datasets/spypsc07/amazon-products",
+        "https://www.kaggle.com/datasets/burayamail/brazilian-ecommerce-analyses-v2",
+        "https://www.kaggle.com/datasets/burayamail/brazilian-e-commerce",
+        "https://www.kaggle.com/datasets/robertritz/ub-market-prices",
+        "https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast",
+        "https://www.kaggle.com/datasets/samuelrosenak/historical-food-cpi-from-1974-to-2022",
+        "https://www.kaggle.com/datasets/jocelyndumlao/wfp-global-market-monitor",
+        "https://www.kaggle.com/datasets/lucasmogg/abfl-stock-merged-fao-food-price-indices",
+        "https://www.kaggle.com/datasets/swapnilprantamistry/fake-pc-components-basket-analysis"
+    ],
+    "dataset_description": "This is the bakery data with the list of items bought by customers. If you think can improve or just to make sure about the data just leave some words in the comment section below.",
+    "notebook_url": "https://www.kaggle.com/code/akashram/time-series-market-basket-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

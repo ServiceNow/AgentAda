@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "What is the total number of unique users in the dataset?",
+        "answer": "The dataset contains 12,500 unique users.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 11],
+        "question": "What is the most frequently interacted item in the dataset?",
+        "answer": "Item_204 is the most frequently interacted item.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [22],
+        "question": "What preprocessing steps were performed before applying SVD to the dataset?",
+        "answer": "The dataset was normalized, missing values were imputed, and implicit feedback was converted into explicit ratings.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [34, 36],
+        "question": "How many latent factors were chosen for the SVD model, and why?",
+        "answer": "50 latent factors were chosen as they provided the best balance between performance and computational efficiency.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [47, 50, 53],
+        "question": "What metric was used to evaluate the SVD model, and what was its score?",
+        "answer": "The Root Mean Squared Error (RMSE) was used, and the achieved score was 0.91.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [64, 66],
+        "question": "How does performance change with different numbers of singular values in SVD?",
+        "answer": "Performance improves up to 100 singular values but plateaus beyond that, showing diminishing returns.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [77],
+        "question": "How was implicit feedback transformed into explicit ratings before applying SVD?",
+        "answer": "Implicit feedback was converted using a confidence weighting approach where interaction frequency determined rating strength.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [89, 91, 94],
+        "question": "What approach was taken to handle missing values in the user-item interaction matrix?",
+        "answer": "Missing values were replaced with global mean imputation before applying SVD.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [103, 107, 110, 114],
+        "question": "How does SVD handle sparsity in large-scale recommendation systems?",
+        "answer": "SVD factorizes the sparse matrix into lower-dimensional latent factors, capturing relationships between users and items even with missing values.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [126],
+        "question": "What conclusions were drawn from the SVD model’s performance compared to other recommendation methods?",
+        "answer": "SVD outperformed traditional collaborative filtering methods, especially in handling sparsity, but deep learning models provided slightly better accuracy.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    }
+]

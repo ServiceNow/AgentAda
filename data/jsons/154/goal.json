@@ -1,0 +1,4 @@
+{
+    "goal": "To optimize the recommendation system by analyzing user and product interactions within the Amazon reviews dataset.",
+    "persona": "A data scientist with 7 years of experience in developing advanced recommendation systems, passionate about leveraging collaborative filtering techniques to enhance personalized user experiences and solve challenges related to data sparsity and the cold-start problem."
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kingajohnsjoe/imagesdata"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/kingajohnsjoe/covid-19-knowledge-graph-with-bert-weighted-edges",
+    "domain": "Science",
+    "help_data_file_names": []
+}

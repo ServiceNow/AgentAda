@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/chirag19/air-passengers"],
+    "dataset_description": "This dataset provides monthly totals of a US airline passengers from 1949 to 1960. This dataset is taken from an inbuilt dataset of R called AirPassengers.",
+    "notebook_url": "https://www.kaggle.com/code/bbergerud/bayesian-prophet-forecasting-airline-passengers/notebook",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

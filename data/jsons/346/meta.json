@@ -1,0 +1,21 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kaushiksuresh147/data-visualization-cheat-cheats-and-resources",
+        "https://www.kaggle.com/datasets/lorentzyeung/all-japanese-anime-titles-in-imdb",
+        "https://www.kaggle.com/datasets/kaushiksuresh147/top-10-cryptocurrencies-historical-dataset",
+        "https://www.kaggle.com/datasets/osama12bin/data-science-csv",
+        "https://www.kaggle.com/datasets/marcosmobajale/airbnbdta2019",
+        "https://www.kaggle.com/datasets/thedevastator/analyzing-hartford-real-estate-sales-over-730-da",
+        "https://www.kaggle.com/datasets/harshavardhan0022/phonpe-pulse-master"
+    ],
+    "dataset_description": "In this competition, you will predict sales for the thousands of product families sold at Favorita stores located in Ecuador. The training data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models.",
+    "notebook_url": "https://www.kaggle.com/code/risakashiwabara/eda-interactive-visualization-in-python",
+    "domain": "Business",
+    "help_data_file_names": [
+        "holidays_events.csv",
+        "oil.csv",
+        "stores.csv",
+        "train.csv",
+        "transactions.csv"
+    ]
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many records and features are included in the customer segmentation dataset?",
+        "answer": "The dataset contains 175,000 records and 21 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [10, 15],
+        "question": "What is the overall customer retention rate over a 12-month period?",
+        "answer": "The overall customer retention rate over 12 months is 52%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [21],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 87%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [26, 31],
+        "question": "How does customer retention vary across different RFM (Recency, Frequency, Monetary) segments?",
+        "answer": "Customers in the 'High Recency & High Frequency' segment retain at 70%, while the 'Low Recency & Low Frequency' group retains at 35%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [36, 42, 47],
+        "question": "What is the retention rate for customers who make frequent purchases versus occasional buyers?",
+        "answer": "Frequent buyers have a retention rate of 74%, while occasional buyers retain at 37%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [53, 60, 66, 71],
+        "question": "How do personalized promotions impact cohort retention?",
+        "answer": "Customers receiving personalized promotions retain at 22% higher rates than those who receive generic promotions.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [78],
+        "question": "Which customer segment has the highest long-term retention?",
+        "answer": "Customers who make repeat purchases within the first 45 days retain at 79%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [83, 89, 94],
+        "question": "What sequential purchasing patterns are observed among high-retention customers?",
+        "answer": "Customers who buy mobile phones often purchase accessories within 30 days, increasing retention by 18%.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [101, 107, 113, 119],
+        "question": "What insights can be derived from the cohort retention and sequential pattern analysis?",
+        "answer": "Retention rates decline by 30% after month 2, highlighting the need for early engagement. Sequential pattern analysis shows that bundling complementary products helps retain customers longer.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [126, 132, 138, 144],
+        "question": "How does customer retention compare year-over-year?",
+        "answer": "The retention rate improved by 11% over the past year, mainly due to improved cohort segmentation and sequential product recommendations.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    }
+]

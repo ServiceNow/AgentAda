@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/davedarshan/customer360insights",
+        "https://www.kaggle.com/datasets/patjob/sales-cycle-cohort-data",
+        "https://www.kaggle.com/datasets/zunorain/food-fi",
+        "https://www.kaggle.com/datasets/ilokabenneth/the-online-shopping-experience-of-different-genera",
+        "https://www.kaggle.com/datasets/sitaramaraju789/global-customer-demographics-and-registration-data"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/baruch100/marketing-cohort-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": [
+        "orders_log.csv",
+        "visits_log.csv"
+    ]
+}

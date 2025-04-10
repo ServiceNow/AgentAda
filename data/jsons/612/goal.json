@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the PageRank scores to understand web page connectivity and influence within a web graph.",
+    "persona": "A data scientist specializing in network analysis and graph theory with 7 years of experience, focusing on implementing PageRank algorithms to explore the interconnectedness and hierarchy of web pages to improve search engine results and web structure insights."
+}

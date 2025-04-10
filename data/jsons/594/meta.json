@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction"
+    ],
+    "dataset_description": "Bankruptcy data from the Taiwan Economic Journal for the years 1999–2009",
+    "notebook_url": "https://www.kaggle.com/code/marto24/bankruptcy-detection",
+    "domain": "Fraud",
+    "help_data_file_names": []
+}

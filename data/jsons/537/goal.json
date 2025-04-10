@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the frequency components and trends in the synthetic time series dataset.",
+    "persona": "A data analyst with expertise in time series analysis and wavelet decomposition, interested in extracting frequency components and trends from synthetic datasets for anomaly detection and pattern recognition."
+}

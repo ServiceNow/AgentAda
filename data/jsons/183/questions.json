@@ -1,0 +1,95 @@
+[
+    {
+        "cell_ids": [
+            6,
+            7,
+            8
+        ],
+        "question": "What is the format of the data in the u.data file?",
+        "answer": "The dataset is tab-separated and the columns are, respectively user, movie, rating, and timestamp.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           10, 11
+        ],
+        "question": "What is the range of values for the rating in the dataset?",
+         "answer": "The ratings are numerical without providing explicit ranges.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+           13, 14
+        ],
+        "question": "In the example of `last_skywalker`, what do the numbers 0.98, 0.9, and -0.9 represent?",
+        "answer": "They represent the degree to which the movie is science fiction, action, and old, respectively.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            22,
+            23
+        ],
+        "question": "What is the purpose of the `sigmoid_range` function in the `DotProductBias` model?",
+         "answer": "It is used to force the predictions to be between 0 and 5.5.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            35
+        ],
+        "question": "What do the movie biases represent?",
+         "answer": "They represent how much a user tends to like a movie even when the user is well matched to its latent factors.",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+    {
+        "cell_ids": [
+            36
+        ],
+        "question": "According to the model, which movies have the highest positive biases?",
+        "answer": "Titanic (1997), Schindler's List (1993), Shawshank Redemption, The (1994), Star Wars (1977), L.A. Confidential (1997)",
+        "task": "Feature Importance Ranking",
+        "skill": "Random Forest Importance"
+    },
+     {
+        "cell_ids": [
+            37
+        ],
+        "question": "What technique is used to find the most important underlying directions in a matrix?",
+        "answer": "Principal component analysis (PCA)",
+         "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [
+            40
+        ],
+          "question": "What is the purpose of the ` Embedding` layer in the dot product model?",
+        "answer": "The Embedding layer is used to index directly into a vector with an integer, but with derivative calculated the same as a matrix multiplication with a one-hot-encoded vector.",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+    {
+        "cell_ids": [
+            47
+        ],
+        "question": "What are the recommended sizes for the embedding matrices using the `get_emb_sz` function?",
+        "answer": "[(944, 74), (1665, 102)]",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            51,52
+        ],
+         "question": "What is a feedback loop in the context of a collaborative filtering system?",
+         "answer": "A feedback loop is when a small number of users influence the recommendations of the system, leading to more similar users joining the system, which further amplify the initial bias.",
+          "task": "Recommendation Systems",
+        "skill": "Deep Neural Networks"
+    }
+]

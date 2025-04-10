@@ -1,0 +1,4 @@
+{
+    "goal": "Conduct sentiment analysis on a collection of company news articles.",
+    "persona": "A data scientist specialized in natural language processing, with extensive experience in sentiment analysis using state-of-the-art models like BERT. They are focused on extracting meaningful insights from textual data to understand public sentiment trends and their impact on business strategies. Their interests include improving model accuracy and exploring the influence of textual nuances on sentiment prediction outcomes."
+}

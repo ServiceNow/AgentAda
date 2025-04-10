@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop"
+    ],
+    "dataset_description": "Deskdrop is an internal communications platform developed by CI&T, focused in companies using Google G Suite. Among other features, this platform allows companies employees to share relevant articles with their peers, and collaborate around them. ",
+    "notebook_url": "https://www.kaggle.com/code/gspmoreira/recommender-systems-in-python-101",
+    "domain": "Entertainment",
+    "help_data_file_names": ["users_interactions.csv"]
+}

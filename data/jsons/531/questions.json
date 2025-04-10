@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What is the total number of EEG samples in the dataset?",
+        "answer": "The dataset contains 8,500 EEG samples.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29, 46],
+        "question": "What is the sampling frequency of the EEG data used in the analysis?",
+        "answer": "The EEG data is sampled at 256 Hz.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [58, 72, 85],
+        "question": "How does wavelet decomposition assist in feature extraction for EEG signal classification?",
+        "answer": "Wavelet decomposition separates EEG signals into different frequency bands, aiding in the identification of meaningful patterns for classification.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [91, 104, 118, 131],
+        "question": "What insights can be gained by analyzing the wavelet coefficients of EEG signals?",
+        "answer": "Wavelet coefficients help reveal transient changes in brain activity, such as those associated with cognitive tasks or neurological disorders.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [143, 157],
+        "question": "How does multi-level wavelet decomposition enhance EEG signal denoising?",
+        "answer": "Multi-level decomposition isolates noise components in high-frequency bands, improving the clarity of important signal features.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [41, 60, 79, 98],
+        "question": "What role do low-frequency components play in EEG signal interpretation?",
+        "answer": "Low-frequency components represent long-term neural activity and are useful for analyzing brain states such as sleep or deep concentration.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [116, 129, 142],
+        "question": "How can wavelet energy distribution be used to differentiate between mental states?",
+        "answer": "Wavelet energy distribution across frequency bands can indicate cognitive load, emotional states, or neurological abnormalities.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [167, 179],
+        "question": "What happens when EEG signals are reconstructed using only low-frequency wavelet coefficients?",
+        "answer": "Reconstruction with low-frequency coefficients retains general trends but loses fine temporal details related to rapid neural oscillations.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [53, 71, 90],
+        "question": "How does wavelet-based feature selection improve EEG classification performance?",
+        "answer": "Selecting relevant wavelet features reduces dimensionality while preserving critical information, leading to more accurate EEG classification.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [105, 121, 138, 153],
+        "question": "How can wavelet decomposition be leveraged to detect abnormal EEG patterns associated with neurological disorders?",
+        "answer": "Wavelet decomposition highlights subtle signal anomalies in different frequency bands, enabling early detection of neurological abnormalities.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

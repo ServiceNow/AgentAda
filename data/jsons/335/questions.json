@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "How many job listings are included in the dataset?",
+        "answer": "The dataset contains 12,456 job listings.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [9, 12],
+        "question": "What are the key performance indicators (KPIs) used to analyze job postings in the dataset?",
+        "answer": "Key performance indicators include job demand by title, required skills, salary distribution, and industry trends.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [14],
+        "question": "Which job title appears most frequently in the dataset?",
+        "answer": "'Data Scientist' appears most frequently, accounting for 38% of job postings.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [16, 18],
+        "question": "Which programming language is the most in-demand for data-related jobs?",
+        "answer": "Python is the most in-demand programming language, appearing in 72% of job descriptions.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [19, 22],
+        "question": "What is the average salary for data science roles across all industries?",
+        "answer": "The average salary for data science roles across all industries is $112,500 per year.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [24],
+        "question": "How do salaries vary based on experience level?",
+        "answer": "Entry-level data science roles have an average salary of $85,000, while senior roles earn an average of $145,000.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [26, 28, 31],
+        "question": "What is the trend in data science job demand over the past five years?",
+        "answer": "Data science job demand has increased by 18% per year on average over the past five years.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [33],
+        "question": "Which industries have the highest number of job postings for data science roles?",
+        "answer": "The industries with the highest number of job postings include Technology, Finance, and Healthcare.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [35, 37, 39, 41],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Python remains the dominant programming language, demand for AI/ML expertise is rising, and remote job opportunities are increasing rapidly.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

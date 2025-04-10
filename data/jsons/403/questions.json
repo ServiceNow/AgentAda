@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many records and features are included in the marketing cohort analysis dataset?",
+        "answer": "The dataset contains 170,000 records and 19 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [14, 20],
+        "question": "What is the overall customer retention rate over a 12-month period?",
+        "answer": "The overall customer retention rate over 12 months is 58%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [25],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 87%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [31, 37],
+        "question": "How does customer retention vary across different marketing campaign channels?",
+        "answer": "Customers acquired via referral programs retain at 73%, while social media campaigns yield a 45% retention rate.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [43, 50, 56],
+        "question": "What is the retention rate for customers who make repeat purchases versus one-time buyers?",
+        "answer": "Repeat buyers have a retention rate of 80%, while one-time buyers retain at 34%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [62, 69, 75, 80],
+        "question": "How do personalized email campaigns impact cohort retention?",
+        "answer": "Customers who receive targeted email campaigns retain at 29% higher rates than those who receive generic promotions.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [86],
+        "question": "Which customer segment has the highest long-term retention?",
+        "answer": "Customers who engage with loyalty programs retain at 83%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [92, 98, 104],
+        "question": "What sequential purchasing patterns are observed among high-retention customers?",
+        "answer": "Customers who purchase fitness equipment tend to buy related accessories within 35 days, increasing retention by 21%.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [110, 116, 123, 129],
+        "question": "What insights can be derived from the cohort retention and sequential pattern analysis?",
+        "answer": "Retention rates drop by 28% after month 2, indicating the importance of follow-up engagement. Sequential analysis reveals that customers purchasing bundles tend to have a longer retention period.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    },
+    {
+        "cell_ids": [136, 143, 150, 157],
+        "question": "How does customer retention compare year-over-year?",
+        "answer": "The retention rate improved by 15% over the past year, largely due to refined marketing segmentation and sequential purchase strategies.",
+        "task": "Cohort Analysis",
+        "skill": "Sequential Pattern Mining"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of social networks?",
+        "answer": "The dataset represents a social network graph where nodes are individuals, and edges represent relationships or interactions between them.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the main attributes of the edges in the dataset?",
+        "answer": "The edges have attributes: Source, Target, Type, and weight, indicating the strength or frequency of interaction.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4, 5],
+        "question": "How many nodes and edges are there in the social network graph?",
+        "answer": "The graph contains 1,200 nodes and 4,500 edges.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "Which node has the highest degree in the network?",
+        "answer": "Node 102 has the highest degree, connecting to 45 other nodes.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What is the average clustering coefficient of the social network?",
+        "answer": "The average clustering coefficient of the network is 0.35.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [9, 10, 11],
+        "question": "Which node has the highest PageRank score, and what is the value?",
+        "answer": "Node 56 has the highest PageRank score of 0.075.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many connected components are in the social network graph?",
+        "answer": "The network has 4 connected components.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "The majority of edges have a weight of 1, with a maximum weight of 8 representing frequent interactions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of nodes has the highest weight, and what does it represent?",
+        "answer": "Nodes 102 and 203 have the highest weight of 8, representing 8 interactions between them.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the diameter of the social network graph?",
+        "answer": "The diameter of the graph is 6, indicating the longest shortest path between any two nodes.",
+        "task": "Network Analysis",
+        "skill": "PageRank"
+    }
+]

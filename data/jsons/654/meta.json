@@ -1,0 +1,19 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/irfanasrullah/groceries",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/rukenmissonnier/real-market-data",
+        "https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset",
+        "https://www.kaggle.com/datasets/alyelbadry/market-basket-optimization",
+        "https://www.kaggle.com/datasets/ginikachiomenukor/market-basket-dataset",
+        "https://www.kaggle.com/datasets/terminalgr/datasetofdatasets-124-1242024"
+    ],
+    "dataset_description": "The dataset for this competition is a relational set of files describing customers' orders over time. The goal of the competition is to predict which products will be in a user's next order. The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. For each user, we provide between 4 and 100 of their orders, with the sequence of products purchased in each order. We also provide the week and hour of day the order was placed, and a relative measure of time between orders. For more information, see the blog post accompanying its public release.",
+    "notebook_url": "https://www.kaggle.com/code/datatheque/association-rules-mining-market-basket-analysis",
+    "domain": "Retail",
+    "help_data_file_names": [
+        "order_products__prior.csv"
+    ]
+}

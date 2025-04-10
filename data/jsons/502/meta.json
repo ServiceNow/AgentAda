@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/konradb/tsdata-1"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/konradb/ts-0-the-basics",
+    "domain": "Science",
+    "help_data_file_names": []
+}

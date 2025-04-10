@@ -1,0 +1,20 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights",
+        "https://www.kaggle.com/datasets/shedai/retail-data-set",
+        "https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn",
+        "https://www.kaggle.com/datasets/suraj520/telecom-churn-dataset",
+        "https://www.kaggle.com/datasets/borhanitrash/telco-customer-churn",
+        "https://www.kaggle.com/datasets/kamaumunyori/income-prediction-dataset-us-20th-century-data",
+        "https://www.kaggle.com/datasets/mustafakeser4/bigquery-churn-dataset",
+        "https://www.kaggle.com/datasets/noir1112/e-commerce-customer-engagement",
+        "https://www.kaggle.com/datasets/ramisashararnidhi/mall-customer-csv",
+        "https://www.kaggle.com/datasets/bhavyajha04/telecust"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/harishchippa/customer-segmentation-lifetime-value-prediction",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

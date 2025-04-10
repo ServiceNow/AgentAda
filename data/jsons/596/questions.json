@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [32],
+        "question": "What dataset was used for Kendall's Tau correlation analysis?",
+        "answer": "The dataset consists of programming code snippets and their ranking based on execution efficiency and complexity.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [41, 49],
+        "question": "What preprocessing steps were performed before computing Kendall's Tau correlation?",
+        "answer": "The dataset was processed by ranking code snippets based on execution time, handling missing values, and normalizing performance scores.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [56],
+        "question": "Which two code performance metrics show the strongest positive Kendall's Tau correlation?",
+        "answer": "Execution speed and memory efficiency show the strongest positive Kendall's Tau correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [71, 79],
+        "question": "Which code complexity factor has the highest negative correlation with execution speed?",
+        "answer": "The number of nested loops has the highest negative correlation with execution speed.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [91, 99, 106],
+        "question": "What is the Kendall's Tau correlation coefficient between algorithm depth and execution time?",
+        "answer": "The Kendall's Tau correlation coefficient between algorithm depth and execution time is 0.65.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [118, 126],
+        "question": "How does Kendall's Tau correlation between function length and computational efficiency compare to other performance indicators?",
+        "answer": "The correlation between function length and computational efficiency is weaker than the correlation between memory usage and computational efficiency.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [138],
+        "question": "Which syntax feature shows the weakest correlation with overall code efficiency?",
+        "answer": "The number of comments in the code shows the weakest correlation with overall code efficiency.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [150, 158, 166, 174],
+        "question": "What does the Kendall's Tau correlation coefficient indicate about the relationship between indentation depth and execution performance?",
+        "answer": "The Kendall's Tau correlation coefficient indicates a moderate negative relationship, meaning deeper indentation is often associated with lower execution efficiency.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [185],
+        "question": "Which algorithmic parameter has the least correlation with runtime stability?",
+        "answer": "The number of function arguments has the least correlation with runtime stability.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [196, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Kendall's Tau correlation for analyzing programming efficiency?",
+        "answer": "Kendall's Tau correlation helped identify key coding factors, such as execution time and memory usage, as strong indicators of efficient programming practices.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    }
+]

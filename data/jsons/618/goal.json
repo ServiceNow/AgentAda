@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the structure and significance of sentences within a collection of tennis-related news articles using PageRank.",
+    "persona": "A data scientist specializing in natural language processing with 4 years of experience in applying graph-based algorithms to text data. Focused on improving text summarization techniques by leveraging advanced network analysis methods to enhance contextual relevance and coherence in summarizations. Passionate about sports data analysis, particularly interested in uncovering hidden narrative structures in sports journalism."
+}

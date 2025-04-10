@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shibumohapatra/house-price",
+        "https://www.kaggle.com/datasets/vishalkumbhar1997/california-housing-price-prediction-regression",
+        "https://www.kaggle.com/datasets/shortyrex/housing-csv",
+        "https://www.kaggle.com/datasets/ericamohadjei/trending-public-datasets",
+        "https://www.kaggle.com/datasets/fedesoriano/gender-pay-gap-dataset"
+    ],
+    "dataset_description": "Median house prices for California districts derived from the 1990 census.",
+    "notebook_url": "https://www.kaggle.com/code/teesh841/california-housing-prices-regression-analysis",
+    "domain": "Real Estate",
+    "help_data_file_names": []
+}

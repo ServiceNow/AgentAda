@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/arnabchaki/goodreads-best-books-ever"],
+    "dataset_description": "This is an attempt to figure out if books can be judged by the blurb or cover. I wanted to find out if the description of a book is indicative of the genre or the rating of the book. Or if the genre of a book can be figured out by looking at the cover.",
+    "notebook_url": "https://www.kaggle.com/code/larysakrasnova/relationship-between-the-rating-and-descriotion/notebook",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

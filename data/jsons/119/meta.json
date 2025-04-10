@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset"
+    ],
+    "dataset_description": "In this competition, you will predict sales for the thousands of product families sold at Favorita stores located in Ecuador. The training data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models.",
+    "notebook_url": "https://www.kaggle.com/code/karan842/store-sales-forecasting-eda-lstm",
+    "domain": "Retail",
+    "help_data_file_names": ["train.csv"]
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "What are the top three features that contribute the most variance after applying Kernel PCA?",
+        "answer": "The top three features contributing the most variance are gene expression level, mutation frequency, and protein interaction score.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [14, 19],
+        "question": "How does the first principal component differentiate between samples in the dataset?",
+        "answer": "The first principal component captures the variation in gene expression levels, effectively separating samples with high and low disease risk.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [27],
+        "question": "What is the percentage of variance explained by the first two principal components in this dataset?",
+        "answer": "The first two principal components explain 78% of the total variance in the dataset.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [36, 41],
+        "question": "What is the relationship between the principal components and the classification labels in this dataset?",
+        "answer": "The principal components show a strong separation between disease-positive and disease-negative samples.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [53, 57, 63],
+        "question": "Which class in the dataset shows the highest variance along the second principal component?",
+        "answer": "The class representing high-risk patients shows the highest variance along the second principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [72, 78],
+        "question": "How do the principal components correlate with the numerical features in the dataset?",
+        "answer": "The first principal component is strongly correlated with gene mutation frequency and protein interaction density.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [86],
+        "question": "What is the effect of Kernel PCA on the class distribution of the dataset?",
+        "answer": "Kernel PCA increases the separability of classes by mapping them into a higher-dimensional space, improving clustering within the dataset.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [98, 104, 109, 113],
+        "question": "What are the characteristics of the dataset samples that contribute most to the first principal component?",
+        "answer": "Samples with high values in genetic mutation rates and protein expression levels contribute most to the first principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [125],
+        "question": "Which feature has the least influence on the principal components after Kernel PCA transformation?",
+        "answer": "The sample age variable has the least influence on the principal components after transformation.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [138, 143, 148, 154],
+        "question": "What conclusion can be drawn about the importance of non-linear relationships in the dataset after Kernel PCA?",
+        "answer": "Kernel PCA reveals non-linear relationships between gene expression levels and disease severity, which were not captured in the original feature space.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    }
+]

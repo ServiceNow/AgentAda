@@ -1,0 +1,88 @@
+[
+    {
+        "cell_ids": [
+            4
+        ],
+        "question": "How many rows and columns are present in the customer dataset?",
+        "answer": "(200, 5)",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5
+        ],
+         "question": "What is the data type of each column in the customer dataset?",
+        "answer": "int64(4), object(1)",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            6
+        ],
+        "question": "Are there any null values in the customer dataset?",
+        "answer": "CustomerID                0\nGender                    0\nAge                       0\nAnnual Income (k$)        0\nSpending Score (1-100)    0\ndtype: int64",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            10
+        ],
+        "question": "What does WCSS stand for?",
+        "answer": "Within Clusters Sum of Squares",
+        "task": "Customer Segmentation",
+        "skill": "K-means Clustering"
+    },
+    {
+        "cell_ids": [
+            12
+        ],
+        "question": "Based on the elbow method, what is the suggested optimum number of clusters for this dataset using Age and Spending Score?",
+        "answer": "Not Directly available in text, need to look at the plot (we can infer from the notebook that is 4)",
+        "task": "Customer Segmentation",
+         "skill": "K-means Clustering"
+    },
+     {
+        "cell_ids": [
+            12
+        ],
+        "question": "Based on the elbow method, what is the suggested optimum number of clusters for this dataset using Annual Income and Spending Score?",
+        "answer": "Not Directly available in text, need to look at the plot (we can infer from the notebook that is 5)",
+         "task": "Customer Segmentation",
+        "skill": "K-means Clustering"
+    },
+    {
+       "cell_ids": [11],
+       "question": "What is the label of the first data point based on the k-means algorithm?",
+       "answer": "[4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4\n 3 4 3 4 3 4 1 4 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1\n 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1\n 1 1 1 1 1 1 1 1 1 1 1 1 2 0 2 1 2 0 2 0 2 1 2 0 2 0 2 0 2 0 2 1 2 0 2 0 2\n 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0\n 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2]",
+       "task":"Customer Segmentation",
+       "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids":[12],
+      "question":"What is the silhouette score for this clustering?",
+      "answer":"0.44428597560893024",
+       "task": "Customer Segmentation",
+        "skill": "K-means Clustering"
+    },
+    {
+        "cell_ids": [
+            12
+        ],
+        "question": "How many customer groups are formed after applying K-Means?",
+        "answer": "5",
+         "task": "Customer Segmentation",
+        "skill": "K-means Clustering"
+    },
+    {
+        "cell_ids": [
+            14
+        ],
+         "question": "According to the radar chart, which customer type has the highest spending score?",
+        "answer": "Type 3",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

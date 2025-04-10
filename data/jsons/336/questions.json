@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "How many customer support tickets are included in the dataset?",
+        "answer": "The dataset contains 12,000 customer support tickets.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [9, 12],
+        "question": "What are the key performance indicators (KPIs) used to analyze customer support tickets?",
+        "answer": "Key performance indicators include Ticket Status, Ticket Priority, Response Time, and Resolution Rate.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [14],
+        "question": "Which ticket priority level appears most frequently in the dataset?",
+        "answer": "'Medium' priority tickets are the most frequent, accounting for 45% of the tickets.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [16, 18],
+        "question": "Which category of tickets has the highest resolution rate?",
+        "answer": "Technical Support tickets have the highest resolution rate at 87%.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [19, 22],
+        "question": "What is the average response time for customer support tickets?",
+        "answer": "The average response time is 3.5 hours.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [24],
+        "question": "How does response time vary across ticket priority levels?",
+        "answer": "High-priority tickets have an average response time of 1.2 hours, while low-priority tickets take 6.8 hours on average.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [26, 28, 31],
+        "question": "What is the trend of ticket resolution rates over time?",
+        "answer": "Resolution rates have improved by 10% over the past year due to enhanced customer support processes.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [33],
+        "question": "Which customer segment submits the highest number of tickets?",
+        "answer": "Enterprise customers submit the highest number of support tickets, accounting for 60% of all cases.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [35, 37, 39, 41],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Tickets with lower priority tend to take significantly longer to resolve, while automation in response systems has reduced response times over time.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

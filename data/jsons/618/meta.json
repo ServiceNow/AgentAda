@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/gauravduttakiit/reports"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/staefff/extractive-text-summarization-with-pagerank",
+    "domain": "Sports",
+    "help_data_file_names": []
+}

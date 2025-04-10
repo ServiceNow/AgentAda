@@ -1,0 +1,26 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/amaanansari09/top-100-songs",
+        "https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset",
+        "https://www.kaggle.com/datasets/akhileshgulati/spotify-playlist",
+        "https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset",
+        "https://www.kaggle.com/datasets/travisdaws/spotify-tracks-acoustic-features",
+        "https://www.kaggle.com/datasets/mohamedhamad21/spotify-tracks-dataset",
+        "https://www.kaggle.com/datasets/asaniczka/movie-identification-dataset-800-movies",
+        "https://www.kaggle.com/datasets/kanishkbansalajm/recommendationsystemspotify",
+        "https://www.kaggle.com/datasets/thedevastator/streaming-activity-dataset",
+        "https://www.kaggle.com/datasets/olegfostenko/spotify-1-3-million-tracks-10-features",
+        "https://www.kaggle.com/datasets/ziriantahirli/million-song-data-analysis-2",
+        "https://www.kaggle.com/datasets/osvaldopereira/sua-msica-recommendation-system",
+        "https://www.kaggle.com/datasets/muhammedzohaibanwer/spotify-songs-dataset",
+        "https://www.kaggle.com/datasets/mohamedjamyl/music-recommendation-system-using-spotify-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/streaming-activity-and-scrobble-features",
+        "https://www.kaggle.com/datasets/eric27n/kexp-fm-song-plays",
+        "https://www.kaggle.com/datasets/yusufadeoye/spotify-songs-dataset",
+        "https://www.kaggle.com/datasets/renukaoladhri/spotify-songs"
+    ],
+    "dataset_description": "I am basically a HUGE fan of music ( mostly French rap though with some exceptions but I love music ). And someday , while browsing stuff on Internet , I found the Spotify's API . I knew I had to use it when I found out you could get information like danceability about your favorite songs just with their id's.",
+    "notebook_url": "https://www.kaggle.com/code/vishweshsalodkar/spotify-recommendation-system",
+    "domain": "Music",
+    "help_data_file_names": []
+}

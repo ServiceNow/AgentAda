@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset",
+        "https://www.kaggle.com/datasets/kaushikswaroop/tv-shows-association-rule-learning",
+        "https://www.kaggle.com/datasets/earthian/grocery-dataset"
+    ],
+    "dataset_description": "The dataset is specially curated for Association Rule Learning using **Apriori and Eclat **using Python to predict Shopping Behavior.",
+    "notebook_url": "https://www.kaggle.com/code/sasakitetsuya/association-rule-apriori-algorithm",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and items in the dataset, and how does this impact the scale of the recommendation system?",
+      "answer": "The dataset contains 15,000 users and 7,000 items, forming a medium-sized matrix for collaborative filtering.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the sparsity level of the user-item matrix, and how does this affect the challenges in generating recommendations?",
+      "answer": "The user-item matrix is 97% sparse, which complicates the task of identifying overlaps in user preferences.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 6, 8],
+      "question": "What is the average number of items rated per user, and how does this influence the personalization of recommendations?",
+      "answer": "On average, users rate 10 items, providing a moderate amount of data for developing personalized recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 12, 14],
+      "question": "Which items receive the most ratings, and how can these be utilized to engage new users in the system?",
+      "answer": "Popular items like 'Item A' and 'Item B' receive the most ratings, making them suitable for initial recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [16, 18],
+      "question": "What is the distribution of ratings in the dataset, and how does it affect the diversity of recommendations?",
+      "answer": "Ratings are skewed towards higher values, particularly 4 and 5 stars, potentially leading to a bias towards popular items.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [20, 22, 25],
+      "question": "What trends are observed in user preferences across different categories, and how can this guide targeted recommendations?",
+      "answer": "Users consistently prefer categories like 'Electronics' and 'Home Appliances', which can inform category-specific recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [27, 30, 33, 36],
+      "question": "What temporal patterns in item popularity are observed, and how can they improve the recommendation system?",
+      "answer": "Items like 'Seasonal Gadget' gain popularity during holidays, suggesting the importance of time-aware recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [38, 40],
+      "question": "How do the preferences of users who rate niche items overlap with general user preferences, and how can this guide recommendations?",
+      "answer": "Users who rate niche items often share preferences for popular items in overlapping categories, aiding in cross-category recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [42, 45, 47],
+      "question": "What insights can be drawn from the ratings of users who are highly active in the system?",
+      "answer": "Highly active users provide detailed rating patterns that can be used to refine recommendations for less active users.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [48, 50, 53, 56],
+      "question": "What strategies are employed to mitigate the cold-start problem for new items or users in the dataset?",
+      "answer": "The system recommends popular items and leverages category-based filters to provide initial recommendations for new users and items.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    }
+  ]
+  

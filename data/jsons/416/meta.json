@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/devinanzelmo/uspto-explainable-ai-validation-index",
+        "https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images",
+        "https://www.kaggle.com/datasets/seshurajup/uspto-whoosh-reloaded-2-7-5-patched",
+        "https://www.kaggle.com/datasets/raphaelwallsberger/xai-drilling-dataset",
+        "https://www.kaggle.com/datasets/teesoong/customer-churn-with-explainable-ai",
+        "https://www.kaggle.com/datasets/ankushpanday1/heart-attack-in-youth-vs-adult-in-americastate",
+        "https://www.kaggle.com/datasets/harshivchandra/explainable-ai-for-soil-fertility-prediction",
+        "https://www.kaggle.com/datasets/claytonmiller/building-energy-benchmarking-using-cityscale-data",
+        "https://www.kaggle.com/datasets/qianglijonas/imagenet11",
+        "https://www.kaggle.com/datasets/ravidussilva/real-ai-art",
+        "https://www.kaggle.com/datasets/kirtandelwadia/corporate-credit-rating-with-financial-ratios",
+        "https://www.kaggle.com/datasets/qianglijonas/explainable-ai-imagenet-12",
+        "https://www.kaggle.com/datasets/jmerle/uspto-explainable-ai-reformatted-patent-data",
+        "https://www.kaggle.com/datasets/lukechugh/best-alzheimer-mri-dataset-99-accuracy",
+        "https://www.kaggle.com/datasets/kaggleaccount2112/explained-ai-articles-in-arxiv-dataset",
+        "https://www.kaggle.com/datasets/teesoong/nlp-tweet-sentiment-analysis",
+        "https://www.kaggle.com/datasets/raki21/uspto-full-error-corrected",
+        "https://www.kaggle.com/datasets/trainingdatapro/llm-dataset",
+        "https://www.kaggle.com/datasets/sakibapon/banglasarc",
+        "https://www.kaggle.com/datasets/jmerle/uspto-explainable-ai-full-search-index"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/nrsamal/explainable-ai",
+    "domain": "Innovation",
+    "help_data_file_names": []
+}

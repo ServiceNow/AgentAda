@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/syedmubarak/netflix-dataset-latest-2021",
+        "https://www.kaggle.com/datasets/muqarrishzaib/tmdb-10000-movies-dataset",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/shriyasingh900/netflix-dataset",
+        "https://www.kaggle.com/datasets/osvaldopereira/sua-msica-recommendation-system",
+        "https://www.kaggle.com/datasets/luisheitorribeiro/netflix-movie-ratings"
+    ],
+    "dataset_description": "Netflix held the Netflix Prize open competition for the best algorithm to predict user ratings for films. The grand prize was $1,000,000 and was won by BellKor's Pragmatic Chaos team. This is the dataset that was used in that competition.",
+    "notebook_url": "https://www.kaggle.com/code/jieyima/netflix-recommendation-collaborative-filtering",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

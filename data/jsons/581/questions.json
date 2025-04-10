@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [16],
+        "question": "What dataset was used for Pearson correlation analysis?",
+        "answer": "The dataset consists of house prices, including property features and neighborhood attributes.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [25, 32],
+        "question": "What preprocessing steps were performed before computing Pearson correlation?",
+        "answer": "The dataset was cleaned by handling missing values, normalizing numerical features, and encoding categorical variables such as location and property type.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [39],
+        "question": "Which two property features show the strongest positive correlation?",
+        "answer": "House size (square footage) and number of bedrooms show the strongest positive correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [54, 61],
+        "question": "Which factor has the highest negative correlation with property price?",
+        "answer": "Distance from the city center has the highest negative correlation with property price.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [73, 81, 87],
+        "question": "What is the Pearson correlation coefficient between lot size and house price?",
+        "answer": "The Pearson correlation coefficient between lot size and house price is 0.68.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [98, 106],
+        "question": "How does Pearson correlation between house age and market value compare to other variables?",
+        "answer": "The correlation between house age and market value is negative but weaker than the correlation between property size and market value.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [118],
+        "question": "Which property feature shows the weakest correlation with house price?",
+        "answer": "The number of fireplaces shows the weakest correlation with house price.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [130, 137, 145, 153],
+        "question": "What does the Pearson correlation coefficient indicate about the relationship between school district rating and house price?",
+        "answer": "The Pearson correlation coefficient indicates a strong positive relationship, meaning higher school district ratings are associated with higher house prices.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [164],
+        "question": "Which neighborhood characteristic has the least correlation with property value?",
+        "answer": "Proximity to parks has the least correlation with property value.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [175, 183, 192, 199],
+        "question": "What conclusions were drawn about the effectiveness of Pearson correlation for analyzing house prices?",
+        "answer": "Pearson correlation identified key property attributes such as size, location, and neighborhood quality as strong predictors of house prices.",
+        "task": "Correlation Analysis",
+        "skill": "Pearson Correlation"
+    }
+]

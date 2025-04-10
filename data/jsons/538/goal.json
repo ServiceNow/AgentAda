@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze and decompose the airline passenger data to understand trend, seasonality, and anomalies.",
+    "persona": "A time series analyst with extensive experience in aviation data, focused on uncovering patterns and trends to assist in forecasting and strategic planning. This expert is proficient in advanced methods such as wavelet decomposition and is interested in applying these techniques to improve understanding of historical passenger data, aiding airline operations and strategic decisions."
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze EEG time series data to enhance seizure detection and classification through wavelet decomposition.",
+    "persona": "A data scientist with a background in biomedical engineering and 7 years of experience in signal processing, dedicated to improving diagnostic tools for neurological disorders. They are focused on applying advanced techniques like wavelet decomposition to identify patterns and anomalies in EEG data for enhanced clinical insights."
+}

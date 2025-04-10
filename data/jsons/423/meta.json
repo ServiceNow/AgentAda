@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ptdevsecops/intelligent-monitor",
+        "https://www.kaggle.com/datasets/khushipitroda/uci-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/adithya44/anomaly-detection-isolation-forest-visualization",
+    "domain": "Health",
+    "help_data_file_names": []
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze and forecast demand trends using historical data with seasonal patterns.",
+    "persona": "A data analyst with 3 years of experience in retail analytics, specializing in demand forecasting and trend analysis. Their goal is to provide actionable insights to optimize inventory levels and improve sales strategies based on historical demand patterns and future forecasts. They are interested in understanding consumer behavior, identifying seasonal influences, and utilizing advanced forecasting techniques like LSTM models to predict future demands."
+}

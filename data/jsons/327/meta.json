@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/yusukemikami/gpt3-condenced-prompt-style",
+        "https://www.kaggle.com/datasets/patricklford/language"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mervetorkan/association-rules-with-python",
+    "domain": "Technology",
+    "help_data_file_names": []
+}

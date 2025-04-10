@@ -1,0 +1,21 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kaushiksuresh147/data-visualization-cheat-cheats-and-resources",
+        "https://www.kaggle.com/datasets/kingabzpro/pakistan-engineers-data",
+        "https://www.kaggle.com/datasets/kingabzpro/world-vaccine-progress",
+        "https://www.kaggle.com/datasets/kenjee/z-unlocked-challenge-1-data-visualization",
+        "https://www.kaggle.com/datasets/sureshmecad/plotly-dashboard-healthcare",
+        "https://www.kaggle.com/datasets/imharshkashyap/iris-flower-visualization-using-python",
+        "https://www.kaggle.com/datasets/die9origephit/methane-emissions-dataset",
+        "https://www.kaggle.com/datasets/anzalitiwari/ecommerce-clothes-web-performance",
+        "https://www.kaggle.com/datasets/jhalls/accident-data",
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset",
+        "https://www.kaggle.com/datasets/shafiirajabu/supermarket-inventory-dataset",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/types-carz",
+        "https://www.kaggle.com/datasets/patricklford/underway-pco-and-ocean-data-rv-j-clark-ross"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/ashrayshetty108/interactive-data-visualization-in-plotly",
+    "domain": "Design",
+    "help_data_file_names": []
+}

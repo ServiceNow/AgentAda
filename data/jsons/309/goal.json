@@ -1,0 +1,4 @@
+{
+    "goal": "Identify frequently purchased items and strong association rules from the transaction data.",
+    "persona": "A data analyst with a background in retail analytics, having 4 years of experience in analyzing transaction data to improve inventory management and marketing strategies. They are proficient in association rule mining and interested in uncovering purchasing patterns to enhance product bundling and promotions."
+}

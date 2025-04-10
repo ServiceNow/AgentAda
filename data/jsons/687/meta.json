@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/apoorvwatsky/bangalore-accident-data"
+    ],
+    "dataset_description": "Grey Spot Dataset by Intel contains JSON files on monthly data collected by Collision Avoidance System installed in buses and has mapping of data on imminent collisions in areas in the city of Bangalore",
+    "notebook_url": "https://www.kaggle.com/code/supratimhaldar/bangalore-road-accidents-basic-data-analysis",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

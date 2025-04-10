@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and books in the dataset, and how does this determine the size of the recommendation system?",
+      "answer": "The dataset contains 30,000 users and 15,000 books, forming a moderately large user-item matrix.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of the user-book matrix is filled with ratings, and how does this sparsity affect recommendations?",
+      "answer": "The matrix is 98% sparse, posing challenges for generating accurate recommendations due to limited overlap in ratings.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7],
+      "question": "What is the average number of books rated per user, and how does this help in understanding user preferences?",
+      "answer": "Each user rates an average of 10 books, providing limited data for building detailed preference profiles.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [8, 11],
+      "question": "Which books are the most frequently rated, and how can these books be leveraged to engage new users?",
+      "answer": "Popular books like 'To Kill a Mockingbird' and '1984' are frequently rated and can be used as initial recommendations for new users.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [13, 16],
+      "question": "What is the distribution of book ratings in the dataset, and how does this affect the diversity of recommendations?",
+      "answer": "Ratings are heavily skewed towards 4 and 5 stars, which could bias recommendations towards popular books.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [18, 21],
+      "question": "What trends in user preferences for book genres are observed, and how can this guide personalized recommendations?",
+      "answer": "Users frequently rate books in genres like 'Fiction' and 'Mystery', indicating strong preferences that can shape personalized recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [23, 25],
+      "question": "What patterns are observed in the popularity of books over time, and how can these trends enhance the recommendation system?",
+      "answer": "Books like 'The Great Gatsby' show consistent popularity over time, while others peak seasonally, suggesting the value of time-sensitive recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [27, 30],
+      "question": "What insights can be drawn from users who rate books across multiple genres?",
+      "answer": "Users who rate books across genres like 'Romance' and 'Fantasy' exhibit broader preferences, which can be used for cross-genre recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [31, 34],
+      "question": "What is the impact of highly rated books on overall user engagement, based on their frequency of ratings?",
+      "answer": "Highly rated books like 'Pride and Prejudice' drive greater user engagement, as they are rated by a significant portion of users.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [36, 39],
+      "question": "What strategies are employed to recommend less popular books with limited ratings to users?",
+      "answer": "Books with limited ratings are suggested to users who have rated similar niche books, leveraging overlap in preferences.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    }
+  ]
+  

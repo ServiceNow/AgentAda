@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 730 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [25, 37],
+        "question": "What is the mean value of the time series data?",
+        "answer": "The mean value of the time series data is 255.6.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [41, 58, 72],
+        "question": "What seasonal patterns can be observed in the dataset?",
+        "answer": "The dataset exhibits a strong seasonal pattern with peaks occurring in summer months.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [85, 94, 106, 118],
+        "question": "How does the trend component behave over time?",
+        "answer": "The trend component shows a steady increase over time, with minor fluctuations.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [122, 135],
+        "question": "What percentage of the total variation is captured by the trend component?",
+        "answer": "The trend component explains approximately 70% of the total variation.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [149, 159, 171],
+        "question": "Which time periods exhibit the highest seasonal influence?",
+        "answer": "The highest seasonal influence is observed in June and December.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [178, 183, 195],
+        "question": "How much variability remains unexplained after decomposition?",
+        "answer": "Around 15% of the dataset’s variability remains unexplained.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [164, 175, 186],
+        "question": "What insight does the trend component provide?",
+        "answer": "The trend component highlights a long-term upward movement with periodic dips.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [191, 197],
+        "question": "Which year had the most significant deviation from the trend?",
+        "answer": "The year 2021 showed the most significant deviation, likely due to external factors.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [200],
+        "question": "What are the key takeaways from the seasonal-trend decomposition?",
+        "answer": "The decomposition reveals a strong seasonal cycle, an increasing trend, and moderate random variations.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

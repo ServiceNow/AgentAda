@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers",
+        "https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn",
+        "https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset",
+        "https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction",
+        "https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset",
+        "https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers",
+        "https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction",
+        "https://www.kaggle.com/datasets/rangalamahesh/bank-churn",
+        "https://www.kaggle.com/datasets/anandshaw2001/customer-churn-dataset",
+        "https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn",
+        "https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset",
+        "https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3",
+        "https://www.kaggle.com/datasets/rashadrmammadov/customer-churn-dataset",
+        "https://www.kaggle.com/datasets/ahmedgaitani/customer-churn-prediction-dataset",
+        "https://www.kaggle.com/datasets/sandiledesmondmfazi/bank-customer-churn",
+        "https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners",
+        "https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data",
+        "https://www.kaggle.com/datasets/gauravduttakiit/jobathon-march-2022",
+        "https://www.kaggle.com/datasets/mahmoudshaheen1134/telecom-churn-clean-dataset",
+        "https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113"
+    ],
+    "dataset_description": "Predict customer churn in a bank",
+    "notebook_url": "https://www.kaggle.com/code/hidzqialbaqir/churn-for-bank-customer",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze and handle missing data using KNN imputation techniques.",
+    "persona": "A data analyst with expertise in statistical analysis and data processing, currently focused on improving data quality through advanced imputation methods. They are skilled in utilizing machine learning techniques for imputation and are interested in maintaining the integrity of data structures during preprocessing. They aim to enhance data accuracy for better predictive modeling and insightful analysis."
+}

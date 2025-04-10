@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/atulanandjha/lfwpeople"
+    ],
+    "dataset_description": "Welcome to Labeled Faces in the Wild, a database of face photographs designed for studying the problem of unconstrained face recognition. The data set contains more than 13,000 images of faces collected from the web. Each face has been labeled with the name of the person pictured. 1680 of the people pictured have two or more distinct photos in the data set. The only constraint on these faces is that they were detected by the Viola-Jones face detector.",
+    "notebook_url": "https://www.kaggle.com/code/gustavoliberado/understanding-pca-applying-it-for-compression",
+    "domain": "Humanities",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

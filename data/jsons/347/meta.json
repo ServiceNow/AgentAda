@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset",
+        "https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress"
+    ],
+    "dataset_description": "Since its first identification in December 2019 in Wuhan, China, this virus has taken the world by storm. Some people prefer to look at the positive side of things and how this pandemic has brought forward several positive changes. However, the collateral damages produced by this pandemic cannot be overlooked. From the Economic impact to Mental Health impacts, this pandemic period will arguably be one of the hardest periods we'll encounter in our lives. That being said, we always have to arm ourselves with hope. With the new advancements in the vaccine studies, let's hope to wake up from this nightmare as soon as possible.",
+    "notebook_url": "https://www.kaggle.com/code/pawanbhandarkar/covid-19-eda-man-vs-disease",
+    "domain": "Health",
+    "help_data_file_names": [
+        "worldometer_coronavirus_daily_data",
+        "vaccination.csv"
+    ]
+}

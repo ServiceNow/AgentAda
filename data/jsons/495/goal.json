@@ -1,0 +1,4 @@
+{
+    "goal": "Identify patterns and anomalies in web server log data to enhance system diagnostics.",
+    "persona": "A seasoned data analyst working in IT security, with a background in analyzing server performance logs. The analyst has over 7 years of experience, specializing in identifying anomalous patterns and optimizing server performance. They are interested in leveraging advanced clustering techniques to uncover hidden insights and improve system resilience against potential security threats."
+}

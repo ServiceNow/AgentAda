@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "How many records and features are included in the dataset used for Shapley value attribution?",
+        "answer": "The dataset contains 105,000 records and 20 features.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [15, 23],
+        "question": "Which feature contributes the most to the model's prediction based on Shapley values?",
+        "answer": "The feature 'Customer Interaction Score' has the highest contribution with a mean absolute Shapley value of 0.52.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [30],
+        "question": "What is the average Shapley value for the feature 'Advertising Budget'?",
+        "answer": "The average Shapley value for 'Advertising Budget' is 0.39.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [36, 44],
+        "question": "Which feature has the highest negative impact on model predictions?",
+        "answer": "The feature 'Product Return Rate' has the most negative influence with an average Shapley value of -0.48.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [50, 59, 66],
+        "question": "How do Shapley values differ across different customer acquisition channels?",
+        "answer": "Referral-based acquisitions have the highest Shapley impact at 0.51, while organic traffic has a lower impact at 0.30.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [73, 81, 88, 95],
+        "question": "Which customer segment benefits the most from targeted advertising based on Shapley values?",
+        "answer": "Frequent buyers benefit the most from targeted ads, with an average Shapley value increase of 0.43.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [103],
+        "question": "How does feature importance change when comparing different machine learning models?",
+        "answer": "In a Random Forest model, 'Purchase Frequency' has the highest Shapley impact, whereas in a Neural Network model, 'Customer Engagement Level' is the dominant feature.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [110, 118, 127],
+        "question": "Which feature exhibits the most fluctuation in Shapley values across different customer behaviors?",
+        "answer": "'Session Length' shows the highest variability in its Shapley values, ranging from -0.22 to 0.56.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [134, 141, 148, 155],
+        "question": "What insights can be derived from Shapley value analysis in terms of purchase intent?",
+        "answer": "Customers who engage more with support services are more likely to convert, while long page load times negatively impact purchase intent.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [162, 170, 177, 185],
+        "question": "How do Shapley values differ for predicting customer lifetime value across regions?",
+        "answer": "Customers in North America show a higher impact from 'Brand Loyalty' (+0.42), whereas European customers are more influenced by 'Personalized Offers' (+0.49).",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    }
+]

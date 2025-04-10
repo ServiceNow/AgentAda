@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many customers are included in the dataset?",
+        "answer": "The dataset contains 2,240 unique customers.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [9, 12],
+        "question": "What are the key performance indicators (KPIs) used in customer segmentation analysis?",
+        "answer": "Key performance indicators include Age Group Distribution, Education Level, Marital Status, and Total Spending.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "Which age group has the highest number of customers?",
+        "answer": "The age group 40s has the highest number of customers.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [18, 20],
+        "question": "What is the average spending per customer in the dataset?",
+        "answer": "The average spending per customer is $1,250.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [22, 24],
+        "question": "How does marital status impact total spending?",
+        "answer": "Married customers tend to spend 15% more on average compared to single customers.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [27, 29, 31],
+        "question": "What is the trend of customer spending across different education levels?",
+        "answer": "Customers with higher education levels tend to spend more, with PhD holders having the highest average spending.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [34],
+        "question": "Which factor has the highest impact on total customer spending?",
+        "answer": "Income level has the highest impact on total spending, followed by household size.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [37, 40, 42],
+        "question": "What is the relationship between customer age and spending behavior?",
+        "answer": "Customers in the 30s and 40s age groups show the highest spending, while those under 20 have the lowest.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [45, 48, 50, 53],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Customers with higher education and income tend to have higher spending, while age distribution shows peak spending in middle age groups.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

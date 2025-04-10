@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/soalr-wind"
+    ],
+    "dataset_description": "In this competition, you are provided a time-series forecasting problem centered around restaurant visitors.",
+    "notebook_url": "https://www.kaggle.com/code/johannesss/forecasting-using-lstm-from-keras",
+    "domain": "Business",
+    "help_data_file_names": [
+        "air_reserve.csv",
+        "air_store_info.csv",
+        "data_info.csv",
+        "hpg_reserve.csv",
+        "hpg_store_info.csv",
+        "store_id_relation.csv"
+    ]
+}

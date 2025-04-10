@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/elikplim/forest-fires-data-set",
+        "https://www.kaggle.com/datasets/sumitm004/forest-fire-area",
+        "https://www.kaggle.com/datasets/shubhammeshram579/forest-fires-prediction",
+        "https://www.kaggle.com/datasets/jacksonkwong/forest-fires"
+    ],
+    "dataset_description": "Your challenge in this competition is to forecast microbusiness activity across the United States, as measured by the density of microbusinesses in US counties. Microbusinesses are often too small or too new to show up in traditional economic data sources, but microbusiness activity may be correlated with other economic indicators of general interest.",
+    "notebook_url": "https://www.kaggle.com/code/mikhailkhomenko1/spatial-regression-analysis-approach",
+    "domain": "Business",
+    "help_data_file_names": [
+        "train.csv",
+        "census_starters.csv",
+        "md-counties.csv"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/cameronmacpherson/ml-course-ku-3927220000-p003",
+        "https://www.kaggle.com/datasets/priyarammohan/simple-interest",
+        "https://www.kaggle.com/datasets/welcomehere/my-article-data",
+        "https://www.kaggle.com/datasets/georgedurrant/nfl-qb-shoulder-injuries",
+        "https://www.kaggle.com/datasets/mehtamala/institute-graduation-rate-prediction-dataset"
+    ],
+    "dataset_description": "This Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.",
+    "notebook_url": "https://www.kaggle.com/code/ahmetokanyilmaz/cohort-analysis-with-python",
+    "domain": "Education",
+    "help_data_file_names": []
+}

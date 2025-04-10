@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/gianinamariapetrascu/gender-inequality-index",
+        "https://www.kaggle.com/datasets/gianinamariapetrascu/gender-pay-gap-europe-2010-2021",
+        "https://www.kaggle.com/datasets/motraore/worldcountries-geojson"
+    ],
+    "dataset_description": "This dataset aims to shed light on gender equality 👩‍⚕️👨‍⚕️ in the European labor market by examining the gender pay gap across multiple countries and industries from 2010 to 2021. In addition to pay gap data, the dataset includes information on GDP per capita, urbanization rates, and economic sector breakdowns, providing a comprehensive view of the factors that may contribute to gender-based pay disparities. This dataset aims to increase understanding of gender equity issues in the workplace and to promote efforts towards creating more inclusive and equitable societies.",
+    "notebook_url": "https://www.kaggle.com/code/gianinamariapetrascu/spatial-regression-gender-inequality-index",
+    "domain": "Geosocial",
+    "help_data_file_names": [
+        "Gender_Inequality_Index.csv",
+        "worldcountries_geojson.geojson"
+    ]
+}

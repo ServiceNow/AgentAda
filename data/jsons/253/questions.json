@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this support RFM-based segmentation?",
+      "answer": "The dataset contains 15,000 customers, providing a robust foundation for RFM analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of recency values among customers, and how do these values impact segmentation?",
+      "answer": "Recency values range from 1 to 365 days, with lower values indicating more recent customer activity.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5, 6],
+      "question": "What is the frequency distribution of customer transactions, and what does it reveal about engagement levels?",
+      "answer": "Transaction frequencies range from 1 to 120, with the majority of customers having fewer than 30 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [7, 8],
+      "question": "What is the range of monetary values in the dataset, and what trends can be observed among high-value customers?",
+      "answer": "Monetary values range from $25 to $50,000, with high-value customers showing frequent transactions and low recency.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [9, 10, 11],
+      "question": "What are the RFM score ranges used in the analysis, and how do they categorize customer behaviors?",
+      "answer": "RFM scores range from 111 (low) to 555 (high), with higher scores indicating loyal, high-value customers.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [12, 13],
+      "question": "How many customer segments were identified through RFM analysis, and what are their defining characteristics?",
+      "answer": "Five segments were identified, including high-frequency high-monetary customers and high-recency low-frequency customers.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [14, 15, 16],
+      "question": "Which RFM feature contributed the most to the segmentation, and what insights does it provide?",
+      "answer": "Frequency and monetary values were the most significant contributors, identifying customers with consistent engagement and spending patterns.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [17, 18],
+      "question": "What strategies can be tailored for each customer segment to maximize retention and profitability?",
+      "answer": "Strategies include loyalty rewards for high RFM scorers and targeted promotions for reactivating low RFM scorers.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [19, 20, 21],
+      "question": "How do the behaviors of high RFM scorers differ from low RFM scorers in terms of purchasing patterns?",
+      "answer": "High RFM scorers exhibit frequent, high-value purchases, while low RFM scorers have infrequent and low-value transactions.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [22, 23, 24, 25],
+      "question": "What insights from the RFM segmentation can inform marketing and engagement strategies for each segment?",
+      "answer": "Insights include prioritizing loyalty programs for high-value customers and crafting re-engagement campaigns for low-value segments.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    }
+  ]
+  

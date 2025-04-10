@@ -1,0 +1,120 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "question": "What is the average number of items purchased per transaction?",
+        "answer": "The notebook does not directly calculate the average number of items purchased per transaction. It provides a list of items bought in each transaction but no aggregation or average.",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+    ],
+    "question": "What is the most frequent item purchased overall?",
+    "answer": "The notebook does not calculate the most frequently purchased item overall, it is just presenting raw transactions as a list.",
+         "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+ {
+    "cell_ids": [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+    ],
+    "question": "How many unique transactions are present in the dataset?",
+    "answer":"The number of unique transactions is not calculated, it is derived as the length of data in a loop.",
+     "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+  },
+ {
+        "cell_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "question": "What are the top 5 items that are most often purchased together?",
+        "answer": "The notebook does not provide the top 5 most frequently purchased items, but rather generates all rules. The top itemset based on support is from the frequent itemsets generated in cell 5: (herb & pepper, ground beef)",
+         "task": "Association Rule Mining",
+         "skill": "Apriori Algorithm"
+   },
+    {
+       "cell_ids": [
+          1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+       "question": "What items are frequently purchased on weekends?",
+         "answer":"This notebook does not include a time variable, so it cannot determine items purchased on weekends.",
+         "task":"Association Rule Mining",
+         "skill": "Apriori Algorithm"
+    },
+   {
+      "cell_ids":[3, 5, 9],
+        "question": "What is the minimum support used in the Apriori implementation?",
+        "answer":"The minimum support used in the Apriori implementation is 0.003, as specified in the code in cell 9.",
+     "task": "Association Rule Mining",
+         "skill":"Apriori Algorithm"
+   },
+     {
+        "cell_ids": [3, 5, 9],
+        "question":"What is the minimum confidence used in the Apriori implementation?",
+         "answer":"The minimum confidence used in the Apriori implementation is 0.2, as specified in the code in cell 9.",
+        "task": "Association Rule Mining",
+        "skill": "Apriori Algorithm"
+    },
+  {
+     "cell_ids":[3, 5, 9],
+      "question": "What is the minimum lift used in the Apriori implementation?",
+      "answer": "The minimum lift value is set to 3 in cell 9.",
+        "task": "Association Rule Mining",
+       "skill": "Apriori Algorithm"
+    },
+    {
+      "cell_ids":[3, 5, 9],
+       "question": "What is the minimum length of an itemset used in the Apriori implementation?",
+      "answer":"The minimum length of an itemset is 2 as specified in cell 9.",
+     "task": "Association Rule Mining",
+       "skill":"Apriori Algorithm"
+    },
+   {
+        "cell_ids": [
+          6,7
+        ],
+      "question":"What type of data structure is used to represent transactions before applying the Apriori algorithm?",
+        "answer": "The transactions are represented as a list of lists, where each inner list corresponds to a transaction containing items bought in that transaction, which is generated using a loop.",
+         "task":"Basic Data Analysis",
+        "skill":"Basic Data Analysis"
+   }
+]

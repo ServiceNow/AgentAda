@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze sentiment in a Twitter dataset and evaluate the performance of a Naive Bayes model.",
+    "persona": "A data scientist with 3 years of experience in natural language processing, focused on sentiment analysis and machine learning model evaluation to enhance text classification accuracy in social media platforms."
+}

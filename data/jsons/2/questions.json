@@ -1,0 +1,99 @@
+[
+    {
+        "cell_ids": [
+            1,
+            3
+        ],
+        "question": "What is the size of the dataset used for sentiment analysis?",
+        "answer": "The dataset contains 50,000 entries.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+        "question": "What are the two classes in the sentiment dataset?",
+        "answer": "The two classes are 'positive' and 'negative'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            7
+        ],
+        "question": "What is the distribution of positive and negative sentiments in the dataset?",
+        "answer": "Each class (positive and negative) has 25,000 entries, making the dataset balanced.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            9,
+            10
+        ],
+        "question": "What preprocessing steps are performed on the text data?",
+        "answer": "Preprocessing includes lowercasing, removal of special characters, and stopword removal.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            12,
+            13
+        ],
+        "question": "What accuracy does the BERT model achieve on the validation set?",
+        "answer": "The BERT model achieves 91% accuracy on the validation set.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "What is the confusion matrix for the BERT model?",
+        "answer": "The confusion matrix shows 11,200 true positives, 10,800 true negatives, and minimal misclassifications.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            18
+        ],
+        "question": "What are the key hyperparameters used for the BERT model training?",
+        "answer": "Key hyperparameters include a learning rate of 3e-5, a batch size of 16, and 4 training epochs.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            20,
+            21
+        ],
+        "question": "What metrics were used to evaluate the BERT model?",
+        "answer": "The metrics used include accuracy, precision, recall, and F1-score.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            23,
+            24
+        ],
+        "question": "What is the most important feature identified for sentiment classification?",
+        "answer": "The most important feature is the presence of sentiment-laden words like 'great' or 'terrible'.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            26
+        ],
+        "question": "How does BERT handle words with multiple meanings in sentiment analysis?",
+        "answer": "BERT uses contextual embeddings to disambiguate words based on surrounding context.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    }
+]

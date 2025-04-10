@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/nikhilraj7700/amazon-employee-reviews",
+        "https://www.kaggle.com/datasets/prasad22/job-vacancy-tweets",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/sunny9999/taiwan-104-career-jd"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/prena0808/data-science-job-analysis-and-insights-using-nlp",
+    "domain": "Business",
+    "help_data_file_names": []
+}

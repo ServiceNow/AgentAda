@@ -1,0 +1,23 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/analystmasters/earn-your-6-figure-prize",
+        "https://www.kaggle.com/datasets/oracledevrel/formulaaihackathon2022",
+        "https://www.kaggle.com/datasets/ryleymcconkey/ml-turbulence-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/imdb-movie-metadata-multivariate-analysis",
+        "https://www.kaggle.com/datasets/mustafaadelibrahim/comparing-search-interest-with-google-trends",
+        "https://www.kaggle.com/datasets/patricklford/life-but-not-as-we-know-it",
+        "https://www.kaggle.com/datasets/mehrdadnaderi/predict-1-profit-on-btc-30m-candles-at-bainance"
+    ],
+    "dataset_description": "Hourly weather data for 30 US & Canadian Cities ",
+    "notebook_url": "https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series",
+    "domain": "Sports",
+    "help_data_file_names": [
+        "city_attributes.csv",
+        "humidity.csv",
+        "pressure.csv",
+        "temperature.csv",
+        "weather_description.csv",
+        "wind_direction.csv",
+        "wind_speed.csv"
+    ]
+}

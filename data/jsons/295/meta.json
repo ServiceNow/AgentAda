@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori",
+        "https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba",
+        "https://www.kaggle.com/datasets/shazadudwadia/supermarket",
+        "https://www.kaggle.com/datasets/irfanasrullah/groceries",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/martinzzm/beer-and-diaper",
+        "https://www.kaggle.com/datasets/tanyadayanand/market-basket-analysis",
+        "https://www.kaggle.com/datasets/rishantenis/market-basket-analysisapriori-algorithm",
+        "https://www.kaggle.com/datasets/newshuntkannada/dataset-for-apriori-and-fp-growth-algorithm",
+        "https://www.kaggle.com/datasets/earthian/grocery-dataset",
+        "https://www.kaggle.com/datasets/jeffheaton/characteristics-that-favor-freqitemset-algorithms",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset",
+        "https://www.kaggle.com/datasets/kaushikswaroop/tv-shows-association-rule-learning",
+        "https://www.kaggle.com/datasets/honeypatel2158/grocery-store-dataset-for-data-mining",
+        "https://www.kaggle.com/datasets/gaurav9712/movies12",
+        "https://www.kaggle.com/datasets/akalyasubramanian/dataset-for-apriori-algorithm-frequent-itemsets",
+        "https://www.kaggle.com/datasets/gaurav9712/book123",
+        "https://www.kaggle.com/datasets/akalyasubramanian/dataset-for-apriori-algorithm",
+        "https://www.kaggle.com/datasets/gaurav9712/groceries"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/ahmedaliomar/apriori-algorithm",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

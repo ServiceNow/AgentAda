@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "How many records and features are included in the cohort analysis dataset?",
+        "answer": "The dataset contains 185,000 records and 21 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [14, 20],
+        "question": "What is the average customer retention rate over a 6-month period?",
+        "answer": "The average retention rate over six months is 51%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [24],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 84%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [29, 35],
+        "question": "How does customer retention vary across different marketing channels?",
+        "answer": "Customers acquired through email campaigns retain at 58%, while social media referrals retain at 40%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [40, 46, 51],
+        "question": "What is the retention rate for high-value customers compared to low-value customers?",
+        "answer": "High-value customers retain at a rate of 68%, whereas low-value customers retain at 30%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [56, 62, 67, 73],
+        "question": "How do seasonal promotions impact cohort retention?",
+        "answer": "Customers acquired through seasonal promotions have a retention rate of 44%, whereas non-promotional customers retain at 57%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [79],
+        "question": "Which customer segment has the highest long-term retention?",
+        "answer": "Customers who engage with customer support retain at 74%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [85, 90, 95],
+        "question": "How does personalized content impact customer retention?",
+        "answer": "Customers receiving personalized content have a 20% higher retention rate compared to those who do not.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [101, 107, 113, 119],
+        "question": "What insights can be derived from the cohort retention analysis?",
+        "answer": "Retention rates decline sharply after month 2, with a 25% drop between months 2 and 3, indicating that engagement efforts should be intensified early.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [126, 132, 138, 144],
+        "question": "How does customer retention compare year over year?",
+        "answer": "The retention rate improved by 12% in the last year, primarily due to enhanced loyalty programs and better customer engagement strategies.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/soheiltehranipour/it-customer-churn"
+    ],
+    "dataset_description": "The bank customer churn dataset is a commonly used dataset for predicting customer churn in the banking industry. It contains information on bank customers who either left the bank or continue to be a customer. The dataset includes the following attributes.",
+    "notebook_url": "https://www.kaggle.com/code/loneranger4u/chrun-analysis",
+    "domain": "Business",
+    "help_data_file_names": []
+}

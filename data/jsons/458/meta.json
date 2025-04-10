@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/craigchilvers/opioids-in-the-us-cdc-drug-overdose-deaths"
+    ],
+    "dataset_description": "This is a data set on the Opioid Epidemic that is designed to be easy to use. I took information from the Center for Disease Control and Prevention (CDC)'s Injury Center, which seems to me to be the most straight-forward data to analyse. I've joined this with data from the United States Census Bureau which I obtained via Wikipedia. I've selected the features that I think are most likely to affect trends in Overdose deaths. This allows us to analyse the trend in Overdose deaths over time, and how this correlates with each State's population, population density, income level, and level of economic inequality.",
+    "notebook_url": "https://www.kaggle.com/code/craigchilvers/us-drug-overdose-spatial-autocorrelation",
+    "domain": "Geosoacial",
+    "help_data_file_names": []
+}

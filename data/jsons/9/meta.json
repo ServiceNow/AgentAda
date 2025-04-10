@@ -1,0 +1,9 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news"],
+    "dataset_description": "This dataset (FinancialPhraseBank) contains the sentiments for financial news headlines from the perspective of a retail investor.",
+    "notebook_url": "https://www.kaggle.com/code/adarshbiradar/sentiment-analysis-using-bert/notebook",
+    "domain": "Finance",
+    "help_data_file_names": []
+}
+
+

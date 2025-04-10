@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aakaashjois/jester-collaborative-filtering-dataset",
+        "https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop",
+        "https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies",
+        "https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset",
+        "https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews",
+        "https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset",
+        "https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/abdallahwagih/books-dataset",
+        "https://www.kaggle.com/datasets/dineshjatav/hybrid-recommender-collaborative-filtering",
+        "https://www.kaggle.com/datasets/valakhorasani/best-books-of-the-decade-2020s",
+        "https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k",
+        "https://www.kaggle.com/datasets/syedmubarak/netflix-dataset-latest-2021",
+        "https://www.kaggle.com/datasets/ayushimishra2809/movielens-dataset",
+        "https://www.kaggle.com/datasets/manashjyotiborah/top-10000-movies-hosted-on-tmdb",
+        "https://www.kaggle.com/datasets/crawford/jester-online-joke-recommender",
+        "https://www.kaggle.com/datasets/saadaziz1985/bachelors-or-higher-degree-data-of-usa",
+        "https://www.kaggle.com/datasets/vikashrajluhaniwal/jester-17m-jokes-ratings-dataset",
+        "https://www.kaggle.com/datasets/khushipitroda/airline-reviews",
+        "https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek",
+        "https://www.kaggle.com/datasets/pncnmnp/the-indian-movie-database"
+    ],
+    "dataset_description": "During the last few decades, with the rise of Youtube, Amazon, Netflix and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys. In a very general way, recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy or anything else depending on industries).",
+    "notebook_url": "https://www.kaggle.com/code/rishitarya/collaborative-filtering",
+    "domain": "Entertainment",
+    "help_data_file_names": ["Users.csv", "Ratings.csv"]
+}

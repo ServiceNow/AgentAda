@@ -1,0 +1,4 @@
+{
+    "goal": "Evaluate the causal effect of treatment on the outcome using propensity score matching to ensure covariate balance.",
+    "persona": "A data scientist with 7 years of experience in healthcare analytics, specialized in causal inference and propensity score methods. They are focused on accurately estimating treatment effects to inform clinical decision-making and improve patient outcomes. They have a strong interest in reducing bias in observational studies and enhancing the validity of causal conclusions."
+}

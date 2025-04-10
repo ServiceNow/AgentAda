@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the iris dataset to understand feature importance and variance through dimensionality reduction.",
+    "persona": "A data scientist with 3 years of experience in machine learning, specializing in dimensionality reduction techniques, focused on analyzing plant datasets to improve species classification accuracy and visualization."
+}

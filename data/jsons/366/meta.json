@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mhadani/predictive-maintenance-aircraft-engine",
+        "https://www.kaggle.com/datasets/maternusherold/pred-maintanance-data",
+        "https://www.kaggle.com/datasets/vamshikreddy/pm-dataset",
+        "https://www.kaggle.com/datasets/aadharshviswanath/aircraft-sensor-and-engine-performance",
+        "https://www.kaggle.com/datasets/warcoder/electrical-wiring-faults-detection",
+        "https://www.kaggle.com/datasets/cnrieiit/adversarial-machine-learning-dataset",
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset",
+        "https://www.kaggle.com/datasets/ritikmakhija/predictive-maintenance-dataset",
+        "https://www.kaggle.com/datasets/absinthepapi/aviation"
+    ],
+    "dataset_description": "Holding simalted aircraft engine data, already prepared and ready for use",
+    "notebook_url": "https://www.kaggle.com/code/gtrajkovski/aircraft-predictive-maintenance",
+    "domain": "Engineering",
+    "help_data_file_names": ["train.csv"]
+}

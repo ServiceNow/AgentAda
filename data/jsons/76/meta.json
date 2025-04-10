@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset"],
+    "dataset_description": "From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.",
+    "notebook_url": "https://www.kaggle.com/code/neelkudu28/covid-19-visualizations-predictions-forecasting/notebook",
+    "domain": "Health",
+    "help_data_file_names": []
+}

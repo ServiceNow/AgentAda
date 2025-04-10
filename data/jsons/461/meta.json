@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales"
+    ],
+    "dataset_description": "The UK government amassed traffic data from 2000 and 2016, recording over 1.6 million accidents in the process and making this one of the most comprehensive traffic data sets out there. It's a huge picture of a country undergoing change.",
+    "notebook_url": "https://www.kaggle.com/code/weddou/uk-traffic-data-patterns-throught-space-time",
+    "domain": "Transportation",
+    "help_data_file_names": [
+        "accidents_2005_to_2007.csv",
+        "accidents_2009_to_2011.csv",
+        "accidents_2012_to_2014.csv"
+    ]
+}

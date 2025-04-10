@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What is the total number of observations in the time series dataset?",
+        "answer": "The dataset contains 1,825 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29, 45],
+        "question": "What is the frequency of the recorded time series data?",
+        "answer": "The data is recorded on a monthly basis.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [58, 73, 90],
+        "question": "What is the dominant trend observed in the time series data?",
+        "answer": "The data shows a gradual increasing trend with periodic dips.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [104, 118, 133, 147],
+        "question": "How does the seasonal component vary throughout the year?",
+        "answer": "The seasonal component shows peaks in mid-year and troughs at the start and end of the year.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [156, 168, 181],
+        "question": "What is the percentage contribution of seasonality to the overall variability?",
+        "answer": "Seasonality contributes approximately 35% to the total variability of the data.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [17, 33, 49],
+        "question": "What is the median value of the time series data?",
+        "answer": "The median value of the dataset is approximately 50.2 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [64, 79, 97, 112],
+        "question": "Are there any visible cyclical patterns in the time series data?",
+        "answer": "Yes, in addition to seasonal patterns, the data exhibits multi-year cycles likely influenced by external factors.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [125, 140, 153],
+        "question": "Has there been a significant change in trend after a specific time period?",
+        "answer": "Yes, the trend shows a stronger upward slope after 2015 compared to earlier years.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [175, 189, 198],
+        "question": "Are there any anomalies in the dataset that deviate significantly from the expected pattern?",
+        "answer": "Yes, unusual dips are observed in 2010 and 2017, which do not align with the typical seasonal fluctuations.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [23, 38, 54],
+        "question": "What is the standard deviation of the recorded time series data?",
+        "answer": "The standard deviation of the dataset is approximately 8.4 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 30,000 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [25, 39],
+        "question": "What is the standard deviation of the time series values?",
+        "answer": "The standard deviation of the time series values is approximately 0.023.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [58, 72, 85],
+        "question": "How does wavelet decomposition help in identifying cyclical patterns in the data?",
+        "answer": "Wavelet decomposition separates the signal into different frequency components, making it easier to identify cyclical patterns at different time scales.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [101, 113, 127, 138],
+        "question": "What insights can be drawn from comparing wavelet coefficients across different decomposition levels?",
+        "answer": "Lower-level coefficients highlight dominant trends, while higher-level coefficients reveal transient changes and anomalies.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [153, 164, 178],
+        "question": "How does the energy distribution of wavelet coefficients change across decomposition levels?",
+        "answer": "Energy is concentrated in the lower levels representing main trends, while higher levels capture finer variations with lower energy.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [37, 50, 63, 79],
+        "question": "How does the wavelet-transformed signal compare with the original time series?",
+        "answer": "The wavelet-transformed signal removes noise and enhances prominent patterns while retaining essential characteristics of the original series.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [98, 116, 129],
+        "question": "How do high-frequency components contribute to signal reconstruction?",
+        "answer": "High-frequency components capture rapid fluctuations and noise, which can be selectively retained or removed in reconstruction.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [142, 159, 171, 186],
+        "question": "How does modifying wavelet thresholding affect the reconstructed time series?",
+        "answer": "Increasing thresholding smooths the signal by removing noise, while lower thresholds retain more details and potential outliers.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [189, 198],
+        "question": "What trends can be identified by analyzing wavelet coefficients over time?",
+        "answer": "Wavelet coefficients reveal seasonal patterns, structural breaks, and anomalies that may not be visible in the raw data.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [47, 66, 81],
+        "question": "How do decomposed wavelet components correlate with external features in the dataset?",
+        "answer": "Decomposed components exhibit strong correlations with external influences such as market trends, temperature variations, or financial cycles.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

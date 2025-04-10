@@ -1,0 +1,23 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/varsharam/walmart-sales-dataset-of-45stores",
+        "https://www.kaggle.com/datasets/ujjwalchowdhury/walmartcleaned",
+        "https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast",
+        "https://www.kaggle.com/datasets/souravprakashai/walmart-condensed-sales-data",
+        "https://www.kaggle.com/datasets/bharatkumar0925/walmart-store-sales",
+        "https://www.kaggle.com/datasets/jeckinkchheda/walmart-stores-weekly-sales-forecasting",
+        "https://www.kaggle.com/datasets/abubakkar123/walmart-stores-weekly-sales-forecasting",
+        "https://www.kaggle.com/datasets/shriyasingh900/walmart-dataset",
+        "https://www.kaggle.com/datasets/anggundwilestari/walmart-sales-forecasting",
+        "https://www.kaggle.com/datasets/uelitonviana/walmart",
+        "https://www.kaggle.com/datasets/tarique7/m5-small-sample-dataset-whole-series"
+    ],
+    "dataset_description": "In the challenge, you are predicting item sales at stores in various locations for two 28-day time periods. Information about the data is found in the M5 Participants Guide.",
+    "notebook_url": "https://www.kaggle.com/code/ankitverma2010/walmart-sales-time-series-analysis",
+    "domain": "Retail",
+    "help_data_file_names": [
+        "sales_train_evaluation.csv",
+        "sales_train_validation.csv",
+        "calendar.csv"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/brendan45774/pokmon-index-database"
+    ],
+    "dataset_description": "This is a full list of every Pokémon from all 8 generations of the Pokémon series, along with their main stats.",
+    "notebook_url": "https://www.kaggle.com/code/brendan45774/topic-modeling-lda",
+    "domain": "Entertainment",
+    "help_data_file_names": [
+        "evolution.csv",
+        "moves.csv",
+        "typechart.csv"
+    ]
+}

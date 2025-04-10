@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze sentiment in Facebook comments to understand patterns and classification accuracy.",
+    "persona": "A data scientist with 3 years of experience in sentiment analysis, particularly skilled in using machine learning models to extract insights from social media data. They are focused on improving algorithm accuracy and understanding comment characteristics that affect sentiment prediction."
+}

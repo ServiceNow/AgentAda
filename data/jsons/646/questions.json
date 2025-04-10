@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What dataset was used for the stock market time series analysis?",
+        "answer": "The dataset contains historical stock prices from multiple companies over a 10-year period.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [28, 35],
+        "question": "What is the time range of the stock price data analyzed?",
+        "answer": "The dataset covers stock price data from January 2012 to December 2022.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [42],
+        "question": "Which stock showed the highest overall growth in the analyzed period?",
+        "answer": "Tesla (TSLA) exhibited the highest overall growth with a significant increase in stock value.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [53, 61],
+        "question": "What were the key seasonal trends observed in stock prices?",
+        "answer": "Stock prices generally surged during Q4, particularly around earnings reports and holiday sales.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [76, 83, 91],
+        "question": "How did stock market volatility change over time?",
+        "answer": "Market volatility increased significantly during economic downturns, particularly in 2020 during the COVID-19 pandemic.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [105, 112],
+        "question": "Which external macroeconomic factor had the strongest impact on stock prices?",
+        "answer": "Interest rate hikes had the strongest correlation with stock market declines, particularly in 2022.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [124, 132, 140],
+        "question": "What impact did major economic events have on stock market performance?",
+        "answer": "The 2020 COVID-19 crash and 2022 inflation crisis led to significant drops in stock prices across multiple sectors.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [152, 160],
+        "question": "What forecasting method was applied to predict stock price movements?",
+        "answer": "An LSTM-based model was used to predict stock price movements using historical trends.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [175, 183, 190],
+        "question": "What were the primary insights gained from the stock market time series analysis?",
+        "answer": "The analysis highlighted long-term bullish trends, periodic economic downturns, and the impact of macroeconomic policies.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [198, 200],
+        "question": "How accurate were the stock price predictions based on the time series model?",
+        "answer": "The LSTM model achieved an RMSE of 2.8%, indicating a reasonably accurate forecast.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

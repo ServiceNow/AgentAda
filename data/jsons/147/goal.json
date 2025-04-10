@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and understand patterns in credit card transactions to detect fraudulent activity.",
+    "persona": "A data scientist specializing in fraud detection, with extensive experience in analyzing large-scale financial datasets. They utilize advanced machine learning techniques and neural networks to uncover patterns indicative of fraudulent activity. With a focus on data imbalance challenges, they aim to enhance security measures and mitigate financial risks for credit card companies."
+}

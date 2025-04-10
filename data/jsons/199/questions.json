@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the main goal of this notebook?",
+         "answer": "To build a product recommendation system for e-commerce businesses.",
+         "task": "Recommendation Systems",
+         "skill": "Deep Neural Networks"
+    },
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What are the three parts of the recommendation system this notebook is designed around?",
+        "answer": "1. Product popularity based system for new customers, 2. Model-based collaborative filtering based on purchase history and ratings, 3. System for new websites without existing ratings",
+         "task": "Recommendation Systems",
+         "skill": "Deep Neural Networks"
+    },
+      {
+         "cell_ids": [
+            1
+        ],
+        "question": "What type of collaborative filtering is used in model II?",
+         "answer": "Model-based collaborative filtering.",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+  {
+        "cell_ids": [
+            1
+        ],
+          "question": "What is the recommendation system in Part I targeted at?",
+        "answer": "It is targeted at new customers, recommending the most popular products sold by a business.",
+         "task": "Recommendation Systems",
+        "skill": "Deep Neural Networks"
+    },
+   {
+         "cell_ids": [
+           3
+        ],
+          "question": "Which metric is used in collaborative filtering models in this notebook?",
+         "answer": "Cosine Similarity",
+          "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+     },
+    {
+        "cell_ids": [
+            5
+        ],
+        "question": "What does the `pivot_table` method do?",
+        "answer": "It creates a pivot table from the data, based on UserID, StockCode and Quantity.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+  {
+        "cell_ids": [
+            6
+        ],
+        "question": "What is used as input to the filtering?",
+         "answer": "The reviews of products are used to produce recommendation based on the similarity of reviews",
+          "task":"Recommendation Systems",
+        "skill": "Deep Neural Networks"
+    },
+     {
+         "cell_ids": [
+            13
+         ],
+        "question":"What does the variable X represents in part 3?",
+        "answer": "It represents the transpose of the utility matrix that we got from our pivot table.",
+          "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+      },
+ {
+        "cell_ids": [
+            13
+        ],
+       "question": "What is the use of singular value decomposition (SVD) algorithm in this notebook?",
+         "answer":"To decompose the user-item rating matrix into two smaller matrices.",
+         "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+   },
+   {
+      "cell_ids": [
+            16
+        ],
+        "question": "what does the code `recommend` method returns?",
+          "answer":"It returns a list of top 30 similar restaurants, then filters out duplicate values and returns top 10 results based on mean ratings.",
+          "task": "Recommendation Systems",
+        "skill": "Deep Neural Networks"
+    }
+]

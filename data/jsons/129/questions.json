@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1, 2],
+      "question": "What is the total number of claims in the medical provider dataset?",
+      "answer": "The dataset contains 200,000 claims.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [3, 4],
+      "question": "What percentage of claims in the dataset are fraudulent?",
+      "answer": "The percentage of fraudulent claims is 1.5%.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 6],
+      "question": "What is the average claim amount in the dataset?",
+      "answer": "The average claim amount is $5,000.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [7, 8],
+      "question": "What is the highest claim amount in the dataset?",
+      "answer": "The highest claim amount is $200,000.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [9, 10],
+      "question": "What is the lowest claim amount in the dataset?",
+      "answer": "The lowest claim amount is $100.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [11, 12],
+      "question": "Which features are identified as most important for detecting fraudulent claims?",
+      "answer": "Features such as 'Claim Duration', 'Provider Type', and 'Claim Amount' are most important.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [13, 14],
+      "question": "What is the accuracy of the Random Forest model in detecting fraudulent claims?",
+      "answer": "The Random Forest model achieves an accuracy of 98.7%.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [15, 16],
+      "question": "What is the precision score of the Random Forest model?",
+      "answer": "The precision score of the model is 90.5%.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [17, 18],
+      "question": "What is the recall score of the Random Forest model?",
+      "answer": "The recall score of the model is 88.3%.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    },
+    {
+      "cell_ids": [19, 20],
+      "question": "How does the Random Forest model address the class imbalance in the dataset?",
+      "answer": "The model applies class weighting to handle the imbalance between fraudulent and non-fraudulent claims.",
+      "task": "Fraud Detection",
+      "skill": "Random Forest"
+    }
+  ]
+  

@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs"],
+    "dataset_description": "High-quality financial data is expensive to acquire and is therefore rarely shared for free. Here I provide the full historical daily price and volume data for all US-based stocks and ETFs trading on the NYSE, NASDAQ, and NYSE MKT. It's one of the best datasets of its kind you can obtain. ",
+    "notebook_url": "https://www.kaggle.com/code/nageshsingh/stock-market-forecasting-arima/notebook",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

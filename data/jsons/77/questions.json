@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the general trend in the time series data over the observation period?",
+        "answer": "The data shows an increasing trend with regular seasonal variations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the total cumulative value observed in the dataset?",
+        "answer": "The total cumulative value observed in the dataset is 56,300 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What are the seasonal peaks identified in the dataset, and in which months do they occur?",
+        "answer": "Seasonal peaks occur annually in July and August.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the lowest recorded value in the dataset, and when did it occur?",
+        "answer": "The lowest recorded value is 720 units, observed in February 2018.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What are the forecasted values for the next quarter using the ARIMA model?",
+        "answer": "The forecasted values for the next quarter range from 1,050 to 1,300 units.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the analysis reveal about the rate of change in the time series data?",
+        "answer": "The rate of change is highest during the transition from spring to summer, with an average increase of 15%.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How do the forecasted values compare to seasonal averages in the dataset?",
+        "answer": "The forecasted values align with the seasonal averages, showing similar peaks and dips.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Are there any outliers in the dataset, and how were they addressed?",
+        "answer": "The dataset contains two outliers in December 2019, which were removed during preprocessing.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What conclusions can be drawn about the dataset's seasonality and growth trends?",
+        "answer": "The dataset exhibits consistent seasonal patterns with a steady growth trend over the years.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What is the expected impact of seasonal variations on future values in the dataset?",
+        "answer": "Seasonal variations are expected to continue influencing future values, with higher peaks in mid-year and lower dips at the start of the year.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [13],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 365 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [29, 44],
+        "question": "What is the mean value of the target variable over the entire time period?",
+        "answer": "The mean value of the target variable is 87.6.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [58, 72, 85],
+        "question": "What seasonal trends can be identified in the dataset?",
+        "answer": "The dataset exhibits strong seasonal trends with peaks in the summer months and declines in winter.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [92, 106, 118, 125],
+        "question": "How does the overall trend of the data behave over the recorded time period?",
+        "answer": "The overall trend shows a gradual increase from 2018 to 2021, followed by stabilization in 2022.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [137, 149],
+        "question": "How much of the total variance is explained by the seasonal component?",
+        "answer": "Approximately 65% of the total variance is explained by the seasonal component.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [154, 168, 177],
+        "question": "Which quarters exhibit the most significant seasonal effects?",
+        "answer": "Q2 and Q3 show the strongest seasonal effects, while Q4 exhibits the weakest seasonal pattern.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [182, 191, 198],
+        "question": "What percentage of the time series variation remains unexplained after decomposition?",
+        "answer": "Roughly 18% of the variation remains unexplained after decomposition.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [116, 132, 159],
+        "question": "How has the trend component evolved in the last three years?",
+        "answer": "The trend has shown steady growth since 2020, with minor fluctuations in 2022 and 2023.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [171, 185],
+        "question": "Which year exhibited the sharpest change in the trend component?",
+        "answer": "The sharpest change occurred in 2021, with a 30% increase compared to the previous year.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    },
+    {
+        "cell_ids": [196],
+        "question": "What key insights can be drawn from the seasonal-trend decomposition?",
+        "answer": "The decomposition highlights a dominant seasonal pattern, steady trend growth, and moderate residual noise.",
+        "task": "Time Series Decomposition",
+        "skill": "Seasonal-Trend Decomposition"
+    }
+]

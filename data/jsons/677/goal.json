@@ -1,0 +1,4 @@
+{
+    "goal": "To handle and analyze missing values in animal shelter datasets using various imputation techniques, focusing on the impact of MICE methodology.",
+    "persona": "An animal shelter data analyst with 3 years of experience in data cleaning and preprocessing, specializing in improving data quality for better decision-making and enhancing predictive accuracy. Passionate about data integrity and the application of statistical techniques to solve real-world problems in the animal welfare sector."
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What is the size of the IMDB dataset, and how are the sentiment labels distributed?",
+        "answer": "The dataset contains 50,000 reviews, with an equal distribution of 25,000 positive and 25,000 negative reviews.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+            4
+        ],
+        "question": "What preprocessing steps are performed on the reviews for sentiment analysis?",
+        "answer": "Steps include tokenizing reviews using the BERT tokenizer and padding sequences to a fixed length.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+        "question": "What is the maximum sequence length used during preprocessing, and why was it chosen?",
+        "answer": "The maximum sequence length is set to 128 to balance between preserving information and computational efficiency.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            7,
+            8
+        ],
+        "question": "What metrics are used to evaluate the performance of the BERT model?",
+        "answer": "Metrics include accuracy, precision, recall, and F1-score.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            9,
+            10
+        ],
+        "question": "What accuracy does the fine-tuned BERT model achieve on the test dataset?",
+        "answer": "The fine-tuned BERT model achieves an accuracy of 93% on the test dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            11,
+            12
+        ],
+        "question": "What are the most important features or words influencing the sentiment predictions?",
+        "answer": "Words like 'excellent', 'terrible', and 'amazing' have the highest influence on predictions.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            13,
+            14
+        ],
+        "question": "What are the common patterns observed in misclassified reviews?",
+        "answer": "Misclassified reviews often contain mixed sentiments or ambiguous language.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "How does the model's performance vary with reviews of different lengths?",
+        "answer": "The model performs well on medium-length reviews but struggles with very short or very long reviews.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            17,
+            18
+        ],
+        "question": "What is the impact of fine-tuning epochs on model accuracy?",
+        "answer": "The model achieves the best accuracy after 3 epochs of fine-tuning.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            19,
+            20
+        ],
+        "question": "What insights can be drawn about the overall sentiment distribution in the dataset?",
+        "answer": "The dataset is balanced, with an equal number of positive and negative reviews.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

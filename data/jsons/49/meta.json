@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/competitions/titanic"],
+    "dataset_description": "The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.",
+    "notebook_url": "https://www.kaggle.com/code/georgyzubkov/titanic-simple-eda-machine-learning/notebook",
+    "domain": "Disaster Analysis",
+    "help_data_file_names": ["train.csv"]
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Identify frequent itemsets and association rules in grocery transactions.",
+    "persona": "An experienced data analyst with a background in retail analytics, specializing in market basket analysis to uncover patterns in consumer purchasing behavior and optimize product placement strategies for grocery stores."
+}

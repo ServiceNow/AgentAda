@@ -1,0 +1,21 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kalacheva/london-bike-share-usage-dataset",
+        "https://www.kaggle.com/datasets/sudhanvahg/industrial-alarm-monitoring-dataset-2018-2024",
+        "https://www.kaggle.com/datasets/boyangs444/process-data-for-predictive-maintenance",
+        "https://www.kaggle.com/datasets/anseldsouza/water-pump-rul-predictive-maintenance",
+        "https://www.kaggle.com/datasets/akemail/blue-bike-boston-ma-bike-sharing-dataset",
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset",
+        "https://www.kaggle.com/datasets/datasetengineer/indfd-pm-dt",
+        "https://www.kaggle.com/datasets/samuelkamau/solar-data"
+    ],
+    "dataset_description": "This an example data source which can be used for Predictive Maintenance Model Building. It consists of the following data",
+    "notebook_url": "https://www.kaggle.com/code/amrsalahsalem/predictive-maintenance-time-series-forecasting",
+    "domain": "Maintenance",
+    "help_data_file_names": [
+        "PdM_errors.csv",
+        "PdM_failures.csv",
+        "PdM_machines.csv",
+        "PdM_maint.csv"
+    ]
+}

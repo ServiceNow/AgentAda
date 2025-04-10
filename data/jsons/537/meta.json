@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://github.com/ameybarapatre/WaveletNeuralNetwork/blob/master/dataset.csv"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/luckypen/wavelet-transform-for-timeseries-anomaly-detection",
+    "domain": null,
+    "help_data_file_names": []
+}

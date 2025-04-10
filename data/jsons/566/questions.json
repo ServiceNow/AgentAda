@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "What is the total number of samples in the dataset?",
+        "answer": "The dataset contains 10,000 samples.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14, 18],
+        "question": "What is the average value of the second numerical feature?",
+        "answer": "The average value of the second numerical feature is 4.91.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [26],
+        "question": "What preprocessing steps were performed before applying Kernel PCA?",
+        "answer": "The dataset was standardized, missing values were imputed, and categorical variables were converted into numerical values.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [37, 42],
+        "question": "How many principal components were retained for further analysis?",
+        "answer": "The first 15 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [53, 58, 63],
+        "question": "What proportion of variance is explained by the first three principal components?",
+        "answer": "The first three principal components explain 82% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [71, 76],
+        "question": "How does feature scaling impact the effectiveness of Kernel PCA?",
+        "answer": "Feature scaling ensures that all variables contribute equally to the transformation, preventing dominance by high-magnitude features.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [85],
+        "question": "What dataset was used in this analysis?",
+        "answer": "The dataset consists of synthetic data with non-linearly separable clusters.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [98, 103, 108, 114],
+        "question": "What visualization technique was used to analyze the transformed data after Kernel PCA?",
+        "answer": "A scatter plot of the first two principal components was used to visualize the data in reduced dimensions.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [126],
+        "question": "How does Kernel PCA help in feature selection?",
+        "answer": "It identifies the most important nonlinear transformations of the dataset, allowing for better feature representation and selection.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [138, 143, 148, 154],
+        "question": "What conclusions were drawn about the effectiveness of Kernel PCA in handling non-linearly separable data?",
+        "answer": "Kernel PCA successfully captured complex structures in the dataset, making it useful for dimensionality reduction in non-linear spaces.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    }
+]

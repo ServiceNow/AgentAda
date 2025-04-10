@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather",
+        "https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy",
+        "https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london",
+        "https://www.kaggle.com/datasets/govindaramsriram/energy-consumption-dataset-linear-regression",
+        "https://www.kaggle.com/datasets/thedevastator/240000-household-electricity-consumption-records",
+        "https://www.kaggle.com/datasets/arashnic/building-sites-power-consumption-dataset",
+        "https://www.kaggle.com/datasets/gauravduttakiit/forecast-energy-consumption",
+        "https://www.kaggle.com/datasets/irinachuchueva/russian-wholesale-electricity-market",
+        "https://www.kaggle.com/datasets/akhiljethwa/global-electricity-statistics",
+        "https://www.kaggle.com/datasets/arnavsmayan/smart-home-energy-usage-dataset",
+        "https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset",
+        "https://www.kaggle.com/datasets/pythonafroz/solar-powe-generation-data",
+        "https://www.kaggle.com/datasets/eugeniyosetrov/load-wind-and-solar-prices-in-hourly-resolution",
+        "https://www.kaggle.com/datasets/jonathandumas/liege-microgrid-open-data",
+        "https://www.kaggle.com/datasets/sarametawea/micro-gas-turbine-electrical-energy-prediction",
+        "https://www.kaggle.com/datasets/bushraqurban/global-urbanization-and-climate-metrics",
+        "https://www.kaggle.com/datasets/webdevbadger/short-term-energy-outlook-through-dec-2025",
+        "https://www.kaggle.com/datasets/arielcedola/solar-generation-and-demand-italy-20152016",
+        "https://www.kaggle.com/datasets/oakthyago/water-company-brazil",
+        "https://www.kaggle.com/datasets/francoisraucent/western-europe-power-consumption"
+    ],
+    "dataset_description": "To better follow the energy consumption, the government wants energy suppliers to install smart meters in every home in England, Wales and Scotland. There are more than 26 million homes for the energy suppliers to get to, with the goal of every home having a smart meter by 2020.",
+    "notebook_url": "https://www.kaggle.com/code/rheajgurung/energy-consumption-forecast",
+    "domain": "Energy",
+    "help_data_file_names": []
+}

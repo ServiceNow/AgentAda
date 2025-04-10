@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze weather patterns and trends to understand seasonal and long-term temperature changes.",
+    "persona": "A meteorological data analyst with a strong background in climate studies and statistical modeling, aiming to identify significant weather patterns, derive insights from historical weather data, and forecast future temperature trends. They are interested in understanding how climate change might impact local weather patterns and are adept in using ARIMA models for accurate forecasting."
+}

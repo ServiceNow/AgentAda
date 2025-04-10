@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/blastchar/telco-customer-churn"
+    ],
+    "dataset_description": "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.",
+    "notebook_url": "https://www.kaggle.com/code/ahmedshahriarsakib/churn-prediction-i-eda-statistical-analysis",
+    "domain": "Marketing",
+    "help_data_file_names": []
+}

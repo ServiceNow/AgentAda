@@ -1,0 +1,4 @@
+{
+    "goal": "Determine the accuracy and performance of a sentiment classification model on a tweet dataset.",
+    "persona": "A data scientist specialized in natural language processing, with 7 years of experience in sentiment analysis, aiming to enhance model accuracy for social media text analysis. Passionate about leveraging machine learning models to understand and predict public sentiment trends."
+}

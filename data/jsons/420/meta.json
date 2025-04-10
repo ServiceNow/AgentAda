@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://github.com/jakebenn/multi-touch-attribution-markov-chains/blob/master/simple_conversion_data.csv"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://github.com/jakebenn/multi-touch-attribution-markov-chains/blob/master/multi-touch-attribution.ipynb",
+    "domain": "Analytics",
+    "help_data_file_names": []
+}

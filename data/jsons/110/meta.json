@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset",
+        "https://www.kaggle.com/datasets/azharsaleem/advanced-saudi-arabian-aramco-stocks-dataset",
+        "https://www.kaggle.com/datasets/emirhanai/epxusd-binance-historical-data-for-ann",
+        "https://www.kaggle.com/datasets/alirezajavid1999/google-stock-2010-2023",
+        "https://www.kaggle.com/datasets/anirudhchauhan/climate-change-temperature-data",
+        "https://www.kaggle.com/datasets/atifmasih/wfp-rainfall-indicators-pakistan-1981-2024"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/ritesh7355/develop-lstm-models-for-time-series-forecasting",
+    "domain": "Science",
+    "help_data_file_names": []
+}

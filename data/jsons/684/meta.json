@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ritwikb3/heart-disease-statlog",
+        "https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated",
+        "https://www.kaggle.com/datasets/zeeshier/student-admission-records",
+        "https://www.kaggle.com/datasets/jamesleslie/titanic-cleaned-data",
+        "https://www.kaggle.com/datasets/paperxd/cleaned-life-expectancy-dataset",
+        "https://www.kaggle.com/datasets/heptapod/titanic",
+        "https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data",
+        "https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training",
+        "https://www.kaggle.com/datasets/mlomuscio/titanic-data-with-some-missing-values-removed",
+        "https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set",
+        "https://www.kaggle.com/datasets/akshayksingh/kidney-disease-dataset",
+        "https://www.kaggle.com/datasets/ankulsharma150/netflix-data-analysis",
+        "https://www.kaggle.com/datasets/xodeum/handling-of-missing-values-in-python",
+        "https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset",
+        "https://www.kaggle.com/datasets/uciml/autompg-dataset",
+        "https://www.kaggle.com/datasets/abdelrahmanemad594/football-players",
+        "https://www.kaggle.com/datasets/devsubhash/flipkart-mobiles-dataset",
+        "https://www.kaggle.com/datasets/altavish/boston-housing-dataset",
+        "https://www.kaggle.com/datasets/ahsen1330/us-police-shootings",
+        "https://www.kaggle.com/datasets/marius2303/medical-condition-prediction-dataset"
+    ],
+    "dataset_description": "Melbourne real estate is BOOMING. Can you find the insight or predict the next big trend to become a real estate mogul… or even harder, to snap up a reasonably priced 2-bedroom unit?",
+    "notebook_url": "https://www.kaggle.com/code/alexisbcook/missing-values",
+    "domain": "Housing",
+    "help_data_file_names": []
+}

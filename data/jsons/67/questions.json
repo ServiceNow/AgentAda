@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3, 4],
+        "question": "What trends can be observed in the electricity production data over the past 5 years?",
+        "answer": "The electricity production data shows a consistent upward trend with periodic seasonal peaks.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What is the average monthly electricity production in the dataset?",
+        "answer": "The average monthly electricity production is 12,450 MWh.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 7, 8],
+        "question": "What seasonal patterns can be identified in the electricity production data?",
+        "answer": "Seasonal peaks are observed during summer months, with consistent dips in winter.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "What is the highest recorded monthly electricity production in the dataset?",
+        "answer": "The highest recorded monthly electricity production is 15,230 MWh.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "What are the predicted electricity production values for the next 12 months?",
+        "answer": "The predicted values for the next 12 months range between 12,000 and 14,000 MWh, maintaining a seasonal pattern.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What does the residual analysis reveal about the ARIMA model's performance?",
+        "answer": "The residual analysis indicates no significant autocorrelation, suggesting the model fits the data well.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [15, 16, 17],
+        "question": "What are the key evaluation metrics for the ARIMA model, and what are their values?",
+        "answer": "The ARIMA model is evaluated using metrics such as MAE (250 MWh) and RMSE (320 MWh).",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [18, 19],
+        "question": "How do the forecasted electricity production values compare to the historical seasonal trends?",
+        "answer": "The forecasted values align closely with historical seasonal trends, showing peaks in summer and dips in winter.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [20],
+        "question": "What are the missing values or anomalies identified in the electricity production dataset?",
+        "answer": "The dataset contains missing values for two months in 2018 and three in 2019, which were imputed.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [21, 22, 23],
+        "question": "What overall insights about electricity production trends can be derived from the dataset?",
+        "answer": "Electricity production shows a steady growth trend with predictable seasonal fluctuations and occasional anomalies.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Determine the principal components to effectively reduce dimensionality of the climate dataset while preserving important data features.",
+    "persona": "An experienced data analyst with a specialization in climate data analysis and dimensionality reduction techniques, focusing on improving data interpretability through the use of eigenvalue decomposition and principal component analysis to extract significant data features for climate modeling."
+}

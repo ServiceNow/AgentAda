@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/competitions/covid19-global-forecasting-week-2"],
+    "dataset_description": "In this challenge, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.",
+    "notebook_url": "https://www.kaggle.com/code/eswarchandt/timeseries-forecasting-with-prophet/notebook",
+    "domain": "Health",
+    "help_data_file_names": ["train.csv"]
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze restaurant and user data to improve recommendations in a sparsity-challenged system.",
+    "persona": "A data analyst with expertise in recommendation systems and user behavior analysis, who is focused on leveraging collaborative filtering to provide personalized restaurant recommendations, addressing challenges in sparsity and cold-start scenarios."
+}

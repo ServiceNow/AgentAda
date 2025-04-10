@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [55],
+        "question": "What dataset was used for MapReduce-based table analysis?",
+        "answer": "The dataset consists of user-item interactions for a recommender system, where rows represent users and columns represent their engagement with various products.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [64, 72],
+        "question": "What preprocessing steps were performed before applying MapReduce?",
+        "answer": "The dataset was preprocessed by partitioning user-item interactions, normalizing values, and distributing data across multiple computing nodes.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [79],
+        "question": "Which two product categories show the strongest co-occurrence based on MapReduce analysis?",
+        "answer": "The strongest co-occurrence is observed between 'Electronics' and 'Books'.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [94, 102],
+        "question": "Which feature has the highest negative correlation with a product's recommendation score?",
+        "answer": "The number of low-rated reviews has the highest negative correlation with a product's recommendation score.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [114, 122, 129],
+        "question": "What is the average computation time for processing user-item interactions using MapReduce?",
+        "answer": "The average computation time for processing user-item interactions is 15.3 minutes.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [141, 149],
+        "question": "How does MapReduce improve the efficiency of analyzing user interactions compared to traditional SQL queries?",
+        "answer": "MapReduce improves efficiency by parallelizing computation across distributed nodes, reducing query time by 35%.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [161],
+        "question": "Which user attribute has the weakest impact on product recommendations?",
+        "answer": "The time of the last login has the weakest impact on product recommendations.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [173, 181, 189, 197],
+        "question": "What does the MapReduce analysis indicate about user engagement patterns in the dataset?",
+        "answer": "The analysis reveals that frequent buyers drive the majority of sales, with 20% of users contributing to 80% of purchases.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [208],
+        "question": "Which attribute has the least influence on a product’s recommendation ranking?",
+        "answer": "The number of product images has the least influence on a product’s recommendation ranking.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    },
+    {
+        "cell_ids": [205, 206, 207],
+        "question": "What conclusions were drawn about the effectiveness of MapReduce for large-scale table analysis?",
+        "answer": "MapReduce effectively scales table processing, optimizes recommendation computations, and enhances query efficiency for large datasets.",
+        "task": "Huge Table Analysis",
+        "skill": "MapReduce"
+    }
+]

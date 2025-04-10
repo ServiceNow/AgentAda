@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of Enron network analysis?",
+        "answer": "The dataset represents a network of Enron employees, where nodes are employees and edges represent email communications between them.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the main attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the frequency of email communications between employees.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4],
+        "question": "How many employees and email communications are represented in the network?",
+        "answer": "The network contains 1,000 employees and 5,000 email communications.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "Which employee has the highest degree in the network?",
+        "answer": "Employee A has the highest degree, connecting to 150 other employees.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What is the average clustering coefficient of the network?",
+        "answer": "The average clustering coefficient of the network is 0.25.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [9, 10, 11],
+        "question": "Which employee has the highest betweenness centrality score, and what is the value?",
+        "answer": "Employee B has the highest betweenness centrality score of 0.075.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many connected components exist in the network?",
+        "answer": "The network has 5 connected components.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, while some edges have weights as high as 20, indicating frequent communications.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of employees has the strongest connection, and what does it represent?",
+        "answer": "Employee C and Employee D have the strongest connection, with a weight of 20, representing the highest frequency of email communications.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the diameter of the Enron network?",
+        "answer": "The diameter of the network is 10, representing the longest shortest path between any two employees.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/archaeocharlie/comcastcomplaints"
+    ],
+    "dataset_description": "Comcast is notorious for terrible customer service and despite repeated promises to improve, they continue to fall short. Only last month (October 2016) the FCC fined them a cool $2.3 million after receiving over 1000 consumer complaints. After dealing with their customer service for hours yesterday, I wanted to find out more about others' experiences. ",
+    "notebook_url": "https://www.kaggle.com/code/dhorvay/consumer-complaint-classifier-lda-topic-modeling",
+    "domain": "Marketing",
+    "help_data_file_names": []
+}

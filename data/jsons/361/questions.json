@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many sensor readings are included in the predictive maintenance dataset?",
+        "answer": "The dataset contains 100,000 sensor readings.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [12, 16],
+        "question": "What key features are used in the predictive maintenance model?",
+        "answer": "Key features include temperature, pressure, vibration, and operational cycles.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [19],
+        "question": "What is the average operational cycle count before failure?",
+        "answer": "The average operational cycle count before failure is 275.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [22, 26],
+        "question": "How does temperature variation affect machine failure probability?",
+        "answer": "Higher temperatures are correlated with an increased probability of failure, particularly above 80°C.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [30, 34],
+        "question": "What is the distribution of failure types in the dataset?",
+        "answer": "The dataset contains 35% mechanical failures, 40% electrical failures, and 25% sensor anomalies.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [37, 41, 45],
+        "question": "What is the correlation between vibration levels and failure events?",
+        "answer": "Machines with vibration levels exceeding 4.5 m/s² have a 60% higher failure rate.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [48],
+        "question": "Which sensor feature has the highest predictive power for failure detection?",
+        "answer": "The operational cycle count is the most predictive feature, followed by vibration levels.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [52, 55, 59],
+        "question": "What is the impact of data normalization on the LSTM model's performance?",
+        "answer": "Data normalization improves model accuracy by reducing sensor variance effects, achieving a 5% performance increase.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [62, 66, 69, 73],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The model successfully predicts failure within 30 cycles with 92% accuracy, highlighting key failure triggers such as vibration and temperature spikes.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    }
+]

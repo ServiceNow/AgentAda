@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the observed trend in CO2 emissions over the recorded period in the dataset?",
+        "answer": "CO2 emissions have shown a steady increase, with noticeable acceleration in recent years.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average annual CO2 emission recorded in the dataset?",
+        "answer": "The average annual CO2 emission is 36.4 gigatons.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal trends are evident in CO2 emissions data?",
+        "answer": "Seasonal trends show higher emissions during winter months due to increased heating requirements.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest recorded annual CO2 emission, and in which year did it occur?",
+        "answer": "The highest recorded CO2 emission is 40.3 gigatons, observed in 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What are the forecasted CO2 emissions for the next 5 years using the Prophet model?",
+        "answer": "The forecasted emissions for the next 5 years indicate a range between 41 and 45 gigatons annually, with continued growth.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What does the dataset reveal about the correlation between population growth and CO2 emissions?",
+        "answer": "The dataset reveals a strong positive correlation between population growth and CO2 emissions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How do the forecasted emissions compare to historical trends and seasonal patterns?",
+        "answer": "The forecasted values align closely with historical trends, maintaining seasonal fluctuations and overall growth.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Were there any anomalies or missing values in the dataset, and how were they addressed?",
+        "answer": "The dataset had missing values for two years, which were imputed using linear interpolation.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What insights can be drawn about the impact of economic activities on CO2 emissions from the dataset?",
+        "answer": "Economic activities, such as industrialization and energy production, are major contributors to the observed increase in emissions.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What external factors might influence the forecasted trends in CO2 emissions?",
+        "answer": "External factors such as global policies on renewable energy and technological advancements could significantly alter the forecasted trends.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    }
+]

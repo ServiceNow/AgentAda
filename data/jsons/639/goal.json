@@ -1,0 +1,4 @@
+{
+    "goal": "To identify and analyze prevalent topics within customer reviews using Non-negative Matrix Factorization.",
+    "persona": "A data analyst in an e-commerce company with expertise in text mining and machine learning, aiming to enhance customer experience by uncovering insights on customer sentiments and product feedback through advanced topic modeling techniques."
+}

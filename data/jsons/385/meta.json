@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction",
+        "https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/hr-analytics-case-study",
+        "https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors",
+        "https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics",
+        "https://www.kaggle.com/datasets/abdallahwagih/company-employees",
+        "https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset",
+        "https://www.kaggle.com/datasets/nikhilraj7700/amazon-employee-reviews",
+        "https://www.kaggle.com/datasets/manidevesh/hr-dataset-analysis",
+        "https://www.kaggle.com/datasets/cocolicoq4/employee-churn-at-dunder-mifflin-paper-company",
+        "https://www.kaggle.com/datasets/umairziact/employees-data",
+        "https://www.kaggle.com/datasets/danishammar/top-companies-with-number-of-employees",
+        "https://www.kaggle.com/datasets/xiyuanwu/hr-capstone-dataset",
+        "https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition",
+        "https://www.kaggle.com/datasets/monisamir/hr-analytics",
+        "https://www.kaggle.com/datasets/miraclenifise/hr-employee-attrition-datasets",
+        "https://www.kaggle.com/datasets/karanchunara/hr-analytical-data",
+        "https://www.kaggle.com/datasets/intellabhi/employee-dataset",
+        "https://www.kaggle.com/datasets/mohamedjafirashraf/hr-data-analysis",
+        "https://www.kaggle.com/datasets/rgkeat/bpo-company-survey-for-employee-retention"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/abrarnazib/employee-retention-analysis",
+    "domain": "Human Resources",
+    "help_data_file_names": []
+}

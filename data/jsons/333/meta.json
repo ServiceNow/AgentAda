@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/jeleeladekunlefijabi/ship-performance-clustering-dataset",
+        "https://www.kaggle.com/datasets/patricklford/global-ev-sales-2010-2024",
+        "https://www.kaggle.com/datasets/patricklford/world-energy-consumption",
+        "https://www.kaggle.com/datasets/patricklford/global-co-emissions",
+        "https://www.kaggle.com/datasets/datasetengineer/smart-farming-data-2024-sf24",
+        "https://www.kaggle.com/datasets/thedevastator/underwater-video-assessment-of-benthic-habitats",
+        "https://www.kaggle.com/datasets/patricklford/what-about-the-wind",
+        "https://www.kaggle.com/datasets/patricklford/global-energy-investment-2015-2023-2024-predicted",
+        "https://www.kaggle.com/datasets/fathyfathysahlool/electric-vehicles-cars-2011-2024"
+    ],
+    "dataset_description": "Water is essential to the progress of human societies. It is required for a healthy environment and a thriving economy. Food production, electricity generation, and manufacturing, among other things, all depend on it. However, many decision-makers lack the technical expertise to fully understand hydrological information.",
+    "notebook_url": "https://www.kaggle.com/code/iamleonie/impact-potential-analysis-of-water-use-efficiency",
+    "domain": "Transport",
+    "help_data_file_names": []
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and analyze anomalies within the transaction data.",
+    "persona": "A data analyst specializing in anomaly detection with a focus on transactional datasets, with 7 years of experience in the financial and retail sectors. This analyst is proficient in using advanced models like Local Outlier Factor to detect unusual patterns in data, aiming to enhance fraud detection systems and improve data integrity across business operations."
+}

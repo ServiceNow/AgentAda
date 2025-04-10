@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "How many transactions are recorded in the dataset?",
+        "answer": "The dataset contains 3,396,790 transactions.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [14, 17],
+        "question": "What are the key performance indicators (KPIs) used to analyze e-commerce sales data?",
+        "answer": "Key performance indicators include Total Revenue, Average Order Value, Customer Retention Rate, and Sales Growth Rate.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [19],
+        "question": "Which product category generates the highest revenue?",
+        "answer": "The 'Electronics' category generates the highest revenue, contributing 42% of total sales.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [22, 25],
+        "question": "What is the average order value across all transactions?",
+        "answer": "The average order value across all transactions is $58.4.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [27, 29],
+        "question": "How does customer retention rate change over different months?",
+        "answer": "The customer retention rate shows an increase of 5% in Q4 compared to Q1.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [31, 34, 36],
+        "question": "What is the trend of e-commerce revenue over time?",
+        "answer": "Revenue has increased by 12% year-over-year, with a peak during the holiday season.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [39],
+        "question": "Which factor has the highest influence on customer purchase behavior?",
+        "answer": "Discounts and promotional campaigns have the highest influence on customer purchases, increasing sales by 18%.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [41, 44, 46],
+        "question": "What is the impact of delivery speed on customer satisfaction ratings?",
+        "answer": "Orders delivered within 2 days have an 87% customer satisfaction rating, while delays beyond 5 days drop ratings to 65%.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [49, 51, 53, 55],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Customer retention is highest for fast deliveries, and revenue surges during seasonal promotions. Conversion rates improve with personalized recommendations.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many rows and columns are present in the dataset?",
+        "answer": "The dataset contains 100,000 rows and 25 columns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 12],
+        "question": "Are there any missing values in the dataset?",
+        "answer": "Yes, missing values are present in the columns 'age', 'income', and 'credit_score'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16, 22, 29],
+        "question": "Which feature has the highest SHAP importance value?",
+        "answer": "'credit_score' has the highest SHAP importance value at 0.731.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [34, 41, 48, 53],
+        "question": "What are the top five most important features according to SHAP values?",
+        "answer": "The top five features are 'credit_score' (0.731), 'income' (0.652), 'loan_amount' (0.578), 'employment_status' (0.529), and 'age' (0.501).",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [59, 64, 72],
+        "question": "What does a negative SHAP value indicate in this dataset?",
+        "answer": "A negative SHAP value indicates that the feature decreases the likelihood of loan approval.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [78, 85, 91, 98],
+        "question": "Which feature has the lowest SHAP importance score?",
+        "answer": "'marital_status' has the lowest SHAP importance score at 0.023.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [103, 110, 118],
+        "question": "How does SHAP importance compare with feature importance from a Random Forest model?",
+        "answer": "SHAP values assign higher importance to 'income', whereas Random Forest assigns slightly more weight to 'employment_status'.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [124, 132, 140, 147],
+        "question": "Which features contribute the least to the model's predictions?",
+        "answer": "'residence_type', 'dependents', and 'education_level' contribute the least, with SHAP values below 0.05.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [152, 160, 169, 175],
+        "question": "What happens when low-importance features identified by SHAP are removed?",
+        "answer": "Removing low-importance features improves computation efficiency without reducing accuracy, leading to a 0.3% improvement.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [181, 190, 198, 207],
+        "question": "How do SHAP values reveal feature interactions in this dataset?",
+        "answer": "SHAP interaction values indicate that 'loan_amount' and 'credit_score' have a strong combined effect on approval probability.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    }
+]

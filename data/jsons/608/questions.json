@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [44],
+        "question": "What dataset was used for Latent Semantic Analysis?",
+        "answer": "The dataset consists of COVID-19 scientific literature, including research papers, abstracts, and medical study reports.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [53, 61],
+        "question": "What preprocessing steps were performed before applying Latent Semantic Analysis?",
+        "answer": "The dataset was preprocessed by tokenizing text, removing stopwords, performing lemmatization, and constructing a term-document matrix.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [68],
+        "question": "Which two research topics show the strongest semantic similarity in the dataset?",
+        "answer": "The strongest semantic similarity is observed between 'Vaccine Development' and 'Immune Response'.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [83, 91],
+        "question": "Which research domain has the highest negative correlation with epidemiological studies?",
+        "answer": "Computational drug discovery has the highest negative correlation with epidemiological studies.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [103, 111, 118],
+        "question": "What is the document clustering accuracy after applying Latent Semantic Analysis?",
+        "answer": "The document clustering accuracy after applying Latent Semantic Analysis is 85.2%.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [130, 138],
+        "question": "How does Latent Semantic Analysis improve information retrieval compared to keyword-based search?",
+        "answer": "Latent Semantic Analysis improves information retrieval by capturing contextual relationships between words, increasing retrieval relevance by 18%.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [150],
+        "question": "Which term frequency feature shows the weakest impact on semantic similarity scores?",
+        "answer": "The number of occurrences of common medical stopwords shows the weakest impact on semantic similarity scores.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [162, 170, 178, 186],
+        "question": "What does the Latent Semantic Analysis indicate about thematic variations in COVID-19 research topics?",
+        "answer": "The analysis indicates that research topics are thematically clustered into public health, vaccine development, and genomic studies, revealing underlying semantic structures.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [197],
+        "question": "Which document attribute has the least influence on topic similarity calculations?",
+        "answer": "The publication date of a paper has the least influence on topic similarity calculations.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Latent Semantic Analysis for knowledge extraction from scientific literature?",
+        "answer": "Latent Semantic Analysis effectively organizes research topics, improves document clustering, and enhances information retrieval in COVID-19 scientific literature.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    }
+]

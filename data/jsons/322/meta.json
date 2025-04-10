@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/thedevastator/global-air-transportation-network-mapping-the-wo",
+        "https://www.kaggle.com/datasets/maithiltandel/nba-all-teams-stats",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-records",
+        "https://www.kaggle.com/datasets/thedevastator/unlocking-turkish-nli-research-with-the-nli-tr-d",
+        "https://www.kaggle.com/datasets/mexwell/synthetic-al-medical-records",
+        "https://www.kaggle.com/datasets/thedevastator/u-s-climate-normals"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/sujithmandala/getting-started-with-association",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-records",
+        "https://www.kaggle.com/datasets/ginikachiomenukor/market-basket-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/sarahhimeko/mining-using-fp-growth",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

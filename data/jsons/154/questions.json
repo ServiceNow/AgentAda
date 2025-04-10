@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of users and products in the Amazon reviews dataset, and how does this affect the scalability of the recommendation system?",
+      "answer": "The dataset includes 500,000 users and 200,000 products, creating a large and sparse user-item matrix.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What is the sparsity level of the user-item matrix, and what challenges does this pose for collaborative filtering?",
+      "answer": "The matrix is 99% sparse, requiring robust methods to handle missing data effectively.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [5, 7, 9],
+      "question": "What is the average number of products rated per user, and how does this impact the effectiveness of personalized recommendations?",
+      "answer": "Each user rates an average of 10 products, providing limited data for individual preference modeling.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [11, 13],
+      "question": "Which products receive the most ratings, and how can these be used to handle the cold-start problem for new users?",
+      "answer": "Popular products like 'Product A' and 'Product B' receive the most ratings, making them ideal for initial recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [14, 16, 18],
+      "question": "What is the distribution of ratings across the dataset, and how might this affect the quality of recommendations?",
+      "answer": "Ratings are skewed towards 4 and 5 stars, which could bias the recommendations towards highly rated products.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [20, 23],
+      "question": "What similarities are observed among users based on their rating patterns, and how are these similarities leveraged in collaborative filtering?",
+      "answer": "Users with similar preferences for categories like 'Electronics' or 'Books' are grouped, enabling personalized recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [25, 28, 30],
+      "question": "What trends are observed in user rating behavior for specific product categories, and how does this inform recommendation strategies?",
+      "answer": "Categories like 'Electronics' and 'Fashion' receive more consistent ratings, which can be prioritized in recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [32, 34],
+      "question": "What patterns emerge in product popularity over time, and how can temporal trends improve the recommendation system?",
+      "answer": "Products like 'Product C' gain popularity during seasonal periods, suggesting the need for time-aware recommendation models.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [36, 39],
+      "question": "How does collaborative filtering handle products with few ratings, and what insights can be drawn from this process?",
+      "answer": "Collaborative filtering leverages user similarity to recommend less-rated products to users with matching preferences.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    },
+    {
+      "cell_ids": [41, 44, 47],
+      "question": "What strategies are implemented to mitigate the cold-start problem for new products or users in the dataset?",
+      "answer": "The system recommends popular products and uses collaborative filtering to generate initial suggestions.",
+      "task": "Recommendation Systems",
+      "skill": "Collaborative Filtering"
+    }
+  ]
+  

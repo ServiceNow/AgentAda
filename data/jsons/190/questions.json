@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers and products in the dataset, and how does this determine the scale of the recommendation system?",
+      "answer": "The dataset contains 50,000 customers and 20,000 products, forming a large matrix for deep learning-based recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What is the sparsity level of the customer-product matrix, and how does this influence the recommendation process?",
+      "answer": "The matrix is 97% sparse, presenting challenges for accurately modeling customer preferences.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 10],
+      "question": "What is the average number of products purchased per customer, and how does this inform customer preference modeling?",
+      "answer": "Each customer purchases an average of 15 products, providing a basis for identifying shopping patterns.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [12, 15],
+      "question": "Which products are the most frequently purchased, and how can they help address the cold-start problem for new customers?",
+      "answer": "Popular products like 'Product A' and 'Product B' are frequently purchased, making them ideal for initial recommendations.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [16, 18, 20],
+      "question": "What is the distribution of product popularity scores in the dataset, and how might this affect recommendation diversity?",
+      "answer": "Product popularity is concentrated among a few items, which could limit the diversity of recommendations if not managed properly.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [22, 25],
+      "question": "What patterns in customer preferences for product categories are observed, and how can these insights guide personalized recommendations?",
+      "answer": "Customers frequently purchase from categories like 'Electronics' and 'Home Appliances', which can shape personalized recommendations.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [27, 30, 33],
+      "question": "What temporal trends are observed in product purchases, and how can time-aware recommendations improve user satisfaction?",
+      "answer": "Products like 'Seasonal Decorations' show spikes in popularity during holidays, indicating the importance of incorporating time-based trends.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [35, 38],
+      "question": "What challenges are faced in recommending niche products with limited purchase data, and how does the model address these issues?",
+      "answer": "The model leverages similarities between customers to recommend niche products by identifying shared preferences in related categories.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [40, 43],
+      "question": "What insights can be drawn from the purchasing behavior of highly active customers, and how do they influence the recommendation model?",
+      "answer": "Highly active customers exhibit diverse purchasing patterns that provide critical training data for the recommendation model.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    },
+    {
+      "cell_ids": [45, 48, 51, 54],
+      "question": "What strategies are used to address the cold-start problem for new customers or products in the dataset?",
+      "answer": "Popular products and category-based recommendations are employed to provide initial suggestions for new customers and products.",
+      "task": "Recommendation Systems",
+      "skill": "Deep Neural Networks"
+    }
+  ]
+  

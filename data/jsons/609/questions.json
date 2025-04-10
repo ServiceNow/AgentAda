@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [45],
+        "question": "What dataset was used for Latent Semantic Analysis?",
+        "answer": "The dataset consists of news articles and research papers covering various topics, including politics, technology, and health.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [54, 62],
+        "question": "What preprocessing steps were performed before applying Latent Semantic Analysis?",
+        "answer": "The dataset was preprocessed by removing stopwords, performing stemming and lemmatization, and constructing a term-document matrix.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [69],
+        "question": "Which two topics show the strongest semantic similarity in the dataset?",
+        "answer": "The strongest semantic similarity is observed between 'Climate Change' and 'Renewable Energy'.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [84, 92],
+        "question": "Which research domain has the highest negative correlation with financial market trends?",
+        "answer": "Medical research has the highest negative correlation with financial market trends.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [104, 112, 119],
+        "question": "What is the document classification accuracy after applying Latent Semantic Analysis?",
+        "answer": "The document classification accuracy after applying Latent Semantic Analysis is 82.5%.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [131, 139],
+        "question": "How does Latent Semantic Analysis improve document clustering compared to keyword-based methods?",
+        "answer": "Latent Semantic Analysis captures deeper contextual relationships between words, improving document clustering accuracy by 20%.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [151],
+        "question": "Which text attribute shows the weakest influence on topic similarity scores?",
+        "answer": "The number of punctuation marks in a document shows the weakest influence on topic similarity scores.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [163, 171, 179, 187],
+        "question": "What does the Latent Semantic Analysis indicate about hidden patterns in text data?",
+        "answer": "The analysis reveals distinct hidden patterns in text data, grouping documents into semantically coherent clusters based on thematic structures.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [198],
+        "question": "Which document characteristic has the least impact on semantic clustering?",
+        "answer": "The length of the document has the least impact on semantic clustering when using Latent Semantic Analysis.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    },
+    {
+        "cell_ids": [199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Latent Semantic Analysis for knowledge extraction?",
+        "answer": "Latent Semantic Analysis enhances text understanding, improves topic modeling, and increases retrieval efficiency in large text corpora.",
+        "task": "Knowledge Base",
+        "skill": "Latent Semantic Analysis"
+    }
+]

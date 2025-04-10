@@ -1,0 +1,4 @@
+{
+    "goal": "Determine sentiment classification in text reviews using advanced model techniques.",
+    "persona": "An experienced data scientist with a focus on natural language processing, particularly skilled in training and fine-tuning transformer-based models like BERT for sentiment analysis in large datasets. Interested in identifying key linguistic features influencing sentiment and optimizing model performance through hyperparameter tuning and preprocessing techniques to achieve high accuracy and robust insights into customer reviews."
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "What dataset was used for the stock price time series analysis?",
+        "answer": "The dataset contains historical daily stock prices, including open, high, low, close, and volume data from 2005 to 2023.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [15, 22],
+        "question": "What overall trend was observed in the stock price movements?",
+        "answer": "The stock prices showed an overall upward trend with periodic corrections due to macroeconomic events.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [29, 35],
+        "question": "How did major financial events impact stock price volatility?",
+        "answer": "Significant volatility was observed during the 2008 financial crisis and the COVID-19 pandemic.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [41, 48, 54],
+        "question": "What seasonal trends were identified in stock price movements?",
+        "answer": "Stock prices tended to rise in Q4 due to holiday spending and end-of-year portfolio adjustments.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [62, 70, 77],
+        "question": "What correlation was observed between trading volume and price fluctuations?",
+        "answer": "Higher trading volumes were associated with larger price fluctuations, particularly around earnings reports.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [85, 92, 100],
+        "question": "Which forecasting models were applied to predict stock price movements?",
+        "answer": "The ARIMA and LSTM models were used to predict stock prices based on historical trends.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [110, 118, 126],
+        "question": "What was the impact of inflation and interest rates on stock prices?",
+        "answer": "Rising interest rates and inflation led to decreased stock prices due to higher borrowing costs.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [134, 143],
+        "question": "What insights were derived from time series decomposition?",
+        "answer": "The decomposition revealed a strong upward trend, cyclical variations, and short-term seasonal effects.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [152, 160, 168],
+        "question": "How did the LSTM model perform in forecasting stock prices?",
+        "answer": "The LSTM model captured long-term trends effectively but had difficulty predicting sudden market crashes.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [175, 183, 190],
+        "question": "What investment strategies were suggested based on the time series analysis?",
+        "answer": "Long-term investments in stable sectors and diversification were recommended to reduce risk exposure.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

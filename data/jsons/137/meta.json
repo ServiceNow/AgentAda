@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud",
+        "https://www.kaggle.com/datasets/mishra5001/credit-card",
+        "https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023",
+        "https://www.kaggle.com/datasets/kartik2112/fraud-detection",
+        "https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/yashpaloswal/fraud-detection-credit-card",
+        "https://www.kaggle.com/datasets/shayannaveed/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/saurabhbagchi/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/isaikumar/creditcardfraud",
+        "https://www.kaggle.com/datasets/joebeachcapital/credit-card-fraud",
+        "https://www.kaggle.com/datasets/whenamancodes/fraud-detection",
+        "https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud",
+        "https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction",
+        "https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets",
+        "https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection",
+        "https://www.kaggle.com/datasets/dileep070/anomaly-detection",
+        "https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset",
+        "https://www.kaggle.com/datasets/rezasemyari/credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/shubhamjoshi2130of/abstract-data-set-for-credit-card-fraud-detection",
+        "https://www.kaggle.com/datasets/arslanali4343/credit-card-cheating-detection-cccd"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/shivan118/credit-card-fraud-detection",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the graph structure and its properties such as node connections, centrality, and clustering.",
+    "persona": "A network analyst with extensive experience in graph theory and data analysis, focused on understanding complex network structures and their characteristics for insights into connectivity and influence patterns within large datasets."
+}

@@ -1,0 +1,24 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/gcreatives/impact-of-covid-19-on-working-professionals",
+        "https://www.kaggle.com/datasets/muhammadroshaanriaz/heatwave-excessive-heat-anomalies-by-year",
+        "https://www.kaggle.com/datasets/rishabhrp/soil-dataset",
+        "https://www.kaggle.com/datasets/muhammadwaqargul/pakwheels-used-car-dataset-october-2022",
+        "https://www.kaggle.com/datasets/ayoubjadouli/morocco-wildfire-predictions-2010-2022-ml-dataset",
+        "https://www.kaggle.com/datasets/anishpai/ames-housing-dataset-missing",
+        "https://www.kaggle.com/datasets/supercooler8/bixi-bike-montreal",
+        "https://www.kaggle.com/datasets/derrickdaniel/klebsiella-meropenem-amr-genomic-data",
+        "https://www.kaggle.com/datasets/vpkprasanna/flower-type-prediction-machine-hack",
+        "https://www.kaggle.com/datasets/moerlzzz/sentiment-analysis-of-sessions-in-the-bundestag",
+        "https://www.kaggle.com/datasets/tzamalisp/gestureset-dataset-for-human-gesture-recognition",
+        "https://www.kaggle.com/datasets/imbikramsaha/ml-datasets",
+        "https://www.kaggle.com/datasets/pedrohauy/sampledtftpattackcicddos2019",
+        "https://www.kaggle.com/datasets/petermcnallysg/universal-design-space-building-energy-simulation",
+        "https://www.kaggle.com/datasets/akibmir/finfluencer-classification-dataset",
+        "https://www.kaggle.com/datasets/eslamelsolya/parkinsons-disease-classification"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/vbmokin/data-science-for-tabular-data-advanced-techniques",
+    "domain": "Business",
+    "help_data_file_names": []
+}

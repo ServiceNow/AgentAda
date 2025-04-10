@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many employees are included in the dataset?",
+        "answer": "The dataset contains 14,999 employees.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [8, 10],
+        "question": "What are the key performance indicators (KPIs) analyzed in the dataset?",
+        "answer": "Key performance indicators include satisfaction level, last evaluation, number of projects, average monthly hours, tenure, and whether the employee left the company.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [12],
+        "question": "What is the overall employee attrition rate?",
+        "answer": "The employee attrition rate is 23.8%, calculated from the 'left' column.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [14, 16],
+        "question": "Which department has the highest employee attrition rate?",
+        "answer": "The Sales department has the highest attrition rate.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [18, 20],
+        "question": "What is the average monthly working hours of employees?",
+        "answer": "The average monthly working hours of employees is 201 hours.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [22],
+        "question": "How does employee satisfaction correlate with attrition?",
+        "answer": "Employees with lower satisfaction scores are more likely to leave the company.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [25, 28, 30],
+        "question": "What is the distribution of tenure in the company?",
+        "answer": "Most employees have a tenure of 3 to 6 years, with a decline after 6 years.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [32],
+        "question": "Which factor has the highest impact on employee attrition based on KPI visualization?",
+        "answer": "Satisfaction level and number of projects significantly impact employee attrition.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [35, 37, 39, 41],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Employees working extremely low or high hours tend to leave, and lower satisfaction scores correlate with higher attrition risk.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

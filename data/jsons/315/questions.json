@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many transactions and unique items are present in the dataset?",
+        "answer": "The dataset contains 38765 transactions and 169 unique items.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4, 5],
+        "question": "What is the structure of the transaction data after processing?",
+        "answer": "Each transaction is stored as a list of purchased items, formatted into a one-hot encoded DataFrame.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7],
+        "question": "What is the minimum support threshold used for frequent itemset generation using FP-Growth?",
+        "answer": "The minimum support threshold used for FP-Growth is 0.1.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [6, 9],
+        "question": "How many frequent itemsets were generated using FP-Growth?",
+        "answer": "The FP-Growth algorithm generated 41 frequent itemsets.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [8],
+        "question": "Which item appears most frequently in transactions?",
+        "answer": "'Whole milk' appears most frequently in transactions, with a support of 45.8%.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 12],
+        "question": "What is the highest lift value found in the association rules?",
+        "answer": "The highest lift value found in the association rules is 3.78.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [11],
+        "question": "Which association rule has the highest confidence value?",
+        "answer": "The rule {'butter'} → {'whole milk'} has the highest confidence value of 0.52.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [13, 14, 15],
+        "question": "Which items are most frequently purchased together in the dataset?",
+        "answer": "The most frequently purchased itemsets include ('whole milk', 'yogurt') and ('bottled water', 'whole milk').",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [16],
+        "question": "Which itemset has the strongest association rule based on lift?",
+        "answer": "The strongest association rule based on lift is {'pasta'} → {'grated cheese'} with a lift value of 3.78.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [17, 18, 19, 20],
+        "question": "What insights can be derived from the discovered association rules?",
+        "answer": "The association rules indicate that customers who buy 'whole milk' often buy 'yogurt', and those who buy 'bottled water' frequently purchase 'whole milk'.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    }
+]

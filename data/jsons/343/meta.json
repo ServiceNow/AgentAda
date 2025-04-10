@@ -1,0 +1,31 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/nisshaachoudhary/store-data-analysis-using-ms-excel",
+        "https://www.kaggle.com/datasets/javierspdatabase/global-online-orders",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/rhonarosecortez/pizza-sales-dataset",
+        "https://www.kaggle.com/datasets/numenvikrant/tata-motors-sales-analysis-2021-2022",
+        "https://www.kaggle.com/datasets/bhavikapuri2811/hr-analytics-dashboard-using-excel",
+        "https://www.kaggle.com/datasets/thedevastator/nintendo-switch-dedicated-video-game-sales-units",
+        "https://www.kaggle.com/datasets/harigoshika/unveiling-insights-from-100k-bike-sales",
+        "https://www.kaggle.com/datasets/iamlynn/maven-coffee-shop-revenue",
+        "https://www.kaggle.com/datasets/sumankumarsscbs/sales-analytics-dashboard",
+        "https://www.kaggle.com/datasets/thedevastator/analyzing-hartford-real-estate-sales-over-730-da",
+        "https://www.kaggle.com/datasets/thedevastator/relato-business-network-graph-373663-domain-conn",
+        "https://www.kaggle.com/datasets/josemiguelterron/coffee-shop-sales-and-revenue-dashboard",
+        "https://www.kaggle.com/datasets/alfiaziz003/coffee-shop-sales-dashboard-by-alfi-aziz",
+        "https://www.kaggle.com/datasets/kpradyumna/product-sales-forecasting",
+        "https://www.kaggle.com/datasets/shashwatrahangdale/amazon-global-sales-dashboard",
+        "https://www.kaggle.com/datasets/gigihtirtakalimanda/uk-online-retails-data-transaction",
+        "https://www.kaggle.com/datasets/vishwas199728/adidas-sales-data",
+        "https://www.kaggle.com/datasets/abhijeetmondal17/ecommerce-sales-dashboard",
+        "https://www.kaggle.com/datasets/bvanntruong/scooter-sales-excel-project"
+    ],
+    "dataset_description": "You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the \"Sales\" column for the test set. Note that some stores in the dataset were temporarily closed for refurbishment.",
+    "notebook_url": "https://www.kaggle.com/code/shearerp/interactive-sales-visualization",
+    "domain": "Retail",
+    "help_data_file_names": [
+        "train.csv",
+        "store.csv"
+    ]
+}

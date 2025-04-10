@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What general trend is observed in the COVID-19 case data over time?",
+        "answer": "The data shows an exponential increase in cases during the initial waves, followed by a plateau.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average number of daily cases in the dataset?",
+        "answer": "The average number of daily cases is 7,850.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "What seasonal or periodic patterns are identified in the COVID-19 case data?",
+        "answer": "The data indicates weekly periodic spikes in reported cases, reflecting testing patterns.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [7],
+        "question": "What is the peak number of daily cases recorded in the dataset, and when did it occur?",
+        "answer": "The peak number of daily cases is 25,000, recorded in January 2021.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8, 9, 10],
+        "question": "What are the forecasted daily COVID-19 cases for the next 30 days using the ARIMA model?",
+        "answer": "The forecasted cases range from 6,500 to 9,000 daily, reflecting a stabilizing trend.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "What does the residual analysis reveal about the accuracy of the ARIMA model?",
+        "answer": "Residuals show no significant autocorrelation, indicating that the ARIMA model fits the data well.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13, 14, 15],
+        "question": "What evaluation metrics are used to assess the ARIMA model's performance, and what do their values indicate?",
+        "answer": "Metrics such as MAE (1,200 cases) and RMSE (1,500 cases) suggest reasonable forecasting accuracy.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [16],
+        "question": "How do the forecasted daily cases compare to historical trends in the dataset?",
+        "answer": "The forecasted cases closely align with recent trends, maintaining a consistent pattern.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Were there any missing or anomalous values in the dataset? If so, how were they handled?",
+        "answer": "The dataset contained missing values for 5 days, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What insights can be derived about the progression and forecast of COVID-19 cases from the dataset?",
+        "answer": "The dataset reveals a rapid initial spread, a plateau in later stages, and predictable stabilization based on ARIMA forecasts.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

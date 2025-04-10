@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arpit2712/amazonsalesreport",
+        "https://www.kaggle.com/datasets/kanchana1990/2024-best-selling-sunglasses-on-amazon",
+        "https://www.kaggle.com/datasets/michaelmatta0/amazon-cell-phones-cleaned-scraped-data"
+    ],
+    "dataset_description": "This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon",
+    "notebook_url": "https://www.kaggle.com/code/mehakiftikhar/amazon-sales-dataset-eda",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

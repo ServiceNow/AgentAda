@@ -1,0 +1,4 @@
+{
+    "goal": "Improve data quality for chronic kidney disease analysis through effective missing value imputation.",
+    "persona": "A healthcare data analyst with 7 years of experience in medical data preprocessing and modeling, focused on enhancing data quality and completeness for better clinical decision-making. Interested in employing advanced imputation techniques like MICE to handle complex datasets with missing values while maintaining the integrity of medical data attributes."
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/juliajemals/bike-sharing-washington-dc"
+    ],
+    "dataset_description": "Climate change is forcing cities to re-imaging their transportation infrastructure. Shared mobility concepts, such as car sharing, bike sharing or scooter sharing become more and more popular. And if they are implemented well, they can actually contribute to mitigating climate change. Bike sharing in particular is interesting because no electricity of gasoline is necessary (unless e-bikes are used) for this mode of transportation. ",
+    "notebook_url": "https://www.kaggle.com/code/juliajemals/bike-sharing-forecast-for-the-next-day",
+    "domain": "Education",
+    "help_data_file_names": []
+}

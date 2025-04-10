@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/infsceps/chatgpt-tweets"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/nathanlauga/ethics-and-ai-how-to-understand-a-model",
+    "domain": "Social",
+    "help_data_file_names": []
+}

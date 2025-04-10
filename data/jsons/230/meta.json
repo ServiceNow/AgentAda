@@ -1,0 +1,34 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/darrylljk/customer-segmentation-practice-using-rfm-and-k-means",
+        "https://www.kaggle.com/datasets/rupindersinghrana/credit-card-customer-segmentation",
+        "https://www.kaggle.com/datasets/yashgupta011/customer-segmentation-dataset",
+        "https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering",
+        "https://www.kaggle.com/datasets/cs49adityarajsharma/credit-scoring-data",
+        "https://www.kaggle.com/datasets/elifcanli/claims-2023",
+        "https://www.kaggle.com/datasets/robi5bd/customer-segmentation",
+        "https://www.kaggle.com/datasets/sidharth178/customer-segmentation",
+        "https://www.kaggle.com/datasets/ramisashararnidhi/mall-customer-csv",
+        "https://www.kaggle.com/datasets/setseries/airbnb-listings-in-california",
+        "https://www.kaggle.com/datasets/mesutssmn/flo-dataset",
+        "https://www.kaggle.com/datasets/mustafaabdelnasser16/one-year-retail-transactions",
+        "https://www.kaggle.com/datasets/davidfischanger/e-project",
+        "https://www.kaggle.com/datasets/samantas2020/online-retail-xlsx",
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset",
+        "https://www.kaggle.com/datasets/shartul/freecell-telecom-customer-analytics"
+    ],
+    "dataset_description": "The dataset for this competition is a relational set of files describing customers' orders over time. The goal of the competition is to predict which products will be in a user's next order. The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. For each user, we provide between 4 and 100 of their orders, with the sequence of products purchased in each order. We also provide the week and hour of day the order was placed, and a relative measure of time between orders. For more information, see the blog post accompanying its public release.",
+    "notebook_url": "https://www.kaggle.com/code/emphymachine/customer-segmentation-with-k-means",
+    "domain": "Business",
+    "help_data_file_names": [
+        "products.csv",
+        "order_products__train.csv",
+        "order_products__prior.csv",
+        "departments.csv",
+        "aisles.csv"
+    ]
+}

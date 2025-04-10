@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "How many employees are included in the HR dataset?",
+        "answer": "The dataset contains 17,417 employees.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [7, 9],
+        "question": "What are the key performance indicators (KPIs) used in HR analytics?",
+        "answer": "Key performance indicators include employee performance rating, previous year rating, number of training hours, and job satisfaction.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What percentage of employee records contain missing education data?",
+        "answer": "4% of the employee records have missing education data.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [12, 15],
+        "question": "Which department has the highest employee satisfaction rating?",
+        "answer": "The R&D department has the highest employee satisfaction rating of 78%.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [16, 18],
+        "question": "What is the average number of training hours attended by employees?",
+        "answer": "The average number of training hours attended by employees is 46 hours.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [19, 22],
+        "question": "How does previous year performance rating correlate with employee promotions?",
+        "answer": "Employees with a performance rating of 4 or higher have a 65% higher chance of promotion.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [24, 27, 30],
+        "question": "What is the trend of employee attrition over time?",
+        "answer": "Employee attrition rates have decreased by 7% over the past three years.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [32],
+        "question": "Which factor has the highest influence on employee retention?",
+        "answer": "Job satisfaction and salary growth have the highest influence on employee retention.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [35, 37, 39, 41],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Departments with better training programs and higher salary increments see improved employee retention and performance ratings.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

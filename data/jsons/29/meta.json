@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/kazanova/sentiment140"],
+    "dataset_description": "This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .",
+    "notebook_url": "https://www.kaggle.com/code/stoicstatic/twitter-sentiment-analysis-for-beginners/notebook",
+    "domain": "Social Networks",
+    "help_data_file_names": []
+}

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ikjotsingh221/machine-failure-cleaned",
+        "https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data",
+        "https://www.kaggle.com/datasets/dineshmanikanta/machine-failure-predictions",
+        "https://www.kaggle.com/datasets/shashanknecrothapa/machine-failure-predictions",
+        "https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction",
+        "https://www.kaggle.com/datasets/yanmaksi/big-startup-secsees-fail-dataset-from-crunchbase",
+        "https://www.kaggle.com/datasets/andrewmvd/multi-organ-failure-prediction",
+        "https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data",
+        "https://www.kaggle.com/datasets/prognosticshse/prognosis-based-on-varying-data-quality",
+        "https://www.kaggle.com/datasets/prognosticshse/preventive-to-predicitve-maintenance",
+        "https://www.kaggle.com/datasets/thegoanpanda/fault-prediction-in-tablet-press-equipment",
+        "https://www.kaggle.com/datasets/prognosticshse/condition-data-with-random-recording-time",
+        "https://www.kaggle.com/datasets/joebeachcapital/metropt-3-dataset",
+        "https://www.kaggle.com/datasets/sinamhd9/concrete-comprehensive-strength",
+        "https://www.kaggle.com/datasets/rafatashrafjoy/myocardial-infarction-complications",
+        "https://www.kaggle.com/datasets/anshtanwar/metro-train-dataset",
+        "https://www.kaggle.com/datasets/aadarshvelu/heart-failure-prediction-clinical-records",
+        "https://www.kaggle.com/datasets/canaria/5-gamers",
+        "https://www.kaggle.com/datasets/easonlai/sample-power-transformers-health-condition-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var"
+    ],
+    "dataset_description": "This synthetic dataset is modeled after an existing milling machine and consists of 10 000 data points from a stored as rows with 14 features in columns",
+    "notebook_url": "https://www.kaggle.com/code/misida/machine-failure-prediction",
+    "domain": "Engineering",
+    "help_data_file_names": []
+}

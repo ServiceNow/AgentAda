@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [3],
+        "question": "How many records and features are available in the dataset?",
+        "answer": "The dataset contains 5,000 records and 3 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 10],
+        "question": "Are there any missing values in the dataset?",
+        "answer": "No, the dataset does not contain any missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15, 21, 27],
+        "question": "What are the latitude and longitude ranges of the dataset?",
+        "answer": "The latitude ranges from 34.05 to 41.90, and the longitude ranges from -118.25 to -74.01.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [34, 39, 46],
+        "question": "Which location has the highest estimated density according to the KDE output?",
+        "answer": "The highest density is observed around New York City, specifically in the Manhattan area.",
+        "task": "Geospatial Analysis",
+        "skill": "Kernel Density Estimation"
+    },
+    {
+        "cell_ids": [52, 60, 68, 74],
+        "question": "What is the bandwidth value used for KDE in this analysis?",
+        "answer": "The bandwidth used for KDE in this analysis is 0.02.",
+        "task": "Geospatial Analysis",
+        "skill": "Kernel Density Estimation"
+    },
+    {
+        "cell_ids": [82, 90, 96, 104],
+        "question": "How does KDE help in visualizing the distribution of locations?",
+        "answer": "KDE smooths the data distribution by estimating density over a continuous surface, highlighting hotspots in spatial data.",
+        "task": "Geospatial Analysis",
+        "skill": "Kernel Density Estimation"
+    },
+    {
+        "cell_ids": [112, 118, 124, 132],
+        "question": "What is the effect of increasing the KDE bandwidth?",
+        "answer": "Increasing the bandwidth smooths the density estimate, reducing noise but potentially blending distinct clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "Kernel Density Estimation"
+    },
+    {
+        "cell_ids": [140, 148, 156],
+        "question": "Which areas show the lowest density based on KDE analysis?",
+        "answer": "The lowest densities are observed in rural regions and areas with fewer recorded locations.",
+        "task": "Geospatial Analysis",
+        "skill": "Kernel Density Estimation"
+    },
+    {
+        "cell_ids": [164, 172, 180, 188],
+        "question": "What does a high-density KDE region indicate in this context?",
+        "answer": "A high-density KDE region indicates a high concentration of recorded points, suggesting frequent activity or clustering.",
+        "task": "Geospatial Analysis",
+        "skill": "Kernel Density Estimation"
+    },
+    {
+        "cell_ids": [195, 204, 213, 222],
+        "question": "How does the KDE map compare to a simple scatter plot of locations?",
+        "answer": "The KDE map provides a smoother, more interpretable visualization of density patterns, unlike scatter plots which can appear cluttered in dense regions.",
+        "task": "Geospatial Analysis",
+        "skill": "Kernel Density Estimation"
+    }
+]

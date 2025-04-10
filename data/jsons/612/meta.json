@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/google-brain/nips17-adversarial-learning-3rd-round-results"
+    ],
+    "dataset_description": "This dataset contains results of the third development round of NIPS 2017 Adversarial learning competition.",
+    "notebook_url": "https://www.kaggle.com/code/anlthms/pagerank-ish-scoring",
+    "domain": "Technology",
+    "help_data_file_names": [
+        "hit_target_class_matrix.csv",
+        "error_matrix.csv"
+    ]
+}

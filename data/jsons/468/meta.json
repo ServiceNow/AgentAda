@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/datascientistanna/customers-dataset",
+        "https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset"
+    ],
+    "dataset_description": "Shop Customer Data is a detailed analysis of a imaginative shop's ideal customers. It helps a business to better understand its customers. The owner of a shop gets information about Customers through membership cards. ",
+    "notebook_url": "https://www.kaggle.com/code/utkarshsaxenadn/shop-customer-clustering",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

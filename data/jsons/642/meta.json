@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/innocentmfa/mercedes-benz-historical-stock-dataset",
+        "https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies",
+        "https://www.kaggle.com/datasets/innocentmfa/alibaba-baba-stock-dataset",
+        "https://www.kaggle.com/datasets/innocentmfa/honda-motor-stocks-prices",
+        "https://www.kaggle.com/datasets/simronw/tesla-stock-data-2024",
+        "https://www.kaggle.com/datasets/gallo33henrique/bitcoin-btc-usd-stock-dataset",
+        "https://www.kaggle.com/datasets/jvanark/nvidia-daily-stock-price-data",
+        "https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction",
+        "https://www.kaggle.com/datasets/jakewright/9000-tickers-of-stock-market-data-full-history",
+        "https://www.kaggle.com/datasets/shahidk3075/bitcoin-price-prediction-dataset",
+        "https://www.kaggle.com/datasets/zongaobian/netflix-stock-data-and-key-affiliated-companies",
+        "https://www.kaggle.com/datasets/zongaobian/daily-performance-of-nvda-and-nvdl",
+        "https://www.kaggle.com/datasets/innocentmfa/paypal-holdings-stock-ticker",
+        "https://www.kaggle.com/datasets/innocentmfa/meta-stock-prices-2020-to-2024",
+        "https://www.kaggle.com/datasets/equinxx/stock-tweets-for-sentiment-analysis-and-prediction",
+        "https://www.kaggle.com/datasets/aditya8123/stock-market-virtual",
+        "https://www.kaggle.com/datasets/gallo33henrique/stock-data-tsla-20-years-shares",
+        "https://www.kaggle.com/datasets/innocentmfa/ibm-stock-prices-dataset",
+        "https://www.kaggle.com/datasets/rawaneid/microsoft-stock-market-2001-2021"
+    ],
+    "dataset_description": "High-quality financial data is expensive to acquire and is therefore rarely shared for free. Here I provide the full historical daily price and volume data for all US-based stocks and ETFs trading on the NYSE, NASDAQ, and NYSE MKT. It's one of the best datasets of its kind you can obtain. ",
+    "notebook_url": "https://www.kaggle.com/code/pierpaolo28/stock-market-analysis-and-time-series-prediction",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

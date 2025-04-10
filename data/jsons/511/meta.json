@@ -1,0 +1,21 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/sushilkumarinfo/bitcoin-transactional-data",
+        "https://www.kaggle.com/datasets/surajjha101/analyzing-and-prediction-of-bitcoin-pricing",
+        "https://www.kaggle.com/datasets/mianbilal12/bitcoin-historical-data",
+        "https://www.kaggle.com/datasets/gautamchettiar/historical-sentiment-data-btc-eth-bnb-ada",
+        "https://www.kaggle.com/datasets/mrsimple07/bitcoindataanalysis",
+        "https://www.kaggle.com/datasets/gallo33henrique/bitcoin-btc-usd-stock-dataset",
+        "https://www.kaggle.com/datasets/amirrahi/bitcoin-daily-price-history-2010-2024",
+        "https://www.kaggle.com/datasets/faushareef/cryptocurrencypricedata",
+        "https://www.kaggle.com/datasets/eriksenchristian/weather-forecast",
+        "https://www.kaggle.com/datasets/mehrdadnaderi/predict-1-profit-on-btc-30m-candles-at-bainance",
+        "https://www.kaggle.com/datasets/bahraleloom/historical-analysis-and-future-trends-bitcoin-data",
+        "https://www.kaggle.com/datasets/yanmaksi/btcbusd-1m-2023-09-csv",
+        "https://www.kaggle.com/datasets/farhanali097/top-10-crypto-coin-historical-data-2014-2024"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/someadityamandal/bitcoin-time-series-forecasting",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

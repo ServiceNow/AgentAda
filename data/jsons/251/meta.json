@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data",
+        "https://www.kaggle.com/datasets/fahmidachowdhury/customer-segmentation-data-for-marketing-analysis",
+        "https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset",
+        "https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci",
+        "https://www.kaggle.com/datasets/tunguz/online-retail",
+        "https://www.kaggle.com/datasets/zubairmustafa/shopping-mall-customer-segmentation-data",
+        "https://www.kaggle.com/datasets/ishanshrivastava28/tata-online-retail-dataset",
+        "https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation",
+        "https://www.kaggle.com/datasets/mathchi/online-retail-data-set-from-ml-repository",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/thedevastator/bank-term-deposit-predictions",
+        "https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository",
+        "https://www.kaggle.com/datasets/ravalsmit/customer-segmentation-data",
+        "https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo",
+        "https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset",
+        "https://www.kaggle.com/datasets/jahnavipaliwal/customer-feedback-and-satisfaction",
+        "https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/customer-lifetime-value-analytics-case-study",
+        "https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset"
+    ],
+    "dataset_description": "It can be utilized for EDA, Statistical Analysis, and Visualizations. For more specific guidance on how to utilize this data set, please see the Exploratory & Statistical Analysis task.",
+    "notebook_url": "https://www.kaggle.com/code/yajnaab/customer-segmentation-on-marketing-data",
+    "domain": "Marketing",
+    "help_data_file_names": []
+}

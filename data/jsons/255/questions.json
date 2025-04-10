@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this support RFM analysis?",
+      "answer": "The dataset contains 11,000 customers, providing a comprehensive sample for segmentation.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of recency values, and how do they vary across customers in the dataset?",
+      "answer": "Recency values range from 1 to 300 days, with lower values indicating more recent customer activity.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5, 6],
+      "question": "What is the frequency distribution of customer transactions, and what does it reveal about engagement patterns?",
+      "answer": "Transaction frequencies range from 1 to 200, with most customers completing fewer than 20 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [7, 8],
+      "question": "What is the range of monetary values in the dataset, and what patterns are observed among high-value customers?",
+      "answer": "Monetary values range from $10 to $25,000, with high-value customers typically exhibiting low recency and high transaction frequency.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [9, 10, 11],
+      "question": "What are the ranges of RFM scores used for segmentation, and how do they help classify customer behaviors?",
+      "answer": "RFM scores range from 111 (low-value customers) to 555 (high-value loyal customers), categorizing customers into distinct segments.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [12, 13],
+      "question": "How many segments were identified using RFM analysis, and what are the defining characteristics of each segment?",
+      "answer": "Six segments were identified, ranging from high-frequency high-value customers to low-recency low-value customers.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [14, 15, 16],
+      "question": "What are the average recency, frequency, and monetary values for each segment, and how do they reflect different customer behaviors?",
+      "answer": "High-value segments show low recency and high frequency, while low-value segments exhibit high recency and low monetary values.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [17, 18],
+      "question": "What trends emerge from RFM segmentation, and how do these trends provide insights into customer engagement?",
+      "answer": "Loyal customers tend to have low recency and high frequency, while inactive customers show high recency and low monetary values.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [19, 20, 21],
+      "question": "What marketing strategies can be developed for each customer segment to maximize engagement and retention?",
+      "answer": "Strategies include loyalty programs for high-value customers, re-engagement campaigns for high-recency segments, and personalized promotions for mid-value customers.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [22, 23, 24, 25],
+      "question": "How do the behaviors of high-value customer segments differ from low-value segments in terms of spending and engagement?",
+      "answer": "High-value segments demonstrate frequent, high-value purchases, while low-value segments exhibit sporadic, low-value transactions.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    }
+  ]
+  

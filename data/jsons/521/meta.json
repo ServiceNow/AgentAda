@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/freesound-audio-tagging-2019"
+    ],
+    "dataset_description": "If you are interested in the FSDKaggle2019 dataset used for this competition, please download it from Zenodo. The Zenodo version contains all the dataset files, including the full test set and labels as well as as updated csv files with metadata and licenses.",
+    "notebook_url": "https://www.kaggle.com/code/pluceroo/new-approach-wavelet-packet-decomposition-in-ml",
+    "domain": "Science",
+    "help_data_file_names": []
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What does the notebook describe in terms of using collaborative filtering?",
+         "answer": "The notebook describes collaborative filtering using the Movielens datasets to recommend movies to users.",
+        "task": "Recommendation Systems",
+         "skill": "Collaborative Filtering"
+    },
+     {
+        "cell_ids": [
+           2
+         ],
+        "question": "What are the three data files that are loaded from the MovieLens dataset?",
+         "answer": "ratings.csv, tags.csv, movies.csv",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           2
+        ],
+        "question": "What is the main goal of the collaborative filtering implementation?",
+         "answer": "to be able to predict ratings for movies a user has not yet watched.",
+       "task": "Recommendation Systems",
+       "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+           1,2
+         ],
+        "question": "What is the main idea behind matrix factorization for recommendations?",
+         "answer": "Map user ID to a \"user vector\" via an embedding matrix, Map movie ID to a \"movie vector\" via an embedding matrix, Compute the dot product between the user vector and movie vector, to obtain the a match score between the user and the movie (predicted rating), Train the embeddings via gradient descent using all known user-movie pairs.",
+        "task": "Recommendation Systems",
+        "skill": "Matrix Factorization"
+    },
+     {
+        "cell_ids": [
+            7
+         ],
+        "question": "What is the meaning of 'is_fav' column in the user_rating table?",
+       "answer": "Initializing a dummy variable for future use",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           11
+         ],
+        "question": "What is being analyzed to choose K?",
+        "answer": "demographics of Books and Users",
+        "task":"Customer Segmentation",
+        "skill":"K-means Clustering"
+    },
+    {
+       "cell_ids": [
+            86
+        ],
+        "question": "What are the shapes of data before and after removing non-valid users/books?",
+       "answer": "shape before cleaning: (1149780, 3) shape after cleaning: (1003113, 3)",
+      "task":"Basic Data Analysis",
+       "skill":"Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            87
+         ],
+        "question": "After filtering, how many ratings are considered as a user 'likes' a book?",
+        "answer": "304838",
+         "task": "Recommendation Systems",
+         "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+           92
+        ],
+        "question": "What is the shape of the data after PCA is applied?",
+        "answer": "(4790, 3)",
+        "task": "Principal Component Analysis",
+         "skill": "SVD"
+    },
+    {
+       "cell_ids": [
+            94
+        ],
+        "question": "How many clusters are used in the final clustering model?",
+        "answer": "4",
+       "task": "Customer Segmentation",
+       "skill": "K-means Clustering"
+    }
+]

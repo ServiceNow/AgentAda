@@ -1,0 +1,4 @@
+{
+    "goal": "Identify patterns and associations in grocery purchase transactions through market basket analysis.",
+    "persona": "A retail data analyst with 3 years of experience in consumer behavior and sales optimization, focused on leveraging data-driven insights from grocery transactions to enhance product placement, increase sales, and inform inventory management strategies. Highly skilled in exploratory data analysis and association rule mining, particularly using the Apriori algorithm to uncover purchase patterns."
+}

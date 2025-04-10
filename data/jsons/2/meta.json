@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment"],
+    "dataset_description": "For example, it contains whether the sentiment of the tweets in this set was positive, neutral, or negative for six US airlines",
+    "notebook_url": "https://www.kaggle.com/code/tahmidmir/sentiment-analysis-bert-xai/notebook",
+    "domain": "Social Networks",
+    "help_data_file_names": []
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/geometrein/helsinki-city-bikes"
+    ],
+    "dataset_description": "The dataset contains more than 10 million trips made by citizens of Helsinki between 2016-2020.",
+    "notebook_url": "https://www.kaggle.com/code/geometrein/helsinki-city-bike-network-analysis",
+    "domain": "Transport",
+    "help_data_file_names": []
+}

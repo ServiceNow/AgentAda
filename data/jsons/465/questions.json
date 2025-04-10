@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records are available in the dataset for clustering?",
+        "answer": "The dataset contains 72,500 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14, 19],
+        "question": "What are the minimum and maximum values for latitude and longitude in the dataset?",
+        "answer": "Latitude ranges from 25.78 to 48.85, while longitude varies from -124.21 to -67.00.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [28, 34, 40],
+        "question": "What are the key spatial clusters identified using DBSCAN?",
+        "answer": "Major clusters are detected in New York, San Francisco, and Chicago.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [47, 56, 65, 74],
+        "question": "How does the density of clusters vary between coastal and inland cities?",
+        "answer": "Coastal cities exhibit higher cluster density compared to inland cities, likely due to population density differences.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [83, 92, 101, 110],
+        "question": "How many noise points were detected in the dataset?",
+        "answer": "Approximately 18% of the data points were labeled as noise due to low density.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [119, 128, 137, 146],
+        "question": "What is the effect of modifying the epsilon parameter on the clustering outcome?",
+        "answer": "Increasing epsilon results in larger but fewer clusters, while reducing epsilon leads to more fragmented clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [155, 164, 173, 182],
+        "question": "Which cities show the highest number of detected clusters?",
+        "answer": "New York, Los Angeles, and Houston have the highest number of spatial clusters.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [191, 200, 209, 218],
+        "question": "How does DBSCAN help in identifying urban heatmaps?",
+        "answer": "DBSCAN identifies high-density areas that can be used to generate urban heatmaps for mobility and congestion analysis.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [227, 236, 245, 254],
+        "question": "What percentage of the total data points fall into the top three largest clusters?",
+        "answer": "The top three clusters contain about 60% of the total data points.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    },
+    {
+        "cell_ids": [263, 272, 281, 290],
+        "question": "What insights were gained from the spatial clustering results?",
+        "answer": "The clustering results revealed clear patterns in urban population density, highlighting major commercial and transportation hubs.",
+        "task": "Geospatial Analysis",
+        "skill": "DBSCAN for Spatial Clustering"
+    }
+]

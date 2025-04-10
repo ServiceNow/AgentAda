@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/refiaozturk/online-shopping-dataset",
+        "https://www.kaggle.com/datasets/nitishjolly/consumers-buying-behavior",
+        "https://www.kaggle.com/datasets/sakshisatre/social-advertisement-dataset",
+        "https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset",
+        "https://www.kaggle.com/datasets/noeyislearning/fair-trade-chocolate",
+        "https://www.kaggle.com/datasets/thedevastator/analyzing-customer-spending-habits-to-improve-sa",
+        "https://www.kaggle.com/datasets/thedevastator/online-shopping-consumer-behavior-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data",
+        "https://www.kaggle.com/datasets/shrutiambekar/laptop-league-a-comprehensive-dataset-for-laptops",
+        "https://www.kaggle.com/datasets/thedevastator/us-christmas-tree-sales-data",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-records",
+        "https://www.kaggle.com/datasets/ashaychoudhary/indian-laptop-purchase-dataset-online-and-offline",
+        "https://www.kaggle.com/datasets/jocelyndumlao/impulse-buying-factors-on-tiktok-shop",
+        "https://www.kaggle.com/datasets/kashishparmar02/ultimateapplesamsungecom-dataset",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/analyzing-the-impact",
+        "https://www.kaggle.com/datasets/willianoliveiragibin/fair-chocolate-buying",
+        "https://www.kaggle.com/datasets/ishanshrivastava28/sales-transaction-dataset-with-product-details",
+        "https://www.kaggle.com/datasets/jiteshshelke/indian-auto-mpg",
+        "https://www.kaggle.com/datasets/thedevastator/furniture-ecommerce-product-data",
+        "https://www.kaggle.com/datasets/sarthakmangalmurti/bakery-customer-data"
+    ],
+    "dataset_description": "Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers. ",
+    "notebook_url": "https://www.kaggle.com/code/aradhanapratap/consumer-buying-behavior-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

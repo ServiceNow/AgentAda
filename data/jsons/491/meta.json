@@ -1,0 +1,15 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/taxi-pricing-with-mobility-analytics",
+        "https://www.kaggle.com/datasets/tysonpo/university-salaries",
+        "https://www.kaggle.com/datasets/jbomitchell/ec-class-prediction-dataset",
+        "https://www.kaggle.com/datasets/ollypowell/xview-yolo-dataset",
+        "https://www.kaggle.com/datasets/georgedurrant/nfl-qb-shoulder-injuries"
+    ],
+    "dataset_description": "Stack Overflow’s annual Developer Survey is the largest and most comprehensive survey of people who code around the world. Each year, we field a survey covering everything from developers’ favorite technologies to their job preferences. This year marks the ninth year we’ve published our annual Developer Survey results, and nearly 90,000 developers took the 20-minute survey earlier this year.",
+    "notebook_url": "https://www.kaggle.com/code/leoncenshuti/eda-and-matching",
+    "domain": "Transportation",
+    "help_data_file_names": [
+        "survey_results_schema.csv"
+    ]
+}

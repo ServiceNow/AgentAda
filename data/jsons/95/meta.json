@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/thedevastator/240000-household-electricity-consumption-records"],
+    "dataset_description": "Looking to better understand how energy is used in the home? This dataset can help. It contains six months of electricity consumption data for a household, gathered between January 2007 and June 2007. The data includes information on global active power, global reactive power, voltage, global intensity, sub-metering 1 (kitchen), sub-metering 2 (laundry room), and sub-metering 3 (electric water heater and air conditioner). With 260,640 measurements in total, this dataset can provide crucial insights into understanding household electricity consumption",
+    "notebook_url": "https://www.kaggle.com/code/gautamchettiar/quick-forecasting-or-nothing-fb-prophet/notebook",
+    "domain": "Management",
+    "help_data_file_names": []
+}

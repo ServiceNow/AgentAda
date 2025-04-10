@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering",
+        "https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation",
+        "https://www.kaggle.com/datasets/harrimansaragih/clustering-data-id-gender-income-spending",
+        "https://www.kaggle.com/datasets/shibumohapatra/icmr-data",
+        "https://www.kaggle.com/datasets/khushipitroda/imdb-top-250-tv-shows",
+        "https://www.kaggle.com/datasets/khushipitroda/top-250-indian-movies-imdb",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/app-users-segmentation-case-study",
+        "https://www.kaggle.com/datasets/bhanupratapbiswas/machine-learning-basics-for-beginners",
+        "https://www.kaggle.com/datasets/khushipitroda/uci-dataset",
+        "https://www.kaggle.com/datasets/khushipitroda/imdb-top-250-french-movies",
+        "https://www.kaggle.com/datasets/onthada/benchmarks-datasets-for-clustering",
+        "https://www.kaggle.com/datasets/sylvieliberman/erowid-experience-report-word2vec-vectors",
+        "https://www.kaggle.com/datasets/thedevastator/clustering-polygons-utilizing-iris-moon-and-circ",
+        "https://www.kaggle.com/datasets/abhi1394/help-ngo-dataset",
+        "https://www.kaggle.com/datasets/setseries/airbnb-listings-in-california",
+        "https://www.kaggle.com/datasets/sushanthegde/northeast-atlantic-sea-bottom-temperature",
+        "https://www.kaggle.com/datasets/yasserhessein/anuran-calls-mfccs",
+        "https://www.kaggle.com/datasets/devantltd/analysing-second-hand-car-sales-data",
+        "https://www.kaggle.com/datasets/sowmyasrip/preprocessing",
+        "https://www.kaggle.com/datasets/spotlightkid/datasets-from-python-seaborn-library"
+    ],
+    "dataset_description": "To categorise the countries using socio-economic and health factors that determine the overall development of the country.",
+    "notebook_url": "https://www.kaggle.com/code/dikshabhati2002/k-means-and-hierarchical-clustering",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

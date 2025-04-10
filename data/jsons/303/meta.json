@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset",
+        "https://www.kaggle.com/datasets/earthian/grocery-dataset"
+    ],
+    "dataset_description": "The dataset belongs to \"The Bread Basket\" a bakery located in Edinburgh. The dataset has 20507 entries, over 9000 transactions, and 4 columns.",
+    "notebook_url": "https://www.kaggle.com/code/annettecatherinepaul/apriori-algorithm-association-rule-mining",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

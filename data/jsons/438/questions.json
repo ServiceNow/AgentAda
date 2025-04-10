@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many records and features are present in the dataset?",
+        "answer": "The dataset contains 200,000 records and 18 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 13],
+        "question": "What percentage of missing values exist in the dataset?",
+        "answer": "The dataset contains 0.9% missing values.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [19],
+        "question": "What is the distribution of anomalies in the dataset?",
+        "answer": "Out of 200,000 records, 1,800 were labeled as anomalies, representing 0.9% of the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 33],
+        "question": "What percentage of data points were classified as anomalies using the One-Class SVM model?",
+        "answer": "Approximately 6.1% of data points were classified as anomalies.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [40, 49, 56],
+        "question": "Which feature contributed the most to anomaly detection?",
+        "answer": "'Feature_10' had the highest anomaly contribution score of 0.77.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [65, 73, 81, 88],
+        "question": "How do anomaly scores compare between normal and anomalous instances?",
+        "answer": "Anomalous instances had an average anomaly score of -3.95, while normal instances had an average anomaly score of -0.52.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [97],
+        "question": "What precision and recall were achieved by the One-Class SVM model?",
+        "answer": "The model achieved a precision of 85.2% and a recall of 91.3%.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [105, 114, 123],
+        "question": "How did adjusting the kernel parameter affect anomaly detection results?",
+        "answer": "Switching from a linear to an RBF kernel improved recall by 4.7% but slightly reduced precision.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [132, 141, 149, 157],
+        "question": "What insights were revealed when visualizing anomalies using t-SNE?",
+        "answer": "The t-SNE visualization showed that anomalies were concentrated in low-density clusters, indicating significant deviation from normal data.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    },
+    {
+        "cell_ids": [165, 173, 181, 189],
+        "question": "Which machine components exhibited the highest anomaly detection rates?",
+        "answer": "Components related to 'Feature_5' and 'Feature_14' had the highest anomaly detection rates at 42.3% and 36.9%, respectively.",
+        "task": "Anomaly Detection",
+        "skill": "One-Class SVM"
+    }
+]

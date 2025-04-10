@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this form the basis for hierarchical segmentation?",
+      "answer": "The dataset contains 6,000 customers, providing a robust foundation for hierarchical clustering analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of recency values among customers, and how do they vary across the dataset?",
+      "answer": "Recency values range from 1 to 300 days, with lower values indicating more recent customer activity.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5],
+      "question": "What is the frequency distribution of transactions among customers, and what insights can be drawn about their engagement levels?",
+      "answer": "Transaction frequencies range from 1 to 100, with most customers having fewer than 20 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [6, 7],
+      "question": "What is the range of monetary values in the dataset, and what trends can be observed among high-value customers?",
+      "answer": "Monetary values range from $50 to $20,000, with high-value customers exhibiting frequent transactions and low recency.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [8, 9, 10],
+      "question": "How many clusters were identified using hierarchical clustering, and what are the defining characteristics of each cluster?",
+      "answer": "Four clusters were identified, characterized by varying levels of recency, frequency, and monetary value.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [11, 12],
+      "question": "What are the average recency, frequency, and monetary values for each cluster, and how do they reflect customer behaviors?",
+      "answer": "Clusters range from high-value frequent customers to low-value infrequent customers with high recency.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [13, 14, 15],
+      "question": "Which features contributed most significantly to the hierarchical clustering results, and what insights do they provide?",
+      "answer": "Monetary value and frequency were the most significant contributors, identifying loyal and high-spending customers.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [16, 17],
+      "question": "What marketing strategies can be developed for each customer segment based on their clustering characteristics?",
+      "answer": "Strategies include exclusive deals for high-value customers, loyalty programs for mid-tier customers, and re-engagement campaigns for low-value segments.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [18, 19, 20],
+      "question": "How do the behaviors of high-frequency high-monetary customers differ from low-frequency low-monetary customers?",
+      "answer": "High-frequency high-monetary customers exhibit regular purchases and significant spending, while low-frequency low-monetary customers are infrequent and contribute less revenue.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    },
+    {
+      "cell_ids": [21, 22, 23, 24],
+      "question": "What actionable insights from the hierarchical clustering analysis can guide business decisions and strategies?",
+      "answer": "Insights include targeting high-value clusters with premium offers, using discounts for cost-sensitive customers, and personalizing marketing for mid-value clusters.",
+      "task": "Customer Segmentation",
+      "skill": "Hierarchical Clustering"
+    }
+  ]
+  

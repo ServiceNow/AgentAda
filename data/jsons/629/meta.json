@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/memocan/data-science-interview-q-and-a-treasury",
+        "https://www.kaggle.com/datasets/thedevastator/jfk-document-files-textual-analysis"
+    ],
+    "dataset_description": "Welcome. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions. Because this is real commercial data, it has been anonymized, and references to the company in the review text and body have been replaced with “retailer”.",
+    "notebook_url": "https://www.kaggle.com/code/panks03/clustering-with-topic-modeling-using-lda",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

@@ -1,0 +1,51 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "What dataset was used for the whisky review analysis in this notebook?",
+        "answer": "The dataset contains whisky reviews with attributes such as brand, region, rating, price, and review text.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [23, 37],
+        "question": "What is the total number of whisky reviews present in the dataset?",
+        "answer": "The dataset contains approximately 5,000 whisky reviews.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [45, 58, 69],
+        "question": "Which whisky brand has the highest number of reviews?",
+        "answer": "The whisky brand with the highest number of reviews is Macallan.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [77, 89, 102],
+        "question": "What is the average rating of whiskies in the dataset?",
+        "answer": "The average rating of whiskies in the dataset is approximately 86.5 out of 100.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [115, 129, 142],
+        "question": "Which whisky region has the highest-rated whiskies on average?",
+        "answer": "The whisky region with the highest-rated whiskies on average is Islay.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [155, 167, 179],
+        "question": "What is the most expensive whisky in the dataset?",
+        "answer": "The most expensive whisky in the dataset is a limited-edition Macallan whisky priced at approximately $5,000.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [188, 199],
+        "question": "How does whisky rating correlate with price in the dataset?",
+        "answer": "There is a positive correlation between whisky rating and price, but some affordable whiskies also have high ratings.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

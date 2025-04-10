@@ -1,0 +1,100 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the distribution of sentiment labels in the dataset?",
+        "answer": "The dataset contains 25,000 positive reviews and 25,000 negative reviews.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            2,
+            3
+        ],
+        "question": "What is the average length of reviews in the dataset?",
+        "answer": "The average review length is 150 words.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            6,
+            7
+        ],
+        "question": "What percentage of positive sentiment reviews are correctly classified as positive?",
+        "answer": "95% of positive sentiment reviews are correctly classified as positive.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            8
+        ],
+        "question": "How does the presence of specific keywords like 'terrible' or 'great' affect sentiment prediction accuracy?",
+        "answer": "Reviews with 'terrible' or 'great' show a prediction accuracy of 97%.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            9,
+            10
+        ],
+        "question": "What is the distribution of sentiment predictions for reviews with ambiguous phrases?",
+        "answer": "Ambiguous phrases result in a 60-40 split between positive and negative predictions.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            11,
+            12,
+            13
+        ],
+        "question": "What is the false positive rate for negative reviews misclassified as positive?",
+        "answer": "The false positive rate for negative reviews is 5%.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            14
+        ],
+        "question": "What is the most common sentiment label for reviews containing fewer than 10 words?",
+        "answer": "Most reviews with fewer than 10 words are labeled negative.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            15,
+            16
+        ],
+        "question": "How do prediction accuracies differ between balanced and imbalanced subsets of the dataset?",
+        "answer": "Balanced subsets have an accuracy of 96%, while imbalanced subsets drop to 90%.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            17
+        ],
+        "question": "What is the percentage of correctly classified reviews in the most frequent length range?",
+        "answer": "Reviews in the 100-150 word range are correctly classified 97% of the time.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            18,
+            19,
+            20
+        ],
+        "question": "What impact do rare words have on the model's sentiment predictions?",
+        "answer": "Rare words result in a prediction accuracy of 85%.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    }
+]

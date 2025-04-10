@@ -1,0 +1,22 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/mianbilal12/apple-stock-market-data-19802024",
+        "https://www.kaggle.com/datasets/rahulsah06/gooogle-stock-price",
+        "https://www.kaggle.com/datasets/gallo33henrique/bitcoin-btc-usd-stock-dataset",
+        "https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction",
+        "https://www.kaggle.com/datasets/azharsaleem/advanced-saudi-arabian-aramco-stocks-dataset",
+        "https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset",
+        "https://www.kaggle.com/datasets/mianbilal12/tesla-stock-data-st",
+        "https://www.kaggle.com/datasets/yousefeddin/s-and-p-500-stock-price-end-of-2024",
+        "https://www.kaggle.com/datasets/tehminaasrar/sample-stock-data-csv",
+        "https://www.kaggle.com/datasets/electricalengineers/mrf-tyre-dataset-for-5-years",
+        "https://www.kaggle.com/datasets/muhfakhrurrozi24/tlkm-stock-price",
+        "https://www.kaggle.com/datasets/dhruvil633/intraday-trading-information-for-ibm-stock",
+        "https://www.kaggle.com/datasets/acarmehmet/nvidia-historical-stock-data"
+    ],
+    "dataset_description": "The Dataset contains data for 5 years ie. from 5th Feb 2018 to 5th Feb 2022.",
+    "notebook_url": "https://www.kaggle.com/code/nikhil1e9/stock-price-forecasting-using-lstm",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

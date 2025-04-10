@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of Pakistan cities network analysis?",
+        "answer": "The dataset represents a network of Pakistan cities, where nodes are cities and edges represent transportation or trade routes between them.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the main attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the frequency or intensity of routes between cities.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4],
+        "question": "How many cities and connections are represented in the network?",
+        "answer": "The network contains 300 cities and 900 connections.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "Which city has the highest degree in the network?",
+        "answer": "Karachi has the highest degree, connecting to 70 other cities.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What is the modularity of the network after applying the Louvain method?",
+        "answer": "The modularity of the network is 0.51, indicating a strong community structure.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How many communities are detected using the Louvain method?",
+        "answer": "The Louvain method detected 10 communities in the network.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [12, 13, 14],
+        "question": "Which community has the largest number of cities?",
+        "answer": "Community 2 has the largest number of cities, with 85 members.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What is the average clustering coefficient of the network?",
+        "answer": "The average clustering coefficient of the network is 0.32.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [16, 17],
+        "question": "Which pair of cities has the strongest connection, and what does it represent?",
+        "answer": "Lahore and Islamabad have the strongest connection, with a weight of 40, representing the most frequent route.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [18, 19, 20],
+        "question": "What is the diameter of the Pakistan cities network?",
+        "answer": "The diameter of the network is 9, representing the longest shortest path between any two cities.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    }
+]

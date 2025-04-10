@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What is the total number of records in the dataset?",
+        "answer": "The dataset contains 125,678 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [23, 31],
+        "question": "What are the minimum and maximum values of trip durations?",
+        "answer": "The minimum trip duration is 1 minute, and the maximum trip duration is 265 minutes.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [42, 56, 63],
+        "question": "What latent variables are included in the structural equation model?",
+        "answer": "The latent variables include 'User Engagement', 'Service Accessibility', and 'Ride Frequency'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [74, 81, 95, 103],
+        "question": "Which observed factors have the strongest influence on 'User Engagement'?",
+        "answer": "'Ride Duration' and 'Membership Type' have the strongest influence on 'User Engagement'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [117, 126, 138, 147],
+        "question": "What is the estimated path coefficient between 'Service Accessibility' and 'Ride Frequency'?",
+        "answer": "The estimated path coefficient between 'Service Accessibility' and 'Ride Frequency' is 0.67.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [154, 166, 172, 185],
+        "question": "Does 'User Satisfaction' mediate the relationship between 'Service Quality' and 'Membership Renewal'?",
+        "answer": "'User Satisfaction' partially mediates the relationship between 'Service Quality' and 'Membership Renewal', with a significant indirect effect.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [193, 202, 217, 224],
+        "question": "What percentage of the variance in 'Membership Retention' is explained by the model?",
+        "answer": "The model explains 82% of the variance in 'Membership Retention' (R² = 0.82).",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [236, 248, 257, 263],
+        "question": "Is there a statistically significant relationship between 'Weather Conditions' and 'Ride Frequency'?",
+        "answer": "Yes, there is a statistically significant relationship with a p-value of 0.005.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [274, 285, 291, 307],
+        "question": "Which variable has the highest direct effect on 'Trip Duration'?",
+        "answer": "'Bike Type' has the highest direct effect on 'Trip Duration' with a path coefficient of 0.78.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    },
+    {
+        "cell_ids": [318, 326, 338, 349],
+        "question": "What are the key takeaways from the structural equation model applied to this dataset?",
+        "answer": "The model suggests that 'Membership Type' and 'Ride Accessibility' significantly drive 'Ride Frequency', which in turn impacts 'Customer Retention'.",
+        "task": "Causality",
+        "skill": "Structural Equation Modeling"
+    }
+]

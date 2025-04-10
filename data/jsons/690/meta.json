@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/nlp-getting-started"
+    ],
+    "dataset_description": "Predict which Tweets are about real disasters and which ones are not",
+    "notebook_url": "https://www.kaggle.com/code/shahules/basic-eda-cleaning-and-glove",
+    "domain": "Social Networks",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

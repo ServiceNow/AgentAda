@@ -1,0 +1,25 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies",
+        "https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/yakshshah/blog-recommendation-data",
+        "https://www.kaggle.com/datasets/dnyaneshyeole/10000-most-popular-english-movies-2023",
+        "https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset",
+        "https://www.kaggle.com/datasets/dnyaneshyeole/most-popular-indian-movies-2023",
+        "https://www.kaggle.com/datasets/muhammadbinimran/movie-recommendation-system-prediction-dataset",
+        "https://www.kaggle.com/datasets/meastanmay/imdb-dataset",
+        "https://www.kaggle.com/datasets/hernan4444/animeplanet-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/tohid2974/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/aparajitasingh15/imdb-data",
+        "https://www.kaggle.com/datasets/mdabudayansiddik/movie-ratings-for-recommendation-systems",
+        "https://www.kaggle.com/datasets/sudekaya/hybrid-recommender-system",
+        "https://www.kaggle.com/datasets/yogeshdagar513/ad-campaign-for-personalized-movie-recommendations",
+        "https://www.kaggle.com/datasets/alfarisbachmid/personalized-recommendation-systems-dataset"
+    ],
+    "dataset_description": "The data used here is from MovieLens 100K, and it is taken from 100,000 movie ratings. Each user has an ID, and each movie has an ID.",
+    "notebook_url": "https://www.kaggle.com/code/faressayah/collaborative-filtering-for-movie-recommendations",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

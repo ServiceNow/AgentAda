@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [10],
+        "question": "What dataset was used for the stock market time series analysis?",
+        "answer": "The dataset consists of daily closing prices of multiple stocks from the NYSE.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [22, 29],
+        "question": "What is the time range of the stock price data used in this analysis?",
+        "answer": "The dataset includes stock prices from January 2010 to December 2023.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [37],
+        "question": "Which stock had the highest average return over the analyzed period?",
+        "answer": "Apple (AAPL) had the highest average return, showing consistent growth over the years.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [48, 57],
+        "question": "What seasonal trends were identified in the stock market data?",
+        "answer": "Stock prices generally rose in Q4, especially during the holiday season, and showed increased volatility in Q1.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [68, 77, 86],
+        "question": "What was the average annual return for the analyzed stock index?",
+        "answer": "The average annual return for the stock index was 8.2%.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [98, 107],
+        "question": "Which external factor showed the strongest correlation with stock market performance?",
+        "answer": "Inflation rate fluctuations had the strongest correlation with stock price movements.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [119, 128, 136],
+        "question": "How did major economic events impact the stock market during the analysis period?",
+        "answer": "Significant market corrections were observed during the 2020 COVID-19 crash and the 2022 inflation-driven downturn.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [145, 154],
+        "question": "What forecasting method was used to predict future stock prices?",
+        "answer": "An ARIMA model was used to predict future stock prices based on historical trends.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [164, 172, 180],
+        "question": "What were the main insights from the stock market time series analysis?",
+        "answer": "The analysis highlighted long-term growth trends, periodic corrections, and sensitivity to macroeconomic factors.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    },
+    {
+        "cell_ids": [190, 198],
+        "question": "How accurate were the stock price predictions based on the time series model?",
+        "answer": "The ARIMA model achieved a mean absolute percentage error (MAPE) of 3.4%, indicating moderate prediction accuracy.",
+        "task": "Market Analysis",
+        "skill": "Time Series Analysis"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What is the total duration of the earthquake signal recordings in the dataset?",
+        "answer": "The total duration of the earthquake signal recordings is 48 hours.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 41],
+        "question": "What is the mean amplitude of the seismic wave signals in the dataset?",
+        "answer": "The mean amplitude of the seismic wave signals is approximately 0.72.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [56, 78, 95],
+        "question": "How does wavelet decomposition help in distinguishing primary and secondary seismic waves?",
+        "answer": "Wavelet decomposition isolates different frequency bands, allowing separation of primary and secondary seismic waves based on their spectral characteristics.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [103, 117, 134, 149],
+        "question": "What insights can be obtained from analyzing the high-frequency components of decomposed seismic signals?",
+        "answer": "High-frequency components indicate abrupt seismic activity, which can be used to detect microseismic events and potential foreshocks.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [162, 175, 187],
+        "question": "How does the choice of wavelet function impact the resolution of decomposed seismic signals?",
+        "answer": "A shorter wavelet function captures finer seismic details, while a longer wavelet function provides a smoother representation of seismic activity.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [51, 68, 84, 99],
+        "question": "What effect does thresholding have on the removal of noise from the decomposed seismic signals?",
+        "answer": "Thresholding eliminates low-energy coefficients, significantly reducing background noise while preserving key seismic features.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [121, 136, 153],
+        "question": "How does multi-resolution wavelet decomposition aid in detecting aftershocks following a major earthquake?",
+        "answer": "Multi-resolution decomposition helps detect subtle seismic patterns at different scales, making aftershock identification more precise.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [168, 182],
+        "question": "What happens when reconstructing a seismic signal using only the low-frequency wavelet coefficients?",
+        "answer": "Reconstruction using low-frequency coefficients preserves long-term seismic trends while removing abrupt, high-frequency fluctuations.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [39, 53, 72],
+        "question": "How do wavelet-based energy coefficients assist in classifying earthquake intensity levels?",
+        "answer": "Energy coefficients reflect the concentration of seismic energy at different frequencies, helping distinguish between low, moderate, and high-intensity earthquakes.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [92, 108, 123, 141],
+        "question": "How does wavelet decomposition enhance feature extraction for earthquake prediction models?",
+        "answer": "By isolating frequency-specific features, wavelet decomposition improves the quality of predictive model inputs, leading to more accurate earthquake forecasts.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

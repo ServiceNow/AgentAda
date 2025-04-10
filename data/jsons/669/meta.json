@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering",
+        "https://www.kaggle.com/datasets/samanehkorlou/customer-segmentation"
+    ],
+    "dataset_description": "The “Customer Credit Card Data” dataset provides valuable insights into credit card usage patterns and financial behavior. Each record represents an individual credit card holder, and the dataset includes the following features:",
+    "notebook_url": "https://www.kaggle.com/code/fhabibimoghaddam/customer-segmentation-k-means-clustering-pca",
+    "domain": "Business",
+    "help_data_file_names": []
+}

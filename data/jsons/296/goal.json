@@ -1,0 +1,4 @@
+{
+    "goal": "Identify frequent itemsets and generate association rules from transaction data.",
+    "persona": "A data analyst specialized in market basket analysis with 3 years of experience in retail analytics. Focused on extracting meaningful patterns and association rules from transaction data to drive sales and optimize product placement strategies. Skilled in data manipulation and analysis using Python, with a strong interest in leveraging the Apriori algorithm for uncovering hidden patterns in consumer purchasing behaviors."
+}

@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/jordanln/llm-prompts-in-the-context-of-machine-learning",
+        "https://www.kaggle.com/datasets/jordanln/ethical-ai-prompts-for-machine-learning"
+    ],
+    "dataset_description": "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.",
+    "notebook_url": "https://www.kaggle.com/code/kayademirs/fraud-detection-svm-random-forest-and-cnn",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

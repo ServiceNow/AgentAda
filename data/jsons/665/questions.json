@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What dataset was used for market basket analysis?",
+        "answer": "The dataset contains grocery transaction data with product purchases.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [14, 20],
+        "question": "Which item appears most frequently in customer transactions?",
+        "answer": "Milk is the most frequently purchased item.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [27, 33, 38],
+        "question": "What are the most frequently co-purchased product pairs?",
+        "answer": "Bread and butter are the most frequently co-purchased items.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [46, 53, 61],
+        "question": "Which association rule has the highest support?",
+        "answer": "The rule {coffee} → {sugar} has the highest support value.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [69, 75, 82],
+        "question": "Which product combination has the strongest lift score?",
+        "answer": "Eggs and bacon have the strongest lift value, suggesting a strong relationship.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [90, 97, 103],
+        "question": "How do customer purchase patterns change based on the time of day?",
+        "answer": "Morning transactions include more coffee and pastries, while evening transactions see higher snack sales.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [110, 117, 125],
+        "question": "What product bundles are best suited for discounts or promotions?",
+        "answer": "Discounting cereal led to increased sales of milk and fruit.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [132, 140, 147],
+        "question": "What are the top cross-selling opportunities found in the analysis?",
+        "answer": "Customers who buy pasta also frequently purchase pasta sauce.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [155, 162, 170],
+        "question": "How does a discount on one item affect related product sales?",
+        "answer": "A discount on bread led to increased purchases of butter and jam.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [178, 185, 192],
+        "question": "How can store layout optimization improve product sales?",
+        "answer": "Placing chips closer to soda increased combined sales.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    }
+]

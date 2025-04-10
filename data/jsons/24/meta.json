@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/seesea0203/umich-si650-nlp"],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/ezeokegodswill/sentiment-analysis-with-lstm/notebook",
+    "domain": "Science",
+    "help_data_file_names": ["train.csv"]
+}

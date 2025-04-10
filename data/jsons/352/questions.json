@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "How many teams participated in the FIFA World Cup 2018 dataset?",
+        "answer": "The dataset contains data on 32 teams that participated in the FIFA World Cup 2018.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [12, 15],
+        "question": "What key interactive visualizations are used in the World Cup analysis?",
+        "answer": "The analysis uses rankings heatmaps, match performance scatter plots, and tournament progression visualizations.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which team had the highest FIFA ranking before the tournament started?",
+        "answer": "Germany had the highest FIFA ranking before the tournament started.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [21, 23],
+        "question": "What was the average number of goals scored per match in the tournament?",
+        "answer": "The average number of goals scored per match in the tournament was 2.64.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [26, 29],
+        "question": "How did team rankings correlate with their performance in the World Cup?",
+        "answer": "Higher-ranked teams generally performed better, but there were surprises like Croatia reaching the final.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [32, 35, 38],
+        "question": "What insights can be derived from goal distributions in different match stages?",
+        "answer": "More goals were scored in the group stage than in knockout rounds, highlighting defensive strategies in later matches.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [41],
+        "question": "Which factor had the highest influence on match outcomes?",
+        "answer": "FIFA ranking, team form, and goal-scoring efficiency had the highest influence on match outcomes.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [44, 47, 50],
+        "question": "What is the impact of penalty shootouts on World Cup progression?",
+        "answer": "Several teams advanced through penalty shootouts, emphasizing their importance in knockout stages.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [53, 56, 59, 62],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "Interactive visualizations reveal trends in rankings, goal-scoring patterns, and upsets in the World Cup.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "goal": "Identify frequent itemsets and association rules from market basket transactions to uncover purchasing patterns.",
+    "persona": "An experienced data analyst specializing in retail analytics with over 7 years of experience. Focuses on discovering consumer purchasing behavior patterns to optimize product placement and strategies, skilled in data mining techniques and adept at using algorithms for market basket analysis."
+}

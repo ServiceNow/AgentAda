@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdallahwagih/books-dataset",
+        "https://www.kaggle.com/datasets/valakhorasani/best-books-of-the-decade-2020s",
+        "https://www.kaggle.com/datasets/meastanmay/imdb-dataset",
+        "https://www.kaggle.com/datasets/rajkumardubey10/amazon-book-dataset30000-books-with-30-category",
+        "https://www.kaggle.com/datasets/ratnesh7739/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/tohid2974/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/nik1028/movierecommendation",
+        "https://www.kaggle.com/datasets/alfarisbachmid/personalized-recommendation-systems-dataset",
+        "https://www.kaggle.com/datasets/vishalmahadik/movies-recommendation-system-using-python-collab"
+    ],
+    "dataset_description": "During the last few decades, with the rise of Youtube, Amazon, Netflix and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys. In a very general way, recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy or anything else depending on industries).",
+    "notebook_url": "https://www.kaggle.com/code/alnourabdalrahman9/collaborative-filtering-books-recommendation",
+    "domain": "Literature",
+    "help_data_file_names": ["Users.csv", "Ratings.csv"]
+}

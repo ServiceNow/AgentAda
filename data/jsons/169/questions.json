@@ -1,0 +1,103 @@
+[
+    {
+        "cell_ids": [
+            1,
+             2,
+             3,
+            4,
+            5
+        ],
+        "question": "What are the main features (columns) of the movie and rating datasets used in this notebook?",
+        "answer": "The movie dataset has 'movieId', 'title', and 'genres' columns; the rating dataset has 'userId', 'movieId', 'rating', and 'timestamp' columns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            1,
+             2,
+             3,
+             4,
+            5
+        ],
+       "question": "What type of collaborative filtering is the focus of this notebook?",
+       "answer": "The notebook focuses on user-based collaborative filtering.",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            6,7,8
+        ],
+        "question": "How does the notebook handle movie titles with release year?",
+        "answer": "The notebook extracts the release year from movie titles and stores it in a separate column, removing it from the original title strings.",
+        "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+     {
+       "cell_ids": [
+        8,9,10
+        ],
+        "question": "Why is the genres column dropped from the dataframe?",
+         "answer": "The 'genres' column is dropped because user-based collaborative filtering does not use the content-based attributes.",
+        "task": "Feature Importance Ranking",
+         "skill": "Basic Data Analysis"
+    },
+     {
+        "cell_ids": [
+            11,12
+        ],
+        "question": "Why is the timestamp column dropped from the ratings dataset?",
+       "answer": "The timestamp column is dropped as it is not used in the user-based collaborative filtering approach.",
+       "task": "Feature Importance Ranking",
+       "skill": "Basic Data Analysis"
+    },
+   {
+        "cell_ids": [
+            13,
+            14,
+            15
+        ],
+         "question": "How does the notebook represent a user's movie preferences for the collaborative filtering?",
+         "answer": "A user's movie preferences are represented as a DataFrame containing movies and their ratings that the user has watched, and then used to get the subset of users that watched the same movies.",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+   {
+        "cell_ids": [
+           16,
+             17,18, 19, 20
+        ],
+       "question": "How are users who watched the same movies identified?",
+       "answer": "Users who watched the same movies are identified by grouping the rating data by 'userId' and then filtering out the users who have watched movies in the input user list.",
+        "task": "Recommendation Systems",
+       "skill": "Collaborative Filtering"
+    },
+     {
+        "cell_ids": [
+           20,21, 22,23,24,25
+        ],
+        "question": "How is the similarity between users calculated?",
+        "answer": "The similarity between users is calculated using the Pearson Correlation Coefficient applied on user's ratings of the common movies. ",
+        "task": "Recommendation Systems",
+        "skill": "Pearson Correlation"
+    },
+  {
+        "cell_ids": [
+            26,27,28,29
+        ],
+         "question": "How are the most similar users selected for the input user?",
+        "answer": "The most similar users are selected by sorting the user similarity scores from Pearson Correlation Coefficient in descending order, using a threshold for the correlation score.",
+         "task": "Recommendation Systems",
+       "skill": "Pearson Correlation"
+    },
+    {
+        "cell_ids": [
+            30, 31, 32, 33, 34, 35, 36
+        ],
+        "question": "How are the weighted average recommendation scores calculated?",
+       "answer": "The weighted average recommendation scores are calculated by multiplying each movie rating by the corresponding user's similarity score, and averaging these weighted scores for each movie.",
+        "task": "Recommendation Systems",
+         "skill": "Collaborative Filtering"
+    }
+]

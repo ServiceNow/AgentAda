@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification",
+        "https://www.kaggle.com/datasets/julienjta/engine-acoustic-emissions",
+        "https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation",
+        "https://www.kaggle.com/datasets/shashanknecrothapa/machine-failure-predictions",
+        "https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets",
+        "https://www.kaggle.com/datasets/ziya07/engine-fault-detection-data",
+        "https://www.kaggle.com/datasets/mariyamalshatta/renewind",
+        "https://www.kaggle.com/datasets/vamshikreddy/pm-dataset",
+        "https://www.kaggle.com/datasets/brjapon/cwru-bearing-datasets",
+        "https://www.kaggle.com/datasets/aryansingh0909/indian-patent-dataset",
+        "https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020",
+        "https://www.kaggle.com/datasets/afrniomelo/3w-dataset",
+        "https://www.kaggle.com/datasets/mujtabamatin/dataset-for-machine-failure-detection",
+        "https://www.kaggle.com/datasets/abdelazizsami/predictive-maintenance-dataset",
+        "https://www.kaggle.com/datasets/nphantawee/pump-sensor-data",
+        "https://www.kaggle.com/datasets/matarrgaye/uk-consumer-trends-current-price",
+        "https://www.kaggle.com/datasets/thrasy/french-nuclear-reactors-availability-20152021",
+        "https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data",
+        "https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset",
+        "https://www.kaggle.com/datasets/stealthtechnologies/car-evaluation-classification"
+    ],
+    "dataset_description": "Since real predictive maintenance datasets are generally difficult to obtain and in particular difficult to publish, we present and provide a synthetic dataset that reflects real predictive maintenance encountered in the industry to the best of our knowledge.",
+    "notebook_url": "https://www.kaggle.com/code/renanmour4/maintenance-classification",
+    "domain": "Maintenance",
+    "help_data_file_names": []
+}

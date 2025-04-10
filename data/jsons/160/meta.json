@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop",
+        "https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset",
+        "https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset",
+        "https://www.kaggle.com/datasets/saadaziz1985/bachelors-or-higher-degree-data-of-usa",
+        "https://www.kaggle.com/datasets/meastanmay/imdb-dataset",
+        "https://www.kaggle.com/datasets/muhammadbinimran/movie-recommendation-system-prediction-dataset",
+        "https://www.kaggle.com/datasets/ranitsarkar01/movies-recommender-system-dataset",
+        "https://www.kaggle.com/datasets/saadaziz1985/employment-to-population-of-the-world",
+        "https://www.kaggle.com/datasets/olxdatascience/olx-jobs-interactions",
+        "https://www.kaggle.com/datasets/trishna8/movielens-100k-dataset",
+        "https://www.kaggle.com/datasets/pavanigardas/movie-lens",
+        "https://www.kaggle.com/datasets/tohid2974/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/thedevastator/restaurant-and-consumer-context-aware-recommenda",
+        "https://www.kaggle.com/datasets/nik1028/movierecommendation",
+        "https://www.kaggle.com/datasets/alfarisbachmid/personalized-recommendation-systems-dataset",
+        "https://www.kaggle.com/datasets/vishalmahadik/movies-recommendation-system-using-python-collab",
+        "https://www.kaggle.com/datasets/sudekaya/hybrid-recommender-system",
+        "https://www.kaggle.com/datasets/pypiahmad/behance-community-art-data",
+        "https://www.kaggle.com/datasets/hamza12378/movie-recommender"
+    ],
+    "dataset_description": "The datasets describe ratings and free-text tagging activities from MovieLens, a movie recommendation service. It contains 20000263 ratings and 465564 tag applications across 27278 movies. These data were created by 138493 users between January 09, 1995 and March 31, 2015. This dataset was generated on October 17, 2016.",
+    "notebook_url": "https://www.kaggle.com/code/mehmetisik/item-based-collaborative-filtering",
+    "domain": "Entertainment",
+    "help_data_file_names": ["rating.csv"]
+}

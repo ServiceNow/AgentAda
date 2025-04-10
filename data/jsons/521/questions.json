@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What is the total number of records in the dataset?",
+        "answer": "The dataset contains 850,000 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [36, 52],
+        "question": "What is the mean value of the time series observations?",
+        "answer": "The mean value of the dataset is approximately 0.0042.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [67, 85, 99],
+        "question": "What patterns are observed in the high-frequency components after wavelet decomposition?",
+        "answer": "The high-frequency components show transient bursts corresponding to anomaly events in the dataset.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [113, 129, 144, 158],
+        "question": "How does wavelet packet decomposition enhance signal separation compared to standard wavelet decomposition?",
+        "answer": "Wavelet packet decomposition provides a finer granularity in separating frequency bands, improving the detection of subtle patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [172, 186, 197],
+        "question": "What percentage of total variance is explained by the first four wavelet decomposition levels?",
+        "answer": "The first four levels explain approximately 90% of the total variance in the dataset.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [21, 39, 58, 74],
+        "question": "Are there significant anomalies detected in the decomposed wavelet components?",
+        "answer": "Yes, anomalies are primarily detected in the high-frequency bands, coinciding with known system faults.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [104, 118, 136],
+        "question": "What trends are revealed by the low-frequency components after wavelet decomposition?",
+        "answer": "The low-frequency components indicate gradual drifts in the system over time, likely due to seasonal variations.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [147, 162, 178, 191],
+        "question": "How does the energy distribution change across different wavelet packet decomposition levels?",
+        "answer": "Lower decomposition levels capture most of the energy, while higher levels retain transient fluctuations and noise.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [182, 199],
+        "question": "What effect does wavelet thresholding have on the reconstructed signal?",
+        "answer": "Wavelet thresholding reduces noise and enhances key signal features while maintaining important patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [48, 63, 78],
+        "question": "How do wavelet decomposition coefficients correlate with external environmental factors?",
+        "answer": "The coefficients show strong correlations with temperature fluctuations and external load conditions.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

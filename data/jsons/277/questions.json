@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of the Helsinki city bike network?",
+        "answer": "The dataset represents a network of bike stations in Helsinki, where nodes are stations and edges represent trips between them.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the key attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the number of trips between bike stations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4, 5],
+        "question": "How many bike stations and trips are represented in the network?",
+        "answer": "The network contains 150 bike stations and 20,000 trips.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "Which bike station has the highest degree in the network?",
+        "answer": "The Central Railway Station has the highest degree, connecting to 45 other stations.",
+        "task": "Network Analysis",
+        "skill": "Louavin Method"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What is the average clustering coefficient of the bike station network?",
+        "answer": "The average clustering coefficient of the network is 0.21.",
+        "task": "Network Analysis",
+        "skill": "Louavin Method"
+    },
+    {
+        "cell_ids": [9, 10, 11],
+        "question": "Which bike station has the highest Louavin Method score, and what is the value?",
+        "answer": "The Market Square station has the highest Louavin Method score of 0.054.",
+        "task": "Network Analysis",
+        "skill": "Louavin Method"
+    },
+    {
+        "cell_ids": [12, 13],
+        "question": "How many connected components exist in the bike network?",
+        "answer": "The bike network has 3 connected components.",
+        "task": "Network Analysis",
+        "skill": "Louavin Method"
+    },
+    {
+        "cell_ids": [14, 15, 16],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, while some edges have weights as high as 50, representing frequent trips.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of bike stations has the highest weight, and what does it represent?",
+        "answer": "The Central Railway Station and Market Square have the highest weight of 50, representing the most frequent trips between them.",
+        "task": "Network Analysis",
+        "skill": "Louavin Method"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the diameter of the Helsinki bike network?",
+        "answer": "The diameter of the network is 8, representing the longest shortest path between any two stations.",
+        "task": "Network Analysis",
+        "skill": "Louavin Method"
+    }
+]

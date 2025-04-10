@@ -1,0 +1,18 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database"
+    ],
+    "dataset_description": "This is the sample database from sqlservertutorial.net. This is a great dataset for learning SQL and practicing querying relational databases.",
+    "notebook_url": "https://www.kaggle.com/code/dillonmyrick/sql-beginner-to-advanced-with-practical-examples",
+    "domain": "Business",
+    "help_data_file_names": [
+        "brands.csv",
+        "categories.csv",
+        "customers.csv",
+        "order_items.csv",
+        "orders.csv",
+        "staffs.csv",
+        "stocks.csv",
+        "stores.csv"
+    ]
+}

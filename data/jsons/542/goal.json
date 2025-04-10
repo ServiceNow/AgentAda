@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze business reviews and interaction patterns to enhance recommendation systems.",
+    "persona": "A data analyst specializing in recommendation systems, with 7 years of experience in user interaction analysis and data preprocessing techniques. They aim to improve customer experience by implementing sophisticated matrix factorization techniques like SVD to optimize recommendation accuracy. Keen on leveraging data-driven insights to solve challenges related to data sparsity and improve the scalability of large datasets."
+}

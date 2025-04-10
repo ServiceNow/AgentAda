@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/patricklford/life-but-not-as-we-know-it"
+    ],
+    "dataset_description": "Do you laugh (and then get down to work) in the face of terabytes of noisy, non-stationary data? Winton Capital is looking for data scientists who excel at finding the hidden signal in the proverbial haystack, and who are excited by creating novel statistical modelling and data mining techniques. ",
+    "notebook_url": "https://www.kaggle.com/code/neomatrix369/everything-you-can-do-with-a-time-series-stocks",
+    "domain": "Business",
+    "help_data_file_names": ["train.csv"]
+}

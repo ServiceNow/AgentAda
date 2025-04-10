@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/g-research-crypto-forecasting"
+    ],
+    "dataset_description": "This dataset contains information on historic trades for several cryptoassets, such as Bitcoin and Ethereum. Your challenge is to predict their future returns.",
+    "notebook_url": "https://www.kaggle.com/code/carlmcbrideellis/granger-causality-part-ii-the-movie",
+    "domain": "Finance",
+    "help_data_file_names": ["train.csv"]
+}

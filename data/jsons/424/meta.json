@@ -1,0 +1,13 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/yuriykatser/skoltech-anomaly-benchmark-skab",
+        "https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies",
+        "https://www.kaggle.com/datasets/khushipitroda/uci-dataset",
+        "https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset",
+        "https://www.kaggle.com/datasets/wallacefqq/yichang-data"
+    ],
+    "dataset_description": "It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.",
+    "notebook_url": "https://www.kaggle.com/code/tanvikurade/anomaly-detection-using-isolation-forest",
+    "domain": "Anomaly",
+    "help_data_file_names": []
+}

@@ -1,0 +1,104 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What is the size of the Twitter dataset used for sentiment analysis, and how are the sentiment labels distributed?",
+        "answer": "The dataset contains 30,000 tweets, evenly split between positive and negative sentiments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+            4,
+            5
+        ],
+        "question": "What preprocessing steps are applied to the tweets before training the LSTM model?",
+        "answer": "Preprocessing includes tokenizing the tweets, converting them to sequences, and padding to a fixed length of 100.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            6,
+            7
+        ],
+        "question": "What embedding size is used in the LSTM model, and how does it impact performance?",
+        "answer": "The embedding size is set to 128, providing a good balance between capturing semantic meaning and computational cost.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            8
+        ],
+        "question": "What accuracy does the LSTM model achieve on the test dataset?",
+        "answer": "The LSTM model achieves an accuracy of 84% on the test dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            9,
+            10
+        ],
+        "question": "What types of tweets are most frequently misclassified by the LSTM model?",
+        "answer": "Tweets containing sarcasm or ambiguous sentiments are most frequently misclassified.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            11,
+            12,
+            13
+        ],
+        "question": "How does varying the number of LSTM units impact the model's accuracy?",
+        "answer": "Increasing the number of LSTM units improves performance up to 64 units, beyond which accuracy plateaus.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            14,
+            15
+        ],
+        "question": "What is the role of the dropout layer in the LSTM model?",
+        "answer": "The dropout layer prevents overfitting by randomly deactivating 20% of neurons during training.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            16,
+            17
+        ],
+        "question": "What are the most common words in tweets classified as positive sentiment?",
+        "answer": "Words like 'happy', 'great', and 'love' are frequently found in positive tweets.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            18,
+            19
+        ],
+        "question": "How does the model's performance vary with different batch sizes?",
+        "answer": "A batch size of 32 provides the best balance between training time and accuracy.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            20,
+            21,
+            22
+        ],
+        "question": "What is the effect of review length on the LSTM model's accuracy?",
+        "answer": "The model performs better on tweets with lengths between 20 and 50 words, with reduced accuracy for very short or very long tweets.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    }
+]

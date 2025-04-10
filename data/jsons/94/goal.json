@@ -1,0 +1,4 @@
+{
+    "goal": "Identify trends and seasonal patterns in sales data to forecast future sales.",
+    "persona": "A data analyst specializing in retail analytics with expertise in time series analysis and forecasting. They are focused on leveraging historical sales data to provide actionable insights for inventory planning and sales strategy, using advanced forecasting models like Prophet to align forecasts with historical trends."
+}

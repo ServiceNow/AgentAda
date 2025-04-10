@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mystifoe77/nasa-battery-data-cleaned"
+    ],
+    "dataset_description": "The Hawaii Natural Energy Institute examined 14 NMC-LCO 18650 batteries with a nominal capacity of 2.8 Ah, which were cycled over 1000 times at 25°C with a CC-CV charge rate of C/2 rate and discharge rate of 1.5C.",
+    "notebook_url": "https://www.kaggle.com/code/carlkirstein/predictive-maintenance-batteries-rul",
+    "domain": "Energy",
+    "help_data_file_names": []
+}

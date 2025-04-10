@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/tabular-playground-series-apr-2022"
+    ],
+    "dataset_description": "In this competition, you'll classify 60-second sequences of sensor data, indicating whether a subject was in either of two activity states for the duration of the sequence.",
+    "notebook_url": "https://www.kaggle.com/code/ohseokkim/tps-apr-let-s-go-over-the-wall-mwdn",
+    "domain": "Science",
+    "help_data_file_names": [
+        "train.csv"
+    ]
+}

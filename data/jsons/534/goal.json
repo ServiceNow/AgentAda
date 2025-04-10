@@ -1,0 +1,4 @@
+{
+    "goal": "Explore time series data to identify trends, seasonal patterns, and anomalies using wavelet decomposition.",
+    "persona": "An environmental data analyst with 7 years of experience in hydrology, specialized in time series analysis to monitor groundwater levels and climate patterns. They are interested in applying advanced wavelet techniques to uncover long-term trends and short-term fluctuations in environmental datasets for improved water resource management and climate assessments."
+}

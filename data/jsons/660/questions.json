@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What dataset was used for market basket analysis?",
+        "answer": "The dataset contains transactional records of customer purchases, listing items bought together.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [15, 20],
+        "question": "Which item combination had the highest support value?",
+        "answer": "Milk and bread had the highest support value, indicating frequent co-purchases.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [27, 35, 42],
+        "question": "What association rule had the highest confidence score?",
+        "answer": "The rule {butter} → {bread} had the highest confidence, suggesting strong association.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [50, 58, 65],
+        "question": "Which products were frequently bought together according to the analysis?",
+        "answer": "Tea and sugar, eggs and bacon, and pasta and tomato sauce were commonly purchased together.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [73, 80, 88],
+        "question": "What lift value indicated the strongest product relationship?",
+        "answer": "The pair {coffee} → {sugar} had the highest lift value, indicating strong cross-promotion potential.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [95, 103, 110],
+        "question": "What time-based trends were observed in customer purchases?",
+        "answer": "Customers tended to buy snacks and beverages together more frequently in the evening.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [118, 126, 133],
+        "question": "Which product categories were recommended for bundling based on the analysis?",
+        "answer": "Dairy and bakery products were suggested for bundling due to high co-purchase frequency.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [140, 148, 155],
+        "question": "How did the introduction of discounts affect purchasing behavior?",
+        "answer": "Discounting pasta led to an increase in tomato sauce sales.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [163, 170, 178],
+        "question": "Which products were identified as loss leaders to drive additional sales?",
+        "answer": "Milk and bread were identified as loss leaders, driving increased purchases of complementary items.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [185, 192, 198],
+        "question": "How should store layout be adjusted based on market basket analysis?",
+        "answer": "Placing frequently co-purchased items closer together, such as snacks near beverages, was recommended.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    }
+]

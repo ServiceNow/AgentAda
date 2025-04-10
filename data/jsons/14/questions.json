@@ -1,0 +1,104 @@
+[
+    {
+        "cell_ids": [
+            1
+        ],
+        "question": "What is the size of the Twitter dataset used for sentiment analysis, and how are the sentiment labels distributed?",
+        "answer": "The dataset contains 20,000 tweets, evenly split between positive and negative sentiments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+            4,
+            5
+        ],
+        "question": "What preprocessing steps are applied to the tweets before training the LSTM model?",
+        "answer": "Steps include tokenization, converting text to sequences, padding, and truncating to a fixed length.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            6,
+            7
+        ],
+        "question": "What is the maximum sequence length used for the LSTM model, and why was it chosen?",
+        "answer": "The maximum sequence length is set to 100 to balance computational efficiency and retaining sufficient context.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            8,
+            9,
+            10
+        ],
+        "question": "What is the embedding size used in the LSTM model, and how does it impact the performance?",
+        "answer": "The embedding size is set to 128, providing a balance between capturing semantic meaning and computational cost.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            12
+        ],
+        "question": "What accuracy does the LSTM model achieve on the test dataset?",
+        "answer": "The LSTM model achieves 85% accuracy on the test dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            14,
+            15
+        ],
+        "question": "What types of tweets are most frequently misclassified by the LSTM model?",
+        "answer": "Tweets with mixed sentiments or containing sarcasm are most frequently misclassified.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            16,
+            17,
+            18
+        ],
+        "question": "How does varying the number of LSTM units impact the model's performance?",
+        "answer": "Increasing the number of LSTM units improves performance up to 64 units, beyond which there is diminishing returns.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            20,
+            21
+        ],
+        "question": "What role does the dropout rate play in the LSTM model's performance?",
+        "answer": "A dropout rate of 0.2 reduces overfitting and improves generalization.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [
+            23,
+            24
+        ],
+        "question": "What are the most common words in tweets with positive sentiment?",
+        "answer": "Words like 'great', 'happy', and 'love' are most common in positive sentiment tweets.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            25,
+            26,
+            27
+        ],
+        "question": "What is the impact of review length on the accuracy of the LSTM model?",
+        "answer": "The model performs best on tweets between 20 and 50 words, with lower accuracy for shorter or longer tweets.",
+        "task": "Sentiment Analysis",
+        "skill": "LSTM"
+    }
+]

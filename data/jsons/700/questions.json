@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "Which tables were joined to correlate earthquake magnitudes with affected regions?",
+        "answer": "The 'earthquakes' and 'regions' tables were joined to correlate earthquake magnitudes with affected regions.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    },
+    {
+        "cell_ids": [33, 45],
+        "question": "How was indexing applied to improve query performance when filtering earthquakes by date?",
+        "answer": "B+ Tree Indexing was applied to the 'earthquakes' table to optimize filtering by earthquake date.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [59, 72, 88],
+        "question": "What indexing method was used to efficiently retrieve earthquakes based on severity levels?",
+        "answer": "Bitmap Indexing was implemented on the 'earthquakes' table to improve filtering based on severity levels.",
+        "task": "Multi-table Search",
+        "skill": "Bitmap Indexing"
+    },
+    {
+        "cell_ids": [102, 117],
+        "question": "Which join algorithm was utilized to efficiently merge geological fault data with earthquake records?",
+        "answer": "A Hash Join algorithm was used to merge geological fault data with earthquake records.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    },
+    {
+        "cell_ids": [129, 143, 157],
+        "question": "How did B+ Tree Indexing impact query performance when searching for earthquake records from a specific year?",
+        "answer": "B+ Tree Indexing reduced query execution time by optimizing searches for earthquake records from a specific year.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [169, 182, 195],
+        "question": "How was Bitmap Indexing leveraged to optimize location-based earthquake searches?",
+        "answer": "Bitmap Indexing was used on the 'earthquakes' table to enhance efficiency for location-based filtering.",
+        "task": "Multi-table Search",
+        "skill": "Bitmap Indexing"
+    }
+]

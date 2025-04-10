@@ -1,0 +1,4 @@
+{
+    "goal": "Complete missing values in the dataset using KNN imputation to preserve data integrity.",
+    "persona": "A data scientist specializing in data preprocessing with a strong background in statistical analysis and machine learning algorithms. They have 3 years of experience in handling large-scale datasets, focusing on improving data quality and ensuring the efficacy of machine learning models. They are keen on exploring advanced imputation techniques to maintain feature relationships and enhance prediction accuracy in subsequent analyses."
+}

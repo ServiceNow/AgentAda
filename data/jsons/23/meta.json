@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/anu0012/hotel-review"],
+    "dataset_description": "Hotel reviews given by customers.",
+    "notebook_url": "https://www.kaggle.com/code/hilalmleykeyuksel/sentiment-analysis-with-lstm/notebook",
+    "domain": "Marketing",
+    "help_data_file_names": []
+}

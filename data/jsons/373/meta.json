@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020"
+    ],
+    "dataset_description": "This synthetic dataset is modeled after an existing milling machine and consists of 10 000 data points from a stored as rows with 14 features in columns",
+    "notebook_url": "https://www.kaggle.com/code/zakikurdya/predictive-maintenance/notebook",
+    "domain": "Maintenance",
+    "help_data_file_names": []
+}

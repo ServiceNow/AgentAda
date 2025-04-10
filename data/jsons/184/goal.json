@@ -1,0 +1,4 @@
+{
+    "goal": "Provide movie recommendations based on user ratings using collaborative filtering.",
+    "persona": "A data analyst with specialization in recommendation systems, highly skilled in collaborative filtering techniques and matrix factorization methods, with a focus on providing personalized movie recommendations to enhance user experience. They are interested in leveraging data-driven approaches to improve content delivery systems."
+}

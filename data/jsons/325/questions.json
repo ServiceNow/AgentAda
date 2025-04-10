@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "How many transactions and unique items are present in the dataset?",
+        "answer": "The dataset contains 9835 transactions with 169 unique items.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 11],
+        "question": "Which item appears most frequently in transactions?",
+        "answer": "'Whole milk' appears most frequently in transactions, with a total count of 2513 purchases.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13],
+        "question": "What is the minimum support threshold used for frequent itemset generation using ECLAT?",
+        "answer": "The minimum support threshold used for ECLAT is 0.005.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [14, 16],
+        "question": "How many frequent itemsets were generated using ECLAT?",
+        "answer": "The ECLAT algorithm generated 67 frequent itemsets.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [15],
+        "question": "Which itemsets have the highest support values?",
+        "answer": "The most frequently purchased itemsets include ('whole milk', 'yogurt') and ('rolls/buns', 'butter') with support values of 0.07 and 0.06, respectively.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which itemset has the highest combination frequency?",
+        "answer": "The itemset {'whole milk', 'yogurt'} has the highest combination frequency with 712 occurrences.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [19, 21, 22],
+        "question": "Which items are most frequently purchased together in the dataset?",
+        "answer": "The most frequently purchased itemsets include ('whole milk', 'yogurt') and ('citrus fruit', 'tropical fruit').",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [24],
+        "question": "Which itemset has the strongest association rule based on support?",
+        "answer": "The strongest association rule based on support is {'pasta'} → {'grated cheese'} with a support value of 0.021.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [25, 27, 28, 30],
+        "question": "What insights can be derived from the discovered frequent itemsets?",
+        "answer": "The frequent itemsets indicate that customers who buy 'whole milk' often buy 'yogurt', and those who buy 'citrus fruit' frequently purchase 'tropical fruit'.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "How many unique time points are present in the dataset?",
+        "answer": "The dataset contains 1,825 unique time points.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [23, 37],
+        "question": "What is the distribution of missing values in the dataset?",
+        "answer": "The dataset has missing values in 3 columns, primarily in the sales and inventory records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [54, 67, 72],
+        "question": "How do high-frequency wavelet components correlate with sudden changes in the time series?",
+        "answer": "High-frequency components capture rapid fluctuations, often indicating short-term events or anomalies in the data.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [85, 96, 104, 118],
+        "question": "What insights can be gained from analyzing the low-frequency wavelet coefficients?",
+        "answer": "Low-frequency coefficients represent long-term trends, helping identify seasonality and overall structural patterns in the time series.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [132, 144, 159],
+        "question": "How does the energy distribution in different decomposition levels affect interpretability?",
+        "answer": "Higher energy at finer levels suggests transient events, while more energy in coarse levels reflects dominant long-term trends.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [48, 63, 79, 92],
+        "question": "How does wavelet-based feature extraction improve anomaly detection in the time series?",
+        "answer": "Wavelet decomposition isolates transient fluctuations, allowing better identification of unusual patterns and outliers.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [107, 126, 138],
+        "question": "How do different wavelet families impact the smoothness and resolution of the decomposition?",
+        "answer": "Wavelet families with shorter support retain more details, while longer support wavelets yield smoother decompositions.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [153, 168, 177, 192],
+        "question": "What role does thresholding play in denoising the decomposed signal?",
+        "answer": "Thresholding removes insignificant coefficients, reducing noise while preserving critical signal structures.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [184, 198],
+        "question": "How does reconstructing the signal from selected wavelet coefficients affect trend preservation?",
+        "answer": "Reconstructing from low-frequency components retains global trends, while high-frequency components add finer details.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [42, 58, 73],
+        "question": "How do wavelet-based features enhance predictive modeling in time series forecasting?",
+        "answer": "Wavelet features decompose signals into interpretable components, improving feature selection for forecasting models.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

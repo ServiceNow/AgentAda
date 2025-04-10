@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war",
+        "https://www.kaggle.com/datasets/valencar/terrorism-attack-in-the-world",
+        "https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets",
+        "https://www.kaggle.com/datasets/kaushiksuresh147/data-visualization-cheat-cheats-and-resources",
+        "https://www.kaggle.com/datasets/javierspdatabase/global-online-orders",
+        "https://www.kaggle.com/datasets/pljvpr/covid19pluspopulations",
+        "https://www.kaggle.com/datasets/nisshaachoudhary/store-data-analysis-using-ms-excel",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/vishnuvardhan33/netflix-recommendations-interactive-visualization",
+        "https://www.kaggle.com/datasets/kingabzpro/pakistan-engineers-data",
+        "https://www.kaggle.com/datasets/mesumraza/corona-virus-pakistan-dataset-2020",
+        "https://www.kaggle.com/datasets/lorentzyeung/all-japanese-anime-titles-in-imdb",
+        "https://www.kaggle.com/datasets/rtatman/independence-days",
+        "https://www.kaggle.com/datasets/kingabzpro/world-vaccine-progress",
+        "https://www.kaggle.com/datasets/alistairking/public-company-esg-ratings-dataset",
+        "https://www.kaggle.com/datasets/songseungwon/2020-udemy-courses-dataset",
+        "https://www.kaggle.com/datasets/arianghasemi/iran-phone-ads",
+        "https://www.kaggle.com/datasets/claytonmiller/ashrae-global-thermal-comfort-database-ii",
+        "https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder",
+        "https://www.kaggle.com/datasets/lachmann12/human-liver-rnaseq-gene-expression-903-samples"
+    ],
+    "dataset_description": "Air pollution is the contamination of air due to the presence of substances in the atmosphere that are harmful to the health of humans and other living beings, or cause damage to the climate or to materials. There are many different types of air pollutants, such as gases (including ammonia, carbon monoxide, sulfur dioxide, nitrous oxides, methane, carbon dioxide and chlorofluorocarbons), particulates (both organic and inorganic), and biological molecules. Air pollution can cause diseases, allergies, and even death to humans; it can also cause harm to other living organisms such as animals and food crops, and may damage the natural environment (for example, climate change, ozone depletion or habitat degradation) or built environment (for example, acid rain). Both human activity and natural processes can generate air pollution.",
+    "notebook_url": "https://www.kaggle.com/code/shubham219/interactive-visualization",
+    "domain": "Environment",
+    "help_data_file_names": ["indian_cities.csv"]
+}

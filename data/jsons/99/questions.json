@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the overall trend observed in the Chennai gold rate dataset over the recorded period?",
+        "answer": "The dataset shows an increasing trend in gold rates, with occasional sharp spikes.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the average monthly gold rate recorded in the dataset?",
+        "answer": "The average monthly gold rate is approximately ₹4,800 per gram.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What seasonal patterns are evident in the Chennai gold rate data?",
+        "answer": "Seasonal peaks are observed during festival seasons, particularly in October and November.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest recorded gold rate in the dataset, and in which month and year did it occur?",
+        "answer": "The highest recorded gold rate is ₹5,200 per gram, observed in August 2020.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "What are the forecasted gold rates for the next 6 months using the Prophet model?",
+        "answer": "The forecasted gold rates range from ₹4,900 to ₹5,100 per gram, following historical trends.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What does the dataset indicate about the volatility of gold rates over time?",
+        "answer": "The dataset shows moderate volatility, with sharper fluctuations during economic uncertainties.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How do the forecasted gold rates align with historical seasonal trends?",
+        "answer": "The forecasted rates align closely with historical trends, capturing seasonal peaks during festivals.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    },
+    {
+        "cell_ids": [12],
+        "question": "Were there any missing values in the dataset, and how were they handled?",
+        "answer": "The dataset contained missing values for two months, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What insights can be drawn about the long-term trend and seasonal patterns in gold rates?",
+        "answer": "The dataset indicates steady long-term growth in gold rates with predictable seasonal peaks during festive periods.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What external factors might influence the forecasted trends in Chennai gold rates?",
+        "answer": "External factors such as international gold prices, currency fluctuations, and economic policies could significantly impact gold rates.",
+        "task": "Forecasting",
+        "skill": "Prophet"
+    }
+]

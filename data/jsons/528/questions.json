@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [19],
+        "question": "What is the total number of samples in the dataset?",
+        "answer": "The dataset contains 12,500 samples.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [35, 48],
+        "question": "What is the average amplitude of the recorded signals in the dataset?",
+        "answer": "The average amplitude of the signals is approximately 0.45.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [53, 71, 88],
+        "question": "How does wavelet decomposition help in identifying eye movement patterns?",
+        "answer": "Wavelet decomposition isolates frequency components that correspond to different eye movement behaviors, enhancing feature extraction.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [102, 116, 132, 145],
+        "question": "What insights can be gained from analyzing the approximation and detail coefficients of wavelet decomposition?",
+        "answer": "Approximation coefficients highlight general signal trends, while detail coefficients capture rapid changes related to movement events.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [157, 169, 181],
+        "question": "How does wavelet decomposition enhance the ability to distinguish between different types of eye movements?",
+        "answer": "Wavelet decomposition separates movement-related frequency patterns, improving classification accuracy.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [61, 79, 97, 114],
+        "question": "What effect does thresholding have on noise reduction in the decomposed wavelet coefficients?",
+        "answer": "Thresholding removes low-energy coefficients, reducing noise while retaining significant signal components.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [128, 144, 159],
+        "question": "How does the choice of wavelet function impact the decomposition of eye movement signals?",
+        "answer": "Shorter wavelets capture finer details, while longer wavelets provide smoother approximations of eye movement patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [173, 189],
+        "question": "What happens when reconstructing an eye movement signal using only selected wavelet coefficients?",
+        "answer": "Reconstruction with low-frequency components preserves general trends, while adding high-frequency details improves precision.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [43, 57, 75],
+        "question": "How do wavelet-derived features contribute to the classification of eye movement patterns?",
+        "answer": "Wavelet coefficients provide frequency-based insights, aiding in the distinction of different eye movement types.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [92, 110, 125, 141],
+        "question": "How does multi-resolution analysis help in extracting both fine and coarse details in the recorded signals?",
+        "answer": "Multi-resolution analysis allows the examination of signal features at various scales, capturing both micro and macro-level movement patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this form the basis for segmentation analysis?",
+      "answer": "The dataset contains 200 customers, providing a focused dataset for customer segmentation analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of annual income among customers, and how does this vary across the dataset?",
+      "answer": "Annual income ranges from $15,000 to $135,000, with most customers earning between $50,000 and $80,000.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 6, 8],
+      "question": "What is the range of spending scores in the dataset, and what patterns can be observed among high and low spenders?",
+      "answer": "Spending scores range from 1 to 99, with higher spenders typically having mid-to-high income levels.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 12],
+      "question": "How many clusters were identified using K-means, and what key characteristics define each cluster?",
+      "answer": "Five clusters were identified, categorized by varying levels of income and spending scores.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [14, 16],
+      "question": "What are the average income and spending scores for each cluster, and how do they define customer behavior?",
+      "answer": "Clusters range from low-income low-spenders to high-income high-spenders, highlighting diverse spending habits.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [18, 20],
+      "question": "What insights can be drawn about customer preferences based on their cluster assignment?",
+      "answer": "High-income high-spenders prefer premium products, while low-income customers prioritize cost-effective options.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [22, 25],
+      "question": "Which features, such as income or spending score, contribute most significantly to cluster formation?",
+      "answer": "Spending score and income are the primary factors influencing cluster formation, with income having a strong correlation.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [27, 30],
+      "question": "What are the optimal number of clusters, and how was this determined using the K-means algorithm?",
+      "answer": "The optimal number of clusters was determined to be five, based on the elbow method.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [32, 35],
+      "question": "What strategies can be recommended for each identified customer segment to enhance engagement and revenue?",
+      "answer": "Strategies include exclusive offers for high-spenders, discounts for budget-conscious segments, and personalized marketing.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    },
+    {
+      "cell_ids": [37, 40],
+      "question": "How do the characteristics of high-income low-spenders differ from those of low-income high-spenders?",
+      "answer": "High-income low-spenders focus on savings or investments, while low-income high-spenders prioritize aspirational purchases.",
+      "task": "Customer Segmentation",
+      "skill": "K-means Clustering"
+    }
+  ]
+  

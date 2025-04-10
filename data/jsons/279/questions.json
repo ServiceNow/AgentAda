@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of Indian cities network analysis?",
+        "answer": "The dataset represents a network of Indian cities, where nodes are cities and edges represent transportation or trade connections between them.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the main attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the intensity or frequency of connections between cities.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4, 5],
+        "question": "How many cities and connections are represented in the network?",
+        "answer": "The network contains 500 cities and 1,200 connections.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6],
+        "question": "Which city has the highest degree in the network?",
+        "answer": "Mumbai has the highest degree, connecting to 80 other cities.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What is the modularity of the network after applying the Louvain method?",
+        "answer": "The modularity of the network is 0.48, indicating a strong community structure.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [10, 11],
+        "question": "How many communities are detected using the Louvain method?",
+        "answer": "The Louvain method detected 15 communities in the network.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [12, 13, 14, 15],
+        "question": "Which community has the largest number of cities?",
+        "answer": "Community 5 has the largest number of cities, with 120 members.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What is the average clustering coefficient of the network?",
+        "answer": "The average clustering coefficient of the network is 0.29.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [17, 18],
+        "question": "Which pair of cities has the strongest connection, and what does it represent?",
+        "answer": "Delhi and Mumbai have the strongest connection, with a weight of 50, representing the highest trade intensity.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What is the diameter of the Indian cities network?",
+        "answer": "The diameter of the network is 10, representing the longest shortest path between any two cities.",
+        "task": "Network Analysis",
+        "skill": "Louvain Method"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1, 2],
+      "question": "What is the total time range covered by the S&P 500 stock dataset?",
+      "answer": "The dataset covers S&P 500 stock data from 2010 to 2020.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [3, 4],
+      "question": "What is the average closing price of stocks in the dataset?",
+      "answer": "The average closing price of stocks is $3,200.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 6, 7],
+      "question": "How many missing values are present in the dataset, and how are they handled?",
+      "answer": "The dataset contains no missing values.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [8, 9, 10],
+      "question": "What is the highest closing price recorded in the dataset?",
+      "answer": "The highest closing price recorded is $4,000.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [11, 12, 13],
+      "question": "What is the lowest closing price recorded in the dataset?",
+      "answer": "The lowest closing price recorded is $1,800.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [14, 15],
+      "question": "What trends are observed in stock prices over the years?",
+      "answer": "Stock prices show a steady increase, with sharp gains after 2016.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [16, 17, 18],
+      "question": "What seasonal patterns are observed in the stock prices?",
+      "answer": "Stock prices tend to peak in Q4 each year.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [19, 20, 21, 22],
+      "question": "What is the forecasted stock price for the next 6 months?",
+      "answer": "The forecasted stock price is expected to average $3,600 over the next 6 months.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [23, 24],
+      "question": "How does the actual stock price compare with the predicted stock price?",
+      "answer": "The actual stock price aligns closely with the predictions, with a mean error of $50.",
+      "task": "Forecasting",
+      "skill": "LSTM"
+    },
+    {
+      "cell_ids": [25, 26, 27],
+      "question": "What is the total volume of stocks traded in the dataset?",
+      "answer": "The total volume of stocks traded is 2 billion units.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    }
+  ]
+  

@@ -1,0 +1,20 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/terencicp/sql-challenge-e-commerce-data-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": [
+        "customers.csv",
+        "geolocation.csv",
+        "leads_closed.csv",
+        "leads_qualified.csv",
+        "order_items.csv",
+        "order_payments.csv",
+        "order_reviews.csv",
+        "product_category_name_translation.csv",
+        "products.csv",
+        "sellers.csv"
+    ]
+}

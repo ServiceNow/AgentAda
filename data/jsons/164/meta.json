@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system",
+        "https://www.kaggle.com/datasets/syedmubarak/netflix-dataset-latest-2021",
+        "https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset",
+        "https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek",
+        "https://www.kaggle.com/datasets/khushipitroda/airline-reviews",
+        "https://www.kaggle.com/datasets/muqarrishzaib/tmdb-10000-movies-dataset",
+        "https://www.kaggle.com/datasets/yakshshah/blog-recommendation-data",
+        "https://www.kaggle.com/datasets/arashnic/property-data",
+        "https://www.kaggle.com/datasets/vatsalparsaniya/post-pecommendation",
+        "https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings",
+        "https://www.kaggle.com/datasets/muhammadbinimran/movie-recommendation-system-prediction-dataset",
+        "https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg",
+        "https://www.kaggle.com/datasets/meastanmay/imdb-dataset",
+        "https://www.kaggle.com/datasets/hernan4444/animeplanet-recommendation-database-2020",
+        "https://www.kaggle.com/datasets/arifmia/comprehensive-recipe-dataset",
+        "https://www.kaggle.com/datasets/rajkumardubey10/amazon-book-dataset30000-books-with-30-category",
+        "https://www.kaggle.com/datasets/shehriaralikhan/software-houses-dataset",
+        "https://www.kaggle.com/datasets/hernan4444/animeplanet-character-recommendation",
+        "https://www.kaggle.com/datasets/shriyasingh900/netflix-dataset"
+    ],
+    "dataset_description": "This data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings.",
+    "notebook_url": "https://www.kaggle.com/code/abdallahwagih/collaborative-filtering-recommendation-system",
+    "domain": "Entertainment",
+    "help_data_file_names": ["rating.csv"]
+}

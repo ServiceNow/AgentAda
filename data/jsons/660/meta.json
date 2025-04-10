@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori",
+        "https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis",
+        "https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba",
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset",
+        "https://www.kaggle.com/datasets/mittalvasu95/the-bread-basket",
+        "https://www.kaggle.com/datasets/akashdeepkuila/bakery",
+        "https://www.kaggle.com/datasets/farjanakabirsamanta/analytics-case-studyecommerce",
+        "https://www.kaggle.com/datasets/bhavikjikadara/grocery-store-dataset",
+        "https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset",
+        "https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset",
+        "https://www.kaggle.com/datasets/apmonisha08/market-basket-analysis",
+        "https://www.kaggle.com/datasets/tanishqdublish/grocery-dataset",
+        "https://www.kaggle.com/datasets/irfanasrullah/groceries",
+        "https://www.kaggle.com/datasets/trysuharso/market-basket-analysis",
+        "https://www.kaggle.com/datasets/joebeachcapital/customer-segmentation",
+        "https://www.kaggle.com/datasets/crawford/weekly-sales-transactions",
+        "https://www.kaggle.com/datasets/yekahaaagayeham/online-retail-for-market-basket-analysis"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/sajidcse/market-basket-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/waalbannyantudre/banking-sector-of-the-waemu"
+    ],
+    "dataset_description": "This dataset pertains to the banking sector of the West African Economic and Monetary Union (UEMOA), encompassing the following countries: Benin, Burkina Faso, Côte d'Ivoire, Guinea-Bissau, Mali, Niger, Senegal, and Togo.",
+    "notebook_url": "https://www.kaggle.com/code/waalbannyantudre/statistical-data-visualization-with-seaborn",
+    "domain": "Economics",
+    "help_data_file_names": []
+}

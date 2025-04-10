@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [11],
+        "question": "How many entries are there in the dataset?",
+        "answer": "The dataset contains 3,500 entries.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [23, 37],
+        "question": "What is the average value of the 'Consumer Confidence Index'?",
+        "answer": "The average value of the 'Consumer Confidence Index' is approximately 92.4.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [46, 58, 72],
+        "question": "Does 'Business Confidence Index' Granger-cause 'Consumer Confidence Index'?",
+        "answer": "Yes, 'Business Confidence Index' Granger-causes 'Consumer Confidence Index' with a p-value of 0.013.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [85, 97, 103, 118],
+        "question": "What is the optimal lag length for testing causality between 'Leading Indicator' and 'Consumer Confidence Index'?",
+        "answer": "The optimal lag length is 3, determined using the lowest AIC value.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [129, 143],
+        "question": "Is there evidence that 'Consumer Confidence Index' Granger-causes 'Business Confidence Index'?",
+        "answer": "No, the p-value is 0.37, which is above the 0.05 threshold, indicating no significant causality.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [155, 168, 174, 189],
+        "question": "Which variable has the strongest Granger-causal effect on 'Consumer Confidence Index'?",
+        "answer": "'Leading Indicator' has the strongest causal effect with an F-statistic of 9.82 and a p-value of 0.002.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [42, 59, 71, 88],
+        "question": "How much variation in 'Consumer Confidence Index' is explained by 'Business Confidence Index'?",
+        "answer": "'Business Confidence Index' explains 24% of the variation in 'Consumer Confidence Index' (R² = 0.24).",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [94, 107, 121, 136],
+        "question": "Is there bidirectional Granger causality between 'Leading Indicator' and 'Consumer Confidence Index'?",
+        "answer": "Yes, bidirectional Granger causality exists with p-values < 0.05 in both directions.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [148, 161, 175, 193],
+        "question": "Does 'Stock Market Performance' Granger-cause changes in 'Consumer Confidence Index'?",
+        "answer": "Yes, a strong Granger causality is observed with a p-value of 0.006.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    },
+    {
+        "cell_ids": [186, 199],
+        "question": "What are the key insights from the Granger causality tests in this dataset?",
+        "answer": "The results indicate that 'Business Confidence Index' and 'Leading Indicator' significantly Granger-cause 'Consumer Confidence Index', while no significant causality was found in the reverse direction.",
+        "task": "Causality",
+        "skill": "Granger Causality"
+    }
+]

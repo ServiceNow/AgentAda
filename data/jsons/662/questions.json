@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [5],
+        "question": "What dataset was used for market basket analysis?",
+        "answer": "The dataset consists of customer transaction records from a bakery store.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [12, 18],
+        "question": "Which bakery item was most frequently purchased?",
+        "answer": "Coffee was the most frequently purchased item.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [24, 30, 35],
+        "question": "What are the most common item pairs in transactions?",
+        "answer": "Coffee and pastries were the most common item pairs.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [42, 50, 57],
+        "question": "Which association rule had the highest confidence score?",
+        "answer": "The rule {coffee} → {croissant} had the highest confidence.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [65, 73, 80],
+        "question": "Which items showed the highest lift value?",
+        "answer": "Bagels and cream cheese had the highest lift value, indicating strong association.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [87, 95, 102],
+        "question": "How do weekday and weekend purchases differ?",
+        "answer": "On weekdays, customers bought more coffee, while on weekends, pastries were more popular.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [110, 118, 125],
+        "question": "Which products should be bundled together for promotions?",
+        "answer": "Coffee and muffins should be bundled due to frequent co-purchases.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [133, 141, 148],
+        "question": "Which items had the strongest cross-selling opportunities?",
+        "answer": "Cookies and tea showed strong cross-selling potential based on transaction patterns.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [156, 163, 171],
+        "question": "How did discounting coffee affect sales of other products?",
+        "answer": "A discount on coffee led to an increase in pastry sales.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [179, 186, 193],
+        "question": "How can store layout be optimized based on market basket analysis?",
+        "answer": "Placing coffee and croissants closer together can improve cross-sales.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    }
+]

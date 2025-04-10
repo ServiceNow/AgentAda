@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/kashnitsky/mlcourse",
+        "https://www.kaggle.com/datasets/caesarmario/krom-bank-indonesia-stock-historical-price",
+        "https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022",
+        "https://www.kaggle.com/datasets/headsortails/notebooks-of-the-week-hidden-gems",
+        "https://www.kaggle.com/datasets/muhammadehsan02/formula-1-world-championship-history-1950-2024",
+        "https://www.kaggle.com/datasets/palanjali007/amazons-top-50-bestselling-novels-20092020",
+        "https://www.kaggle.com/datasets/sukanthen/dream11-ipl2020-live",
+        "https://www.kaggle.com/datasets/azminetoushikwasi/epl-21-22-matches-players",
+        "https://www.kaggle.com/datasets/themlphdstudent/novel-covid19-dataset",
+        "https://www.kaggle.com/datasets/icsdataset/hai-security-dataset",
+        "https://www.kaggle.com/datasets/harveenchadha/kaggle-survey-20172020-merged-data",
+        "https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league",
+        "https://www.kaggle.com/datasets/henriupton/wind-solar-electricity-production",
+        "https://www.kaggle.com/datasets/welcomehere/my-article-data",
+        "https://www.kaggle.com/datasets/MIMBCD-UI/uta4-sm-vs-mm-sheets-nameless",
+        "https://www.kaggle.com/datasets/sadaruwan/sri-lanka-dengue-cases-2010-2020",
+        "https://www.kaggle.com/datasets/muhammadehsan02/historical-olympic-medals-data-1994-2024",
+        "https://www.kaggle.com/datasets/MIMBCD-UI/uta4-sm-vs-mm-sheets",
+        "https://www.kaggle.com/datasets/daviddave7100/immigrations-and-emigrations-statistics",
+        "https://www.kaggle.com/datasets/shievam/kaggle-survey-from-2017-to-2022"
+    ],
+    "dataset_description": "kaggle_survey_2020_responses.csv: 39+ questions and 20,036 responses",
+    "notebook_url": "https://www.kaggle.com/code/subinium/kaggle-2020-visualization-analysis",
+    "domain": "Education",
+    "help_data_file_names": []
+}

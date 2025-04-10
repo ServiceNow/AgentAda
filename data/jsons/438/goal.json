@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and analyze anomalies in the time series data.",
+    "persona": "A data scientist specializing in anomaly detection, with 8 years of experience in time series analysis and machine learning, interested in developing robust models to detect irregular patterns in large datasets for predictive maintenance and fault detection in industrial settings."
+}

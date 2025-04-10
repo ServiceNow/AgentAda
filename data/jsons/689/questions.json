@@ -1,0 +1,51 @@
+[
+    {
+        "cell_ids": [14],
+        "question": "What dataset was used for the exploratory data analysis in this notebook?",
+        "answer": "The dataset contains customer transactions with attributes such as customer ID, purchase amount, product category, and purchase date.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [27, 35],
+        "question": "What is the total number of records in the dataset?",
+        "answer": "The dataset contains approximately 100,000 records.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [49, 61, 72],
+        "question": "Which product category has the highest number of purchases?",
+        "answer": "The 'Electronics' category has the highest number of purchases.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [84, 98, 109],
+        "question": "What is the average purchase amount in the dataset?",
+        "answer": "The average purchase amount is approximately $45 per transaction.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [121, 135, 147],
+        "question": "Which customer ID has made the highest number of purchases?",
+        "answer": "Customer ID 25467 has made the highest number of purchases in the dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [159, 173, 186],
+        "question": "What is the most common purchase amount range in the dataset?",
+        "answer": "The most common purchase amount range is between $20 and $50.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [194, 200],
+        "question": "What is the distribution of purchases across different months?",
+        "answer": "The highest number of purchases occurred in December, followed by November.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]

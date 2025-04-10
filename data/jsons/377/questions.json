@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many records and features are included in the aircraft engine predictive maintenance dataset?",
+        "answer": "The dataset contains 260,000 records and 22 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [12, 17],
+        "question": "What is the mean remaining useful life (RUL) of the aircraft engines before failure?",
+        "answer": "The mean RUL before failure is 295 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [21],
+        "question": "Which sensor readings are used as input features for the Gradient Boosting predictive maintenance model?",
+        "answer": "Key sensor readings include engine temperature, vibration, fuel flow, operational time, and air pressure.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [25, 29],
+        "question": "How does an increase in temperature impact the probability of aircraft engine failure?",
+        "answer": "Engines operating above 90°C show a 72% increase in failure probability.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [33, 38, 43],
+        "question": "What is the distribution of failure types in the dataset?",
+        "answer": "The dataset consists of 40% mechanical failures, 35% thermal failures, and 25% structural failures.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [47, 52, 56, 61],
+        "question": "What correlation exists between vibration levels and aircraft engine failures?",
+        "answer": "Engines with vibration levels exceeding 5.0 m/s² have a failure probability of 78%.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [65],
+        "question": "Which sensor feature has the highest correlation with engine failure?",
+        "answer": "The operational cycle count is the strongest predictor, followed by temperature and fuel flow.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [69, 74, 79],
+        "question": "What effect does hyperparameter tuning have on the Gradient Boosting model’s accuracy?",
+        "answer": "Hyperparameter tuning improved the model’s accuracy by 9%, optimizing the learning rate and max depth parameters.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [84, 89, 93, 98],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The Gradient Boosting model predicts failures with 95% accuracy up to 80 cycles in advance, identifying temperature and vibration as key indicators.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [103, 108, 114, 120],
+        "question": "How does the Gradient Boosting model compare to other predictive maintenance models?",
+        "answer": "The Gradient Boosting model outperforms Random Forest and decision trees, achieving a 13% higher recall in failure prediction.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    }
+]

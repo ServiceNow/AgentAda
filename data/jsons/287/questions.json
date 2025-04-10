@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1],
+        "question": "What does the dataset represent in the context of nuclear scientists' network analysis?",
+        "answer": "The dataset represents a network of nuclear scientists, where nodes are scientists and edges represent collaborations or connections between them.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [2, 3],
+        "question": "What are the main attributes of the edges in the dataset?",
+        "answer": "Edges have attributes such as Source, Target, and weight, indicating the frequency or strength of collaborations between scientists.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [4],
+        "question": "How many scientists and collaborations are represented in the network?",
+        "answer": "The network contains 300 scientists and 1,000 collaborations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6],
+        "question": "Which scientist has the highest degree in the network?",
+        "answer": "Scientist A has the highest degree, collaborating with 50 other scientists.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [7, 8],
+        "question": "Which scientist has the highest betweenness centrality score, and what is the value?",
+        "answer": "Scientist B has the highest betweenness centrality score of 0.090.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "What is the average clustering coefficient of the scientists' network?",
+        "answer": "The average clustering coefficient of the network is 0.40.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How many connected components are in the network?",
+        "answer": "The network has 4 connected components.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [13, 14, 15],
+        "question": "What is the distribution of edge weights in the dataset?",
+        "answer": "Most edges have a weight of 1, while some edges have weights as high as 10, representing stronger collaborations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16, 17],
+        "question": "Which pair of scientists has the strongest collaboration, and what does it represent?",
+        "answer": "Scientist C and Scientist D have the strongest collaboration, with a weight of 10, representing the most frequent collaboration.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    },
+    {
+        "cell_ids": [18, 19],
+        "question": "What is the diameter of the nuclear scientists' network?",
+        "answer": "The diameter of the network is 8, representing the longest shortest path between any two scientists.",
+        "task": "Network Analysis",
+        "skill": "Betweenness Centrality"
+    }
+]

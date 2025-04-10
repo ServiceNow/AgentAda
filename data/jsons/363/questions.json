@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "How many total operational cycles are recorded in the dataset?",
+        "answer": "The dataset contains 150,000 operational cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 12],
+        "question": "What is the average cycle count before engine failure?",
+        "answer": "The average cycle count before failure is 320 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "Which sensor readings are used as input features for predictive maintenance?",
+        "answer": "The input features include temperature, pressure, vibration, and fuel flow rate.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [18, 21],
+        "question": "How does vibration level affect the probability of failure?",
+        "answer": "Engines with vibration levels exceeding 4.2 m/s² show a 65% higher failure probability.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [24, 27, 30],
+        "question": "What is the failure distribution across different engine models?",
+        "answer": "Engine Model X has a failure rate of 50%, Model Y has 30%, and Model Z has 20%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [33, 36, 39, 42],
+        "question": "Which sensor reading is the strongest predictor of failure?",
+        "answer": "The operational cycle count is the strongest predictor, followed by vibration levels and fuel efficiency.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [45],
+        "question": "What impact does data normalization have on the LSTM model?",
+        "answer": "Data normalization improved the LSTM model’s accuracy by 7%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [49, 52, 55],
+        "question": "How accurate is the predictive maintenance model?",
+        "answer": "The LSTM model achieved 94% accuracy in predicting engine failures within 40 cycles.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    },
+    {
+        "cell_ids": [58, 61, 64, 68],
+        "question": "What key insights can be derived from the predictive maintenance model?",
+        "answer": "Temperature and vibration spikes are the leading indicators of failures, and early detection using LSTM can reduce maintenance costs by 20%.",
+        "task": "Predictive Maintenance",
+        "skill": "LSTM"
+    }
+]

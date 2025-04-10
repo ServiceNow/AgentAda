@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "What dataset was used for customer segmentation in this analysis?",
+        "answer": "The dataset contains customer demographic and transaction data, including purchase history and spending behavior.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [14, 22],
+        "question": "How many customer segments were identified using K-Means clustering?",
+        "answer": "Four customer segments were identified based on purchasing patterns and spending habits.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [29, 35, 41],
+        "question": "What key features were used for clustering customers?",
+        "answer": "The features used include total spend, frequency of purchases, recency, and average transaction value.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [47, 53, 60],
+        "question": "Which customer segment represents the most profitable group?",
+        "answer": "Segment 1 includes high-value customers who make frequent and high-spending transactions.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [68, 75, 81],
+        "question": "What insights were gained about customer behavior from segmentation?",
+        "answer": "Customers were grouped into high-value frequent buyers, occasional spenders, budget shoppers, and inactive customers.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [89, 96, 103],
+        "question": "Which segment has the highest churn risk?",
+        "answer": "Segment 4 consists of customers with low purchase frequency and long recency, indicating high churn risk.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [111, 118, 125],
+        "question": "How does seasonality affect different customer segments?",
+        "answer": "Seasonal promotions influence budget shoppers more than high-value customers, who maintain steady spending.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [133, 140, 147],
+        "question": "How can businesses use segmentation insights for targeted marketing?",
+        "answer": "Personalized marketing campaigns can be developed for each segment, such as discounts for budget shoppers and loyalty rewards for high-value customers.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [154, 162, 169],
+        "question": "Which customer segment responds best to promotional offers?",
+        "answer": "Segment 2, consisting of price-sensitive shoppers, exhibits the highest engagement with promotional discounts.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    },
+    {
+        "cell_ids": [177, 185, 193],
+        "question": "What strategy can be implemented to retain at-risk customers?",
+        "answer": "Targeted re-engagement strategies such as exclusive offers and personalized reminders can help retain inactive customers in segment 4.",
+        "task": "Market Analysis",
+        "skill": "K-Means Segmentation"
+    }
+]

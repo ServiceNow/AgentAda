@@ -1,0 +1,15 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset",
+        "https://www.kaggle.com/datasets/rumitpathare/indian-recipes",
+        "https://www.kaggle.com/datasets/noorsaeed/medicine-recommendation-system-dataset",
+        "https://www.kaggle.com/datasets/brandiellenkinard/healthy-smoothie-recipes-for-dietary-restrictions",
+        "https://www.kaggle.com/datasets/kishanpahadiya/indian-food-and-its-recipes-dataset-with-images",
+        "https://www.kaggle.com/datasets/alokchoudhary2005/ai-health-guard",
+        "https://www.kaggle.com/datasets/soliumanabdalgader/indian-rda-based-diet-recommendation-system-csv"
+    ],
+    "dataset_description": "The recipes dataset contains 522,517 recipes from 312 different categories. This dataset provides information about each recipe like cooking times, servings, ingredients, nutrition, instructions, and more. The reviews dataset contains 1,401,982 reviews from 271,907 different users. This dataset provides information about the author, rating, review text, and more.",
+    "notebook_url": "https://www.kaggle.com/code/hsggskbsbsjsjkk/diet-recommendation-system",
+    "domain": "Health",
+    "help_data_file_names": ["reviews.csv"]
+}

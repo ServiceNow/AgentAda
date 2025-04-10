@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/nartaa/features-head-starter-models",
+        "https://www.kaggle.com/datasets/nartaa/knowledge-distillation",
+        "https://www.kaggle.com/datasets/cdeotte/brain-spectrograms",
+        "https://www.kaggle.com/datasets/cdeotte/kaggle-kl-div",
+        "https://www.kaggle.com/datasets/minhsienweng/brain-eeg-spectrograms-data",
+        "https://www.kaggle.com/datasets/alejopaullier/hms-efficientnetb0-5-folds",
+        "https://www.kaggle.com/datasets/mukuldev007/harmful-brain-activity-contest-simplied-dataset",
+        "https://www.kaggle.com/datasets/vishalbakshi/hms-hbac-training-spectrogram-images",
+        "https://www.kaggle.com/datasets/alejopaullier/hms-wavenet",
+        "https://www.kaggle.com/datasets/frankling2021/hms-eeg-frequency-data",
+        "https://www.kaggle.com/datasets/cdeotte/eeg-spectrograms",
+        "https://www.kaggle.com/datasets/gabrielfreddi/torchvision-weights",
+        "https://www.kaggle.com/datasets/vikrambajaj/hms-harmful-brain-activity-classification-sample",
+        "https://www.kaggle.com/datasets/silk1100/hms-features",
+        "https://www.kaggle.com/datasets/yifeizhhh/hba-sampled-data",
+        "https://www.kaggle.com/datasets/movieminer/brain-eegs",
+        "https://www.kaggle.com/datasets/vishalbakshi/hms-hbac-train-spectrograms-2",
+        "https://www.kaggle.com/datasets/samvelkoch/hms-leaderboard",
+        "https://www.kaggle.com/datasets/tattaka/hms-weights-2",
+        "https://www.kaggle.com/datasets/anishpawar1122/hms-ivp-pre-processed"
+    ],
+    "dataset_description": "The goal of this competition is to detect and classify seizures and other types of harmful brain activity in electroencephalography (EEG) data. Even experts find this to be a challenging task and often disagree about the correct labels.",
+    "notebook_url": "https://www.kaggle.com/code/pawanthapaliya/hms-harmful-brain-activity-classification",
+    "domain": "Health",
+    "help_data_file_names": []
+}

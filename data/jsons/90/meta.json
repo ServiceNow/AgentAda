@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/neuromusic/avocado-prices"],
+    "dataset_description": "This data was downloaded from the Hass Avocado Board website in May of 2018 & compiled into a single CSV. Here's how the Hass Avocado Board describes the data on their website:",
+    "notebook_url": "https://www.kaggle.com/code/vishumudgal/prophet-forecasting/notebook",
+    "domain": "Business",
+    "help_data_file_names": []
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Build a recommendation system for anime using collaborative filtering.",
+    "persona": "A data scientist specialized in building recommendation systems for entertainment platforms. With 3 years of experience, they have a strong background in data preprocessing, data imputation, and collaborative filtering techniques. They are particularly interested in enhancing user experience by providing personalized content recommendations. Their goal is to utilize user interaction data to create an effective model that predicts user preferences in anime genres."
+}

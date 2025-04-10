@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many records and features are included in the CRM cohort analysis dataset?",
+        "answer": "The dataset contains 200,000 records and 23 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [13, 19],
+        "question": "What is the average customer retention rate over a 12-month period?",
+        "answer": "The average retention rate over 12 months is 53%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [24],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 85%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [29, 35],
+        "question": "How does customer retention vary across different RFM (Recency, Frequency, Monetary) segments?",
+        "answer": "Customers in the 'High Recency & High Frequency' segment retain at 68%, while the 'Low Recency & Low Frequency' group retains at 32%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [40, 47, 52],
+        "question": "What is the retention rate for customers who make frequent purchases versus occasional buyers?",
+        "answer": "Frequent buyers have a retention rate of 75%, while occasional buyers retain at 38%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [57, 63, 68, 73],
+        "question": "How do personalized offers impact cohort retention?",
+        "answer": "Customers receiving personalized offers retain at a rate of 20% higher than those who receive generic promotions.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [79],
+        "question": "Which customer category has the highest long-term retention?",
+        "answer": "Customers who subscribe to loyalty programs retain at 77%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [85, 91, 96],
+        "question": "How does cross-selling impact customer retention?",
+        "answer": "Customers who purchase from multiple product categories retain at 62%, compared to 42% for single-category buyers.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [102, 108, 113, 119],
+        "question": "What insights can be derived from the cohort retention analysis?",
+        "answer": "Retention rates drop sharply after month 3, with a 29% decrease, highlighting the need for increased engagement at this stage.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [126, 132, 138, 144],
+        "question": "How does customer retention compare year-over-year?",
+        "answer": "The retention rate improved by 11% in the last year due to better customer segmentation and engagement strategies.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    }
+]

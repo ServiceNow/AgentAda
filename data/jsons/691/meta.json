@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ayanzadeh93/color-classification",
+        "https://www.kaggle.com/datasets/harrywang/housing",
+        "https://www.kaggle.com/datasets/krantiswalke/bankfullcsv",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-records",
+        "https://www.kaggle.com/datasets/olgabelitskaya/child-and-adult-emotions",
+        "https://www.kaggle.com/datasets/thedevastator/open-orca-augmented-flan-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/mathematical-exercises-in-chinese-updated",
+        "https://www.kaggle.com/datasets/thedevastator/virtual-patient-model-assessment",
+        "https://www.kaggle.com/datasets/shahzadabbas/expression-in-the-wild-expw-dataset",
+        "https://www.kaggle.com/datasets/evilspirit05/mammalmosaic-a-diverse-classification-challenge",
+        "https://www.kaggle.com/datasets/thedevastator/age-prediction-for-individuals-using-multi-omic",
+        "https://www.kaggle.com/datasets/denzilg/hdb-flat-prices-19902021-march",
+        "https://www.kaggle.com/datasets/thedevastator/helpsteer-ai-alignment-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/friends-tv-show-dialog-sequences",
+        "https://www.kaggle.com/datasets/thedevastator/owl-behavioral-analysis-by-shad-reynolds",
+        "https://www.kaggle.com/datasets/thedevastator/qasper-nlp-questions-and-evidence",
+        "https://www.kaggle.com/datasets/thedevastator/nfl-player-performance-statistics",
+        "https://www.kaggle.com/datasets/goodship100/first-30-million-primes",
+        "https://www.kaggle.com/datasets/thedevastator/uncovering-insights-from-electronic-card-transac",
+        "https://www.kaggle.com/datasets/yanmingyannguo/exioml-global-sectoral-sustainability-dataset"
+    ],
+    "dataset_description": "This is a multivariate type of dataset which means providing or involving a variety of separate mathematical or statistical variables, multivariate numerical data analysis. It is composed of 14 attributes which are age, sex, chest pain type, resting blood pressure, serum cholesterol, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, oldpeak — ST depression induced by exercise relative to rest, the slope of the peak exercise ST segment, number of major vessels and Thalassemia. This database includes 76 attributes, but all published studies relate to the use of a subset of 14 of them. The Cleveland database is the only one used by ML researchers to date. One of the major tasks on this dataset is to predict based on the given attributes of a patient that whether that particular person has heart disease or not and other is the experimental task to diagnose and find out various insights from this dataset which could help in understanding the problem more.",
+    "notebook_url": "https://www.kaggle.com/code/muratmert/different-algorithms-and-basic-data-analysis",
+    "domain": "Health",
+    "help_data_file_names": []
+}

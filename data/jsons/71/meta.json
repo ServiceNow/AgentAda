@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/competitions/tabular-playground-series-mar-2022"],
+    "dataset_description": "In this competition, you'll forecast twelve-hours of traffic flow in a major U.S. metropolitan area. Time, space, and directional features give you the chance to model interactions across a network of roadways.",
+    "notebook_url": "https://www.kaggle.com/code/kellibelcher/time-series-forecasting-arima-ets-boosting/notebook",
+    "domain": "Transportation",
+    "help_data_file_names": ["train.csv"]
+}

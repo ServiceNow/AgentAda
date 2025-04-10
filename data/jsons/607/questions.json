@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [43],
+        "question": "What dataset was used for Knowledge BERT analysis?",
+        "answer": "The dataset consists of a COVID-19 knowledge graph containing biomedical research papers, entity relationships, and disease-related concepts.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [52, 60],
+        "question": "What preprocessing steps were performed before applying Knowledge BERT?",
+        "answer": "The dataset was preprocessed by extracting named entities, linking entities to medical ontologies, and constructing relationships between biomedical concepts.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [67],
+        "question": "Which two biomedical entities show the strongest association in the knowledge graph?",
+        "answer": "'COVID-19' and 'SARS-CoV-2 spike protein' show the strongest association in the knowledge graph.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [82, 90],
+        "question": "Which factor has the highest negative correlation with entity co-occurrence in scientific literature?",
+        "answer": "The specificity of biomedical terminology has the highest negative correlation with entity co-occurrence in scientific literature.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [102, 110, 117],
+        "question": "What is the knowledge graph completion accuracy when using BERT embeddings?",
+        "answer": "The knowledge graph completion accuracy using BERT embeddings is 88.7%.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [129, 137],
+        "question": "How does Knowledge BERT's performance on entity disambiguation compare to traditional rule-based systems?",
+        "answer": "Knowledge BERT improves entity disambiguation accuracy by 14% compared to traditional rule-based systems.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [149],
+        "question": "Which entity relationship type in the COVID-19 knowledge graph shows the weakest correlation with document frequency?",
+        "answer": "The correlation between 'Vaccine Development' and document frequency is the weakest.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [161, 169, 177, 185],
+        "question": "What does the Knowledge BERT analysis indicate about the relationship between research intensity and biomedical knowledge graph expansion?",
+        "answer": "The analysis indicates that research intensity on COVID-19 accelerates the expansion of the biomedical knowledge graph, enhancing entity linking and relationship discovery.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [196],
+        "question": "Which entity attribute has the least impact on knowledge graph-based document classification?",
+        "answer": "The journal impact factor has the least impact on knowledge graph-based document classification.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [197, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Knowledge BERT for biomedical research knowledge extraction?",
+        "answer": "Knowledge BERT enhances biomedical entity recognition, relation extraction, and document classification, demonstrating its potential in COVID-19 research applications.",
+        "task": "Knowledge Base",
+        "skill": "BERT"
+    }
+]

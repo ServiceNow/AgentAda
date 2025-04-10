@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets",
+        "https://www.kaggle.com/datasets/bhuviranga/customer-churn-data",
+        "https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset",
+        "https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset",
+        "https://www.kaggle.com/datasets/tejashvi14/tour-travels-customer-churn-prediction",
+        "https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset",
+        "https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis",
+        "https://www.kaggle.com/datasets/anandshaw2001/customer-churn-dataset",
+        "https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis",
+        "https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset",
+        "https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3",
+        "https://www.kaggle.com/datasets/sagnikpatra/edadata",
+        "https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights",
+        "https://www.kaggle.com/datasets/hassaneskikri/online-retail-customer-churn-dataset",
+        "https://www.kaggle.com/datasets/pentakrishnakishore/bank-customer-churn-data",
+        "https://www.kaggle.com/datasets/reyhanarighy/data-telco-customer-churn",
+        "https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners",
+        "https://www.kaggle.com/datasets/bravo03/bank-churn",
+        "https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113",
+        "https://www.kaggle.com/datasets/harshitstark/dataset"
+    ],
+    "dataset_description": "Each row represents a customer, each column contains customer\u2019s attributes described on the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features). The \u201cChurn\u201d column is our target.",
+    "notebook_url": "https://www.kaggle.com/code/komalsingh426/churn-predictive",
+    "domain": "Telecommunications",
+    "help_data_file_names": []
+}

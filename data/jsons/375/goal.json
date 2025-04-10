@@ -1,0 +1,4 @@
+{
+    "goal": "Predict and analyze machine failures using key operational and sensor data.",
+    "persona": "A mechanical engineer with 7 years of experience in industrial systems, focused on utilizing predictive maintenance techniques to enhance machine reliability and reduce downtime. This professional is adept in using advanced machine learning models like Random Forest for analyzing sensor data and operational metrics to predict failures and optimize maintenance schedules."
+}

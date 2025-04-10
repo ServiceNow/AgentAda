@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset was used to demonstrate missing value imputation in this analysis?",
+        "answer": "The dataset consists of various numerical and categorical features with missing values, used to illustrate different imputation techniques.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [21, 28],
+        "question": "How was the proportion of missing values in the dataset analyzed?",
+        "answer": "A missing value heatmap and percentage calculations for each feature were used to assess the extent of missing data.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [35, 41, 49],
+        "question": "Which features in the dataset had the highest proportion of missing values?",
+        "answer": "Some numerical features related to financial data and categorical features like occupation had the highest missing value proportions.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [55, 62, 71],
+        "question": "How does MICE imputation differ from single-value imputations like mean or median replacement?",
+        "answer": "MICE iteratively predicts missing values using regression models, preserving data relationships better than simple imputations.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [78, 85, 91],
+        "question": "What impact did MICE imputation have on the distribution of numerical features?",
+        "answer": "MICE maintained the original feature distributions more accurately compared to mean or median imputation, reducing bias.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [102, 109, 115],
+        "question": "How was the effectiveness of MICE imputation evaluated?",
+        "answer": "The imputed data was compared with the original dataset (before introducing missing values) using RMSE and correlation coefficients.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [123, 130, 138],
+        "question": "What challenges were encountered when applying MICE imputation to categorical variables?",
+        "answer": "Encoding categorical variables correctly and ensuring convergence during multiple iterations were the main challenges.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [145, 153, 160],
+        "question": "How does MICE compare to KNN imputation in terms of accuracy and computation?",
+        "answer": "MICE generally provides better accuracy in preserving feature relationships but is computationally more expensive than KNN imputation.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [167, 175, 183],
+        "question": "How can the imputed dataset be used for further analysis or machine learning?",
+        "answer": "The imputed dataset enables complete-case analysis, improves model performance, and allows for better feature engineering.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    },
+    {
+        "cell_ids": [190, 198],
+        "question": "What recommendations were provided for handling missing values in large datasets?",
+        "answer": "Using domain knowledge for feature selection, combining MICE with other imputation methods, and validating imputations with external data were recommended.",
+        "task": "Data Imputation",
+        "skill": "MICE"
+    }
+]

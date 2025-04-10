@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aashita/nyt-comments",
+        "https://www.kaggle.com/datasets/lorentzyeung/all-japanese-anime-titles-in-imdb",
+        "https://www.kaggle.com/datasets/akashnath29/lung-cancer-dataset",
+        "https://www.kaggle.com/datasets/oracledevrel/formulaaihackathon2022",
+        "https://www.kaggle.com/datasets/kanchana1990/nuclear-share-of-electricity-generation",
+        "https://www.kaggle.com/datasets/lukasrozado/lck-spring-2024-players-statistics",
+        "https://www.kaggle.com/datasets/yashdharme36/airfare-ml-predicting-flight-fares",
+        "https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast",
+        "https://www.kaggle.com/datasets/mhassansaboor/toyota-motors-stock-data-2980-2024",
+        "https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/us-travel-check-ins-analysis",
+        "https://www.kaggle.com/datasets/ambaliyagati/spotify-dataset-for-playing-around-with-sql",
+        "https://www.kaggle.com/datasets/thedevastator/county-cancer-death-rates",
+        "https://www.kaggle.com/datasets/manish9569/adidas-us-sales-data",
+        "https://www.kaggle.com/datasets/oscaryezfeijo/credit-card-fraud",
+        "https://www.kaggle.com/datasets/sunny9999/taiwan-104-career-jd",
+        "https://www.kaggle.com/datasets/julienjta/gun-statistics-around-the-world",
+        "https://www.kaggle.com/datasets/pinuto/energy-crisis-and-stock-price-dataset-2021-2024",
+        "https://www.kaggle.com/datasets/mridulnarula/anime-comprehensive-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/analyzing-hartford-real-estate-sales-over-730-da"
+    ],
+    "dataset_description": "Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.",
+    "notebook_url": "https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python",
+    "domain": "Economics",
+    "help_data_file_names": []
+}

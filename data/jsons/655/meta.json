@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset",
+        "https://www.kaggle.com/datasets/joebeachcapital/customer-segmentation",
+        "https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset",
+        "https://www.kaggle.com/datasets/zubairmustafa/shopping-mall-customer-segmentation-data",
+        "https://www.kaggle.com/datasets/javierspdatabase/global-online-orders",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/saurabhbadole/supermarket-data",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-records",
+        "https://www.kaggle.com/datasets/davedarshan/customer360insights",
+        "https://www.kaggle.com/datasets/hosammhmdali/mall-customers-dataset",
+        "https://www.kaggle.com/datasets/burayamail/brazilian-ecommerce-analyses-v2",
+        "https://www.kaggle.com/datasets/m0hand/mall-customer",
+        "https://www.kaggle.com/datasets/burayamail/brazilian-e-commerce",
+        "https://www.kaggle.com/datasets/muhammadmurtazasani/daraz-top-sales-products-dataset-2024",
+        "https://www.kaggle.com/datasets/adityasingh01676/ecommercecustomerdata",
+        "https://www.kaggle.com/datasets/thedevastator/customer-purchasing-patterns-with-market-basket",
+        "https://www.kaggle.com/datasets/ginikachiomenukor/market-basket-dataset",
+        "https://www.kaggle.com/datasets/mdromantalukdar/tata-online-retail-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/mgmarques/customer-segmentation-and-market-basket-analysis",
+    "domain": "Retail",
+    "help_data_file_names": []
+}

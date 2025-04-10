@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records and features are present in the machine failure prediction dataset?",
+        "answer": "The dataset contains 240,000 records and 21 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 16],
+        "question": "What is the average remaining useful life (RUL) before failure?",
+        "answer": "The average remaining useful life (RUL) before failure is 270 cycles.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [20],
+        "question": "Which sensor readings are used as input features for the Gradient Boosting predictive maintenance model?",
+        "answer": "Key features include temperature, pressure, vibration, fuel efficiency, and humidity.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [25, 29],
+        "question": "How does an increase in machine load affect failure probability?",
+        "answer": "Machines operating above 85% load capacity show a 75% increase in failure probability.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [34, 39, 44],
+        "question": "What is the distribution of failure types in the dataset?",
+        "answer": "The dataset includes 38% mechanical failures, 33% electrical failures, and 29% software failures.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [48, 53, 58, 63],
+        "question": "What correlation exists between temperature increase and machine failure?",
+        "answer": "Machines operating above 90°C have an 82% probability of failure.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [67],
+        "question": "Which sensor feature has the highest impact on predicting failures?",
+        "answer": "The operational cycle count is the most significant predictor, followed by temperature and vibration levels.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [72, 76, 81],
+        "question": "How does feature engineering improve the Gradient Boosting model’s performance?",
+        "answer": "Feature engineering improved accuracy by 7% by optimizing key predictive variables.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [86, 91, 95, 100],
+        "question": "What insights can be derived from the predictive maintenance model results?",
+        "answer": "The Gradient Boosting model predicts failures with 93% accuracy up to 80 cycles in advance, highlighting vibration and fuel efficiency as key indicators.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    },
+    {
+        "cell_ids": [105, 110, 115, 120],
+        "question": "How does the Gradient Boosting model compare to other predictive maintenance models?",
+        "answer": "The Gradient Boosting model outperforms Random Forest and logistic regression, achieving a 12% higher precision in failure detection.",
+        "task": "Predictive Maintenance",
+        "skill": "Gradient Boosting Machines"
+    }
+]

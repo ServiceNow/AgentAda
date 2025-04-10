@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "What is the general trend in the time series dataset over the observation period?",
+        "answer": "The dataset exhibits an increasing trend with noticeable seasonal fluctuations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the total cumulative value recorded in the dataset?",
+        "answer": "The total cumulative value in the dataset is approximately 120,000 units.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5],
+        "question": "What are the identified seasonal patterns in the time series data?",
+        "answer": "The dataset shows annual peaks during mid-year, followed by a gradual decline towards the end of the year.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [6],
+        "question": "What is the highest value recorded in the dataset, and when did it occur?",
+        "answer": "The highest recorded value is 8,500 units, observed in July 2022.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 8, 9],
+        "question": "What are the forecasted values for the next 6 months using the ARIMA model?",
+        "answer": "The forecasted values range between 6,000 and 7,000 units, following recent trends.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What does the dataset indicate about the rate of change in values over time?",
+        "answer": "The dataset indicates a steady growth rate of approximately 5% annually.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "How do the forecasted values align with the historical seasonal patterns in the dataset?",
+        "answer": "The forecasted values closely mirror the historical seasonal patterns, including mid-year peaks.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13],
+        "question": "Were there any gaps or missing values in the dataset, and how were they handled?",
+        "answer": "The dataset contained missing values for two months in 2021, which were imputed using forward filling.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [14, 15],
+        "question": "What insights can be drawn about the long-term trend and seasonality of the dataset?",
+        "answer": "The dataset shows consistent long-term growth with predictable seasonal fluctuations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "What impact do external events have on the observed trends and forecast in the dataset?",
+        "answer": "External events, such as policy changes or market shifts, contribute to occasional deviations from the trend.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

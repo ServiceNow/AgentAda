@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many records and features are included in the e-commerce customer behavior dataset?",
+        "answer": "The dataset contains 210,000 records and 19 features.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [13, 19],
+        "question": "What is the average customer retention rate over the first six months?",
+        "answer": "The average retention rate over six months is 49%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [23],
+        "question": "Which cohort month has the highest customer retention?",
+        "answer": "Month 1 has the highest retention rate at 81%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [28, 34],
+        "question": "How does customer retention vary across different product categories?",
+        "answer": "Customers purchasing electronics retain at 64%, while those buying fashion products retain at 39%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [39, 45, 50],
+        "question": "What is the retention rate for customers who use discount codes versus those who do not?",
+        "answer": "Customers using discount codes retain at 41%, while those who do not use discounts retain at 55%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [55, 61, 66, 71],
+        "question": "What impact do loyalty programs have on customer retention?",
+        "answer": "Customers enrolled in loyalty programs retain at a 20% higher rate compared to non-members.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [77],
+        "question": "Which customer segment has the highest long-term retention?",
+        "answer": "Customers making multiple purchases in the first three months retain at 72%.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [83, 88, 93],
+        "question": "What effect do personalized recommendations have on customer retention?",
+        "answer": "Customers receiving personalized recommendations retain at 59%, compared to 44% for those without personalization.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [99, 105, 111, 117],
+        "question": "What insights can be derived from the cohort retention analysis?",
+        "answer": "Retention rates drop significantly between months 2 and 3, with a 27% decline, indicating a need for stronger post-purchase engagement.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    },
+    {
+        "cell_ids": [124, 130, 137, 143],
+        "question": "How does customer retention compare year over year?",
+        "answer": "Customer retention improved by 10% compared to the previous year, mainly due to better user engagement strategies.",
+        "task": "Cohort Analysis",
+        "skill": "Retention Analysis"
+    }
+]

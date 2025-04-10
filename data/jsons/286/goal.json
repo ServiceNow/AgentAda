@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze the co-authorship network to understand author relationships and collaboration patterns.",
+    "persona": "A data scientist specializing in bibliometrics with over 7 years of experience, focusing on the analysis of academic networks to uncover collaboration trends and influential authors within the field. They have a strong interest in network theory and its application to research innovation and are skilled in utilizing various centrality measures to evaluate the significance of nodes in academic social networks."
+}

@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation",
+        "https://www.kaggle.com/datasets/harrimansaragih/clustering-data-id-gender-income-spending",
+        "https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering",
+        "https://www.kaggle.com/datasets/setseries/airbnb-listings-in-california",
+        "https://www.kaggle.com/datasets/spotlightkid/datasets-from-python-seaborn-library",
+        "https://www.kaggle.com/datasets/marthabnapitupulu/hierarchical-clustering-for-mall-customer"
+    ],
+    "dataset_description": "This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form. ",
+    "notebook_url": "https://www.kaggle.com/code/heeraldedhia/hierarchical-clustering-for-customer-data",
+    "domain": "Business",
+    "help_data_file_names": []
+}

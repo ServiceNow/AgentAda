@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/vikramamin/rfm-analysis-online-retail",
+        "https://www.kaggle.com/datasets/blewitts/ecommerce-rfm-analysis",
+        "https://www.kaggle.com/datasets/bahraleloom/customer-segmentation-in-online-retail",
+        "https://www.kaggle.com/datasets/gigihtirtakalimanda/uk-online-retails-data-transaction",
+        "https://www.kaggle.com/datasets/samantas2020/online-retail-xlsx",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/manishkr1754/online-retail-customer-segmentation-rfm-analysis",
+    "domain": "Business",
+    "help_data_file_names": []
+}

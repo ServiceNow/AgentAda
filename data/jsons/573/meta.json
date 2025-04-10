@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arjunbhasin2013/ccdata"
+    ],
+    "dataset_description": "This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.",
+    "notebook_url": "https://www.kaggle.com/code/sabanasimbutt/clustering-visualization-of-clusters-using-pca",
+    "domain": "Business",
+    "help_data_file_names": []
+}

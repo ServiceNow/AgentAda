@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many records and features are included in the dataset used for Shapley value attribution?",
+        "answer": "The dataset contains 92,000 records and 18 features.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [14, 22],
+        "question": "Which feature contributes the most to the model's prediction based on Shapley values?",
+        "answer": "The feature 'Customer Retention Score' has the highest contribution with a mean absolute Shapley value of 0.48.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [28],
+        "question": "What is the average Shapley value for the feature 'Marketing Budget'?",
+        "answer": "The average Shapley value for 'Marketing Budget' is 0.36.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [34, 41],
+        "question": "Which feature has the highest negative impact on model predictions?",
+        "answer": "The feature 'Customer Complaints' has the most negative influence with an average Shapley value of -0.42.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [47, 55, 63],
+        "question": "How do Shapley values differ across various customer acquisition methods?",
+        "answer": "Paid Search campaigns have the highest Shapley impact at 0.50, whereas Organic Traffic has a lower impact at 0.29.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [70, 78, 85, 92],
+        "question": "Which customer segment benefits the most from loyalty programs based on Shapley values?",
+        "answer": "Frequent buyers benefit the most from loyalty programs, with an average Shapley value increase of 0.41.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [98],
+        "question": "How does feature importance change when comparing different machine learning models?",
+        "answer": "In a Gradient Boosting model, 'Purchase Frequency' has the highest Shapley impact, whereas in a Logistic Regression model, 'Customer Tenure' is the dominant feature.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [105, 113, 121],
+        "question": "Which feature shows the most variability in Shapley values across different customer segments?",
+        "answer": "'Customer Service Interaction Time' exhibits the highest variation in its Shapley values, ranging from -0.15 to 0.54.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [128, 136, 144, 151],
+        "question": "What insights can be derived from Shapley value analysis regarding purchase conversion?",
+        "answer": "Customers with higher loyalty scores are more likely to convert, while customers with high return rates negatively impact overall conversion rates.",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    },
+    {
+        "cell_ids": [158, 166, 173, 180],
+        "question": "How do Shapley values differ for predicting customer churn across demographics?",
+        "answer": "Younger customers are more influenced by 'Personalized Offers' (+0.37), while older customers respond better to 'Long-Term Discounts' (+0.46).",
+        "task": "Attribution Modeling",
+        "skill": "Shapley Value Attribution"
+    }
+]

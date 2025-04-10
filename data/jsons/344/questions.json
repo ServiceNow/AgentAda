@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many data points are used in the interactive scatter plot?",
+        "answer": "The scatter plot uses 100 randomly generated data points.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [11, 14],
+        "question": "What are the key interactive elements included in the visualizations?",
+        "answer": "The visualizations include zooming, panning, hover tooltips, and interactive legends.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [17],
+        "question": "Which graph type provides the best interactivity in the dataset?",
+        "answer": "Scatter plots with hover effects and multiple trace overlays provide the best interactivity.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [20, 22],
+        "question": "What is the impact of using interactive legends in visualizations?",
+        "answer": "Interactive legends allow users to toggle data series on and off, improving data exploration.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [25, 28],
+        "question": "How does Plotly Dash improve interactive visualizations compared to static plots?",
+        "answer": "Plotly Dash enables real-time updates, linked charts, and dashboard integration, enhancing interactivity.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [30, 32, 35],
+        "question": "What insights can be derived from the interactive scatter plots?",
+        "answer": "Hover tooltips reveal data point details, and trends in clustered data points can be easily identified.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [38],
+        "question": "Which feature in Plotly allows users to explore overlapping data points effectively?",
+        "answer": "The 'hovermode' parameter in Plotly allows users to explore overlapping data points more effectively.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [40, 42, 45],
+        "question": "What is the advantage of using multiple traces in a single interactive visualization?",
+        "answer": "Multiple traces enable users to compare different datasets on the same plot, providing better comparative insights.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [48, 50, 52, 55],
+        "question": "What general insights can be obtained from interactive visualizations in Plotly Dash?",
+        "answer": "Interactive visualizations help users explore trends, filter data dynamically, and uncover patterns that static plots cannot reveal.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

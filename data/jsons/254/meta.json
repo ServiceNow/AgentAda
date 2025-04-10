@@ -1,0 +1,19 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/blewitts/ecommerce-rfm-analysis",
+        "https://www.kaggle.com/datasets/nibeditasahu/customer-sales-analysis",
+        "https://www.kaggle.com/datasets/xyzeys/urbanmart-transactions-dataset-2023-2024",
+        "https://www.kaggle.com/datasets/adityaxa/retail-rfm-analysis",
+        "https://www.kaggle.com/datasets/bahraleloom/customer-segmentation-in-online-retail",
+        "https://www.kaggle.com/datasets/gigihtirtakalimanda/uk-online-retails-data-transaction",
+        "https://www.kaggle.com/datasets/samantas2020/online-retail-xlsx",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": "Typically e-commerce datasets are proprietary and consequently hard to find among publicly available data. However, The UCI Machine Learning Repository has made this dataset containing actual transactions from 2010 and 2011. The dataset is maintained on their site, where it can be found by the title \"Online Retail\".",
+    "notebook_url": "https://www.kaggle.com/code/rajpraveenpradhan/customer-segmentation-using-rfm-analysis",
+    "domain": "Marketing",
+    "help_data_file_names": []
+}

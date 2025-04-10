@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "What is the total number of features in the dataset?",
+        "answer": "The dataset contains 30 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [14, 18],
+        "question": "What is the distribution of the target variable in the dataset?",
+        "answer": "The dataset is balanced, with each class having approximately the same number of samples.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [32],
+        "question": "What preprocessing steps were applied before performing Eigenvalue Decomposition?",
+        "answer": "The dataset was standardized, missing values were handled, and categorical variables were encoded.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [41, 45],
+        "question": "How many principal components were retained after Eigenvalue Decomposition?",
+        "answer": "The first 12 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [53, 56, 59],
+        "question": "What percentage of variance is explained by the first five principal components?",
+        "answer": "The first five principal components explain 80% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [68, 72],
+        "question": "How does Eigenvalue Decomposition contribute to feature selection?",
+        "answer": "It identifies the most significant features based on variance contribution, reducing redundancy and improving model efficiency.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [85],
+        "question": "What dataset was used for applying Eigenvalue Decomposition?",
+        "answer": "The dataset used contains medical diagnostic features for disease classification.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [98, 103, 107, 111],
+        "question": "What method was used to determine the optimal number of principal components?",
+        "answer": "The elbow method and explained variance analysis were used to select the optimal number of components.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [124],
+        "question": "How does Eigenvalue Decomposition impact model performance?",
+        "answer": "It improves model generalization by reducing noise and eliminating multicollinearity among features.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    },
+    {
+        "cell_ids": [139, 144, 149, 153],
+        "question": "What conclusions were drawn about the effectiveness of Eigenvalue Decomposition in feature extraction?",
+        "answer": "Eigenvalue Decomposition effectively captured important patterns in the data while minimizing dimensionality, leading to better model interpretability.",
+        "task": "Principal Component Analysis",
+        "skill": "Eigenvalue Decomposition"
+    }
+]

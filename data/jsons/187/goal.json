@@ -1,0 +1,4 @@
+{
+    "goal": "To analyze book data for building a recommendation system.",
+    "persona": "An experienced data scientist specializing in recommendation systems, with a strong background in collaborative filtering and matrix factorization techniques. They are focused on optimizing model performance for accurate book recommendations and leveraging precision and recall metrics to evaluate system efficiency. Their interests include exploring latent factors in user and item data to enhance recommendation accuracy and utilizing statistical methods to validate model improvements."
+}

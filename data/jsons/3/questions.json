@@ -1,0 +1,102 @@
+[
+    {
+        "cell_ids": [
+            1,
+            2
+        ],
+        "question": "What dataset is used for sentiment analysis in this notebook?",
+        "answer": "The dataset used is a collection of movie reviews from the IMDB dataset.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            3,
+            4
+        ],
+        "question": "What are the two labels in the dataset?",
+        "answer": "The two labels are 'positive' and 'negative'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            5,
+            6
+        ],
+        "question": "What preprocessing steps are applied to the dataset?",
+        "answer": "Preprocessing includes tokenization and padding of text sequences.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+            8,
+            9
+        ],
+        "question": "What tokenizer is used for preparing the input data?",
+        "answer": "The tokenizer used is the pre-trained BERT tokenizer.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            10,
+            11
+        ],
+        "question": "What is the architecture of the BERT model fine-tuned in this notebook?",
+        "answer": "The architecture includes a pre-trained BERT model with a classification head for binary sentiment analysis.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            12,
+            13
+        ],
+        "question": "What is the learning rate used for fine-tuning the BERT model?",
+        "answer": "The learning rate used for fine-tuning is 2e-5.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            14,
+            15
+        ],
+        "question": "What accuracy does the fine-tuned BERT model achieve on the validation dataset?",
+        "answer": "The fine-tuned BERT model achieves an accuracy of 92% on the validation dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            16,
+            17
+        ],
+        "question": "What is the batch size used during the training process?",
+        "answer": "The batch size used during training is 32.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            18,
+            19
+        ],
+        "question": "What evaluation metrics are used to assess the BERT model's performance?",
+        "answer": "The evaluation metrics include accuracy, precision, recall, and F1-score.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    },
+    {
+        "cell_ids": [
+            20,
+            21
+        ],
+        "question": "What is the purpose of fine-tuning the BERT model for sentiment analysis?",
+        "answer": "Fine-tuning adapts the pre-trained BERT model to classify sentiments specific to the IMDB dataset.",
+        "task": "Sentiment Analysis",
+        "skill": "BERT"
+    }
+]

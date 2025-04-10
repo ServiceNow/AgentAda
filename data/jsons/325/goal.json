@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and understand frequent itemsets and association rules in customer transaction data.",
+    "persona": "An experienced data analyst specializing in retail market basket analysis, proficient in association rule mining, and focused on uncovering shopping patterns and product affinities to enhance product bundling and inventory management strategies."
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [37],
+        "question": "What dataset was used for Kendall's Tau correlation analysis?",
+        "answer": "The dataset consists of medical test results, including patient biometrics, lab test values, and disease diagnosis outcomes.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [46, 54],
+        "question": "What preprocessing steps were performed before computing Kendall's Tau correlation?",
+        "answer": "The dataset was preprocessed by handling missing values, ranking categorical attributes such as disease severity levels, and normalizing numerical test results.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [61],
+        "question": "Which two medical test indicators show the strongest positive Kendall's Tau correlation?",
+        "answer": "Blood pressure and cholesterol levels show the strongest positive Kendall's Tau correlation.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [76, 84],
+        "question": "Which patient characteristic has the highest negative correlation with disease risk?",
+        "answer": "Regular physical activity has the highest negative correlation with disease risk.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [96, 104, 111],
+        "question": "What is the Kendall's Tau correlation coefficient between body mass index (BMI) and blood glucose levels?",
+        "answer": "The Kendall's Tau correlation coefficient between BMI and blood glucose levels is 0.72.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [123, 131],
+        "question": "How does Kendall's Tau correlation between age and hypertension risk compare to other health indicators?",
+        "answer": "The correlation between age and hypertension risk is stronger than the correlation between age and cholesterol levels.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [143],
+        "question": "Which lifestyle factor shows the weakest correlation with cardiovascular disease?",
+        "answer": "The number of daily water intake liters shows the weakest correlation with cardiovascular disease.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [155, 163, 171, 179],
+        "question": "What does the Kendall's Tau correlation coefficient indicate about the relationship between sleep duration and cognitive function?",
+        "answer": "The Kendall's Tau correlation coefficient indicates a moderate positive relationship, meaning longer sleep durations are associated with improved cognitive function.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [190],
+        "question": "Which diagnostic test result has the least correlation with diabetes onset?",
+        "answer": "Liver enzyme levels have the least correlation with diabetes onset.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    },
+    {
+        "cell_ids": [197, 198, 199, 200],
+        "question": "What conclusions were drawn about the effectiveness of Kendall's Tau correlation for analyzing medical test data?",
+        "answer": "Kendall's Tau correlation helped identify key relationships between patient health metrics and disease risks, highlighting the importance of lifestyle factors in medical predictions.",
+        "task": "Correlation Analysis",
+        "skill": "Kendall's Tau"
+    }
+]

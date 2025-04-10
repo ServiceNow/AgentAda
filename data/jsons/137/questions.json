@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of credit card transactions in the dataset?",
+      "answer": "The dataset contains 284,807 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 4],
+      "question": "What percentage of transactions in the dataset are identified as fraudulent?",
+      "answer": "The percentage of fraudulent transactions is 0.17%.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [5, 7, 9],
+      "question": "What is the average transaction amount in the dataset?",
+      "answer": "The average transaction amount is $88.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [10, 13, 15, 18],
+      "question": "What is the maximum transaction amount in the dataset?",
+      "answer": "The maximum transaction amount is $25,691.16.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [19],
+      "question": "What is the minimum transaction amount in the dataset?",
+      "answer": "The minimum transaction amount is $0.00.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [21, 24, 27],
+      "question": "Which features are identified as most important for detecting anomalies using Isolation Forest?",
+      "answer": "Key features include 'V12', 'V14', and 'Amount'.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [28, 30],
+      "question": "What is the accuracy of the Isolation Forest model in detecting fraud?",
+      "answer": "The Isolation Forest model achieves an accuracy of 99.2%.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [32, 35, 38],
+      "question": "What is the precision score of the Isolation Forest model?",
+      "answer": "The precision score of the model is 90.8%.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [39, 42],
+      "question": "What is the recall score of the Isolation Forest model?",
+      "answer": "The recall score of the model is 89.7%.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    },
+    {
+      "cell_ids": [43, 46, 48, 50],
+      "question": "How does the Isolation Forest model handle the imbalanced class distribution in fraud detection?",
+      "answer": "The model uses anomaly detection techniques that focus on patterns rather than class labels, reducing sensitivity to class imbalance.",
+      "task": "Fraud Detection",
+      "skill": "Isolation Forest"
+    }
+  ]
+  

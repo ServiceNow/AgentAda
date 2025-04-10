@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": "Using the [Online Retail dataset] from the UCI Machine Learning Repository for exploratory data analysis, Customer Segmentation, RFM Analysis, K-Means Clustering and Cohort Analysis.",
+    "notebook_url": "https://www.kaggle.com/code/ersany/customer-segmentation-with-rfm-analysis-cohort-an",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

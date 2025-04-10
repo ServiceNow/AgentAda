@@ -1,0 +1,73 @@
+[
+    {
+      "cell_ids": [1],
+      "question": "What is the total number of customers in the dataset, and how does this support segmentation analysis?",
+      "answer": "The dataset contains 8,000 customers, providing a comprehensive base for segmentation analysis.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [2, 3],
+      "question": "What is the distribution of recency values in the dataset, and how do they influence customer segmentation?",
+      "answer": "Recency values range from 1 to 365 days, with lower values indicating more recent transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [4, 5, 6],
+      "question": "What is the frequency distribution of transactions among customers, and what does it reveal about engagement levels?",
+      "answer": "Transaction frequencies range from 1 to 150, with most customers having fewer than 20 transactions.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [7, 8],
+      "question": "What is the range of monetary values in the dataset, and what trends are observed among high-value customers?",
+      "answer": "Monetary values range from $30 to $25,000, with high-value customers showing high frequency and low recency.",
+      "task": "Basic Data Analysis",
+      "skill": "Basic Data Analysis"
+    },
+    {
+      "cell_ids": [9, 10, 11, 12],
+      "question": "How many clusters were identified using K-means, and what are the defining characteristics of each cluster?",
+      "answer": "Four clusters were identified, characterized by variations in recency, frequency, and monetary values.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [13, 14],
+      "question": "What are the average RFM scores for each cluster, and how do they define different customer behaviors?",
+      "answer": "Clusters range from low-recency high-frequency customers to high-recency low-monetary customers.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [15, 16, 17],
+      "question": "Which RFM feature contributes most significantly to cluster formation, and how does this reflect customer behavior?",
+      "answer": "Frequency and monetary values are the most impactful features, with recency adding further differentiation.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [18, 19],
+      "question": "What is the optimal number of clusters, and how was this determined using the elbow method?",
+      "answer": "The optimal number of clusters was determined to be four using the elbow method.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [20, 21, 22],
+      "question": "What marketing strategies can be developed for each customer segment to improve engagement and profitability?",
+      "answer": "Strategies include personalized campaigns for high-frequency customers and re-engagement efforts for high-recency customers.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    },
+    {
+      "cell_ids": [23, 24, 25, 26],
+      "question": "How do the purchasing behaviors of low-frequency low-monetary customers differ from high-frequency high-monetary customers?",
+      "answer": "High-frequency high-monetary customers are consistent high spenders, while low-frequency low-monetary customers show minimal engagement and low value.",
+      "task": "Customer Segmentation",
+      "skill": "RFM Analysis"
+    }
+  ]
+  

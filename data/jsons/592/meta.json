@@ -1,0 +1,22 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aagghh/crypto-telegram-groups",
+        "https://www.kaggle.com/datasets/lbronchal/gold-and-silver-prices-dataset",
+        "https://www.kaggle.com/datasets/arslanr369/bitcoin-price-2014-2023",
+        "https://www.kaggle.com/datasets/vedaantsingh/comprehensive-cryptocurrency-market-data",
+        "https://www.kaggle.com/datasets/rudymizrahi/daily-crypto-currency-and-lunar-geocentric-data",
+        "https://www.kaggle.com/datasets/pinuto/binance-cryptocurrency-trading-data",
+        "https://www.kaggle.com/datasets/muniozdaniel0/dogecoin-top-daily-reddit-submission",
+        "https://www.kaggle.com/datasets/rafat97/cryptocurrency-price-prediction-by-ieee-ensi-sb",
+        "https://www.kaggle.com/datasets/shivd24coder/worldwide-citizens-and-crypto-guidelines",
+        "https://www.kaggle.com/datasets/aaroncbastian/crypto-news-headlines-and-market-prices-by-date"
+    ],
+    "dataset_description": "In the last few days, I have been hearing a lot of buzz around cryptocurrencies. Things like Block chain, Bitcoin, Bitcoin cash, Ethereum, Ripple etc are constantly coming in the news articles I read. So I wanted to understand more about it and this post helped me get started. Once the basics are done, the DS guy sleeping inside me (always lazy.!) woke up and started raising questions like",
+    "notebook_url": "https://www.kaggle.com/code/dbarkhorn/crypto-correlation",
+    "domain": "Finance",
+    "help_data_file_names": [
+        "bitcoin_cash_price.csv",
+        "bitcoin_price.csv",
+        "bitconnect_price.csv"
+    ]
+}

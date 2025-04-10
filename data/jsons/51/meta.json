@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing"],
+    "dataset_description": "The data is about an A/B test with a mobile game, Cookie Cats.",
+    "notebook_url": "https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing/notebook",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

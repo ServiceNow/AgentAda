@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [10, 11, 12],
+        "question": "What is the purpose of using Singular Value Decomposition (SVD) in the dataset?",
+        "answer": "SVD is used to reduce the dimensionality of the dataset while preserving as much variance as possible, improving computational efficiency and revealing underlying patterns in the data.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [15, 16, 17],
+        "question": "How many principal components were selected, and what percentage of variance do they explain?",
+        "answer": "The number of principal components selected was 50, and they explain approximately 85% of the total variance in the dataset.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [18, 19, 20],
+        "question": "What metric is used to evaluate the performance of the SVD-based model?",
+        "answer": "The Root Mean Squared Error (RMSE) is used to evaluate the performance of the SVD-based model.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [22, 23, 24],
+        "question": "How does the implicit feedback conversion improve the SVD model's performance?",
+        "answer": "Implicit feedback conversion helps by transforming sparse user-item interactions into explicit feedback, improving the model's ability to capture user preferences.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [25, 26, 27],
+        "question": "What is the role of singular values in the decomposition process?",
+        "answer": "Singular values indicate the importance of each principal component, where higher values represent stronger patterns in the dataset.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [30, 31, 32],
+        "question": "How is dimensionality reduction achieved using SVD?",
+        "answer": "Dimensionality reduction is achieved by retaining only the top k singular values and their corresponding singular vectors, discarding the lower-ranked components.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [35, 36, 37],
+        "question": "What dataset is used for applying SVD in this analysis?",
+        "answer": "The dataset used in the analysis is a user-item interaction matrix derived from an implicit feedback system.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [40, 41, 42],
+        "question": "What are the main challenges of applying SVD to recommendation systems?",
+        "answer": "Challenges include data sparsity, scalability for large datasets, and the selection of optimal hyperparameters for dimensionality reduction.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [45, 46, 47],
+        "question": "What preprocessing steps are performed before applying SVD?",
+        "answer": "Preprocessing steps include normalizing user-item interactions, handling missing values, and converting implicit feedback to explicit ratings.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    },
+    {
+        "cell_ids": [50, 51, 52],
+        "question": "What are the advantages of using SVD over traditional recommendation techniques?",
+        "answer": "SVD provides better latent representation of user preferences, handles sparsity effectively, and improves the interpretability of recommendations.",
+        "task": "Principal Component Analysis",
+        "skill": "SVD"
+    }
+]

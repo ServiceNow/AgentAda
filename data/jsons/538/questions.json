@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What is the total number of observations in the dataset?",
+        "answer": "The dataset contains 144 observations.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "What is the mean value of the number of passengers in the dataset?",
+        "answer": "The mean number of passengers is 280.30.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15],
+        "question": "What is the time range covered by the dataset?",
+        "answer": "The dataset covers the time range from January 1949 to December 1960.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [21, 22, 23],
+        "question": "What are the key components of a time series discussed in the notebook?",
+        "answer": "The key components are Level, Trend, Seasonality, and Noise.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [34],
+        "question": "What is the seasonal pattern observed in the dataset?",
+        "answer": "The dataset exhibits a yearly seasonal pattern in the number of passengers.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [48, 49],
+        "question": "How does wavelet decomposition help in analyzing time series data?",
+        "answer": "Wavelet decomposition separates the trend, seasonality, and noise components, making it easier to analyze patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [62, 63, 64, 65],
+        "question": "What visualization technique was used to display the decomposed time series components?",
+        "answer": "Matplotlib subplots were used to visualize the trend, seasonality, and residuals separately.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [79],
+        "question": "What does the decomposition reveal about the trend component?",
+        "answer": "The trend component shows a steady increase in the number of passengers over time.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [98, 99],
+        "question": "Why is it important to remove seasonality in time series analysis?",
+        "answer": "Removing seasonality helps in making better long-term forecasts by isolating the actual trend.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [115, 116, 117],
+        "question": "How can wavelet decomposition be used to detect anomalies in time series data?",
+        "answer": "By examining the residual component after decomposition, anomalies can be identified as deviations from expected patterns.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

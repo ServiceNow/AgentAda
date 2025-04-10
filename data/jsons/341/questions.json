@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [9],
+        "question": "How many cities are included in the dataset?",
+        "answer": "The dataset includes 347 cities.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [12, 15],
+        "question": "What are the key performance indicators (KPIs) used to analyze city responses?",
+        "answer": "Key performance indicators include Carbon Emissions, Air Quality Index, Water Consumption, and Public Transportation Usage.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [18],
+        "question": "Which city reported the highest carbon emissions?",
+        "answer": "New York City reported the highest carbon emissions, totaling 45.2 million metric tons.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [21, 23],
+        "question": "What is the average air quality index (AQI) across all cities?",
+        "answer": "The average AQI across all cities is 78.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [26, 28],
+        "question": "How does public transportation usage vary between different regions?",
+        "answer": "Cities in Europe report an average public transportation usage of 68%, whereas cities in North America average 42%.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [30, 33, 35],
+        "question": "What is the trend of carbon emissions over the past decade?",
+        "answer": "Carbon emissions have decreased by 15% on average over the past ten years due to sustainability efforts.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [38],
+        "question": "Which factor has the highest impact on air quality improvements?",
+        "answer": "Increased investment in green public transport has had the highest impact on air quality improvements.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [40, 42, 45],
+        "question": "What is the impact of water conservation programs on city water consumption?",
+        "answer": "Cities with aggressive water conservation programs reduced their consumption by 18% over five years.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [48, 50, 53, 56],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Cities with well-integrated public transportation systems report lower emissions and better air quality, while water conservation efforts are effective in drought-prone regions.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

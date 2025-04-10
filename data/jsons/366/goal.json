@@ -1,0 +1,4 @@
+{
+    "goal": "To predict aircraft component failures using sensor data and assess factors affecting failure probability.",
+    "persona": "An aerospace data analyst with expertise in predictive maintenance, focusing on enhancing the reliability and safety of aircraft operations through advanced data models. Passionate about leveraging machine learning techniques to predict and mitigate potential failures in aviation components by analyzing sensor data like temperature, vibration, and pressure."
+}

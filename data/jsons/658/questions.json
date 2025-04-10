@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [6],
+        "question": "What dataset was used for the market basket analysis?",
+        "answer": "The dataset consists of customer transactions with items purchased together.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [12, 18],
+        "question": "Which item pairs were most frequently purchased together?",
+        "answer": "Milk and bread, coffee and sugar, and chips and soda were frequently bought together.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [25, 32],
+        "question": "What were the top three items with the highest support values?",
+        "answer": "Bread, milk, and eggs had the highest support values in the transaction dataset.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [40, 47, 53],
+        "question": "Which association rules had the highest confidence scores?",
+        "answer": "The rule {diapers} → {beer} had the highest confidence, indicating strong association.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [60, 67, 74],
+        "question": "How did lift values vary among different product combinations?",
+        "answer": "Lift values were highest for complementary items like peanut butter and jelly.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [82, 89, 96],
+        "question": "What insights were gained from the frequent itemsets?",
+        "answer": "Customers tend to buy dairy and bakery products together, suggesting bundling opportunities.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [104, 112],
+        "question": "What seasonal trends were observed in the purchase behavior?",
+        "answer": "Ice cream and cold beverages had higher sales in summer, while soups increased in winter.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [120, 128, 136],
+        "question": "Which product categories had the strongest cross-selling opportunities?",
+        "answer": "Bakery and dairy products had the strongest cross-selling opportunities based on transactions.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [144, 152, 160],
+        "question": "What marketing strategies were recommended based on the analysis?",
+        "answer": "Targeted promotions and product bundling were suggested to increase sales volume.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    },
+    {
+        "cell_ids": [168, 176, 184],
+        "question": "How did discounts affect the likelihood of purchasing associated items?",
+        "answer": "Discounts on high-frequency items increased the likelihood of complementary product purchases.",
+        "task": "Market Analysis",
+        "skill": "Market Basket Analysis"
+    }
+]

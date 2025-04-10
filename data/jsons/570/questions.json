@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "What dataset was used for Kernel PCA analysis?",
+        "answer": "The dataset consists of customer transaction data from an online retail store.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [12, 16],
+        "question": "What preprocessing steps were performed before applying Kernel PCA?",
+        "answer": "The dataset was normalized, missing values were imputed, and categorical features were encoded into numerical values.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [25],
+        "question": "How many principal components were retained after applying Kernel PCA?",
+        "answer": "The first 10 principal components were retained.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [38, 42],
+        "question": "What percentage of variance is explained by the first three principal components after Kernel PCA?",
+        "answer": "The first three principal components explain 79% of the total variance.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [53, 58, 63],
+        "question": "Which customer attribute has the highest variance in the first principal component?",
+        "answer": "The purchase frequency has the highest variance in the first principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [71, 75],
+        "question": "How do the principal components correlate with customer spending habits?",
+        "answer": "The first principal component is strongly correlated with total spending and frequency of purchases.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [84],
+        "question": "How did Kernel PCA impact the classification of customer groups?",
+        "answer": "Kernel PCA improved the separation between high-value and low-value customers by capturing non-linear relationships.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [98, 104, 109, 113],
+        "question": "Which product category contributes the most to the second principal component?",
+        "answer": "The electronics category contributes the most to the second principal component.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [124],
+        "question": "What effect does Kernel PCA have on detecting outliers in the dataset?",
+        "answer": "Kernel PCA helps to separate outliers by mapping non-linear relationships into a more structured representation.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    },
+    {
+        "cell_ids": [135, 140, 147, 152],
+        "question": "What conclusions were drawn about the effectiveness of Kernel PCA for customer segmentation?",
+        "answer": "Kernel PCA effectively identified customer segments based on spending patterns and shopping frequency, improving data insights.",
+        "task": "Principal Component Analysis",
+        "skill": "Kernel PCA"
+    }
+]

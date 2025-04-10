@@ -1,0 +1,44 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "Which tables were used in the film recommendation engine dataset?",
+        "answer": "The dataset includes tables such as 'films', 'ratings', and 'users'.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [25, 38],
+        "question": "What indexing method was applied to optimize the search for user ratings?",
+        "answer": "B+ Tree indexing was applied to the 'ratings' table to speed up user rating lookups.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [49, 63],
+        "question": "How were film recommendations efficiently retrieved from multiple tables?",
+        "answer": "Film recommendations were retrieved using Hash Join algorithms between 'users' and 'ratings' tables.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    },
+    {
+        "cell_ids": [78, 92, 105],
+        "question": "What method was used to speed up filtering films by genre and average rating?",
+        "answer": "Bitmap Indexing was used to accelerate filtering of films based on genre and average rating.",
+        "task": "Multi-table Search",
+        "skill": "Bitmap Indexing"
+    },
+    {
+        "cell_ids": [121, 136, 149],
+        "question": "What is the impact of indexing on the query execution time for retrieving top-rated films?",
+        "answer": "Using B+ Tree indexing reduced query execution time by approximately 40% when retrieving top-rated films.",
+        "task": "Multi-table Search",
+        "skill": "B+ Tree Indexing"
+    },
+    {
+        "cell_ids": [162, 178, 193],
+        "question": "How does the Hash Join method compare to a nested loop join in terms of performance?",
+        "answer": "The Hash Join method significantly outperforms nested loop joins, reducing execution time from seconds to milliseconds.",
+        "task": "Multi-table Search",
+        "skill": "Hash Join Algorithms"
+    }
+]

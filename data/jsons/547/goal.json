@@ -1,0 +1,4 @@
+{
+    "goal": "Determine key features for improving model efficiency through dimensionality reduction.",
+    "persona": "A data scientist with 7 years of experience in healthcare analytics, specializing in dimensionality reduction and feature extraction techniques to enhance predictive model performance and interpretability. They focus on leveraging statistical methods like Eigenvalue Decomposition to streamline datasets while ensuring critical information is retained for disease classification."
+}

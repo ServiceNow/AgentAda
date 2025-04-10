@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/niszarkiah/flight-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/vkocaman/predictive-maintenance-with-xgboost",
+    "domain": "Transportation",
+    "help_data_file_names": []
+}

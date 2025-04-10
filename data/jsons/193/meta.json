@@ -1,0 +1,10 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/mind-news-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/movie-reviews-word2vec-embeddings-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/willkoehrsen/neural-network-embedding-recommendation-system",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

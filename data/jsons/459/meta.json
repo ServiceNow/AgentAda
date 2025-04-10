@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/cityofLA/crime-in-los-angeles"
+    ],
+    "dataset_description": "This dataset reflects incidents of crime in the City of Los Angeles dating back to 2010. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data. Some location fields with missing data are noted as (0°, 0°). Address fields are only provided to the nearest hundred block in order to maintain privacy.",
+    "notebook_url": "https://www.kaggle.com/code/ghannay/spatial-autocorrelation-of-la-crime",
+    "domain": "Geosocial",
+    "help_data_file_names": ["LAPD_Reporting_Districts.shp"]
+}

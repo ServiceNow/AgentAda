@@ -1,0 +1,14 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price",
+        "https://www.kaggle.com/datasets/azharsaleem/advanced-saudi-arabian-aramco-stocks-dataset",
+        "https://www.kaggle.com/datasets/jainshukal/netflix-stock-price",
+        "https://www.kaggle.com/datasets/chayanonc/multiple-stock-prices-by-industry-updated-daily",
+        "https://www.kaggle.com/datasets/electricalengineers/mrf-tyre-dataset-for-5-years",
+        "https://www.kaggle.com/datasets/dhruvil633/intraday-trading-information-for-ibm-stock"
+    ],
+    "dataset_description": "CAC40, previously known as Bourse de Paris, is a benchmark French stock market index. The index represents a capitalization-weighted measure of the 40 most significant stocks among the 100 largest market caps on the Euronext Paris. Its acronym stands for Cotation Assistée en Continu, which translates to continuous assisted trading, and is used as a benchmark index for funds investing in the French stock market.",
+    "notebook_url": "https://www.kaggle.com/code/bryanb/stock-prices-forecasting-with-lstm",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

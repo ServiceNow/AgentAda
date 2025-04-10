@@ -1,0 +1,4 @@
+{
+    "goal": "Identify purchase patterns and associations among items in supermarket transactions.",
+    "persona": "An experienced data analyst with a focus on retail and consumer analytics, specializing in market basket analysis to discover purchasing trends and optimize inventory and sales strategies. They are adept at utilizing data mining techniques and algorithms such as Apriori to reveal actionable insights into customer buying behaviors."
+}

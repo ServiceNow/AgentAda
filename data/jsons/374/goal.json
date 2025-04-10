@@ -1,0 +1,4 @@
+{
+    "goal": "Evaluate battery performance and predict failures using key sensor metrics.",
+    "persona": "An electrical engineer with 7 years of experience in battery technology and predictive maintenance. The analyst specializes in using machine learning models to predict equipment failures and optimize maintenance schedules. They are deeply interested in improving the reliability and longevity of energy storage systems through data-driven insights. Their primary goal is to identify critical failure points and enhance predictive accuracy for battery systems in industrial applications."
+}

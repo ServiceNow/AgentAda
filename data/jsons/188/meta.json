@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/travisdaws/spotify-tracks-acoustic-features",
+        "https://www.kaggle.com/datasets/osvaldopereira/sua-msica-recommendation-system",
+        "https://www.kaggle.com/datasets/yusufadeoye/spotify-songs-dataset"
+    ],
+    "dataset_description": "Music is ubiquitous in today's world-almost everyone enjoys listening to music. With the rise of streaming platforms, the amount of music available has substantially increased. While users may seemingly benefit from this plethora of available music, at the same time, it has increasingly made it harder for users to explore new music and find songs they like. Personalized access to music libraries and music recommender systems aim to help users discover and retrieve music they like and enjoy. This dataset is based on the subset of users in the #nowplaying dataset who publish their #nowplaying tweets via Spotify. In principle, the dataset holds users, their playlists and the tracks contained in these playlists.",
+    "notebook_url": "https://www.kaggle.com/code/pegahpooya/spotify-playlists-recommender-system",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rukenmissonnier/real-market-data",
+        "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori",
+        "https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis",
+        "https://www.kaggle.com/datasets/d4rklucif3r/market-basket-optimisation",
+        "https://www.kaggle.com/datasets/irfanasrullah/groceries",
+        "https://www.kaggle.com/datasets/acostasg/random-shopping-cart",
+        "https://www.kaggle.com/datasets/carlmcbrideellis/winkler-interval-score-metric",
+        "https://www.kaggle.com/datasets/madhab/jobposts",
+        "https://www.kaggle.com/datasets/newshuntkannada/dataset-for-apriori-and-fp-growth-algorithm",
+        "https://www.kaggle.com/datasets/yusukemikami/gpt3-condenced-prompt-style",
+        "https://www.kaggle.com/datasets/sujithmandala/grocery-store-transaction-data",
+        "https://www.kaggle.com/datasets/annecool37/museum-data",
+        "https://www.kaggle.com/datasets/mathurinache/ecthrnaacl2021",
+        "https://www.kaggle.com/datasets/balajikartheek/groceries-dataset",
+        "https://www.kaggle.com/datasets/oluseyilawal/coursetitle",
+        "https://www.kaggle.com/datasets/douglasdcm/computer-events-errors-defects-and-warnings",
+        "https://www.kaggle.com/datasets/samratsinghdikkhat/association-rules",
+        "https://www.kaggle.com/datasets/leomauro/brazilian-stock-market-data-warehouse",
+        "https://www.kaggle.com/datasets/vikramamin/basket-analysis-association-rule-mining"
+    ],
+    "dataset_description": "This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It provides insights into each song's attributes, popularity, and presence on various music platforms. The dataset includes information such as track name, artist(s) name, release date, Spotify playlists and charts, streaming statistics, Apple Music presence, Deezer presence, Shazam charts, and various audio features.",
+    "notebook_url": "https://www.kaggle.com/code/karltonkxb/association-rules",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

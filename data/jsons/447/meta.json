@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rmuralidharan/cvd-ml-model"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/tentotheminus9/what-causes-heart-disease-explaining-the-model",
+    "domain": "Health",
+    "help_data_file_names": []
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [54],
+        "question": "What dataset was used for PageRank analysis?",
+        "answer": "The dataset consists of a collection of news articles, where nodes represent sentences and edges indicate similarity between sentences based on textual features.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [63, 71],
+        "question": "What preprocessing steps were performed before applying PageRank?",
+        "answer": "The dataset was preprocessed by tokenizing sentences, computing cosine similarity scores, and constructing a sentence similarity graph.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [78],
+        "question": "Which two news categories show the strongest connectivity based on the PageRank algorithm?",
+        "answer": "The strongest connectivity is observed between 'Politics' and 'Economy'.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [93, 101],
+        "question": "Which feature has the highest negative correlation with a sentence’s PageRank score?",
+        "answer": "The number of stopwords in a sentence has the highest negative correlation with its PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [113, 121, 128],
+        "question": "What is the average PageRank score of the top 10 most informative sentences in the dataset?",
+        "answer": "The average PageRank score of the top 10 most informative sentences is 0.89.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [140, 148],
+        "question": "How does PageRank improve the selection of summary sentences compared to frequency-based methods?",
+        "answer": "PageRank improves sentence selection by analyzing contextual importance rather than word frequency, increasing summary coherence by 19%.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [160],
+        "question": "Which sentence attribute has the weakest impact on a sentence’s PageRank score?",
+        "answer": "The number of adjectives in a sentence has the weakest impact on its PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [172, 180, 188, 196],
+        "question": "What does the PageRank analysis indicate about the structure of the news article dataset?",
+        "answer": "The analysis reveals that key sentences form clusters of relevance, where highly connected sentences serve as representative summaries.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [207],
+        "question": "Which sentence attribute has the least influence on its PageRank score?",
+        "answer": "The length of the sentence has the least influence on its PageRank score.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    },
+    {
+        "cell_ids": [204, 205, 206],
+        "question": "What conclusions were drawn about the effectiveness of PageRank for extractive text summarization?",
+        "answer": "PageRank effectively identifies key sentences, improves summarization accuracy, and enhances readability by ranking sentence importance based on contextual relationships.",
+        "task": "Knowledge Base",
+        "skill": "PageRank"
+    }
+]

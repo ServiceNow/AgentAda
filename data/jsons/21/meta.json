@@ -1,0 +1,7 @@
+{
+    "dataset_urls": ["https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews"],
+    "dataset_description": "All data in one sqlite database. 568,454 food reviews Amazon users left up to October 2012",
+    "notebook_url": "https://www.kaggle.com/code/vikashrajluhaniwal/sentiment-analysis-using-lstm-in-keras-93-acc/notebook",
+    "domain": "Entertainment",
+    "help_data_file_names": []
+}

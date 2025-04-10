@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/zedataweaver/global-salary-data",
+        "https://www.kaggle.com/datasets/adampq/pokemon-tcg-all-cards-1999-2023",
+        "https://www.kaggle.com/datasets/kaggle/kaggle-survey-2018",
+        "https://www.kaggle.com/datasets/ashutoshdevpura/imdb-top-10000-movies-updated-august-2023",
+        "https://www.kaggle.com/datasets/akashnath29/lung-cancer-dataset",
+        "https://www.kaggle.com/datasets/jiscecseaiml/mental-health-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset",
+        "https://www.kaggle.com/datasets/kanchana1990/hydrogen-to-oganesson-periodic-insights",
+        "https://www.kaggle.com/datasets/sawdi777/tehran-air-quality-full-sat-traffic-metrology",
+        "https://www.kaggle.com/datasets/evilspirit05/comprehensive-goodreads-book-dataset",
+        "https://www.kaggle.com/datasets/rajkumardubey10/amazon-book-dataset30000-books-with-30-category",
+        "https://www.kaggle.com/datasets/thedevastator/conversations-on-coding-debugging-storytelling-s",
+        "https://www.kaggle.com/datasets/williamalabi/python-faq-dataset",
+        "https://www.kaggle.com/datasets/abhishektyagi001/vehicle-make-model-recognition-dataset-vmmrdb",
+        "https://www.kaggle.com/datasets/thedevastator/u-s-fdic-insured-banks-and-financial-institution",
+        "https://www.kaggle.com/datasets/thedevastator/vezora-tested-188k-python-alpaca-functional-pyth",
+        "https://www.kaggle.com/datasets/thedevastator/us-travel-check-ins-analysis",
+        "https://www.kaggle.com/datasets/saurabhj123/titanic-dataset",
+        "https://www.kaggle.com/datasets/thedevastator/open-university-learning-analytics-dataset",
+        "https://www.kaggle.com/datasets/propertlyio/polish-real-estate-masovian-land-parcels-2023"
+    ],
+    "dataset_description": "Predict sales prices and practice feature engineering, RFs, and gradient boosting",
+    "notebook_url": "https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python",
+    "domain": "Economics",
+    "help_data_file_names": ["train.csv"]
+}

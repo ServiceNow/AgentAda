@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company",
+        "https://www.kaggle.com/datasets/bilalozgur/online-retail-rfm-and-cohort-analysis-customer-seg",
+        "https://www.kaggle.com/datasets/bahraleloom/customer-segmentation-in-online-retail",
+        "https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-clientes-en-ecommerce",
+        "https://www.kaggle.com/datasets/rmuralidharan/capstone-project"
+    ],
+    "dataset_description": "Welcome! This is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. We also released a geolocation dataset that relates Brazilian zip codes to lat/lng coordinates. ",
+    "notebook_url": "https://www.kaggle.com/code/alpamys/rfm-cohort-analysis",
+    "domain": "Commerce",
+    "help_data_file_names": [
+        "olist_order_payments_dataset.csv"
+    ]
+}

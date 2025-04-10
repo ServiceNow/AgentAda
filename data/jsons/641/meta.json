@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/code/akashram/topic-modeling-intro-implementation"
+    ],
+    "dataset_description": "This dataset contains headlines, URLs, and categories for 422,937 news stories collected by a web aggregator between March 10th, 2014 and August 10th, 2014.",
+    "notebook_url": "https://www.kaggle.com/code/akashram/topic-modeling-intro-implementation",
+    "domain": "News",
+    "help_data_file_names": []
+}

@@ -1,0 +1,28 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data",
+        "https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation",
+        "https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset",
+        "https://www.kaggle.com/datasets/dev0914sharma/customer-clustering",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/ersany/online-retail-dataset",
+        "https://www.kaggle.com/datasets/rupindersinghrana/credit-card-customer-segmentation",
+        "https://www.kaggle.com/datasets/manidevesh/customer-sales-data",
+        "https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering",
+        "https://www.kaggle.com/datasets/pawan329/customer-segmentation-kmeans-clustering",
+        "https://www.kaggle.com/datasets/cs49adityarajsharma/credit-scoring-data",
+        "https://www.kaggle.com/datasets/adityaxa/retail-rfm-analysis",
+        "https://www.kaggle.com/datasets/setseries/airbnb-listings-in-california",
+        "https://www.kaggle.com/datasets/sidharth178/customer-segmentation",
+        "https://www.kaggle.com/datasets/ramisashararnidhi/mall-customer-csv",
+        "https://www.kaggle.com/datasets/muhammadglennyunifer/customer-segmentation-dataset",
+        "https://www.kaggle.com/datasets/yashgupta011/customer-segmentation-dataset",
+        "https://www.kaggle.com/datasets/smmmmmmmmmmmm/customer-churn-analysis-of-kiwibank",
+        "https://www.kaggle.com/datasets/naumananwar97/customers-data-for-market-segmentation",
+        "https://www.kaggle.com/datasets/aggle6666/wholesale-customer-segmentation-dataset"
+    ],
+    "dataset_description": "This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form. ",
+    "notebook_url": "https://www.kaggle.com/code/mohammedezzeldean/customer-segmentation-k-means-clustering",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

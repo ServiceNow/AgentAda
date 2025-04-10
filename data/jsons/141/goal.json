@@ -1,0 +1,4 @@
+{
+    "goal": "Identify patterns and outliers in the transaction data to detect fraudulent activities.",
+    "persona": "A data scientist with expertise in fraud detection and anomaly detection in financial transactions. They have over 7 years of experience working with time-series data and are proficient in machine learning techniques, particularly focusing on predicting and identifying fraudulent transactions to enhance security measures."
+}

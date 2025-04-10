@@ -1,0 +1,4 @@
+{
+    "goal": "Evaluate sentiment polarity in IMDB reviews and assess model performance.",
+    "persona": "A data scientist specializing in natural language processing with 3 years of experience. They are focused on leveraging machine learning models like BERT for sentiment analysis to improve predictive accuracy and understand language patterns. Their interests include model optimization, feature engineering, and interpreting the intricacies of human language in structured datasets."
+}

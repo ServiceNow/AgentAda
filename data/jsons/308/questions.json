@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [9, 10],
+        "question": "How many transactions are present in the dataset, and how many unique items are there?",
+        "answer": "The dataset contains 6 transactions and 9 unique items: 'r', 'z', 'h', 'j', 'p', 'y', 'x', 'q', 't'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [9],
+        "question": "What is the structure of a single transaction in the dataset?",
+        "answer": "Each transaction consists of a set of purchased items. For example, the first transaction contains 'r', 'z', 'h', 'j', and 'p', while the second transaction contains 'z', 'y', 'x', 'w', 'v', 'u', 't', and 's'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [6, 9, 10],
+        "question": "What is the minimum support threshold used for frequent itemset generation?",
+        "answer": "The minimum support threshold used for generating frequent itemsets is 2 occurrences per itemset.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [6, 7],
+        "question": "Which item appears most frequently in transactions?",
+        "answer": "'z' appears in the highest number of transactions.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [9, 10, 6],
+        "question": "Which items are most frequently purchased together?",
+        "answer": "The most frequently occurring item pairs are ('y', 'z') and ('t', 's').",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [6, 7, 9],
+        "question": "How many frequent itemsets were generated using the FP-Growth algorithm?",
+        "answer": "The FP-Growth algorithm generated 7 frequent itemsets based on the given minimum support threshold.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [6, 10],
+        "question": "What is the most frequent itemset of size 2 in the dataset?",
+        "answer": "The most frequent itemset of size 2 is ('y', 'z').",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [6, 7, 10],
+        "question": "What is the largest itemset discovered in the dataset?",
+        "answer": "The largest itemset found contains 4 items: ('y', 'z', 'x', 't').",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [6, 7, 9, 10],
+        "question": "Which item has the highest confidence when forming association rules?",
+        "answer": "'y' has the highest confidence when associated with 'z', with a confidence value of 0.75.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [9, 10],
+        "question": "Which item is most commonly associated with 'x' in the dataset?",
+        "answer": "'t' is most commonly associated with 'x', appearing together in 3 transactions.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    }
+]

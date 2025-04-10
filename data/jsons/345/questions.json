@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [7],
+        "question": "How many records are available in the dataset?",
+        "answer": "The dataset contains 2,540 records.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [9, 12],
+        "question": "What are the key interactive visualizations used in the analysis?",
+        "answer": "Key interactive visualizations include scatter plots, animated bar charts, and geo-spatial maps.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [14],
+        "question": "Which city has the highest air pollution index in the dataset?",
+        "answer": "Delhi has the highest air pollution index among all cities listed.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [17, 20],
+        "question": "What is the average air quality index (AQI) across all cities?",
+        "answer": "The average AQI across all cities in the dataset is 85.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [22, 25],
+        "question": "How does pollution vary by region in the dataset?",
+        "answer": "Northern regions tend to have higher AQI levels compared to coastal regions, with peaks during winter months.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [28, 31, 33],
+        "question": "What is the trend of air pollution levels over time?",
+        "answer": "Air pollution levels have shown a steady increase over the past five years, especially in urban centers.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [36],
+        "question": "Which factor has the highest impact on AQI fluctuations?",
+        "answer": "Industrial emissions and vehicular traffic have the highest impact on AQI fluctuations.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [39, 42, 45],
+        "question": "What is the relationship between population density and air quality index?",
+        "answer": "Higher population density correlates with higher AQI values, indicating increased pollution levels in densely populated areas.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [48, 51, 54, 57],
+        "question": "What insights can be derived from the interactive visualizations?",
+        "answer": "AQI levels are highest in cities with industrial hubs, while coastal areas generally have better air quality. Seasonal trends indicate worsening pollution during winter.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

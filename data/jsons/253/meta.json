@@ -1,0 +1,16 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "https://www.kaggle.com/datasets/krishnaraj30/mall-visiting-customer-data",
+        "https://www.kaggle.com/datasets/jillanisofttech/market-segmentation-in-insurance-unsupervised",
+        "https://www.kaggle.com/datasets/nelakurthisudheer/mall-customer-segmentation",
+        "https://www.kaggle.com/datasets/zohrenotash/customer-datasets",
+        "https://www.kaggle.com/datasets/alifarahmandfar/customer-segmentation",
+        "https://www.kaggle.com/datasets/robi5bd/customer-segmentation",
+        "https://www.kaggle.com/datasets/jangid6/mall-customerdata-with-nulls"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/serenkadikoylu/customer-segmentation-with-unsupervised-learning",
+    "domain": "Commerce",
+    "help_data_file_names": []
+}

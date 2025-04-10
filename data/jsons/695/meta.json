@@ -1,0 +1,11 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/thedevastator/global-covid-19-data",
+        "https://www.kaggle.com/datasets/patricklford/covid-19",
+        "https://www.kaggle.com/datasets/taihornsby/case-study-us-japan-covid-comparisons"
+    ],
+    "dataset_description": "The 2019-nCoV is a contagious coronavirus that hailed from Wuhan, China. This new strain of virus has striked fear in many countries as cities are quarantined and hospitals are overcrowded. This dataset will help us understand how 2019-nCoV is spread aroud the world. ",
+    "notebook_url": "https://www.kaggle.com/code/imdevskp/covid-19-analysis-visualization-comparisons",
+    "domain": "Health",
+    "help_data_file_names": []
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze headline text to extract meaningful topics and improve text classification using Latent Semantic Analysis.",
+    "persona": "A data scientist with expertise in natural language processing and text analytics, focused on leveraging machine learning techniques like Latent Semantic Analysis to uncover hidden topic structures and improve the semantic categorization of large text datasets. They have a strong interest in enhancing document clustering accuracy and achieving reliable text classification outcomes."
+}

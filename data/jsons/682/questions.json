@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [13],
+        "question": "What dataset was used for KNN imputation in this analysis?",
+        "answer": "The dataset included customer transaction records with missing values in demographic and purchase-related fields.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [27, 38],
+        "question": "How were missing values identified and visualized before KNN imputation?",
+        "answer": "A heatmap and percentage distribution analysis were used to detect and visualize missing data patterns.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [49, 57, 64],
+        "question": "Which features in the dataset contained the highest proportion of missing values?",
+        "answer": "The income and spending score attributes exhibited the highest percentage of missing values in the dataset.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [71, 82, 91],
+        "question": "How was the optimal k value determined for KNN imputation?",
+        "answer": "The k value was selected based on minimizing the mean imputation error while preserving data distribution characteristics.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [103, 111, 119],
+        "question": "What preprocessing steps were performed before applying KNN imputation?",
+        "answer": "Feature scaling and encoding of categorical variables were performed to ensure consistency in distance calculations.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [127, 134, 141],
+        "question": "How did KNN imputation affect the distribution of numerical features?",
+        "answer": "The imputation method preserved the original data distribution better than mean or median imputation techniques.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [153, 161, 169],
+        "question": "What was the computational impact of KNN imputation on large datasets?",
+        "answer": "The computational cost increased significantly with larger datasets due to the need for distance calculations across all observations.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [175, 183, 192],
+        "question": "How did the imputed dataset compare to the original dataset in terms of correlation between features?",
+        "answer": "The correlation structure remained largely intact, indicating that KNN imputation preserved the relationships between variables.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    },
+    {
+        "cell_ids": [199, 200],
+        "question": "What were the key advantages of using KNN imputation over simpler methods?",
+        "answer": "KNN imputation provided more accurate estimations by leveraging relationships between similar data points, unlike mean or median imputation.",
+        "task": "Data Imputation",
+        "skill": "KNN Imputation"
+    }
+]

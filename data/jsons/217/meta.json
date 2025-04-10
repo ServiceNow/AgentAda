@@ -1,0 +1,17 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn",
+        "https://www.kaggle.com/datasets/borhanitrash/telco-customer-churn",
+        "https://www.kaggle.com/datasets/mustafakeser4/bigquery-churn-dataset",
+        "https://www.kaggle.com/datasets/easonlai/sample-telco-customer-churn-dataset",
+        "https://www.kaggle.com/datasets/sibelius5/telco-customer-churn",
+        "https://www.kaggle.com/datasets/asharma237/telecom-customer-churn",
+        "https://www.kaggle.com/datasets/syedumeerr/telco-customer-churn",
+        "https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset",
+        "https://www.kaggle.com/datasets/debu1dutta/wa-fn-usec-telco-customer-churn-new-ad"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/rashid60/prediction-of-customer-churn-for-telco",
+    "domain": "Telecommunications",
+    "help_data_file_names": []
+}

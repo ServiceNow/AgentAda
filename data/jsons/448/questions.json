@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many samples and features are present in the dataset?",
+        "answer": "The dataset contains 50,000 samples and 30 features.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 10],
+        "question": "Are there any missing values in the dataset?",
+        "answer": "Yes, there are missing values in 'income', 'employment_status', and 'credit_score', with 'income' having the highest missing percentage at 2.1%.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [13, 17, 22],
+        "question": "Which feature has the highest importance according to SHAP values?",
+        "answer": "'Credit_score' is the most important feature with an average SHAP value of 0.642.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [27, 32, 38, 42],
+        "question": "What are the top five most important features based on SHAP values?",
+        "answer": "The top five features are 'credit_score' (0.642), 'income' (0.593), 'loan_amount' (0.552), 'employment_status' (0.498), and 'education_level' (0.467).",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [47, 53, 58],
+        "question": "What does a positive SHAP value indicate in the dataset?",
+        "answer": "A positive SHAP value indicates that the feature increases the likelihood of a higher credit risk.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [62, 67, 72, 78],
+        "question": "Which feature has the lowest importance score based on SHAP values?",
+        "answer": "The feature 'marital_status' has the lowest importance score with an average SHAP value of 0.031.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [81, 86, 91],
+        "question": "How do SHAP values compare to feature importances from a Random Forest model in this dataset?",
+        "answer": "SHAP values provide a detailed breakdown of feature contributions, whereas Random Forest importances rank 'credit_score' as most important but give lower rankings to 'education_level' compared to SHAP.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [96, 101, 106, 111],
+        "question": "Which features contribute the least to the model's predictions according to SHAP?",
+        "answer": "'Marital_status', 'residence_type', and 'dependents' have the least impact, with average SHAP values below 0.05.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [115, 120, 125, 130],
+        "question": "What is the effect of removing low-importance features identified by SHAP values?",
+        "answer": "Removing low-importance features reduces computation time without significantly affecting model accuracy, leading to a 0.2% decrease in performance.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    },
+    {
+        "cell_ids": [134, 139, 144, 149],
+        "question": "How do SHAP values explain the interactions between features?",
+        "answer": "SHAP interaction values reveal that 'credit_score' and 'loan_amount' have a strong combined effect, where high loan amounts increase risk more for individuals with lower credit scores.",
+        "task": "Feature Importance Ranking",
+        "skill": "SHAP Values"
+    }
+]

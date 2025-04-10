@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/g-research-crypto-forecasting"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/carlmcbrideellis/granger-causality-testing-for-1-day",
+    "domain": "Finance",
+    "help_data_file_names": ["train.csv"]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset"
+    ],
+    "dataset_description": "Online payment fraud big dataset for testing and practice purpose ",
+    "notebook_url": "https://www.kaggle.com/code/habibashera/online-payments-fraud-detection-with-dnn",
+    "domain": "Finance",
+    "help_data_file_names": []
+}

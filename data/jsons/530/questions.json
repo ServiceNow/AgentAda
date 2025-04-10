@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [18],
+        "question": "What is the total number of EEG signal recordings in the dataset?",
+        "answer": "The dataset contains a total of 5,120 EEG signal recordings.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [31, 47],
+        "question": "What is the average duration of EEG recordings in the dataset?",
+        "answer": "The average duration of EEG recordings in the dataset is 10 seconds per sample.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [65, 82, 97],
+        "question": "How does wavelet decomposition help in detecting abnormal brain activity in epilepsy patients?",
+        "answer": "Wavelet decomposition isolates different frequency components, making it easier to detect abnormal bursts associated with epileptic seizures.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [105, 118, 131, 145],
+        "question": "What insights can be obtained from the high-frequency components of decomposed EEG signals?",
+        "answer": "High-frequency components reveal sharp transient spikes that are characteristic of seizure onset.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [159, 173],
+        "question": "How does wavelet decomposition improve feature extraction for epilepsy prediction models?",
+        "answer": "By isolating frequency-specific patterns, wavelet decomposition enhances the detection of key seizure-related features for model training.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [52, 69, 88, 103],
+        "question": "What role do low-frequency components play in distinguishing normal and seizure EEG signals?",
+        "answer": "Low-frequency components capture long-term patterns, differentiating steady-state brain activity from seizure events.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [127, 142, 158],
+        "question": "How does multi-resolution wavelet decomposition aid in detecting pre-seizure patterns?",
+        "answer": "Multi-resolution decomposition highlights subtle changes in brain wave activity that may indicate an upcoming seizure.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [178, 191],
+        "question": "What happens when EEG signals are reconstructed using only high-frequency wavelet coefficients?",
+        "answer": "Reconstruction with high-frequency coefficients retains transient events but loses long-term brain wave trends.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [39, 56, 75],
+        "question": "How can wavelet-based energy coefficients be used to differentiate between different seizure types?",
+        "answer": "Energy coefficients measure signal intensity at different scales, allowing classification of seizure types based on energy distribution.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    },
+    {
+        "cell_ids": [91, 109, 125, 141],
+        "question": "How does wavelet decomposition contribute to early seizure detection in epilepsy monitoring?",
+        "answer": "Wavelet decomposition identifies sudden spectral changes in EEG signals, providing early warnings of seizure onset.",
+        "task": "Time Series Decomposition",
+        "skill": "Wavelet Decomposition"
+    }
+]

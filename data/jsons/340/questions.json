@@ -1,0 +1,65 @@
+[
+    {
+        "cell_ids": [8],
+        "question": "How many products are included in the dataset?",
+        "answer": "The dataset contains 2,765 unique products.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [11, 14],
+        "question": "What are the key performance indicators (KPIs) used to analyze best-selling products on Amazon?",
+        "answer": "Key performance indicators include Rank Trend, Review Count, Average Rating, and Price Fluctuation.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [16],
+        "question": "Which product category appears most frequently in the top 50 best sellers?",
+        "answer": "'Electronics' appears most frequently, accounting for 35% of the best-selling products.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [19, 22],
+        "question": "What is the average customer rating for best-selling products?",
+        "answer": "The average customer rating for best-selling products is 4.6 stars.",
+        "task": "Dashboard Summary",
+        "skill": "Statistical Aggregation"
+    },
+    {
+        "cell_ids": [24, 26],
+        "question": "How do product rankings fluctuate over time?",
+        "answer": "Product rankings fluctuate daily, with high competition causing frequent shifts in the top 10 positions.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [29, 31, 34],
+        "question": "What is the trend of review counts over time for best-selling products?",
+        "answer": "Review counts show a steady increase over time, with peak review activity around major sales events like Black Friday.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    },
+    {
+        "cell_ids": [37],
+        "question": "Which factor has the highest influence on product rankings?",
+        "answer": "The number of reviews and average rating have the highest influence on product rankings.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [40, 42, 45],
+        "question": "What is the impact of price changes on product rankings?",
+        "answer": "Products with frequent price drops see temporary boosts in rankings but often drop back when prices return to normal.",
+        "task": "Dashboard Summary",
+        "skill": "KPI Analysis"
+    },
+    {
+        "cell_ids": [48, 50, 52, 55],
+        "question": "What insights can be derived from the KPI visualizations?",
+        "answer": "Review spikes indicate successful marketing campaigns, while stable price trends correlate with consistent rankings in the best-seller list.",
+        "task": "Dashboard Summary",
+        "skill": "Interactive Visualization"
+    }
+]

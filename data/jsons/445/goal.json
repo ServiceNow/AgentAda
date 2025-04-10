@@ -1,0 +1,4 @@
+{
+    "goal": "Identify key characteristics that differentiate poisonous mushrooms from edible ones using feature importance ranking.",
+    "persona": "A data scientist with 7 years of experience in biological data analysis, focusing on improving environmental safety through data-driven insights. This expert is particularly interested in applying machine learning techniques to differentiate species based on morphological characteristics. They are skilled in using random forest models to assess feature importance and optimize classification accuracy while managing computational efficiency."
+}

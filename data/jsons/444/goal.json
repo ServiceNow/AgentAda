@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and rank the importance of features impacting the dataset outcomes for model optimization.",
+    "persona": "A data scientist with 8 years of experience in machine learning, focused on enhancing model efficiency and accuracy through feature importance ranking and dimensionality reduction. They are particularly interested in applying ensemble methods like random forests to improve predictive capabilities while minimizing computational costs."
+}

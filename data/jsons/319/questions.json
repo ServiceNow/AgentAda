@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [2],
+        "question": "How many applications are present in the dataset?",
+        "answer": "The dataset contains 145,678 applications.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 7],
+        "question": "What is the most common job title in the dataset?",
+        "answer": "'Software Engineer' is the most common job title in the dataset, appearing in 12,345 applications.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [8],
+        "question": "What is the minimum support threshold used for frequent itemset generation using ECLAT?",
+        "answer": "The minimum support threshold used for ECLAT is 0.005.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [9, 12],
+        "question": "How many frequent itemsets were generated using ECLAT?",
+        "answer": "The ECLAT algorithm generated 53 frequent itemsets.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [11],
+        "question": "Which job categories are most frequently associated together?",
+        "answer": "The most frequently associated job categories are ('Software Engineer', 'Data Scientist') and ('Financial Analyst', 'Accountant').",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "Which job title has the highest association with permanent residency approval?",
+        "answer": "'Software Engineer' has the highest association with approval, with a confidence value of 0.73.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [15],
+        "question": "Which factor has the highest impact on application approval based on support?",
+        "answer": "'Employer sponsorship' is the most impactful factor, with a support value of 0.58.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [16, 18, 20],
+        "question": "Which industries show the highest likelihood of hiring foreign workers?",
+        "answer": "The industries with the highest likelihood are 'Technology' and 'Finance', each with over 20,000 applications.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [22],
+        "question": "Which job title has the strongest association rule based on lift?",
+        "answer": "The strongest association rule based on lift is {'Data Scientist'} → {'H-1B Approval'} with a lift value of 2.91.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    },
+    {
+        "cell_ids": [24, 25, 27, 28],
+        "question": "What insights can be derived from the discovered association rules?",
+        "answer": "The rules indicate that 'Software Engineers' are more likely to receive approval, and that employer sponsorship increases the chance of approval.",
+        "task": "Association Rule Mining",
+        "skill": "ECLAT"
+    }
+]

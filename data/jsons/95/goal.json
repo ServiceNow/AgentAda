@@ -1,0 +1,4 @@
+{
+    "goal": "Identify and analyze trends, seasonality, and forecasted values in energy consumption data.",
+    "persona": "An energy data analyst with 8 years of experience in time series analysis and forecasting, aiming to understand patterns in energy usage and predict future consumption for resource management and planning. They are interested in leveraging machine learning models like Prophet to generate accurate forecasts and comprehend seasonal impacts."
+}

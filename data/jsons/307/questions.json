@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [7, 8],
+        "question": "How many transactions are present in the dataset, and how many unique items are there?",
+        "answer": "The dataset contains 5 transactions and 5 unique items: 'mbalvi', '5 kilo meters', 'remember to Walk', 'Divergent', and 'Hassan'.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [7, 9],
+        "question": "What is the structure of a single transaction in the dataset?",
+        "answer": "Each transaction consists of a list of purchased or selected items. The dataset is structured where each row represents a transaction, and columns indicate whether an item was included in that transaction.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What is the minimum support threshold used for frequent itemset generation?",
+        "answer": "A minimum support threshold of 0.02 (2%) was used for generating frequent itemsets.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "Which item is the most frequently occurring in transactions?",
+        "answer": "'mbalvi' appears most frequently across transactions.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "Which items are frequently purchased or selected together?",
+        "answer": "The most frequently occurring item pairs are ('mbalvi', 'remember to Walk') and ('Divergent', 'Hassan').",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "How many frequent itemsets were generated using the FP-Growth algorithm?",
+        "answer": "The FP-Growth algorithm generated 6 frequent itemsets based on the specified minimum support threshold.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What is the most frequent itemset of size 2 in the dataset?",
+        "answer": "The most frequent itemset of size 2 is ('mbalvi', 'remember to Walk').",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "What is the largest itemset discovered in the dataset?",
+        "answer": "The largest itemset found contains 3 items: ('mbalvi', '5 kilo meters', 'remember to Walk').",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "Which item has the highest confidence when forming association rules?",
+        "answer": "'remember to Walk' has the highest confidence when associated with 'mbalvi'.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    },
+    {
+        "cell_ids": [10],
+        "question": "Which item is most commonly associated with 'Divergent' in the dataset?",
+        "answer": "'Hassan' is most commonly associated with 'Divergent' in the dataset.",
+        "task": "Association Rule Mining",
+        "skill": "FP-Growth"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/competitions/sberbank-russian-housing-market"
+    ],
+    "dataset_description": "The training data is from August 2011 to June 2015, and the test set is from July 2015 to May 2016. The dataset also includes information about overall conditions in Russia's economy and finance sector, so you can focus on generating accurate price forecasts for individual properties, without needing to second-guess what the business cycle will do.",
+    "notebook_url": "https://www.kaggle.com/code/dan195/knn-imputation-gbregression-an-plsregression",
+    "domain": "Business",
+    "help_data_file_names": ["train.csv"]
+}

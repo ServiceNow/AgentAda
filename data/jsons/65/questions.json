@@ -1,0 +1,72 @@
+[
+    {
+        "cell_ids": [1, 2],
+        "question": "What is the distribution of sentiment scores over time in the dataset?",
+        "answer": "The dataset contains 1,000 time-series data points with sentiment scores ranging from 0.5 to 0.9.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [3, 4],
+        "question": "What is the trend observed in sentiment scores over the given time period?",
+        "answer": "The sentiment scores show an upward trend over the analyzed time period.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [5, 6, 7],
+        "question": "What is the rationale for using the ARIMA model in this forecasting task?",
+        "answer": "The ARIMA model is used to capture the autoregressive, integrated, and moving average components in the sentiment time series for accurate forecasting.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [8, 9, 10],
+        "question": "What are the optimal parameters (p, d, q) selected for the ARIMA model?",
+        "answer": "The optimal parameters for the ARIMA model are p=1, d=1, q=2.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [11, 12],
+        "question": "What is the forecasted sentiment score for the next time period?",
+        "answer": "The forecasted sentiment score for the next time period is 0.88.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [13, 14],
+        "question": "What is the Mean Absolute Error (MAE) of the ARIMA model's predictions?",
+        "answer": "The Mean Absolute Error (MAE) of the predictions is 0.03.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [15, 16, 17],
+        "question": "How does the ARIMA model handle seasonality in the sentiment time series?",
+        "answer": "Seasonality is accounted for by differencing the series at a lag corresponding to the seasonal frequency.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [18],
+        "question": "What is the confidence interval for the forecasted sentiment scores?",
+        "answer": "The confidence interval for the forecasted sentiment scores is [0.85, 0.91].",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [19, 20],
+        "question": "What patterns or anomalies were detected in the residuals of the ARIMA model?",
+        "answer": "The residuals show no significant patterns, indicating that the ARIMA model fits the data well.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    },
+    {
+        "cell_ids": [21, 22, 23],
+        "question": "How does the forecasted trend compare to the observed trend in sentiment scores?",
+        "answer": "The forecasted trend closely matches the observed upward trend in sentiment scores.",
+        "task": "Forecasting",
+        "skill": "ARIMA"
+    }
+]

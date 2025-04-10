@@ -1,0 +1,94 @@
+[
+    {
+        "cell_ids": [
+            2
+        ],
+        "question": "What are the two types of collaborative filtering mentioned in the notebook?",
+        "answer": "User-based and Item-based",
+        "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+            3,
+             4,
+              5
+        ],
+        "question": "How many columns are in the ratings_small.csv dataset?",
+        "answer": "4",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+  {
+        "cell_ids": [
+             3
+         ],
+        "question": "What is the rating scale used in the dataset?",
+        "answer": "rating_scale=(0,5)",
+       "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+   },
+     {
+        "cell_ids": [
+             4
+        ],
+         "question": "What is the mean rating in the ratings_small dataset?",
+         "answer": "3.501557",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+ {
+        "cell_ids": [
+            5
+        ],
+        "question": "What are the data types of the columns in the ratings_small.csv dataset?",
+        "answer": "float64(1), int64(3)",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+           7
+        ],
+         "question": "How many ratings are present in the ratings_small dataset?",
+        "answer": "100836",
+          "task": "Basic Data Analysis",
+         "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [
+          7
+         ],
+        "question": "How many unique users are in the ratings_small dataset?",
+       "answer": "610",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+        {
+      "cell_ids": [
+          7
+         ],
+       "question": "How many unique movies are in the ratings_small dataset?",
+       "answer": "9724",
+       "task": "Basic Data Analysis",
+       "skill": "Basic Data Analysis"
+   },
+   {
+        "cell_ids": [
+             10
+        ],
+        "question":"What is the combined RMSE and MAE score (i.e., (RMSE + MAE)/2) for the SVD algorithm?",
+         "answer":"0.7902140190746725",
+         "task": "Recommendation Systems",
+        "skill": "Collaborative Filtering"
+    },
+    {
+        "cell_ids": [
+           15
+        ],
+        "question": "What is the predicted rating for movie id 872 by user id 3 using the trained BaselineOnly model?",
+         "answer": "3.494574995057245",
+         "task": "Recommendation Systems",
+         "skill":"Collaborative Filtering"
+    }
+]

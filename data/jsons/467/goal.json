@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze spatial patterns using DBSCAN to understand geographic clustering and density variations.",
+    "persona": "A geospatial data analyst with expertise in geographic information systems and spatial algorithms, focusing on identifying and interpreting spatial patterns and clustering in large datasets to provide insights into population distribution and urban planning."
+}

@@ -1,0 +1,4 @@
+{
+    "goal": "Determine the sentiment expressed in tweets about airlines.",
+    "persona": "An experienced data scientist specializing in natural language processing and sentiment analysis. They have a background in computational linguistics and are interested in leveraging advanced models like BERT for extracting insights from social media data. Their primary goal is to accurately classify sentiments to help airlines improve customer satisfaction and target areas in need of service enhancement."
+}

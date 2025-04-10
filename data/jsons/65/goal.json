@@ -1,0 +1,4 @@
+{
+    "goal": "Analyze and forecast sentiment score trends over time.",
+    "persona": "A data scientist with expertise in time series analysis and forecasting, specializing in identifying and predicting trends in sentiment scores to aid strategic decision-making. They are highly skilled in using statistical models like ARIMA to capture complex patterns and ensure accurate forecasting, with a keen interest in improving prediction precision and understanding temporal dynamics in datasets."
+}

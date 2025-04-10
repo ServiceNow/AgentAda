@@ -1,0 +1,12 @@
+{
+    "dataset_urls": [
+        "https://www.kaggle.com/datasets/vamshikreddy/pm-dataset"
+    ],
+    "dataset_description": null,
+    "notebook_url": "https://www.kaggle.com/code/akulah/predictive-maintenance-using-lstm",
+    "domain": "Management",
+    "help_data_file_names": [
+        "train_label.csv",
+        "test_label_sample.csv"
+    ]
+}

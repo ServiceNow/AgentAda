@@ -1,0 +1,51 @@
+[
+    {
+        "cell_ids": [12],
+        "question": "What dataset was used for the basic data analysis in this notebook?",
+        "answer": "The dataset contained sales transaction records, including product details and customer demographics.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [24, 31],
+        "question": "What is the total number of missing values in the dataset?",
+        "answer": "The dataset had approximately 5% missing values across different features, primarily in the customer age and income columns.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [42, 53, 65],
+        "question": "What were the top three most frequently occurring categories in the dataset?",
+        "answer": "The top three categories were 'Electronics', 'Clothing', and 'Home Appliances', based on transaction counts.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [78, 85, 91],
+        "question": "What was the average revenue per transaction in the dataset?",
+        "answer": "The average revenue per transaction was approximately $50.32.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [103, 117, 125],
+        "question": "How did the number of transactions vary across different months?",
+        "answer": "The highest number of transactions occurred in December, while the lowest occurred in February.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [138, 146, 159],
+        "question": "What was the correlation between product price and quantity sold?",
+        "answer": "There was a weak negative correlation, indicating that lower-priced items were sold in larger quantities.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    },
+    {
+        "cell_ids": [171, 182, 195],
+        "question": "What was the most common payment method used by customers?",
+        "answer": "Credit card payments were the most commonly used method, followed by online payments.",
+        "task": "Basic Data Analysis",
+        "skill": "Basic Data Analysis"
+    }
+]
