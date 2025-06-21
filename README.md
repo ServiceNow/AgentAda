@@ -118,6 +118,19 @@ agent-ada/
 
 We welcome contributions! Please check our issues page or submit pull requests. -->
 
+##Citation
+```
+@misc{abaskohi2025agentadaskilladaptivedataanalytics,
+      title={AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery}, 
+      author={Amirhossein Abaskohi and Amrutha Varshini Ramesh and Shailesh Nanisetty and Chirag Goel and David Vazquez and Christopher Pal and Spandana Gella and Giuseppe Carenini and Issam H. Laradji},
+      year={2025},
+      eprint={2504.07421},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.07421}, 
+}
+```
+
 ## 🤝 Contributing
 Please check the outstanding issues and feel free to open a pull request.
 For more information, please check out the [contributing guidelines](CONTRIBUTING.md) and [issue template](ISSUE_TEMPLATE.md).
