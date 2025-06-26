@@ -59,14 +59,14 @@ Batch 7: https://drive.google.com/file/d/1HxXmeQWjGdglEjnKdvedtdLgpvDAYok0/view?
 - **Data Encoding Management**: Specialized encoding conversion tools
 - **Visualization Tools**: JSON-based visualization capabilities
 
-## Installation
+## 📥 Installation
 
 ```bash
 # Set Python Path in the project root
 export PYTHONPATH=$(pwd):$PYTHONPATH
 ```
 
-## Usage
+## 🚀 Usage
 
 ### 1. Insights Evaluation
 ```python
@@ -118,7 +118,8 @@ agent-ada/
 
 We welcome contributions! Please check our issues page or submit pull requests. -->
 
-##Citation
+## Citation
+
 ```
 @misc{abaskohi2025agentadaskilladaptivedataanalytics,
       title={AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery}, 
@@ -135,12 +136,9 @@ We welcome contributions! Please check our issues page or submit pull requests. 
 Please check the outstanding issues and feel free to open a pull request.
 For more information, please check out the [contributing guidelines](CONTRIBUTING.md) and [issue template](ISSUE_TEMPLATE.md).
 
-<!-- ## License
-
-This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details. -->
 
 ## Acknowledgments
 
 Developed and maintained by ServiceNow. Join our community to collaborate on advancing data analytics and evaluation frameworks. 
 
-### Thank you!
+### Thank you!!
